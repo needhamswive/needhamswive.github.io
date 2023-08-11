@@ -2,6 +2,8 @@
 layout: single
 ---
 
+These are the cutoff times from 2022. Once the cutoff times for 2023 have been released, this page will be updated.
+
 | Event                 | South Sectionals | Division II States |
 |-----------------------|:------------------:|:--------------------:|
 | One Meter Diving      | 180 (2 times)    | 190 (2 times)      |
