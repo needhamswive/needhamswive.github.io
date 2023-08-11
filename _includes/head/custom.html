@@ -1,0 +1,31 @@
+<meta name='robots' content='noindex, nofollow'>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<!-- Add `{:target='_blank' rel='noopener noreferrer'}` -->
+<script>
+  // https://stackoverflow.com/questions/807878/how-to-make-javascript-execute-after-page-load
+  window.addEventListener('load', () => {
+    // https://stackoverflow.com/questions/4425198/can-i-create-links-with-target-blank-in-markdown/8000171
+    let links = document.links;
+    for (const link of links) {
+      if (link.hostname != window.location.hostname) {
+        link.target = '_blank';
+        link.rel = 'noopener noreferrer';
+      }
+    }
+  });
+</script>
+
+<!-- Disable full width tables -->
+{% if page.fullwidthtable != false %}
+  <style>
+    /* full width table */
+    table {
+      width: 100%;
+    }
+
+    table th {
+      width: 1%;
+    }
+  </style>
+{% endif %}

@@ -1,0 +1,27 @@
+main:
+  - title: Times Search
+    url: times/individual-times-search
+
+sidebar:
+  - title: General Information
+    children:
+      - title: About the Team
+        url: general-information/about-the-team
+      - title: Championship Meets
+        url: general-information/championship-meets
+      - title: Team Records
+        url: general-information/team-records
+  - title: Current Season
+    children:
+      - title: Schedule
+        url: current-season/schedule
+      - title: Meet Results
+        url: current-season/meet-results
+      - title: Championship Cutoffs
+        url: current-season/championship-cutoffs
+      - title: Team Store
+        url: current-season/team-store
+  - title: Past Seasons
+    children:
+      - title: Meet Results
+        url: past-seasons/meet-results
