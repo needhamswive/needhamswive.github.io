@@ -1,4 +1,5 @@
 ---
+title: Championship Cutoffs
 layout: single
 ---
 

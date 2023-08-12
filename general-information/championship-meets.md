@@ -1,4 +1,5 @@
 ---
+title: Championship Meets
 layout: single
 ---
 

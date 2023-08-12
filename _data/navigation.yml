@@ -5,7 +5,7 @@ main:
 sidebar:
   - title: General Information
     children:
-      - title: About the Team
+      - title: About The Team
         url: general-information/about-the-team
       - title: Championship Meets
         url: general-information/championship-meets

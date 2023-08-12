@@ -1,4 +1,5 @@
 ---
+title: Meet Results
 layout: single
 classes: wide
 ---
