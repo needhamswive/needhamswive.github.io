@@ -3,4 +3,4 @@ title: Meet Results
 layout: single
 ---
 
-Meet results can be found [here]().
+Meet results will be posted after our first meet.

@@ -17,8 +17,6 @@ sidebar:
         url: current-season/meet-results
       - title: Championship Cutoffs
         url: current-season/championship-cutoffs
-      - title: Team Store
-        url: current-season/team-store
   - title: Past Seasons
     children:
       - title: Meet Results
