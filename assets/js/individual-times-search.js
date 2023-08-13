@@ -1,13 +1,34 @@
 const LAMBDA_BASE_URL = "https://qs9zaxu0jb.execute-api.us-east-2.amazonaws.com/default/needhamswivetimessearch";
 
+const EVENTS = [
+  "200 medley",
+  "50 free",
+  "50 free split",
+  "100 free",
+  "100 free split",
+  "200 free",
+  "500 free",
+  "50 back split",
+  "100 back",
+  "50 breast split",
+  "100 breast",
+  "50 fly split",
+  "100 fly",
+]
+const EVENT_ORDER = Object.fromEntries(Object.entries(Object.assign({}, EVENTS)).map(entry => entry.reverse()));
+
+console.log(EVENT_ORDER);
+
 let formElement;
 let formSelectElement;
 let errorMessageElement;
+let timesTableBodyElement;
 
 document.addEventListener("DOMContentLoaded", function(){
   formElement = document.getElementById("form");
   formSelectElement = document.getElementById("times-to-show");
   errorMessageElement = document.getElementById("error-message");
+  timesTableBodyElement = document.getElementById("times");
 });
 
 function search() {
@@ -22,6 +43,9 @@ function search() {
   const requestUrl = buildUrl(LAMBDA_BASE_URL, formData);
   fetch(requestUrl)
     .then(response => {
+      if (response.status === 200) {
+        response.json().then(results => handleSuccess(results));
+      }
       if (errorCategory(response.status) === 4) {
         response.text().then(text => handleError(text));
       }
@@ -72,6 +96,34 @@ function validateData(formData) {
   }
 
   return validationErrors;
+}
+
+function handleSuccess(results) {
+  errorMessageElement.style.display = "none";
+
+  results.sort((a, b) => buildSortKey(a) > buildSortKey(b));
+
+  let newTimesTableBodyElement = document.createElement('tbody');
+  results.forEach(result => {
+    const tableRowElement = document.createElement("tr");
+    tableRowElement.appendChild(createTableCellElement(result["Event"]));
+    tableRowElement.appendChild(createTableCellElement(result["Result"]));
+    tableRowElement.appendChild(createTableCellElement(result["Date"]));
+    tableRowElement.appendChild(createTableCellElement(result["Meet"]));
+    newTimesTableBodyElement.appendChild(tableRowElement);
+  });
+  timesTableBodyElement.parentNode.replaceChild(newTimesTableBodyElement, timesTableBodyElement);
+  timesTableBodyElement = newTimesTableBodyElement
+}
+
+function buildSortKey(result) {
+  return `${EVENT_ORDER[result["Event"]].padStart(2, "0")}${result["Result"]}`;
+}
+
+function createTableCellElement(value) {
+  const tableCellElement = document.createElement("td");
+  tableCellElement.innerHTML = value;
+  return tableCellElement;
 }
 
 function handleError(text) {
