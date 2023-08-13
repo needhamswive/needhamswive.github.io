@@ -9,6 +9,8 @@ sidebar:
         url: general-information/team-records
   - title: Current Season
     children:
+      - title: Registration
+        url: current-season/registration
       - title: Schedule
         url: current-season/schedule
       - title: Meet Results
