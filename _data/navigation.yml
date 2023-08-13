@@ -5,10 +5,6 @@ main:
 sidebar:
   - title: General Information
     children:
-      - title: About The Team
-        url: general-information/about-the-team
-      - title: Championship Meets
-        url: general-information/championship-meets
       - title: Team Records
         url: general-information/team-records
   - title: Current Season
