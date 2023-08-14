@@ -17,8 +17,6 @@ const EVENTS = [
 ]
 const EVENT_ORDER = Object.fromEntries(Object.entries(Object.assign({}, EVENTS)).map(entry => entry.reverse()));
 
-console.log(EVENT_ORDER);
-
 let formElement;
 let formSelectElement;
 let errorMessageElement;
