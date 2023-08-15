@@ -42,7 +42,7 @@ function search() {
   fetch(requestUrl)
     .then(response => {
       if (response.status === 200) {
-        response.json().then(results => handleSuccess(results));
+        response.json().then(results => handleSuccess(formData, results));
       }
       if (errorCategory(response.status) === 4) {
         response.text().then(text => handleError(text));
@@ -96,10 +96,22 @@ function validateData(formData) {
   return validationErrors;
 }
 
-function handleSuccess(results) {
+function handleSuccess(formData, results) {
   errorMessageElement.style.display = "none";
 
   results.sort((a, b) => buildSortKey(a) > buildSortKey(b));
+
+  if (formData.timesToShow === "fastest" && results.length >= 2) {
+    let fastestResultForEvent = results[0];
+    const fastestResults = [fastestResultForEvent];
+    for (const result of results.slice(1)) {
+      if (fastestResultForEvent["Event"] !== result["Event"]) {
+        fastestResults.push(result);
+        fastestResultForEvent = result;
+      }
+    }
+    results = fastestResults;
+  }
 
   let newTimesTableBodyElement = document.createElement('tbody');
   results.forEach(result => {
@@ -110,8 +122,9 @@ function handleSuccess(results) {
     tableRowElement.appendChild(createTableCellElement(result["Meet"]));
     newTimesTableBodyElement.appendChild(tableRowElement);
   });
+
   timesTableBodyElement.parentNode.replaceChild(newTimesTableBodyElement, timesTableBodyElement);
-  timesTableBodyElement = newTimesTableBodyElement
+  timesTableBodyElement = newTimesTableBodyElement;
 }
 
 function buildSortKey(result) {
