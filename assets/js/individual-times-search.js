@@ -115,7 +115,7 @@ function handleSuccess(results) {
 }
 
 function buildSortKey(result) {
-  return `${EVENT_ORDER[result["Event"]].padStart(2, "0")}${result["Result"]}`;
+  return `${EVENT_ORDER[result["Event"]].padStart(2, "0")}${result["Result"].padStart(7, "0")}`;
 }
 
 function createTableCellElement(value) {
