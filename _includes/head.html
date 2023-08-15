@@ -29,3 +29,9 @@
     <script src="{{ script | relative_url }}"></script>
   {% endfor %}
 {% endif %}
+
+{% if page.head_css %}
+  {% for script in page.head_css %}
+    <link rel="stylesheet" href="{{ script | relative_url }}">
+  {% endfor %}
+{% endif %}
