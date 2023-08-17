@@ -3,5 +3,5 @@ table th {
 }
 
 table td:nth-child(2), table td:nth-child(3) {
-  text-align: right;
+  text-align: center;
 }
