@@ -135,15 +135,15 @@ layout: single
 
 | Meet                                       | Place |
 |--------------------------------------------|-------|
-| Bay State Conference [^2019100] [^2019004] | 2     |
+| Bay State Conference [^2019100] [^2019104] | 2     |
 | South Sectionals [^2019101]                | 3     |
 | Division 1 States [^2019102] [^2019103]    | 2     |
 
 [^2019100]: <https://www.teamunify.com/rechfhfhslma/__doc__/2019%20complete%20results.pdf>
 [^2019101]: <http://miaa.ezstream.com/index.cfm?itemid=8442>
 [^2019102]: <http://miaa.ezstream.com/index.cfm?itemid=8438>
-[^2019103]: <https://twitter.com/NHSRockets/status/1196110849276030979?>
-[^2019104]: <https://twitter.com/NHSRockets/status/1191101284599914496?s=20>
+[^2019103]: <https://twitter.com/NHSRockets/status/1196110849276030979>
+[^2019104]: <https://twitter.com/NHSRockets/status/1191101284599914496>
 
 ### Psych Sheets and Results
 
@@ -234,7 +234,7 @@ layout: single
 [^2017100]: <http://miaa.ezstream.com/index.cfm?itemid=8063>
 [^2017101]: <http://miaa.ezstream.com/index.cfm?itemid=8082>
 [^2017102]: <https://twitter.com/NHSRockets/status/929405702052958210>
-[^2017103]: <https://twitter.com/NHSRockets/status/927285436900429834?s=20>
+[^2017103]: <https://twitter.com/NHSRockets/status/927285436900429834>
 
 ### Psych Sheets and Results
 
