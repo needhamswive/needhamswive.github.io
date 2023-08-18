@@ -9,18 +9,18 @@ layout: single
 
 ### Dual Meets
 
-| School                                 | Score    | Result |
-|----------------------------------------|----------|--------|
-| Acton-Boxborough [^2022000] [^2022005] | 97 – 89  | W      |
-| Braintree [^2022000] [^2022004]        | 97 – 80  | W      |
-| Brookline [^2022000]                   | 99 – 85  | W      |
-| Framingham [^2022000]                  | 95 – 85  | W      |
-| Milton [^2022000]                      | 100 – 84 | W      |
-| Natick [^2022000] [^2022003]           | 90 – 77  | W      |
-| Newton North [^2022000]                | 96 – 84  | W      |
-| Walpole [^2022000] [^2022001]          | 97 – 75  | W      |
-| Wellesley [^2022000] [^2022002]        | 82 – 99  | L      |
-| Weymouth [^2022000] [^2022006]         | 85 – 69  | W      |
+| School                                     | Score    | Result |
+|--------------------------------------------|----------|--------|
+| Acton-Boxborough [^2022000] [^2022005]     | 97 – 89  | W      |
+| Braintree [^2022000] [^2022004]            | 97 – 80  | W      |
+| Brookline [^2022000]                       | 99 – 85  | W      |
+| Framingham [^2022000]                      | 95 – 85  | W      |
+| Milton [^2022000]                          | 100 – 84 | W      |
+| Natick [^2022000] [^2022003]               | 90 – 77  | W      |
+| Newton North [^2022000]                    | 96 – 84  | W      |
+| Walpole [^2022000] [^2022001]              | 97 – 75  | W      |
+| Wellesley [^2022000] [^2022002] [^2022007] | 82 – 99  | L      |
+| Weymouth [^2022000] [^2022006]             | 85 – 69  | W      |
 
 [^2022000]: <https://www.arbiterlive.com/Teams/Schedule/5772348>
 [^2022001]: <https://twitter.com/NHSRockets/status/1583597018970173440>
@@ -29,6 +29,7 @@ layout: single
 [^2022004]: <https://twitter.com/NHSRockets/status/1577095570275155971>
 [^2022005]: <https://twitter.com/NHSRockets/status/1570582971912015874>
 [^2022006]: <https://twitter.com/NHSRockets/status/1569821133255462914>
+[^2022007]: <https://www.bostonglobe.com/2022/10/20/sports/naomi-boegholm-wins-four-events-lead-unbeaten-wellesley-girls-dual-swim-meet-vs-needham/>
 
 ### Championships
 
@@ -52,18 +53,18 @@ layout: single
 
 ### Dual Meets
 
-| School                                 | Score    | Result |
-|----------------------------------------|----------|--------|
-| Acton-Boxborough [^2021000] [^2021007] | 90 – 94  | L      |
-| Braintree [^2021000]                   | 98 – 82  | W      |
-| Brookline [^2021005]                   | 96 – 88  | W      |
-| Framingham [^2021006]                  | 94 – 78  | W      |
-| Milton [^2021000] [^2021004]           | 84 – 100 | L      |
-| Natick [^2021001]                      | 98 – 75  | W      |
-| Newton North [^2021002]                | 100 – 84 | W      |
-| Walpole [^2021000]                     | 99 – 75  | W      |
-| Wellesley [^2021000]                   | 85 – 101 | L      |
-| Weymouth [^2021003]                    | 102 – 73 | W      |
+| School                                            | Score    | Result |
+|---------------------------------------------------|----------|--------|
+| Acton-Boxborough [^2021000] [^2021007] [^2021008] | 90 – 94  | L      |
+| Braintree [^2021000]                              | 98 – 82  | W      |
+| Brookline [^2021005]                              | 96 – 88  | W      |
+| Framingham [^2021006]                             | 94 – 78  | W      |
+| Milton [^2021000] [^2021004]                      | 84 – 100 | L      |
+| Natick [^2021001]                                 | 98 – 75  | W      |
+| Newton North [^2021002]                           | 100 – 84 | W      |
+| Walpole [^2021000]                                | 99 – 75  | W      |
+| Wellesley [^2021000]                              | 85 – 101 | L      |
+| Weymouth [^2021003]                               | 102 – 73 | W      |
 
 [^2021000]: <https://www.arbiterlive.com/Teams/Schedule/5772348>
 [^2021001]: <https://twitter.com/NHSRockets/status/1437951905351839747>
@@ -73,17 +74,19 @@ layout: single
 [^2021005]: <https://twitter.com/NHSRockets/status/1442982097312944128>
 [^2021006]: <https://twitter.com/NHSRockets/status/1440472345475379201>
 [^2021007]: <https://twitter.com/NHSRockets/status/1441576395273080835>
+[^2021008]: <https://wickedlocal.com/story/the-beacon/2021/09/29/acton-boxborough-girls-swim-and-dive-defeats-talented-andover-needham-squads/5920982001/>
 
 ### Championships
 
 | Meet                                    | Place |
 |-----------------------------------------|-------|
-| South Sectionals [^2021100]             | 2     |
+| South Sectionals [^2021100] [^2021103]  | 2     |
 | Division 2 States [^2021101] [^2021102] | 2     |
 
 [^2021100]: <http://miaa.ezstream.com/index.cfm?itemid=8452>
 [^2021101]: <http://miaa.ezstream.com/index.cfm?itemid=8459>
 [^2021102]: <https://twitter.com/NHSRockets/status/1459355672802480132>
+[^2021103]: <https://www.bostonherald.com/2021/11/07/wellesley-captures-fourth-straight-south-sectional-swim-title/>
 
 ### Psych Sheets and Results
 
@@ -136,7 +139,7 @@ layout: single
 | Meet                                       | Place |
 |--------------------------------------------|-------|
 | Bay State Conference [^2019100] [^2019104] | 2     |
-| South Sectionals [^2019101]                | 3     |
+| South Sectionals [^2019101] [^2019105]     | 3     |
 | Division 1 States [^2019102] [^2019103]    | 2     |
 
 [^2019100]: <https://www.teamunify.com/rechfhfhslma/__doc__/2019%20complete%20results.pdf>
@@ -144,6 +147,7 @@ layout: single
 [^2019102]: <http://miaa.ezstream.com/index.cfm?itemid=8438>
 [^2019103]: <https://twitter.com/NHSRockets/status/1196110849276030979>
 [^2019104]: <https://twitter.com/NHSRockets/status/1191101284599914496>
+[^2019105]: <https://www.bostonherald.com/2019/11/10/wellesley-swimming-holds-off-needham-in-south-central-sectional/>
 
 ### Psych Sheets and Results
 
