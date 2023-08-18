@@ -110,13 +110,13 @@ layout: single
 | School                        | Score    | Result |
 |-------------------------------|----------|--------|
 | Acton-Boxborough [^2019000]   | 98 – 83  | W      |
-| Brookline [^2019005]         | 99 – 82  | W      |
+| Brookline [^2019005]          | 99 – 82  | W      |
 | Framingham [^2019008]         | 97 – 85  | W      |
-| Milton [^2019006]            | 96 – 87  | W      |
-| Natick [^2019004]            | 101 – 80 | W      |
+| Milton [^2019006]             | 96 – 87  | W      |
+| Natick [^2019004]             | 101 – 80 | W      |
 | Newton North [^2019002]       |          | W      |
 | Notre Dame Academy [^2019009] | 91 – 85  | W      |
-| Walpole [^2019007]           |          | W      |
+| Walpole [^2019007]            |          | W      |
 | Wellesley [^2019003]          | 87 – 99  | L      |
 | Weymouth [^2019001]           |          | W      |
 
