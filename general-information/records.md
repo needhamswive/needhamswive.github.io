@@ -23,18 +23,18 @@ layout: single
 
 ## Bay State Conference Records
 
-| Event                 | Year | Town      | Student(s)                                                                         | Result  |
-|-----------------------|:----:|-----------|------------------------------------------------------------------------------------|:-------:|
-| 200 Medley Relay      | 2021 | Wellesley | Elena  Dudkina <br> Iris Xia <br> Naomi Boegholm <br> Tracey Peng             | 1:48.78 |
-| 200 Freestyle         | 2022 | Wellesley | Naomi Boegholm                                                                     | 1:52.43 |
-| 200 Individual Medley | 2022 | Brookline | Hannah Lee                                                                     | 2:07.62 |
-| 50 Freestyle          | 1985 | Wellesley | Cynthia Kangos                                                                     |  23.89  |
-| 1 Meter – 6 Dives     | 2021 | Brookline | Alexa Kalish                                                                        | 371.25  |
-| 1 Meter – 11 Dives    | 2021 | Brookline | Alexa Kalish                                                                        | 506.70  |
-| 100 Butterfly         | 2022 | Wellesley | Naomi Boegholm                                                                       |  55.80  |
-| 100 Freestyle         | 2022 | Wellesley | Naomi Boegholm                                                                     |  51.20  |
-| 500 Freestyle         | 1985 | Needham   | Lynn Kelly                                                                         | 5:07.25 |
+| Event                 | Year | Town      | Student(s)                                                            | Result  |
+|-----------------------|:----:|-----------|-----------------------------------------------------------------------|:-------:|
+| 200 Medley Relay      | 2021 | Wellesley | Elena  Dudkina <br> Iris Xia <br> Naomi Boegholm <br> Tracey Peng     | 1:48.78 |
+| 200 Freestyle         | 2022 | Wellesley | Naomi Boegholm                                                        | 1:52.43 |
+| 200 Individual Medley | 2022 | Brookline | Hannah Lee                                                            | 2:07.62 |
+| 50 Freestyle          | 1985 | Wellesley | Cynthia Kangos                                                        |  23.89  |
+| 1 Meter – 6 Dives     | 2021 | Brookline | Alexa Kalish                                                          | 371.25  |
+| 1 Meter – 11 Dives    | 2021 | Brookline | Alexa Kalish                                                          | 506.70  |
+| 100 Butterfly         | 2022 | Wellesley | Naomi Boegholm                                                        |  55.80  |
+| 100 Freestyle         | 2022 | Wellesley | Naomi Boegholm                                                        |  51.20  |
+| 500 Freestyle         | 1985 | Needham   | Lynn Kelly                                                            | 5:07.25 |
 | 200 Freestyle Relay   | 2022 | Wellesley | Naomi Boegholm <br> Anna McGrew <br> Sofia Cozza <br> Katie Passanisi | 1:38.12 |
-| 100 Backstroke        | 2021 | Wellesley   | Naomi Boegholm                                                                      |  57.73  |
-| 100 Breaststroke      | 2022 | Brookline   | Hannah Lee                                                                      | 1:04.67 |
-| 400 Freestyle Relay   | 2022 | Wellesley | Sofia Cozza <br> Vaani Kapoor <br> Anna McGrew <br> Naomi Boegholm            | 3:35.82 |
+| 100 Backstroke        | 2021 | Wellesley | Naomi Boegholm                                                        |  57.73  |
+| 100 Breaststroke      | 2022 | Brookline | Hannah Lee                                                            | 1:04.67 |
+| 400 Freestyle Relay   | 2022 | Wellesley | Sofia Cozza <br> Vaani Kapoor <br> Anna McGrew <br> Naomi Boegholm    | 3:35.82 |
