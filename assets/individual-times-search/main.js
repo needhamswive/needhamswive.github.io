@@ -50,7 +50,8 @@ function search() {
       if (errorCategory(response.status) == 5) {
         handleError("Internal server error")
       }
-    });
+    })
+    .catch(_ => handleError("Network error, please try again later"));
 }
 
 function buildUrl(base, queryStringParameters) {
