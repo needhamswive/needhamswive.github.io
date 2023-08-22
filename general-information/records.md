@@ -21,6 +21,10 @@ layout: single
 | 100&nbsp;Breaststroke                  | 2001 | Meghan&nbsp;Healey                                                                                | 1:06.50 |
 | 400&nbsp;Freestyle&nbsp;Relay          | 2019 | Claire&nbsp;Tzouros <br> Katherine&nbsp;Dunbar <br> Emilia&nbsp;Higgins <br> Zoei&nbsp;Howard     | 3:37.87 |
 
+_Bay State Conference Champions_: '95 '96 '97 '98 '99 '00 '01 '02 '03
+
+_South Sectional Champions_: '01
+
 ## Bay State Conference Records
 
 | Event                                  | Year | Town      | Student(s)                                                                                | Result  |
