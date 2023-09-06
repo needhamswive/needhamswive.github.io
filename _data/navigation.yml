@@ -7,6 +7,8 @@ sidebar:
     children:
       - title: About The Team
         url: general-information/about-the-team
+      - title: Scoring A Meet
+        url: general-information/scoring-a-meet
       - title: Records
         url: general-information/records
   - title: Current Season
