@@ -64,7 +64,7 @@ layout: single
 | Newton North [^2021002]                           | 100 – 84 | W      |
 | Walpole [^2021000]                                | 99 – 75  | W      |
 | Wellesley [^2021000]                              | 85 – 101 | L      |
-| Weymouth [^2021003]                               | 102 – 73 | W      |
+| Weymouth [^2021009] [^2021003]                    | 102 – 73 | W      |
 
 [^2021000]: <https://www.arbiterlive.com/Teams/Schedule/5772348>
 [^2021001]: <https://twitter.com/NHSRockets/status/1437951905351839747>
@@ -75,6 +75,7 @@ layout: single
 [^2021006]: <https://twitter.com/NHSRockets/status/1440472345475379201>
 [^2021007]: <https://twitter.com/NHSRockets/status/1441576395273080835>
 [^2021008]: <https://wickedlocal.com/story/the-beacon/2021/09/29/acton-boxborough-girls-swim-and-dive-defeats-talented-andover-needham-squads/5920982001/>
+[^2021009]: <https://docs.google.com/document/d/194bbNcRkqWBbBqp_U781FgpFfT7KP1Z2Y76frgQv_2k>
 
 ### Championships
 
@@ -115,18 +116,19 @@ layout: single
 
 ### Dual Meets
 
-| School                        | Score    | Result |
-|-------------------------------|----------|--------|
-| Acton-Boxborough [^2019000]   | 98 – 83  | W      |
-| Brookline [^2019005]          | 99 – 82  | W      |
-| Framingham [^2019008]         | 97 – 85  | W      |
-| Milton [^2019006]             | 96 – 87  | W      |
-| Natick [^2019004]             | 101 – 80 | W      |
-| Newton North [^2019002]       |          | W      |
-| Notre Dame Academy [^2019009] | 91 – 85  | W      |
-| Walpole [^2019007]            |          | W      |
-| Wellesley [^2019003]          | 87 – 99  | L      |
-| Weymouth [^2019001]           |          | W      |
+| School                           | Score    | Result |
+|----------------------------------|----------|--------|
+| Acton-Boxborough [^2019000]      | 98 – 83  | W      |
+| Braintree [^2019011]             | 97 – 81  | W      |
+| Brookline [^2019005]             | 99 – 82  | W      |
+| Framingham [^2019010] [^2019008] | 97 – 84  | W      |
+| Milton [^2019006]                | 96 – 87  | W      |
+| Natick [^2019004]                | 101 – 80 | W      |
+| Newton North [^2019002]          |          | W      |
+| Notre Dame Academy [^2019009]    | 91 – 85  | W      |
+| Walpole [^2019011] [^2019007]    |          | W      |
+| Wellesley [^2019003]             | 87 – 99  | L      |
+| Weymouth [^2019001]              |          | W      |
 
 [^2019000]: <https://twitter.com/NHSRockets/status/1173767471217725440>
 [^2019001]: <https://twitter.com/NHSRockets/status/1174135900382605312>
@@ -138,6 +140,8 @@ layout: single
 [^2019007]: <https://twitter.com/NHSRockets/status/1176639524790767616>
 [^2019008]: <https://twitter.com/NHSRockets/status/1172675499304394753>
 [^2019009]: <https://twitter.com/NHSRockets/status/1169782626208686080>
+[^2019010]: <https://docs.google.com/document/d/1XvBrwQE2yVKDS6qkCUKdLD6kP0BSaZD2_05lfF6rsGc>
+[^2019011]: <https://docs.google.com/document/d/1blo_wwstpSgiI4wu9aFHJDPr-fPiUnWu05c9y0w7jOM>
 
 ### Championships
 
@@ -173,16 +177,18 @@ layout: single
 
 ### Dual Meets
 
-| School                      | Score       | Result |
-|-----------------------------|-------------|--------|
-| Acton-Boxborough [^2018002] | 86 – 100    | L      |
-| Framingham [^2018007]       | 98 – 88     | W      |
-| Milton [^2018001]           | 95 – 86     | W      |
-| Natick [^2018003]           | 98 – 83     | W      |
-| Newton North [^2018005]     | 102 – 84    | W      |
-| Walpole [^2018004]          | 100 – 74    | W      |
-| Wellesley [^2018000]        | 86.5 – 97.5 | L      |
-| Weymouth [^2018006]         | 105 – 73    | W      |
+| School                                 | Score       | Result |
+|----------------------------------------|-------------|--------|
+| Acton-Boxborough [^2018011] [^2018002] | 86 – 100    | L      |
+| Braintree [^2018010]                   | 96 – 79     | W      |
+| Brookline [^2018009]                   | 101 – 85    | W      |
+| Framingham [^2018008] [^2018007]       | 98 – 88     | W      |
+| Milton [^2018010] [^2018001]           | 95 – 86     | W      |
+| Natick [^2018012] [^2018003]           | 98 – 83     | W      |
+| Newton North [^2018013] [^2018005]     | 102 – 84    | W      |
+| Walpole [^2018012] [^2018004]          | 100 – 74    | W      |
+| Wellesley [^2018009] [^2018000]        | 86.5 – 97.5 | L      |
+| Weymouth [^2018014] [^2018006]         | 105 – 73    | W      |
 
 [^2018000]: <https://twitter.com/NHSRockets/status/1056011060296237056>
 [^2018001]: <https://twitter.com/NHSRockets/status/1053487574679982080>
@@ -192,6 +198,13 @@ layout: single
 [^2018005]: <https://twitter.com/NHSRockets/status/1044756277275045888>
 [^2018006]: <https://twitter.com/NHSRockets/status/1042938409772371968>
 [^2018007]: <https://twitter.com/NHSRockets/status/1040771954289139712>
+[^2018008]: <https://docs.google.com/document/d/1CDzSWrxmC9FhEHxKdB3I1oMry1et53GCWzKBoWFJ5oA>
+[^2018009]: <https://docs.google.com/document/d/1aI5VSi9hY1WUuT2dSXCk7TrABhSvHyFh4x1x_ezXBok>
+[^2018010]: <https://docs.google.com/document/d/1hb-w1MpSReO2NhxKlztBGNFuBYqaPpE4jMhC14wizls>
+[^2018011]: <https://docs.google.com/document/d/1Dqq0hP56-S5xhQYwO06_a8sghV-RsMVqlLAVWwU6YLE>
+[^2018012]: <https://docs.google.com/document/d/1w2cJXcLdCon6fmDYH8ia15TqT9AkTfFB20U39kOUXUY>
+[^2018013]: <https://docs.google.com/document/d/18uYRu2l_9wECvUbtbwqbZRmLspp5IJHBbjsaN4swICA>
+[^2018014]: <https://docs.google.com/document/d/10GLdFrkutibBOZWz7NGsN6mzusS-uLwijH5SU1Tk-N8>
 
 ### Championships
 
@@ -270,18 +283,20 @@ layout: single
 
 ### Dual Meets
 
-| School                        | Score    | Result |
-|-------------------------------|----------|--------|
-| Braintree [^2016008]          | 100 – 81 | W      |
-| Brookline [^2016005]          | 89 – 99  | L      |
-| Dedham [^2016009]             | 91 – 84  | W      |
-| Framingham [^2016007]         | 88 – 98  | L      |
-| Natick [^2016000]             | 94 – 92  | W      |
-| Newton North [^2016001]       | 88 – 96  | L      |
-| Norwood [^2016006]            | 96 – 82  | W      |
-| Notre Dame Academy [^2016002] | 97 – 87  | W      |
-| Wellesley [^2016003]          | 95 – 91  | W      |
-| Weymouth [^2016004]           |          | W      |
+| School                                   | Score    | Result |
+|------------------------------------------|----------|--------|
+| Acton-Boxborough [^2016012]              | 82 – 98  | W      |
+| Braintree [^2016010] [^2016008]          | 100 – 81 | W      |
+| Brookline [^2016016] [^2016005]          | 89 – 99  | L      |
+| Dedham [^2016010] [^2016009]             | 91 – 84  | W      |
+| Framingham [^2016011] [^2016007]         | 88 – 98  | L      |
+| Natick [^2016013] [^2016000]             | 94 – 92  | W      |
+| Newton North [^2016015] [^2016001]       | 90 – 96  | L      |
+| Norwood [^2016011] [^2016006]            | 96 – 82  | W      |
+| Notre Dame Academy [^2016012] [^2016002] | 97 – 87  | W      |
+| Walpole [^2016014]                       | 98 – 80  | W      |
+| Wellesley [^2016013] [^2016003]          | 95 – 91  | W      |
+| Weymouth [^2016016] [^2016004]           |          | W      |
 
 [^2016000]: <https://twitter.com/NHSRockets/status/784560237860818944>
 [^2016001]: <https://twitter.com/NHSRockets/status/788509025646280704>
@@ -293,14 +308,22 @@ layout: single
 [^2016007]: <https://twitter.com/NHSRockets/status/778409818847608833>
 [^2016008]: <https://twitter.com/NHSRockets/status/776918892346236928>
 [^2016009]: <https://twitter.com/NHSRockets/status/776098331978305536>
+[^2016010]: <https://sites.google.com/a/needham.k12.ma.us/rockets-review-9-18/>
+[^2016011]: <https://sites.google.com/a/needham.k12.ma.us/rockets-review-9-25/>
+[^2016012]: <https://sites.google.com/a/needham.k12.ma.us/rockets-review-10-3/>
+[^2016013]: <https://sites.google.com/a/needham.k12.ma.us/rockets-review-10-10/>
+[^2016014]: <https://sites.google.com/a/needham.k12.ma.us/rockets-review-10-16/>
+[^2016015]: <https://sites.google.com/a/needham.k12.ma.us/rockets-review-10-23/>
+[^2016016]: <https://sites.google.com/a/needham.k12.ma.us/rockets-review-10-30/>
+[^2016017]: <https://sites.google.com/a/needham.k12.ma.us/rockets-review-11-7/>
 
 ### Championships
 
-| Meet                                       | Place |
-|--------------------------------------------|-------|
-| Bay State Conference [^2016103] [^2016102] | 3     |
-| South Sectionals [^2016100]                | 8     |
-| Division 1 States [^2016101]               | 9     |
+| Meet                                                  | Place |
+|-------------------------------------------------------|-------|
+| Bay State Conference [^2016103] [^2016016] [^2016102] | 3     |
+| South Sectionals [^2016100]                           | 8     |
+| Division 1 States [^2016101]                          | 9     |
 
 [^2016100]: <http://miaa.ezstream.com/index.cfm?itemid=7916>
 [^2016101]: <http://miaa.ezstream.com/index.cfm?itemid=7929>
@@ -323,31 +346,46 @@ layout: single
 
 ### Dual Meets
 
-| School                  | Score    | Result |
-|-------------------------|----------|--------|
-| Braintree [^2015003]    | 100 – 78 | W      |
-| Dedham [^2015004]       | 95 – 76  | W      |
-| Newton North [^2015000] |          | L      |
-| Norwood [^2015002]      | 102 – 76 | W      |
-| Walpole [^2015001]      |          | W      |
+| School                             | Score    | Result |
+|------------------------------------|----------|--------|
+| Acton-Boxborough [^2015007]        | 87 – 91  | L      |
+| Braintree [^2015006] [^2015003]    | 100 – 78 | W      |
+| Dedham [^2015005] [^2015004]       | 95 – 76  | W      |
+| Framingham [^2015007]              | 100 – 84 | L      |
+| Natick [^2015009]                  | 98 –  86 | W      |
+| Newton North [^2015010] [^2015000] |          | L      |
+| Norwood [^2015008] [^2015002]      | 102 – 76 | W      |
+| Walpole [^2015010] [^2015001]      |          | W      |
+| Wellesley [^2015011]               | 91 – 95  | L      |
+| Weymouth [^2015005]                | 91 – 83  | W      |
 
 [^2015000]: <https://twitter.com/NHSRockets/status/657732225492979712>
 [^2015001]: <https://twitter.com/NHSRockets/status/656631854238453764>
 [^2015002]: <https://twitter.com/NHSRockets/status/651529520521068544>
 [^2015003]: <https://twitter.com/NHSRockets/status/647579498553176064>
 [^2015004]: <https://twitter.com/NHSRockets/status/644992258966745088>
+[^2015005]: <https://sites.google.com/a/needham.k12.ma.us/rockets-review-9-20/>
+[^2015006]: <https://sites.google.com/a/needham.k12.ma.us/rockets-review-9-27/>
+[^2015007]: <https://sites.google.com/a/needham.k12.ma.us/rockets-review-10-4/>
+[^2015008]: <https://sites.google.com/a/needham.k12.ma.us/rockets-review-10-12/>
+[^2015009]: <https://sites.google.com/a/needham.k12.ma.us/rockets-review-10-18/>
+[^2015010]: <https://sites.google.com/a/needham.k12.ma.us/rockets-review-10-25/>
+[^2015011]: <https://sites.google.com/a/needham.k12.ma.us/rockets-review-11-2/>
 
 ### Championships
 
-| Meet                            | Place |
-|---------------------------------|-------|
-| Bay State Conference [^2015102] | 4     |
-| South Sectionals [^2015100]     | 6     |
-| Division 1 States [^2015101]    | 8     |
+| Meet                                       | Place |
+|--------------------------------------------|-------|
+| Bay State Conference [^2015102] [^2015103] | 4     |
+| South Sectionals [^2015100] [^2015104]     | 6     |
+| Division 1 States [^2015101] [^2015105]    | 8     |
 
 [^2015100]: <http://miaa.ezstream.com/index.cfm?itemid=7727>
 [^2015101]: <http://miaa.ezstream.com/index.cfm?itemid=7739>
 [^2015102]: <https://www.gomotionapp.com/rechfhfhslma/__doc__/2015womens_scores.pdf>
+[^2015103]: <https://sites.google.com/a/needham.k12.ma.us/rockets-review-11-8/>
+[^2015104]: <https://sites.google.com/a/needham.k12.ma.us/rockets-review-11-15/>
+[^2015105]: <https://sites.google.com/a/needham.k12.ma.us/rockets-revuew-11-22/>
 
 ### Psych Sheets and Results
 

@@ -25,8 +25,8 @@ Otherwise, similar to sectionals and states, the diving and swimming events will
 
 ## Dual Meet
 
-There are a total of 170 points available.
-There are 14 points available for each of the 3 relay events (totaling 42 points) and 16 points available for each of the 8 individual events (totaling 128 points).
+There are a total of 186 points available.
+There are 14 points available for each of the 3 relay events (totaling 42 points) and 16 points available for each of the 9 individual events (totaling 144 points).
 Only the first heat of each event (and the first three divers from each team) may score points.
 
 
