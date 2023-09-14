@@ -5,7 +5,7 @@ layout: single
 
 ## Order of Events
 
-The order swimming events is as follows:
+The order of swimming events is as follows:
 
 - 200 yard medley relay
 - 200 yard freestyle

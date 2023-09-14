@@ -8,7 +8,7 @@ classes: wide
 
 ## Dive Weeks
 
-For a diver to compete officially, they must perform at least two dives in the specified group.
+For a diver to compete officially, they must perform at least 1 dive in the specified group for that week.
 
 |      Week      |  Group  |
 |:--------------:|:-------:|
