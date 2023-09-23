@@ -4,26 +4,26 @@ layout: single
 ---
 
 [^BSC]: <https://en.wikipedia.org/wiki/Bay_State_Conference>
+[^ArbiterSports]: <https://www.arbiterlive.com/Teams/Schedule/5772348>
 
 ## 2023
 
 ### Dual Meets
 
-| School                        | Score   | Result |
-|-------------------------------|---------|--------|
-| Acton-Boxborough              |         |        |
-| Braintree                     |         |        |
-| Brookline                     |         |        |
-| Framingham                    |         |        |
-| Milton [^2023000]             | 91 – 95 | L      |
-| Natick                        |         |        |
-| Newton North                  |         |        |
-| Walpole [^2023000] [^2023001] | 87 – 48 | W      |
-| Wellesley                     |         |        |
-| Weymouth                      |         |        |
+| School                              | Score   | Result |
+|-------------------------------------|---------|--------|
+| Acton-Boxborough                    |         |        |
+| Braintree                           |         |        |
+| Brookline                           |         |        |
+| Framingham                          |         |        |
+| Milton [^ArbiterSports]             | 91 – 95 | L      |
+| Natick                              |         |        |
+| Newton North                        |         |        |
+| Walpole [^ArbiterSports] [^2023000] | 87 – 48 | W      |
+| Wellesley                           |         |        |
+| Weymouth                            |         |        |
 
-[^2023000]: <https://www.arbiterlive.com/Teams/Schedule/5772348>
-[^2023001]: <https://x.com/NHSRockets/status/1701783011547648330>
+[^2023000]: <https://x.com/NHSRockets/status/1701783011547648330>
 
 ### Championships
 
@@ -37,27 +37,26 @@ layout: single
 
 ### Dual Meets
 
-| School                                     | Score    | Result |
-|--------------------------------------------|----------|--------|
-| Acton-Boxborough [^2022000] [^2022005]     | 97 – 89  | W      |
-| Braintree [^2022000] [^2022004]            | 97 – 80  | W      |
-| Brookline [^2022000]                       | 99 – 85  | W      |
-| Framingham [^2022000]                      | 95 – 85  | W      |
-| Milton [^2022000]                          | 100 – 84 | W      |
-| Natick [^2022000] [^2022003]               | 90 – 77  | W      |
-| Newton North [^2022000]                    | 96 – 84  | W      |
-| Walpole [^2022000] [^2022001]              | 97 – 75  | W      |
-| Wellesley [^2022000] [^2022002] [^2022007] | 82 – 99  | L      |
-| Weymouth [^2022000] [^2022006]             | 85 – 69  | W      |
+| School                                           | Score    | Result |
+|--------------------------------------------------|----------|--------|
+| Acton-Boxborough [^ArbiterSports] [^2022005]     | 97 – 89  | W      |
+| Braintree [^ArbiterSports] [^2022004]            | 97 – 80  | W      |
+| Brookline [^ArbiterSports]                       | 99 – 85  | W      |
+| Framingham [^ArbiterSports]                      | 95 – 85  | W      |
+| Milton [^ArbiterSports]                          | 100 – 84 | W      |
+| Natick [^ArbiterSports] [^2022003]               | 90 – 77  | W      |
+| Newton North [^ArbiterSports]                    | 96 – 84  | W      |
+| Walpole [^ArbiterSports] [^2022001]              | 97 – 75  | W      |
+| Wellesley [^ArbiterSports] [^2022002] [^2022006] | 82 – 99  | L      |
+| Weymouth [^ArbiterSports] [^2022000]             | 85 – 69  | W      |
 
-[^2022000]: <https://www.arbiterlive.com/Teams/Schedule/5772348>
+[^2022000]: <https://twitter.com/NHSRockets/status/1569821133255462914>
 [^2022001]: <https://twitter.com/NHSRockets/status/1583597018970173440>
 [^2022002]: <https://twitter.com/NHSRockets/status/1583263546908954624>
 [^2022003]: <https://twitter.com/NHSRockets/status/1582535789128187904>
 [^2022004]: <https://twitter.com/NHSRockets/status/1577095570275155971>
 [^2022005]: <https://twitter.com/NHSRockets/status/1570582971912015874>
-[^2022006]: <https://twitter.com/NHSRockets/status/1569821133255462914>
-[^2022007]: <https://www.bostonglobe.com/2022/10/20/sports/naomi-boegholm-wins-four-events-lead-unbeaten-wellesley-girls-dual-swim-meet-vs-needham/>
+[^2022006]: <https://www.bostonglobe.com/2022/10/20/sports/naomi-boegholm-wins-four-events-lead-unbeaten-wellesley-girls-dual-swim-meet-vs-needham/>
 
 ### Championships
 
@@ -81,29 +80,28 @@ layout: single
 
 ### Dual Meets
 
-| School                                            | Score    | Result |
-|---------------------------------------------------|----------|--------|
-| Acton-Boxborough [^2021000] [^2021007] [^2021008] | 90 – 94  | L      |
-| Braintree [^2021000]                              | 98 – 82  | W      |
-| Brookline [^2021005]                              | 96 – 88  | W      |
-| Framingham [^2021006]                             | 94 – 78  | W      |
-| Milton [^2021000] [^2021004]                      | 84 – 100 | L      |
-| Natick [^2021001]                                 | 98 – 75  | W      |
-| Newton North [^2021002]                           | 100 – 84 | W      |
-| Walpole [^2021000]                                | 99 – 75  | W      |
-| Wellesley [^2021000]                              | 85 – 101 | L      |
-| Weymouth [^2021009] [^2021003]                    | 102 – 73 | W      |
+| School                                                  | Score    | Result |
+|---------------------------------------------------------|----------|--------|
+| Acton-Boxborough [^ArbiterSports] [^2021000] [^2021007] | 90 – 94  | L      |
+| Braintree [^ArbiterSports]                              | 98 – 82  | W      |
+| Brookline [^2021005]                                    | 96 – 88  | W      |
+| Framingham [^2021006]                                   | 94 – 78  | W      |
+| Milton [^ArbiterSports] [^2021004]                      | 84 – 100 | L      |
+| Natick [^2021001]                                       | 98 – 75  | W      |
+| Newton North [^2021002]                                 | 100 – 84 | W      |
+| Walpole [^ArbiterSports]                                | 99 – 75  | W      |
+| Wellesley [^ArbiterSports]                              | 85 – 101 | L      |
+| Weymouth [^2021008] [^2021003]                          | 102 – 73 | W      |
 
-[^2021000]: <https://www.arbiterlive.com/Teams/Schedule/5772348>
+[^2021000]: <https://twitter.com/NHSRockets/status/1441576395273080835>
 [^2021001]: <https://twitter.com/NHSRockets/status/1437951905351839747>
 [^2021002]: <https://twitter.com/NHSRockets/status/1450633833334857733>
 [^2021003]: <https://twitter.com/NHSRockets/status/1436520561807605763>
 [^2021004]: <https://twitter.com/NHSRockets/status/1445505627875209219>
 [^2021005]: <https://twitter.com/NHSRockets/status/1442982097312944128>
 [^2021006]: <https://twitter.com/NHSRockets/status/1440472345475379201>
-[^2021007]: <https://twitter.com/NHSRockets/status/1441576395273080835>
-[^2021008]: <https://wickedlocal.com/story/the-beacon/2021/09/29/acton-boxborough-girls-swim-and-dive-defeats-talented-andover-needham-squads/5920982001/>
-[^2021009]: <https://docs.google.com/document/d/194bbNcRkqWBbBqp_U781FgpFfT7KP1Z2Y76frgQv_2k>
+[^2021007]: <https://wickedlocal.com/story/the-beacon/2021/09/29/acton-boxborough-girls-swim-and-dive-defeats-talented-andover-needham-squads/5920982001/>
+[^2021008]: <https://docs.google.com/document/d/194bbNcRkqWBbBqp_U781FgpFfT7KP1Z2Y76frgQv_2k>
 
 ### Championships
 
