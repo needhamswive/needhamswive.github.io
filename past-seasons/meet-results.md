@@ -3,8 +3,8 @@ title: Meet Results
 layout: single
 ---
 
-[^BSC]: <https://en.wikipedia.org/wiki/Bay_State_Conference>
 [^ArbiterSports]: <https://www.arbiterlive.com/Teams/Schedule/5772348>
+[^BSC]: <https://en.wikipedia.org/wiki/Bay_State_Conference>
 
 ## 2023
 
