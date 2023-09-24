@@ -7,6 +7,11 @@ toc: true
 [^ArbiterSports]: <https://www.arbiterlive.com/Teams/Schedule/5772348>
 [^BSC]: <https://en.wikipedia.org/wiki/Bay_State_Conference>
 
+## General Links
+
+- [Bay State Conference Results](https://www.gomotionapp.com/team/rechfhfhslma/page/newsletter)
+- [MIAA Swim and Dive Feed](http://miaa.ezstream.com/index.cfm?ChnID=328)
+
 ## 2022
 
 ### Dual Meets
@@ -637,11 +642,6 @@ toc: true
 - [South Sectional Results](http://miaa.ezstream.com/index.cfm?itemid=487)
 - [Division 1 State Psych Sheet](http://miaa.ezstream.com/index.cfm?itemid=515)
 - [Division 1 State Results](http://miaa.ezstream.com/index.cfm?itemid=525)
-
-## General Links
-
-- [Bay State Conference Results](https://www.gomotionapp.com/team/rechfhfhslma/page/newsletter)
-- [MIAA Swim and Dive Feed](http://miaa.ezstream.com/index.cfm?ChnID=328)
 
 ---
 
