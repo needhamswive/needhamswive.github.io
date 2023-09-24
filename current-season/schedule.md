@@ -8,7 +8,7 @@ classes: wide
 
 ## Dive Weeks
 
-For a diver to compete officially, they must perform at least 1 dive in the specified group for that week.
+For a diver to compete officially, their first dive must be in the specified group for that week and have a degree of difficulty of no more than 1.8.
 
 |      Week      |  Group  |
 |:--------------:|:-------:|

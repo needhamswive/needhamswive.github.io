@@ -225,9 +225,9 @@ The cumulative score after all the dives are completed are compared to determine
 Each dive is identified by a dive number which describes how it should be performed.
 
 Non-twisting dives have a three digit number followed by a letter, such as 201B.
-The first digit is the group (which indicates the direction of spin), the second digit is typically zero (unless the dive is a "flying" dive, and then the digit will be 1)[^1], the third digit is the number of half-somersaults, and the final letter is the position.
+The first digit is the group (which indicates the direction of spin), the second digit is typically 0 (unless the dive is a "flying" dive, and then the digit will be 1)[^note-on-flying-dives], the third digit is the number of half-somersaults, and the final letter is the position.
 
-[^1]: no flying dive has been competed at the high school level in years
+[^note-on-flying-dives]: no flying dive has been competed at the high school level in years
 
 Twisting dives have a four digit number followed by a letter, such as 5223D.
 The first digit is 5 (for the twister group), the second digit is the direction of spin, the third digit is the number of half-somersault, the fourth digit is the number of half-twists, and the final letter is the position.
@@ -255,9 +255,29 @@ There are four different dive positions that are each given a corresponding lett
 | C      | Tuck     | Legs curled up into the body                                   |
 | D      | Free     | A combination of the other positions (used for twisting dives) |
 
-<!-- ## Dive Sheets -->
+## Dive Sheets
+
+### Dual Meets
+
+Each diver at a dual meet must submit a dive sheet at the beginning of the meet with the dives they intend to compete signed by both the diver and a coach.
+To compete officially, a diver must compete 6 dives which meet the following criteria:
+
+- The first dive must be in the dive group of the week (explained below) and have a degree of difficulty of no more than 1.8.
+- The remaining five dives must cover 4 of the 5 dive groups.
+
+#### Diving Schedule
+
+There is a focus on a different dive group for each week of the season.
+The first dive of a diver's dive sheet must be in that dive group.
+See the [schedule](/current-season/schedule) for the list of dive weeks.
 
 ## Dive Table
+
+Each dive has an assigned degree of difficulty which acts as a multiplier on the scores given by the diving judges.
+The harder the dive, the higher the degree of difficulty.
+The table below lists the degree of difficulties for all of the allowed dives at the high school level.[^degree-of-difficulty-table]
+
+[^degree-of-difficulty-table]: https://www.nfhs.org/media/1020355/2023-24-one-meter-diving-table-with-video-clipsnew.pdf
 
 <table>
   <thead>
