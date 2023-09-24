@@ -1,6 +1,8 @@
 ---
 title: Rule Changes
 layout: single
+toc: true
+head_scripts: assets/past-seasons/rule-changes-edit-toc.js
 ---
 
 [^20222023]: https://www.nfhs.org/sports-resource-content/swimming-and-diving-rules-changes-2022-23/

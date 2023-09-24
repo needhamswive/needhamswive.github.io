@@ -1,6 +1,7 @@
 ---
 title: Meet Results
 layout: single
+toc: true
 ---
 
 [^ArbiterSports]: <https://www.arbiterlive.com/Teams/Schedule/5772348>
