@@ -22,6 +22,8 @@ sidebar:
         url: current-season/meet-results
       - title: Championship Cutoffs
         url: current-season/championship-cutoffs
+      - title: Rule Changes
+        url: current-season/rule-changes
   - title: Past Seasons
     children:
       - title: Meet Results
