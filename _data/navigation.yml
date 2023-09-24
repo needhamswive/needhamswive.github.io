@@ -28,3 +28,5 @@ sidebar:
     children:
       - title: Meet Results
         url: past-seasons/meet-results
+      - title: Rule Changes
+        url: past-seasons/rule-changes
