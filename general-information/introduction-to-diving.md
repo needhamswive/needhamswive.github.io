@@ -277,7 +277,7 @@ Each dive has an assigned degree of difficulty which acts as a multiplier on the
 The harder the dive, the higher the degree of difficulty.
 The table below lists the degree of difficulties for all of the allowed dives at the high school level.[^degree-of-difficulty-table]
 
-[^degree-of-difficulty-table]: https://www.nfhs.org/media/1020355/2023-24-one-meter-diving-table-with-video-clipsnew.pdf
+[^degree-of-difficulty-table]: <https://www.nfhs.org/media/1020355/2023-24-one-meter-diving-table-with-video-clipsnew.pdf>
 
 <table>
   <thead>
