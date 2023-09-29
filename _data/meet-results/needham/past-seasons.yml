@@ -418,10 +418,10 @@ results-by-year:
         link: https://www.teamunify.com/rechfhfhslma/__doc__/2018%20final%20scores.pdf
   - year: 2017
     dual-meets:
-      - school: Boston
+      - school: Boston Latin
         score: 94 - 86
         result: W
-        citations: ti;2017002
+        citations: 2017002
       - school: Braintree
         score: 102 - 84
         result: W
