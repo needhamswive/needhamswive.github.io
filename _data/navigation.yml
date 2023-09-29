@@ -42,4 +42,6 @@ archives:
     url: archives/bay-state-conference
     children:
       - title: Team Results
-      - title: Individual Results
+        url: archives/bay-state-conference/team-results
+      - title: Event Results
+        url: archives/bay-state-conference/event-results
