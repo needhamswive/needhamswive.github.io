@@ -1,0 +1,1 @@
+[^{{ citation.name }}]: <{{ citation.link }}>

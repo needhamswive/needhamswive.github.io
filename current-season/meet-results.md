@@ -17,6 +17,6 @@ layout: single
 
 __Sources__
 
-{% for citation in site.data.meet-results.needham.current-season.citations %}
-  [^{{ citation.name }}]: <{{ citation.link }}>
+{% for citation in site.data.meet-results.needham.current-season.citations -%}
+  {% include citation.md %}
 {% endfor %}

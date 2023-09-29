@@ -28,11 +28,11 @@ test: ArbiterSports
 
 __Sources__
 
-{% for citation in site.data.meet-results.needham.past-seasons.general-citations %}
-  [^{{ citation.name }}]: <{{ citation.link }}>
+{% for citation in site.data.meet-results.needham.past-seasons.general-citations -%}
+  {% include citation.md %}
 {% endfor %}
 {% for results-for-year in site.data.meet-results.needham.past-seasons.results-by-year %}
-  {% for citation in results-for-year.citations %}
-    [^{{ citation.name }}]: <{{ citation.link }}>
+  {% for citation in results-for-year.citations -%}
+    {% include citation.md %}
   {% endfor %}
 {% endfor %}
