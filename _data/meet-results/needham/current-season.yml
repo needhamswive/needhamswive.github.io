@@ -1,0 +1,29 @@
+dual-meets:
+  - school: Acton-Boxborough
+  - school: Braintree
+    score: 101 - 76
+    result: W
+    citations: ArbiterSports
+  - school: Brookline
+  - school: Framingham
+  - school: Milton
+    score: 91 - 95
+    result: L
+    citations: ArbiterSports
+  - school: Natick
+  - school: Newton North
+  - school: Walpole
+    score: 87 - 48
+    result: W
+    citations: ArbiterSports;2023000
+  - school: Wellesley
+  - school: Weymouth
+championships:
+  - name: Bay State Conference
+  - name: South Sectionals
+  - name: Division 2 States
+citations:
+  - name: ArbiterSports
+    link: https://www.arbiterlive.com/Teams/Schedule/5772348
+  - name: 2023000
+    link: https://twitter.com/NHSRockets/status/1701783011547648330
