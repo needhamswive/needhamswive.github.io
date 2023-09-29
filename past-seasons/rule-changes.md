@@ -141,7 +141,7 @@ Non-championship meets may also be conducted under championship meet format and 
 __3-3-2a__: (Uniforms) Consistent language has been established for all NFHS sports that describe what information is permitted on the uniform.
 A competitor’s name, school name, school nickname and/or the school logo can be placed on the uniform, which consists of the suit and the cap.
 
-__2-7-6, 3-4__: (Lap Counters)Lap counters are now permitted to count the competitor’s laps by changing the number to the next higher or lower number, as the competitor makes each turn at the starting end.
+__2-7-6, 3-4__: (Lap Counters) Lap counters are now permitted to count the competitor’s laps by changing the number to the next higher or lower number, as the competitor makes each turn at the starting end.
 
 __3-6, 4-1-8__: (Conduct) Rule 3 was reorganized to provide consistency and clarity for penalties associated with various competitor and/or meet personnel conduct.
 In addition, the rule pertaining to language regarding the prohibition of an official’s tobacco use at the competition site was moved from Rule 3-6 to Rule 4-1-8.
