@@ -1,0 +1,65 @@
+- event: 200 Medley Relay
+  date: 11/13/2021
+  town: Wellesley
+  athletes: Elena Dudkina;Iris Xia;Naomi Boegholm;Tracey Peng
+  result: "1:48.78"
+- event: 200 Freestyle
+  date: 11/06/2022
+  town: Wellesley
+  athletes: Naomi Boegholm
+  result: "1:52.43"
+- event: 200 Individual Medley
+  date: 10/28/2022
+  town: Brookline
+  athletes: Hannah Lee
+  result: "2:07.59"
+- event: 50 Freestyle
+  date: 1985
+  town: Wellesley
+  athletes: Cynthia Kangos
+  result: "23.89"
+- event: 1 Meter - 6 Dives
+  date: 10/27/2017
+  town: Wellesley
+  athletes: Kate Mullin
+  result: "355.50"
+- event: 1 Meter - 11 Dives
+  date: 11/13/2017
+  town: Wellesley
+  athletes: Kate Mullin
+  result: "596.60"
+- event: 100 Butterfly
+  date: 11/07/2022
+  town: Wellesley
+  athletes: Naomi Boegholm
+  result: "55.80"
+- event: 100 Freestyle
+  date: 11/13/2022
+  town: Wellesley
+  athletes: Naomi Boegholm
+  result: "51.20"
+- event: 500 Freestyle
+  date: 1985
+  town: Needham
+  athletes: Lynn Kelly
+  result: "5:07.25"
+- event: 200 Freestyle Relay
+  date: 11/06/2022
+  town: Wellesley
+  athletes: Naomi Boegholm;Anna McGrew;Sofia Cozza;Katie Passanisi
+  result: "1:38.12"
+- event: 100 Backstroke
+  date: 11/13/2021
+  town: Wellesley
+  athletes: Naomi Boegholm
+  result: "57.73"
+- event: 100 Breaststroke
+  date: 11/13/2022
+  town: Brookline
+  athletes: Hannah Lee
+  result: "1:04.67"
+- event: 400 Freestyle Relay
+  date: 11/13/2022
+  town: Wellesley
+  athletes: Sofia Cozza;Vaani Kapoor;Anna McGrew;Naomi Boegholm
+  result: "3:35.82"

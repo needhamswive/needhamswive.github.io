@@ -1,0 +1,60 @@
+- event: 200 Medley Relay
+  date: 10/28/2022
+  town: Wellesley
+  athletes: Elena Dudkina;Alexandra Loo;Naomi Boegholm;Tracey Peng
+  result: "1:50.81"
+- event: 200 Freestyle
+  date: 11/06/2008
+  town: Brookline
+  athletes: Samantha Neumann
+  result: "1:57.25"
+- event: 200 Individual Medley
+  date: 10/28/2022
+  town: Wellesley
+  athletes: Naomi Boegholm
+  result: "2:07.59"
+- event: 50 Freestyle
+  date: 11/02/2019
+  town: Needham
+  athletes: Zoei Howard
+  result: "24.17"
+- event: 1 Meter - 6 Dives
+  date: 11/05/2017
+  town: Wellesley
+  athletes: Kate Mullin
+  result: "322.60"
+- event: 100 Butterfly
+  date: 11/06/2011
+  town: Needham
+  athletes: Jessica Murphy
+  result: "59.28"
+- event: 100 Freestyle
+  date: 11/02/2019
+  town: Needham
+  athletes: Zoei Howard
+  result: "52.72"
+- event: 500 Freestyle
+  date: 11/05/2017
+  town: Needham
+  athletes: Zoei Howard
+  result: "5:10.85"
+- event: 200 Freestyle Relay
+  date: 10/28/2022
+  town: Wellesley
+  athletes: Anna McGraw;Naomi Boegholm;Sofia Cozza;Katie Passanisi
+  result: "1:39.93"
+- event: 100 Backstroke
+  date: 11/06/2011;10/28/2022
+  town: Framingham;Needham
+  athletes: Carly Biron;Chloe Wukitch
+  result: "58.97"
+- event: 100 Breaststroke
+  date: 10/28/2022
+  town: Brookline
+  athletes: Hannah Lee
+  result: "1:05.59"
+- event: 400 Freestyle Relay
+  date: 11/03/2019
+  town: Needham
+  athletes: Claire Tzouros;Kathrine Dunbar;Emilia Higgins;Zoei Howard
+  result: "3:37.87"
