@@ -1,0 +1,1071 @@
+general-citations:
+  - name: ArbiterSports
+    link: https://www.arbiterlive.com/Teams/Schedule/5772348
+  - name: BayStateConference
+    link: https://en.wikipedia.org/wiki/Bay_State_Conference
+
+results-by-year:
+  - year: 2022
+    dual-meets:
+      - school: Acton-Boxborough
+        score: 97 - 89
+        result: W
+        citations: ArbiterSports;2022005
+      - school: Braintree
+        score: 97 - 80
+        result: W
+        citations: ArbiterSports;2022004
+      - school: Brookline
+        score: 99 - 85
+        result: W
+        citations: ArbiterSports
+      - school: Framingham
+        score: 95 - 85
+        result: W
+        citations: ArbiterSports
+      - school: Milton
+        score: 100 - 84
+        result: W
+        citations: ArbiterSports
+      - school: Natick
+        score: 90 - 77
+        result: W
+        citations: ArbiterSports;2022003
+      - school: Newton North
+        score: 96 - 84
+        result: W
+        citations: ArbiterSports
+      - school: Walpole
+        score: 97 - 75
+        result: W
+        citations: ArbiterSports;2022001
+      - school: Wellesley
+        score: 82 - 99
+        result: L
+        citations: ArbiterSports;2022002;2022006
+      - school: Weymouth
+        score: 85 - 69
+        result: W
+        citations: ArbiterSports;2022000
+    championships:
+      - name: Bay State Conference
+        place: 2
+      - name: South Sectionals
+        place: 2
+        citations: 2022100
+      - name: Division 2 States
+        place: 2
+        citations: 2022101
+    psych-sheets-and-results:
+      - name: Swim Tournament Overview
+        link: http://miaa.ezstream.net/index.cfm?itemid=8576
+      - name: South Sectional Psych Sheet
+        link: http://miaa.ezstream.com/index.cfm?itemid=8577
+      - name: South Sectional Results
+        link: http://miaa.ezstream.com/index.cfm?itemid=8579
+      - name: Division 2 State Results
+        link: https://miaa.net/wp-content/uploads/2022/11/D2-Results.pdf
+    citations:
+      - name: 2022000
+        link: https://twitter.com/NHSRockets/status/1569821133255462914
+      - name: 2022001
+        link: https://twitter.com/NHSRockets/status/1583597018970173440
+      - name: 2022002
+        link: https://twitter.com/NHSRockets/status/1583263546908954624
+      - name: 2022003
+        link: https://twitter.com/NHSRockets/status/1582535789128187904
+      - name: 2022004
+        link: https://twitter.com/NHSRockets/status/1577095570275155971
+      - name: 2022005
+        link: https://twitter.com/NHSRockets/status/1570582971912015874
+      - name: 2022006
+        link: https://www.bostonglobe.com/2022/10/20/sports/naomi-boegholm-wins-four-events-lead-unbeaten-wellesley-girls-dual-swim-meet-vs-needham/
+      - name: 2022100
+        link: http://miaa.ezstream.com/index.cfm?itemid=8579
+      - name: 2022101
+        link: https://miaa.net/wp-content/uploads/2022/11/D2-Results.pdf
+  - year: 2021
+    dual-meets:
+      - school: Acton-Boxborough
+        score: 90 - 94
+        result: L
+        citations: ArbiterSports;2021000;2021007
+      - school: Braintree
+        score: 98 - 82
+        result: W
+        citations: ArbiterSports
+      - school: Brookline
+        score: 96 - 88
+        result: W
+        citations: 2021005
+      - school: Framingham
+        score: 94 - 78
+        result: W
+        citations: 2021006
+      - school: Milton
+        score: 84 - 100
+        result: L
+        citations: ArbiterSports;2021004
+      - school: Natick
+        score: 98 - 75
+        result: W
+        citations: 2021001
+      - school: Newton North
+        score: 100 - 84
+        result: W
+        citations: 2021002
+      - school: Walpole
+        score: 99 - 75
+        result: W
+        citations: ArbiterSports
+      - school: Wellesley
+        score: 85 - 101
+        result: L
+        citations: ArbiterSports
+      - school: Weymouth
+        score: 102 - 73
+        result: W
+        citations: 2021008;2021003
+    championships:
+      - name: Bay State Conference
+        place: 2
+        citations: 2021104
+      - name: South Sectionals
+        place: 2
+        citations: 2021100;2021103
+      - name: Division 2 States
+        place: 2
+        citations: 2021101;2021102
+    psych-sheets-and-results:
+      - name: Bay State Conference Complete Results by Event
+        link: https://www.gomotionapp.com/rechfhfhslma/__doc__/498887_2_2021BSC.htm
+      - name: Bay State Conference Complete Results
+        link: https://www.teamunify.com/rechfhfhslma/__doc__/2021%20BSC%20Complete%20Results%20Girls.pdf
+      - name: Bay State Conference Team Scores
+        link: https://www.teamunify.com/rechfhfhslma/__doc__/2021%20BSC%20Team%20Scores%20Girls.pdf
+      - name: South Sectional Psych Sheet
+        link: http://miaa.ezstream.com/index.cfm?itemid=8445
+      - name: South Sectional Results
+        link: http://miaa.ezstream.com/index.cfm?itemid=8452
+      - name: Division 2 State Swimming Psych Sheet
+        link: http://miaa.ezstream.com/index.cfm?itemid=8455
+      - name: Division 2 State Diving Psych Sheet
+        link: http://miaa.ezstream.com/index.cfm?itemid=8456
+      - name: Division 2 State Results
+        link: http://miaa.ezstream.com/index.cfm?itemid=8459
+    citations:
+      - name: 2021000
+        link: https://twitter.com/NHSRockets/status/1441576395273080835
+      - name: 2021001
+        link: https://twitter.com/NHSRockets/status/1437951905351839747
+      - name: 2021002
+        link: https://twitter.com/NHSRockets/status/1450633833334857733
+      - name: 2021003
+        link: https://twitter.com/NHSRockets/status/1436520561807605763
+      - name: 2021004
+        link: https://twitter.com/NHSRockets/status/1445505627875209219
+      - name: 2021005
+        link: https://twitter.com/NHSRockets/status/1442982097312944128
+      - name: 2021006
+        link: https://twitter.com/NHSRockets/status/1440472345475379201
+      - name: 2021007
+        link: https://wickedlocal.com/story/the-beacon/2021/09/29/acton-boxborough-girls-swim-and-dive-defeats-talented-andover-needham-squads/5920982001/
+      - name: 2021008
+        link: https://docs.google.com/document/d/194bbNcRkqWBbBqp_U781FgpFfT7KP1Z2Y76frgQv_2k
+      - name: 2021100
+        link: http://miaa.ezstream.com/index.cfm?itemid=8452
+      - name: 2021101
+        link: http://miaa.ezstream.com/index.cfm?itemid=8459
+      - name: 2021102
+        link: https://twitter.com/NHSRockets/status/1459355672802480132
+      - name: 2021103
+        link: https://www.bostonherald.com/2021/11/07/wellesley-captures-fourth-straight-south-sectional-swim-title/
+      - name: 2021104
+        link: https://www.teamunify.com/rechfhfhslma/__doc__/2021%20BSC%20Team%20Scores%20Girls.pdf
+  - year: 2020
+    dual-meets:
+      - school: Dana Hall
+        score: 111 - 64
+        result: W
+        citations: 2020000
+    citations:
+      - name: 2020000
+        link: https://twitter.com/NHSRockets/status/1340466491054026753
+  - year: 2019
+    dual-meets:
+      - school: Acton-Boxborough
+        score: 98 - 83
+        result: W
+        citations: 2019000
+      - school: Braintree
+        score: 97 - 81
+        result: W
+        citations: 2019011
+      - school: Brookline
+        score: 99 - 82
+        result: W
+        citations: 2019005
+      - school: Framingham
+        score: 97 - 84
+        result: W
+        citations: 2019010;2019008
+      - school: Milton
+        score: 96 - 87
+        result: W
+        citations: 2019006
+      - school: Natick
+        score: 101 - 80
+        result: W
+        citations: 2019004
+      - school: Newton North
+        score:
+        result: W
+        citations: 2019002
+      - school: Notre Dame Academy
+        score: 91 - 85
+        result: W
+        citations: 2019009
+      - school: Walpole
+        score:
+        result: W
+        citations: 2019011;2019007
+      - school: Wellesley
+        score: 87 - 99
+        result: L
+        citations: 2019003
+      - school: Weymouth
+        score:
+        result: W
+        citations: 2019001
+    championships:
+      - name: Bay State Conference
+        citations: 2019100;2019104
+      - name: South Sectionals
+        citations: 2019101;2019105
+      - name: Division 1 States
+        citations: 2019102;2019103
+    psych-sheets-and-results:
+      - name: Bay State Conference Needham Results
+        link: https://www.teamunify.com/rechfhfhslma/__doc__/2019%20needham%20results.pdf
+      - name: Bay State Conference Complete Results by Event
+        link: https://www.gomotionapp.com/rechfhfhslma/__doc__/471142_2_2019BSC.htm
+      - name: Bay State Conference Complete Results
+        link: https://www.teamunify.com/rechfhfhslma/__doc__/2019%20complete%20results.pdf
+      - name: Bay State Conference Team Scores
+        link: https://www.teamunify.com/rechfhfhslma/__doc__/2019%20final%20scores.pdf
+      - name: Swim Tournament Overview
+        link: http://miaa.ezstream.net/index.cfm?itemid=8338
+      - name: South Sectional Psych Sheet
+        link: http://miaa.ezstream.com/index.cfm?itemid=8337
+      - name: South Sectional Results Events 1 - 11
+        link: http://miaa.ezstream.com/index.cfm?itemid=8350
+      - name: South Sectional Results Events 12 - 21
+        link: http://miaa.ezstream.com/index.cfm?itemid=8441
+      - name: South Sectional Results Events 22 - 24
+        link: http://miaa.ezstream.com/index.cfm?itemid=8442
+      - name: Division 1 State Psych Sheet
+        link: http://miaa.ezstream.com/index.cfm?itemid=8352
+      - name: Division 1 State Results Events 1-13
+        link: http://miaa.ezstream.com/index.cfm?itemid=8356
+      - name: Division 1 State Results Events 4-24
+        link: http://miaa.ezstream.com/index.cfm?itemid=8438
+    citations:
+      - name: 2019000
+        link: https://twitter.com/NHSRockets/status/1173767471217725440
+      - name: 2019001
+        link: https://twitter.com/NHSRockets/status/1174135900382605312
+      - name: 2019002
+        link: https://twitter.com/NHSRockets/status/1175186291505455111
+      - name: 2019003
+        link: https://twitter.com/NHSRockets/status/1187898832186761217
+      - name: 2019004
+        link: https://twitter.com/NHSRockets/status/1185372951119564800
+      - name: 2019005
+        link: https://twitter.com/NHSRockets/status/1182833765737025536
+      - name: 2019006
+        link: https://twitter.com/NHSRockets/status/1180224116013617154
+      - name: 2019007
+        link: https://twitter.com/NHSRockets/status/1176639524790767616
+      - name: 2019008
+        link: https://twitter.com/NHSRockets/status/1172675499304394753
+      - name: 2019009
+        link: https://twitter.com/NHSRockets/status/1169782626208686080
+      - name: 2019010
+        link: https://docs.google.com/document/d/1XvBrwQE2yVKDS6qkCUKdLD6kP0BSaZD2_05lfF6rsGc
+      - name: 2019011
+        link: https://docs.google.com/document/d/1blo_wwstpSgiI4wu9aFHJDPr-fPiUnWu05c9y0w7jOM
+      - name: 2019100
+        link: https://www.teamunify.com/https://www.teamunify.com/rechfhfhslma/__doc__/2019%20final%20scores.pdf
+      - name: 2019101
+        link: http://miaa.ezstream.com/index.cfm?itemid=8442
+      - name: 2019102
+        link: http://miaa.ezstream.com/index.cfm?itemid=8438
+      - name: 2019103
+        link: https://twitter.com/NHSRockets/status/1196110849276030979
+      - name: 2019104
+        link: https://twitter.com/NHSRockets/status/1191101284599914496
+      - name: 2019105
+        link: https://www.bostonherald.com/2019/11/10/wellesley-swimming-holds-off-needham-in-south-central-sectional/
+  - year: 2018
+    dual-meets:
+      - school: Acton-Boxborough
+        score: 86 - 100
+        result: L
+        citations: 2018011;2018002
+      - school: Braintree
+        score: 96 - 79
+        result: W
+        citations: 2018010
+      - school: Brookline
+        score: 101 - 85
+        result: W
+        citations: 2018009
+      - school: Framingham
+        score: 98 - 88
+        result: W
+        citations: 2018008;2018007
+      - school: Milton
+        score: 95 - 86
+        result: W
+        citations: 2018010;2018001
+      - school: Natick
+        score: 98 - 83
+        result: W
+        citations: 2018012;2018003
+      - school: Newton North
+        score: 102 - 84
+        result: W
+        citations: 2018013;2018005
+      - school: Walpole
+        score: 100 - 74
+        result: W
+        citations: 2018012;2018004
+      - school: Wellesley
+        score: 86.5 - 97.5
+        result: L
+        citations: 2018009;2018000
+      - school: Weymouth
+        score: 105 - 73
+        result: W
+        citations: 2018014;2018006
+    championships:
+      - name: Bay State Conference
+        place: 2
+        citations: 2018103
+      - name: South Sectionals
+        place: 3
+        citations: 2018100
+      - name: Division 1 States
+        place: 4
+        citations: 2018101;2018102
+    psych-sheets-and-results:
+      - name: Bay State Conference Needham Results
+        link: https://www.teamunify.com/rechfhfhslma/__doc__/2018%20needham%20results.pdf
+      - name: Bay State Conference Complete Results by Event
+        link: https://www.gomotionapp.com/rechfhfhslma/__doc__/439153_2_2018BSC.htm
+      - name: Bay State Conference Complete Results
+        link: https://www.teamunify.com/rechfhfhslma/__doc__/2018%20complete%20results.pdf
+      - name: Bay State Conference Team Scores
+        link: https://www.teamunify.com/rechfhfhslma/__doc__/2018%20final%20scores.pdf
+      - name: Swim Tournament Overview
+        link: http://miaa.ezstream.net/index.cfm?itemid=8193
+      - name: South Sectional Psych Sheet
+        link: http://miaa.ezstream.com/index.cfm?itemid=8195
+      - name: South Sectional Results
+        link: http://miaa.ezstream.com/index.cfm?itemid=8222
+      - name: Division 1 State Psych Sheet
+        link: http://miaa.ezstream.com/index.cfm?itemid=8223
+      - name: Division 1 State Results
+        link: http://miaa.ezstream.com/index.cfm?itemid=8228
+    citations:
+      - name: 2018000
+        link: https://twitter.com/NHSRockets/status/1056011060296237056
+      - name: 2018001
+        link: https://twitter.com/NHSRockets/status/1053487574679982080
+      - name: 2018002
+        link: https://twitter.com/NHSRockets/status/1049794479421558784
+      - name: 2018003
+        link: https://twitter.com/NHSRockets/status/1048564967572533248
+      - name: 2018004
+        link: https://twitter.com/NHSRockets/status/1047313793724776448
+      - name: 2018005
+        link: https://twitter.com/NHSRockets/status/1044756277275045888
+      - name: 2018006
+        link: https://twitter.com/NHSRockets/status/1042938409772371968
+      - name: 2018007
+        link: https://twitter.com/NHSRockets/status/1040771954289139712
+      - name: 2018008
+        link: https://docs.google.com/document/d/1CDzSWrxmC9FhEHxKdB3I1oMry1et53GCWzKBoWFJ5oA
+      - name: 2018009
+        link: https://docs.google.com/document/d/1aI5VSi9hY1WUuT2dSXCk7TrABhSvHyFh4x1x_ezXBok
+      - name: 2018010
+        link: https://docs.google.com/document/d/1hb-w1MpSReO2NhxKlztBGNFuBYqaPpE4jMhC14wizls
+      - name: 2018011
+        link: https://docs.google.com/document/d/1Dqq0hP56-S5xhQYwO06_a8sghV-RsMVqlLAVWwU6YLE
+      - name: 2018012
+        link: https://docs.google.com/document/d/1w2cJXcLdCon6fmDYH8ia15TqT9AkTfFB20U39kOUXUY
+      - name: 2018013
+        link: https://docs.google.com/document/d/18uYRu2l_9wECvUbtbwqbZRmLspp5IJHBbjsaN4swICA
+      - name: 2018014
+        link: https://docs.google.com/document/d/10GLdFrkutibBOZWz7NGsN6mzusS-uLwijH5SU1Tk-N8
+      - name: 2018100
+        link: http://miaa.ezstream.com/index.cfm?itemid=8222
+      - name: 2018101
+        link: http://miaa.ezstream.com/index.cfm?itemid=8228
+      - name: 2018102
+        link: https://twitter.com/NHSRockets/status/1064199578403123200
+      - name: 2018103
+        link: https://www.teamunify.com/rechfhfhslma/__doc__/2018%20final%20scores.pdf
+  - year: 2017
+    dual-meets:
+      - school: Boston
+        score: 94 - 86
+        result: W
+        citations: ti;2017002
+      - school: Braintree
+        score: 102 - 84
+        result: W
+        citations: 2017000
+      - school: Brookline
+        score: 90 - 98
+        result: L
+        citations: 2017001
+      - school: Milton
+        score: 93 - 74
+        result: W
+        citations: 2017003
+      - school: Natick
+        score: 86 - 93
+        result: L
+        citations: 2017004
+      - school: Norwood
+        score: 102 - 80
+        result: W
+        citations: 2017005
+      - school: Walpole
+        score: 93 - 88
+        result: W
+        citations: 2017006
+    championships:
+      - name: Bay State Conference
+        place: 5
+        citations: 2017104;2017103
+      - name: South Sectionals
+        place: 7
+        citations: 2017100;2017102
+      - name: Division 1 States
+        place: 7
+        citations: 2017101
+    psych-sheets-and-results:
+      - name: Bay State Conference Needham Results
+        link: https://www.teamunify.com/rechfhfhslma/__doc__/2017%20needham%20results.pdf
+      - name: Bay State Conference Complete Results by Event
+        link: https://www.gomotionapp.com/rechfhfhslma/__doc__/402844_2_2017BSC.htm
+      - name: Bay State Conference Complete Results
+        link: https://www.teamunify.com/rechfhfhslma/__doc__/2017%20complete%20results.pdf
+      - name: Bay State Conference Team Scores
+        link: https://www.teamunify.com/rechfhfhslma/__doc__/2017%20final%20scores.pdf
+      - name: Swim Tournament Overview
+        link: http://miaa.ezstream.net/index.cfm?itemid=8052
+      - name: South Sectional Psych Sheet
+        link: http://miaa.ezstream.com/index.cfm?itemid=8047
+      - name: South Sectional Results
+        link: http://miaa.ezstream.com/index.cfm?itemid=8063
+      - name: Division 1 State Psych Sheet
+        link: http://miaa.ezstream.com/index.cfm?itemid=8080
+      - name: Division 1 State Results
+        link: http://miaa.ezstream.com/index.cfm?itemid=8082
+    citations:
+      - name: 2017000
+        link: https://twitter.com/NHSRockets/status/912844601790263296
+      - name: 2017001
+        link: https://twitter.com/NHSRockets/status/916487896735076352
+      - name: 2017002
+        link: https://twitter.com/NHSRockets/status/917917362837491712
+      - name: 2017003
+        link: https://twitter.com/NHSRockets/status/910246128473567233
+      - name: 2017004
+        link: https://twitter.com/NHSRockets/status/924114566908383232
+      - name: 2017005
+        link: https://twitter.com/NHSRockets/status/915386958213468160
+      - name: 2017006
+        link: https://twitter.com/NHSRockets/status/907385702362615808
+      - name: 2017100
+        link: http://miaa.ezstream.com/index.cfm?itemid=8063
+      - name: 2017101
+        link: http://miaa.ezstream.com/index.cfm?itemid=8082
+      - name: 2017102
+        link: https://twitter.com/NHSRockets/status/929405702052958210
+      - name: 2017103
+        link: https://twitter.com/NHSRockets/status/927285436900429834
+      - name: 2017104
+        link: https://www.teamunify.com/rechfhfhslma/__doc__/2017%20final%20scores.pdf
+  - year: 2016
+    dual-meets:
+      - school: Acton-Boxborough
+        score: 82 - 98
+        result: W
+        citations: 2016012
+      - school: Braintree
+        score: 100 - 81
+        result: W
+        citations: 2016010;2016008
+      - school: Brookline
+        score: 89 - 99
+        result: L
+        citations: 2016016;2016005
+      - school: Dedham
+        score: 91 - 84
+        result: W
+        citations: 2016010;2016009
+      - school: Framingham
+        score: 88 - 98
+        result: L
+        citations: 2016011;2016007
+      - school: Natick
+        score: 94 - 92
+        result: W
+        citations: 2016013;2016000
+      - school: Newton North
+        score: 90 - 96
+        result: L
+        citations: 2016015;2016001
+      - school: Norwood
+        score: 96 - 82
+        result: W
+        citations: 2016011;2016006
+      - school: Notre
+        score: 97 - 87
+        result: W
+        citations: m;adem;2016012;2016002
+      - school: Walpole
+        score: 98 - 80
+        result: W
+        citations: 2016014
+      - school: Wellesley
+        score: 95 - 91
+        result: W
+        citations: 2016013;2016003
+      - school: Weymouth
+        score:
+        result: W
+        citations: 2016016;2016004
+    championships:
+      - name: Bay State Conference
+        place: 3
+        citations: 2016103;2016016;2016102
+      - name: South Sectionals
+        place: 8
+        citations: 2016100
+      - name: Division 1 States
+        place: 9
+        citations: 2016101
+    psych-sheets-and-results:
+      - name: Bay State Conference Needham Results
+        link: https://www.teamunify.com/rechfhfhslma/__doc__/2016%20needham%20results.pdf
+      - name: Bay State Conference Complete Results by Event
+        link: https://www.gomotionapp.com/rechfhfhslma/__doc__/365032_2_2016BSC.htm
+      - name: Bay State Conference Complete Results
+        link: https://www.teamunify.com/rechfhfhslma/__doc__/2016%20complete%20results.pdf
+      - name: Bay State Conference Team Scores
+        link: https://www.teamunify.com/rechfhfhslma/__doc__/2016%20final%20scores%20women.pdf
+      - name: Swim Tournament Overview
+        link: http://miaa.ezstream.net/index.cfm?itemid=7899
+      - name: South Sectional Psych Sheet
+        link: http://miaa.ezstream.com/index.cfm?itemid=7897
+      - name: South Sectional Results
+        link: http://miaa.ezstream.com/index.cfm?itemid=7916
+      - name: Division 1 State Psych Sheet
+        link: http://miaa.ezstream.com/index.cfm?itemid=7925
+      - name: Division 1 State Results
+        link: http://miaa.ezstream.com/index.cfm?itemid=7929
+    citations:
+      - name: 2016000
+        link: https://twitter.com/NHSRockets/status/784560237860818944
+      - name: 2016001
+        link: https://twitter.com/NHSRockets/status/788509025646280704
+      - name: 2016002
+        link: https://twitter.com/NHSRockets/status/781659382824054784
+      - name: 2016003
+        link: https://twitter.com/NHSRockets/status/783845674752339968
+      - name: 2016004
+        link: https://twitter.com/NHSRockets/status/792202013782208512
+      - name: 2016005
+        link: https://twitter.com/NHSRockets/status/791045635717861376
+      - name: 2016006
+        link: https://twitter.com/NHSRockets/status/779512028847337472
+      - name: 2016007
+        link: https://twitter.com/NHSRockets/status/778409818847608833
+      - name: 2016008
+        link: https://twitter.com/NHSRockets/status/776918892346236928
+      - name: 2016009
+        link: https://twitter.com/NHSRockets/status/776098331978305536
+      - name: 2016010
+        link: https://sites.google.com/a/needham.k12.ma.us/rockets-review-9-18/
+      - name: 2016011
+        link: https://sites.google.com/a/needham.k12.ma.us/rockets-review-9-25/
+      - name: 2016012
+        link: https://sites.google.com/a/needham.k12.ma.us/rockets-review-10-3/
+      - name: 2016013
+        link: https://sites.google.com/a/needham.k12.ma.us/rockets-review-10-10/
+      - name: 2016014
+        link: https://sites.google.com/a/needham.k12.ma.us/rockets-review-10-16/
+      - name: 2016015
+        link: https://sites.google.com/a/needham.k12.ma.us/rockets-review-10-23/
+      - name: 2016016
+        link: https://sites.google.com/a/needham.k12.ma.us/rockets-review-10-30/
+      - name: 2016017
+        link: https://sites.google.com/a/needham.k12.ma.us/rockets-review-11-7/
+      - name: 2016100
+        link: http://miaa.ezstream.com/index.cfm?itemid=7916
+      - name: 2016101
+        link: http://miaa.ezstream.com/index.cfm?itemid=7929
+      - name: 2016102
+        link: https://twitter.com/NHSRockets/status/792824105653395456
+      - name: 2016103
+        link: https://www.teamunify.com/rechfhfhslma/__doc__/2016%20final%20scores%20women.pdf
+  - year: 2015
+    dual-meets:
+      - school: Acton-Boxborough
+        score: 87 - 91
+        result: L
+        citations: 2015007
+      - school: Braintree
+        score: 100 - 78
+        result: W
+        citations: 2015006;2015003
+      - school: Dedham
+        score: 95 - 76
+        result: W
+        citations: 2015005;2015004
+      - school: Framingham
+        score: 100 - 84
+        result: L
+        citations: 2015007
+      - school: Natick
+        score: 98 -  86
+        result: W
+        citations: 2015009
+      - school: Newton North
+        score:
+        result: L
+        citations: 2015010;2015000
+      - school: Norwood
+        score: 102 - 76
+        result: W
+        citations: 2015008;2015002
+      - school: Walpole
+        score:
+        result: W
+        citations: 2015010;2015001
+      - school: Wellesley
+        score: 91 - 95
+        result: L
+        citations: 2015011
+      - school: Weymouth
+        score: 91 - 83
+        result: W
+        citations: 2015005
+    championships:
+      - name: Bay State Conference
+        place: 4
+        citations: 2015102;2015103
+      - name: South Sectionals
+        place: 6
+        citations: 2015100;2015104
+      - name: Division 1 States
+        place: 8
+        citations: 2015101;2015105
+    psych-sheets-and-results:
+      - name: Bay State Conference Needham Results
+        link: https://www.gomotionapp.com/rechfhfhslma/__doc__/2015needham_results.pdf
+      - name: Bay State Conference Complete Results by Event
+        link: https://www.gomotionapp.com/rechfhfhslma/__doc__/326952_2_2015eventlist.htm
+      - name: Bay State Conference Complete Results
+        link: https://www.gomotionapp.com/rechfhfhslma/__doc__/2015complete_results.pdf
+      - name: Bay State Conference Team Scores
+        link: https://www.gomotionapp.com/rechfhfhslma/__doc__/2015womens_scores.pdf
+      - name: Swim Tournament Overview
+        link: http://miaa.ezstream.net/index.cfm?itemid=7729
+      - name: South Sectional Psych Sheet
+        link: http://miaa.ezstream.com/index.cfm?itemid=7704
+      - name: South Sectional Results
+        link: http://miaa.ezstream.com/index.cfm?itemid=7727
+      - name: Division 1 State Psych Sheet
+        link: http://miaa.ezstream.com/index.cfm?itemid=7735
+      - name: Division 1 State Results
+        link: http://miaa.ezstream.com/index.cfm?itemid=7739
+    citations:
+      - name: 2015000
+        link: https://twitter.com/NHSRockets/status/657732225492979712
+      - name: 2015001
+        link: https://twitter.com/NHSRockets/status/656631854238453764
+      - name: 2015002
+        link: https://twitter.com/NHSRockets/status/651529520521068544
+      - name: 2015003
+        link: https://twitter.com/NHSRockets/status/647579498553176064
+      - name: 2015004
+        link: https://twitter.com/NHSRockets/status/644992258966745088
+      - name: 2015005
+        link: https://sites.google.com/a/needham.k12.ma.us/rockets-review-9-20/
+      - name: 2015006
+        link: https://sites.google.com/a/needham.k12.ma.us/rockets-review-9-27/
+      - name: 2015007
+        link: https://sites.google.com/a/needham.k12.ma.us/rockets-review-10-4/
+      - name: 2015008
+        link: https://sites.google.com/a/needham.k12.ma.us/rockets-review-10-12/
+      - name: 2015009
+        link: https://sites.google.com/a/needham.k12.ma.us/rockets-review-10-18/
+      - name: 2015010
+        link: https://sites.google.com/a/needham.k12.ma.us/rockets-review-10-25/
+      - name: 2015011
+        link: https://sites.google.com/a/needham.k12.ma.us/rockets-review-11-2/
+      - name: 2015100
+        link: http://miaa.ezstream.com/index.cfm?itemid=7727
+      - name: 2015101
+        link: http://miaa.ezstream.com/index.cfm?itemid=7739
+      - name: 2015102
+        link: https://www.gomotionapp.com/rechfhfhslma/__doc__/2015womens_scores.pdf
+      - name: 2015103
+        link: https://sites.google.com/a/needham.k12.ma.us/rockets-review-11-8/
+      - name: 2015104
+        link: https://sites.google.com/a/needham.k12.ma.us/rockets-review-11-15/
+      - name: 2015105
+        link: https://sites.google.com/a/needham.k12.ma.us/rockets-revuew-11-22/
+  - year: 2014
+    dual-meets:
+      - school: Braintree
+        score: 103 - 78
+        result: W
+        citations: 2014007
+      - school: Brookline
+        score: 95 - 86
+        result: W
+        citations: 2014000
+      - school: Dedham
+        score:
+        result: W
+        citations: 2014002;BayStateConference;2014001
+      - school: Framingham
+        score:
+        result: W
+        citations: 2014003;BayStateConference;2014001
+      - school: Natick
+        score: 94 - 87
+        result: W
+        citations: 2014005
+      - school: Newton North
+        score:
+        result: L
+        citations: 2014001
+      - school: Norwood
+        score: 97 - 81
+        result: W
+        citations: 2014006
+      - school: Walpole
+        score:
+        result: W
+        citations: 2014004
+    championships:
+      - name: Bay State Conference
+        place: 3
+        citations: 2014103;2014102
+      - name: South Sectionals
+        place: 4
+        citations: 2014100
+      - name: Division 1 States
+        place: 6
+        citations: 2014101
+    psych-sheets-and-results:
+      - name: Bay State Conference Heat Sheet
+        link: https://www.gomotionapp.com/rechfhfhslma/__doc__/283607_2_Program.pdf
+      - name: Bay State Conference Complete Results by Event
+        link: https://www.gomotionapp.com/rechfhfhslma/__doc__/283618_2_eventlist.htm
+      - name: Bay State Conference Complete Results (Meet Manager File)
+        link: https://www.gomotionapp.com/rechfhfhslma/__doc__/283639_2_MeetManagerFile.ZIP
+      - name: Bay State Conference Team Scores
+        link: https://www.gomotionapp.com/rechfhfhslma/__doc__/283637_2_girlsscores.html
+      - name: Swim Tournament Overview
+        link: http://miaa.ezstream.net/index.cfm?itemid=7473
+      - name: South Sectional Psych Sheet
+        link: http://miaa.ezstream.com/index.cfm?itemid=7472
+      - name: South Sectional Results
+        link: http://miaa.ezstream.com/index.cfm?itemid=7485
+      - name: Division 1 State Psych Sheet
+        link: http://miaa.ezstream.com/index.cfm?itemid=7487
+      - name: Division 1 State Results
+        link: http://miaa.ezstream.com/index.cfm?itemid=7490
+    citations:
+      - name: 2014000
+        link: https://twitter.com/NHSRockets/status/524687995551899648
+      - name: 2014001
+        link: https://twitter.com/NHSRockets/status/522156109747216384
+      - name: 2014002
+        link: https://twitter.com/NHSRockets/status/510504920152563712
+      - name: 2014003
+        link: https://twitter.com/NHSRockets/status/513103098253164544
+      - name: 2014004
+        link: https://twitter.com/NHSRockets/status/520716367990112256
+      - name: 2014005
+        link: https://twitter.com/NHSRockets/status/519653490717519873
+      - name: 2014006
+        link: https://twitter.com/NHSRockets/status/514607490223599616
+      - name: 2014007
+        link: https://twitter.com/NHSRockets/status/512012805122576384
+      - name: 2014100
+        link: http://miaa.ezstream.com/index.cfm?itemid=7485
+      - name: 2014101
+        link: http://miaa.ezstream.com/index.cfm?itemid=7490
+      - name: 2014102
+        link: https://twitter.com/NHSRockets/status/529077952466944000
+      - name: 2014103
+        link: https://www.gomotionapp.com/rechfhfhslma/__doc__/283637_2_girlsscores.html
+  - year: 2013
+    dual-meets:
+      - school: Acton-Boxborough
+        score: 84 - 94
+        result: L
+        citations: 2013003
+      - school: Brookline
+        score: 96 - 44
+        result: W
+        citations: 2013000
+      - school: Framingham
+        score: 92 - 94
+        result: L
+        citations: 2013005
+      - school: Natick
+        score: 98 - 97
+        result: W
+        citations: 2013004
+      - school: Newton North
+        score: 102 - 84
+        result: W
+        citations: 2013002
+      - school: Wellesley
+        score: 100 - 84
+        result: W
+        citations: 2013001
+      - school: Weymouth
+        score:
+        result: W
+        citations: 2013006
+    championships:
+      - name: Bay State Conference
+        place: 2
+        citations: 2013105;2013104
+      - name: South Sectionals
+        place: 4
+        citations: 2013100;2013103
+      - name: Division 1 States
+        place: 7
+        citations: 2013101;2013102
+    psych-sheets-and-results:
+      - name: Bay State Conference Complete Results
+        link: https://www.gomotionapp.com/rechfhfhslma/__doc__/241700_2_2013%20Fall%20Conference%20Results.pdf
+      - name: Swim Tournament Overview
+        link: http://miaa.ezstream.net/index.cfm?itemid=7283
+      - name: South Sectional Psych Sheet
+        link: http://miaa.ezstream.com/index.cfm?itemid=7267
+      - name: South Sectional Results
+        link: http://miaa.ezstream.com/index.cfm?itemid=7282
+      - name: Division 1 State Psych Sheet
+        link: http://miaa.ezstream.com/index.cfm?itemid=7285
+      - name: Division 1 State Results
+        link: http://miaa.ezstream.com/index.cfm?itemid=7292
+    citations:
+      - name: 2013000
+        link: https://twitter.com/NHSRockets/status/393914905080102912
+      - name: 2013001
+        link: https://twitter.com/NHSRockets/status/392827642170593280
+      - name: 2013002
+        link: https://twitter.com/NHSRockets/status/391009652173209600
+      - name: 2013003
+        link: https://twitter.com/NHSRockets/status/389170535068090368
+      - name: 2013004
+        link: https://twitter.com/NHSRockets/status/388833294143741952
+      - name: 2013005
+        link: https://twitter.com/NHSRockets/status/383763864472780800
+      - name: 2013006
+        link: https://twitter.com/NHSRockets/status/380172503777550336
+      - name: 2013100
+        link: http://miaa.ezstream.com/index.cfm?itemid=7282
+      - name: 2013101
+        link: http://miaa.ezstream.com/index.cfm?itemid=7292
+      - name: 2013102
+        link: https://twitter.com/NHSRockets/status/402269365527392257
+      - name: 2013103
+        link: https://twitter.com/NHSRockets/status/399227203894116353
+      - name: 2013104
+        link: https://twitter.com/NHSRockets/status/397064307303018496
+      - name: 2013105
+        link: https://www.gomotionapp.com/rechfhfhslma/__doc__/241700_2_2013%20Fall%20Conference%20Results.pdf
+  - year: 2012
+    dual-meets:
+      - school: Braintree
+        score:
+        result: W
+        citations: 2012001
+      - school: Weymouth
+        score: 94 - 74
+        result: W
+        citations: 2012000
+    championships:
+      - name: South Sectionals
+        place: 3
+        citations: 2012100;2012102
+      - name: Division 1 States
+        place: 5
+        citations: 2012101
+    psych-sheets-and-results:
+      - name: South Sectional Psych Sheet
+        link: http://miaa.ezstream.com/index.cfm?itemid=7005
+      - name: South Sectional Results
+        link: http://miaa.ezstream.com/index.cfm?itemid=7025
+      - name: Division 1 State Psych Sheet
+        link: http://miaa.ezstream.com/index.cfm?itemid=7029
+      - name: Division 1 State Results
+        link: http://miaa.ezstream.com/index.cfm?itemid=7032
+    citations:
+      - name: 2012000
+        link: https://twitter.com/NHSRockets/status/245700545875173376
+      - name: 2012001
+        link: https://twitter.com/NHSRockets/status/248930346832371713
+      - name: 2012100
+        link: http://miaa.ezstream.com/index.cfm?itemid=7025
+      - name: 2012101
+        link: http://miaa.ezstream.com/index.cfm?itemid=7032
+      - name: 2012102
+        link: https://twitter.com/NHSRockets/status/267482876390547456
+  - year: 2011
+    championships:
+      - name: South Sectionals
+        place: 4
+        citations: 2011100
+      - name: Division 1 States
+        place: 4
+        citations: 2011101
+    psych-sheets-and-results:
+      - name: South Sectional Psych Sheet
+        link: http://miaa.ezstream.com/index.cfm?itemid=6657
+      - name: South Sectional Results
+        link: http://miaa.ezstream.com/index.cfm?itemid=6688
+      - name: Division 1 State Psych Sheet
+        link: http://miaa.ezstream.com/index.cfm?itemid=6691
+      - name: Division 1 State Results
+        link: http://miaa.ezstream.com/index.cfm?itemid=6699
+    citations:
+      - name: 2011100
+        link: http://miaa.ezstream.com/index.cfm?itemid=6688
+      - name: 2011101
+        link: http://miaa.ezstream.com/index.cfm?itemid=6699
+  - year: 2010
+    championships:
+      - name: South Sectionals
+        place: 4
+        citations: 2010100
+      - name: Division 2 States
+        place: 8
+        citations: 2010101
+    psych-sheets-and-results:
+      - name: South Sectional Psych Sheet
+        link: http://miaa.ezstream.com/index.cfm?itemid=6383
+      - name: South Sectional Results
+        link: http://miaa.ezstream.com/index.cfm?itemid=6392
+      - name: Division 1 State Psych Sheet
+        link: http://miaa.ezstream.com/index.cfm?itemid=6395
+      - name: Division 1 State Results
+        link: http://miaa.ezstream.com/index.cfm?itemid=6403
+    citations:
+      - name: 2010100
+        link: http://miaa.ezstream.com/index.cfm?itemid=6392
+      - name: 2010101
+        link: http://miaa.ezstream.com/index.cfm?itemid=6403
+  - year: 2009
+    championships:
+      - name: South Sectionals
+        place: 15
+        citations: 2009100
+      - name: Division 1 States
+        place: 14
+        citations: 2009101
+    psych-sheets-and-results:
+      - name: South Sectional Psych Sheet
+        link: http://miaa.ezstream.com/index.cfm?itemid=6063
+      - name: South Sectional Results
+        link: http://miaa.ezstream.com/index.cfm?itemid=6075
+      - name: Division 1 State Psych Sheet
+        link: http://miaa.ezstream.com/index.cfm?itemid=6082
+      - name: Division 1 State Results
+        link: http://miaa.ezstream.com/index.cfm?itemid=6088
+    citations:
+      - name: 2009100
+        link: http://miaa.ezstream.com/index.cfm?itemid=6075
+      - name: 2009101
+        link: http://miaa.ezstream.com/index.cfm?itemid=6088
+  - year: 2008
+    championships:
+      - name: South Sectionals
+        place: no place
+        citations: 2008100
+      - name: Division 1 States
+        place: no place
+        citations: 2008101
+    psych-sheets-and-results:
+      - name: South Sectional Psych Sheet
+        link: http://miaa.ezstream.com/index.cfm?itemid=4008
+      - name: South Sectional Results
+        link: http://miaa.ezstream.com/index.cfm?itemid=4047
+      - name: Division 1 State Psych Sheet
+        link: http://miaa.ezstream.com/index.cfm?itemid=4088
+      - name: Division 1 State Results
+        link: http://miaa.ezstream.com/index.cfm?itemid=4122
+    citations:
+      - name: 2008100
+        link: http://miaa.ezstream.com/index.cfm?itemid=4047
+      - name: 2008101
+        link: http://miaa.ezstream.com/index.cfm?itemid=4122
+  - year: 2007
+    championships:
+      - name: South Sectionals
+        place: 19
+        citations: 2007100
+      - name: Division 1 States
+        place: 16
+        citations: 2007101
+    psych-sheets-and-results:
+      - name: South Sectional Psych Sheet
+        link: http://miaa.ezstream.com/index.cfm?itemid=1729
+      - name: South Sectional Results
+        link: http://miaa.ezstream.com/index.cfm?itemid=1761
+      - name: Division 1 State Psych Sheet
+        link: http://miaa.ezstream.com/index.cfm?itemid=1777
+      - name: Division 1 State Results
+        link: http://miaa.ezstream.com/index.cfm?itemid=1801
+    citations:
+      - name: 2007100
+        link: http://miaa.ezstream.com/index.cfm?itemid=1761
+      - name: 2007101
+        link: http://miaa.ezstream.com/index.cfm?itemid=1801
+  - year: 2006
+    championships:
+      - name: South Sectionals
+        place: 22
+        citations: 2006100
+      - name: Division 1 States
+        place: 13
+        citations: 2006101
+    psych-sheets-and-results:
+      - name: South Sectional Psych Sheet
+        link: http://miaa.ezstream.com/index.cfm?itemid=464
+      - name: South Sectional Results
+        link: http://miaa.ezstream.com/index.cfm?itemid=487
+      - name: Division 1 State Psych Sheet
+        link: http://miaa.ezstream.com/index.cfm?itemid=515
+      - name: Division 1 State Results
+        link: http://miaa.ezstream.com/index.cfm?itemid=525
+    citations:
+      - name: 2006100
+        link: http://miaa.ezstream.com/index.cfm?itemid=487
+      - name: 2006101
+        link: http://miaa.ezstream.com/index.cfm?itemid=525
