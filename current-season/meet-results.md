@@ -7,18 +7,18 @@ layout: single
 
 ### Dual Meets
 
-| School                              | Score   | Result |
-|-------------------------------------|---------|--------|
-| Acton-Boxborough                    |         |        |
-| Braintree                           |         |        |
-| Brookline                           |         |        |
-| Framingham                          |         |        |
-| Milton [^ArbiterSports]             | 91 – 95 | L      |
-| Natick                              |         |        |
-| Newton North                        |         |        |
-| Walpole [^ArbiterSports] [^2023000] | 87 – 48 | W      |
-| Wellesley                           |         |        |
-| Weymouth                            |         |        |
+| School                              | Score    | Result |
+|-------------------------------------|----------|--------|
+| Acton-Boxborough                    |          |        |
+| Braintree [^ArbiterSports]          | 101 – 76 |        |
+| Brookline                           |          |        |
+| Framingham                          |          |        |
+| Milton [^ArbiterSports]             | 91 – 95  | L      |
+| Natick                              |          |        |
+| Newton North                        |          |        |
+| Walpole [^ArbiterSports] [^2023000] | 87 – 48  | W      |
+| Wellesley                           |          |        |
+| Weymouth                            |          |        |
 
 [^2023000]: <https://twitter.com/NHSRockets/status/1701783011547648330>
 
