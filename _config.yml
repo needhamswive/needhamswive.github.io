@@ -251,7 +251,7 @@ defaults:
       # share: true
       # related: true
       sidebar:
-        nav: sidebar
+        nav: general
   - scope:
       path: ""
       type: posts
@@ -263,4 +263,4 @@ defaults:
       # share: true
       # related: true
       sidebar:
-        nav: sidebar
+        nav: general

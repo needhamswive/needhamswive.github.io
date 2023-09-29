@@ -1,6 +1,5 @@
 ---
 title: Scoring A Meet
-layout: single
 ---
 
 ## Order of Events

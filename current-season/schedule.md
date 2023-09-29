@@ -1,6 +1,5 @@
 ---
 title: Schedule
-layout: single
 classes: wide
 ---
 

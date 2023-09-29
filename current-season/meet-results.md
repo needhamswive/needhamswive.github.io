@@ -1,6 +1,5 @@
 ---
 title: Meet Results
-layout: single
 ---
 
 <style type="text/css">

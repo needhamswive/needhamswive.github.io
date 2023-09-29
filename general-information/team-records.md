@@ -1,6 +1,5 @@
 ---
 title: Records
-layout: single
 ---
 
 ## Team Records

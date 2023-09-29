@@ -1,6 +1,5 @@
 ---
 title: Registration
-layout: single
 ---
 
 __REGISTRATION IS OPEN__

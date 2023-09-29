@@ -1,7 +1,6 @@
 ---
-layout: single
-toc: true
 title: Introduction to Diving
+toc: true
 
 dive-table:
   - name: Forward

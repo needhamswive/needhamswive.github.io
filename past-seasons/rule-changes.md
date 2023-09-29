@@ -1,6 +1,5 @@
 ---
 title: Rule Changes
-layout: single
 toc: true
 head_scripts: assets/past-seasons/rule-changes-edit-toc.js
 ---

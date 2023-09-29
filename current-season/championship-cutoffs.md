@@ -1,6 +1,5 @@
 ---
 title: Championship Cutoffs
-layout: single
 ---
 
 | Event                 | South Sectionals [^1] | Division II States [^1] |

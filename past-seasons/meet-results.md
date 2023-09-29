@@ -1,6 +1,5 @@
 ---
 title: Meet Results
-layout: single
 toc: true
 test: ArbiterSports
 ---

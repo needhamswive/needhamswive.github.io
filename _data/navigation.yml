@@ -3,7 +3,7 @@ main:
   # - title: Times Search
   #   url: times/individual-times-search
 
-sidebar:
+general:
   - title: General Information
     children:
       - title: About The Team
@@ -30,3 +30,16 @@ sidebar:
         url: past-seasons/meet-results
       - title: Rule Changes
         url: past-seasons/rule-changes
+  - title: Archives
+    children:
+      - title: Bay State Conference
+        url: archives/bay-state-conference
+
+archives:
+  - title: Home
+    url: /
+  - title: Bay State Conference
+    url: archives/bay-state-conference
+    children:
+      - title: Team Results
+      - title: Individual Results
