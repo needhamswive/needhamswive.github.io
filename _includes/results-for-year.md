@@ -29,8 +29,10 @@
 
 <table>
 <thead>
+<tr>
   <th>Meet</th>
   <th>Place</th>
+</tr>
 </thead>
 <tbody>
 {% for meet in results-for-year.championships %}
