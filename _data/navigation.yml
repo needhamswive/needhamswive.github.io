@@ -41,7 +41,7 @@ archives:
   - title: Bay State Conference
     url: archives/bay-state-conference
     children:
-      - title: Team Rankings
-        url: archives/bay-state-conference/team-rankings
+      - title: Meet Team Rankings
+        url: archives/bay-state-conference/meet-team-rankings
       - title: Event Results
         url: archives/bay-state-conference/event-results
