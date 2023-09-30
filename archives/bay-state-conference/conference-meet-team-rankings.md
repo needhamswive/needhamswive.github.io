@@ -1,5 +1,5 @@
 ---
-title: Meet Team Rankings
+title: Conference Meet Team Rankings
 
 years-boys-scored-with-girls:
 - "2010"
