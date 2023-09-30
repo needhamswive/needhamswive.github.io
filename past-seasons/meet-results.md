@@ -1,7 +1,5 @@
 ---
 title: Meet Results
-toc: true
-test: ArbiterSports
 ---
 
 <style type="text/css">
