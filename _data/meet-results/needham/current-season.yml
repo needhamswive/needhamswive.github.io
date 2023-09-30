@@ -2,11 +2,11 @@ dual-meets:
   - school: Acton-Boxborough
     score: 105.5 - 78.5
     result: W
-    citations: ArbiterSports
+    citations: ArbiterSports;2023001
   - school: Braintree
     score: 101 - 76
     result: W
-    citations: ArbiterSports
+    citations: ArbiterSports;2023002
   - school: Brookline
   - school: Framingham
   - school: Milton
@@ -30,3 +30,7 @@ citations:
     link: https://www.arbiterlive.com/Teams/Schedule/5772348
   - name: 2023000
     link: https://twitter.com/NHSRockets/status/1701783011547648330
+  - name: 2023001
+    link: https://twitter.com/NHSRockets/status/1707903820460679257
+  - name: 2023002
+    link: https://twitter.com/NHSRockets/status/1706847866969342071
