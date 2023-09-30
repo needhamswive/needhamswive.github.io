@@ -18,10 +18,10 @@ general:
     children:
       - title: Schedule
         url: current-season/schedule
-      - title: Meet Results
-        url: current-season/meet-results
       - title: Championship Cutoffs
         url: current-season/championship-cutoffs
+      - title: Meet Results
+        url: current-season/meet-results
       - title: Rule Changes
         url: current-season/rule-changes
   - title: Past Seasons
