@@ -43,7 +43,7 @@ archives:
     children:
       - title: Conference Meet Team Rankings
         url: archives/bay-state-conference/conference-meet-team-rankings
-      - title: Dual Meet Team Rankings
-        url: archives/bay-state-conference/dual-meet-team-rankings
+      - title: Dual Meet Record Team Rankings
+        url: archives/bay-state-conference/dual-meet-record-team-rankings
       - title: Event Results
         url: archives/bay-state-conference/event-results
