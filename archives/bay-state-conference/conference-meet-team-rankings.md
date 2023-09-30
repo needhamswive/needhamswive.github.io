@@ -2,8 +2,8 @@
 title: Conference Meet Team Rankings
 
 years-boys-scored-with-girls:
-- "2010"
-- "2011"
+- 2011
+- 2010
 ---
 
 <style type="text/css">
@@ -16,6 +16,7 @@ years-boys-scored-with-girls:
 
 {% assign team-rankings = site.data.meet-results.bay-state-conference.meet-team-rankings %}
 {% assign years = team-rankings | map: "year" | uniq | sort | reverse %}
+{% assign years-boys-scored-with-girls = page.years-boys-scored-with-girls | append: "" %}
 
 ## Top 3 Teams per Year
 
@@ -31,10 +32,13 @@ years-boys-scored-with-girls:
 <tbody>
 {% for year in years %}
 
+<script>console.log({{ years-boys-scored-with-girls }})</script>
+
 {% assign top-3-team-rankings-for-year = team-rankings | where: "year", year | sort: "rank" | slice: 0, 4 %}
+
 <tr>
   <td markdown="1">
-  {{ year }}{% if page.years-boys-scored-with-girls contains year %}[^comment-on-scoring]{% endif %}
+  {{ year }}{% if years-boys-scored-with-girls contains year %}[^comment-on-scoring]{% endif %}
   </td>
   <td>{{ top-3-team-rankings-for-year[0].town }}</td>
   <td>{{ top-3-team-rankings-for-year[1].town }}</td>
@@ -53,7 +57,7 @@ years-boys-scored-with-girls:
 {% assign team-rankings-for-year = team-rankings | where: "year", year | sort: "rank" %}
 
 <div markdown="1">
-### {{ year }}{% if page.years-boys-scored-with-girls contains year %}[^comment-on-scoring]{% endif %}
+### {{ year }}{% if years-boys-scored-with-girls contains year %}[^comment-on-scoring]{% endif %}
 </div>
 
 <table>
