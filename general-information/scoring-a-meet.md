@@ -1,5 +1,5 @@
 ---
-title: Scoring A Meet
+title: Scoring a Meet
 ---
 
 ## Order of Events

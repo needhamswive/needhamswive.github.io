@@ -8,7 +8,7 @@ general:
     children:
       - title: About The Team
         url: general-information/about-the-team
-      - title: Scoring A Meet
+      - title: Scoring a Meet
         url: general-information/scoring-a-meet
       - title: Introduction to Diving
         url: general-information/introduction-to-diving
@@ -47,3 +47,14 @@ archives:
         url: archives/bay-state-conference/dual-meet-record-team-rankings
       - title: Event Results
         url: archives/bay-state-conference/event-results
+  - title: Championships
+    children:
+      - title: Championship Cuttoffs
+  - title: Sectionals
+    children:
+      - title: Team Rankings
+      - title: Event Results
+  - title: States
+    children:
+      - title: Team Rankings
+      - title: Event Results
