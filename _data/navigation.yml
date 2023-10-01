@@ -41,10 +41,10 @@ archives:
   - title: Bay State Conference
     url: archives/bay-state-conference
     children:
-      - title: Conference Meet Team Rankings
-        url: archives/bay-state-conference/conference-meet-team-rankings
-      - title: Dual Meet Record Team Rankings
-        url: archives/bay-state-conference/dual-meet-record-team-rankings
+      - title: Conference Meet School Rankings
+        url: archives/bay-state-conference/conference-meet-school-rankings
+      - title: Dual Meet Record School Rankings
+        url: archives/bay-state-conference/dual-meet-record-school-rankings
       - title: Event Results
         url: archives/bay-state-conference/event-results
   - title: Championships
@@ -52,9 +52,9 @@ archives:
       - title: Championship Cuttoffs
   - title: Sectionals
     children:
-      - title: Team Rankings
+      - title: School Rankings
       - title: Event Results
   - title: States
     children:
-      - title: Team Rankings
+      - title: School Rankings
       - title: Event Results

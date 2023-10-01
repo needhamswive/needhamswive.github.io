@@ -1,5 +1,5 @@
 ---
-title: Conference Meet Team Rankings
+title: Conference Meet School Rankings
 
 years-boys-scored-with-girls:
 - 2011
@@ -14,11 +14,11 @@ years-boys-scored-with-girls:
 
 [^comment-on-scoring]: Boys scored with girls.
 
-{% assign team-rankings = site.data.meet-results.bay-state-conference.conference-meet-team-rankings %}
-{% assign years = team-rankings | map: "year" | uniq | sort | reverse %}
+{% assign school-rankings = site.data.meet-results.bay-state-conference.conference-meet-school-rankings %}
+{% assign years = school-rankings | map: "year" | uniq | sort | reverse %}
 {% assign years-boys-scored-with-girls = page.years-boys-scored-with-girls | append: "" %}
 
-## Top 3 Teams per Year
+## Top 3 Schools per Year
 
 <table>
 <thead>
@@ -32,14 +32,14 @@ years-boys-scored-with-girls:
 <tbody>
 
 {% for year in years %}
-{% assign top-3-team-rankings-for-year = team-rankings | where: "year", year | sort: "rank" | slice: 0, 4 %}
+{% assign top-3-school-rankings-for-year = school-rankings | where: "year", year | sort: "rank" | slice: 0, 4 %}
 <tr>
   <td markdown="1">
   {{ year }}{% if years-boys-scored-with-girls contains year %}[^comment-on-scoring]{% endif %}
   </td>
-  <td>{{ top-3-team-rankings-for-year[0].town }}</td>
-  <td>{{ top-3-team-rankings-for-year[1].town }}</td>
-  <td>{{ top-3-team-rankings-for-year[2].town }}</td>
+  <td>{{ top-3-school-rankings-for-year[0].school }}</td>
+  <td>{{ top-3-school-rankings-for-year[1].school }}</td>
+  <td>{{ top-3-school-rankings-for-year[2].school }}</td>
 </tr>
 {% endfor %}
 </tbody>
@@ -49,24 +49,24 @@ years-boys-scored-with-girls:
 
 {% for year in years -%}
 
-{% assign team-rankings-for-year = team-rankings | where: "year", year | sort: "rank" %}
+{% assign school-rankings-for-year = school-rankings | where: "year", year | sort: "rank" %}
 
 ### {{ year }}{% if years-boys-scored-with-girls contains year %}[^comment-on-scoring]{% endif %}
 
 <table>
   <thead>
     <tr>
-      <th>Town</th>
+      <th>School</th>
       <th style="text-align: center;">Rank</th>
       <th style="text-align: center;">Score</th>
     </tr>
   </thead>
   <tbody>
-    {% for team-ranking in team-rankings-for-year %}
+    {% for school-ranking in school-rankings-for-year %}
       <tr>
-        <td>{{ team-ranking.town }}</td>
-        <td style="text-align: center;">{{ team-ranking.rank }}</td>
-        <td style="text-align: center;">{{ team-ranking.score }}</td>
+        <td>{{ school-ranking.school }}</td>
+        <td style="text-align: center;">{{ school-ranking.rank }}</td>
+        <td style="text-align: center;">{{ school-ranking.score }}</td>
       </tr>
     {% endfor %}
   </tbody>
