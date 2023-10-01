@@ -1,22 +1,31 @@
 {% case site.category_archive.type %}
   {% when "liquid" %}
-    {% assign path_type = "#" %}
+    {% assign path-type = "#" %}
   {% when "jekyll-archives" %}
-    {% assign path_type = nil %}
+    {% assign path-type = nil %}
 {% endcase %}
 
 {% if page.collection != 'posts' %}
-  {% assign path_type = nil %}
-  {% assign crumb_path = '/' %}
+  {% assign path-type = nil %}
+  {% assign crumb-path = '/' %}
 {% else %}
-  {% assign crumb_path = site.category_archive.path %}
+  {% assign crumb-path = site.category_archive.path %}
 {% endif %}
+
+{% assign all-urls = site.pages | map: "url" %}
 
 <nav class="breadcrumbs">
   <ol itemscope itemtype="https://schema.org/BreadcrumbList">
     {% assign crumbs = page.url | split: '/' %}
+    {% assign crumb-prefix = "" %}
     {% assign i = 1 %}
     {% for crumb in crumbs offset: 1 %}
+      {% assign crumb-segments = crumb | split: "-" %}
+      {% assign crumb-display = "" %}
+      {% for crumb-segment in crumb-segments %}
+        {% assign normalized-crumb-segment = crumb-segment | replace: "-", " " | replace: "%20", " " | capitalize %}
+        {% assign crumb-display = crumb-display | append: normalized-crumb-segment | append: " " %}
+      {% endfor %}
       {% if forloop.first %}
         <li itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem">
           <a href="{{ '/' | relative_url }}" itemprop="item"><span itemprop="name">{{ site.data.ui-text[site.locale].breadcrumb_home_label | default: "Home" }}</span></a>
@@ -26,20 +35,23 @@
         <span class="sep">{{ site.data.ui-text[site.locale].breadcrumb_separator | default: "/" }}</span>
       {% endif %}
       {% if forloop.last %}
-        <li class="current">{{ page.title }}</li>
+        <li class="current">{{ crumb-display }}</li>
       {% else %}
         {% assign i = i | plus: 1 %}
-        {% assign crumb-segments = crumb | split: "-" %}
+        {% assign crumb-url = crumb | downcase | replace: '%20', '-' | prepend: path-type | prepend: crumb-path | prepend: crumb-prefix | relative_url | append: "/" %}
         <li itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem">
-          <a href="{{ crumb | downcase | replace: '%20', '-' | prepend: path_type | prepend: crumb_path | relative_url }}" itemprop="item"><span itemprop="name">
-            {% for crumb-segment in crumb-segments %}
-            {{ crumb-segment | replace: '-', ' ' | replace: '%20', ' ' | capitalize }}
-            {% endfor %}
-          </span></a>
+          {% if all-urls contains crumb-url %}
+            <a href="{{ crumb-url }}" itemprop="item">
+          {% endif %}
+            <span itemprop="name">{{ crumb-display }}</span>
+          {% if all-urls contains crumb-url %}
+            </a>
+          {% endif %}
           <meta itemprop="position" content="{{ i }}" />
         </li>
         <span class="sep">{{ site.data.ui-text[site.locale].breadcrumb_separator | default: "/" }}</span>
       {% endif %}
+      {% assign crumb-prefix = crumb-prefix | append: "/" | append: crumb %}
     {% endfor %}
   </ol>
 </nav>
