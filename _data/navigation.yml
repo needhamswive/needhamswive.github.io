@@ -18,8 +18,8 @@ general:
     children:
       - title: Schedule
         url: current-season/schedule
-      - title: Championship Cutoffs
-        url: current-season/championship-cutoffs
+      - title: Qualifying Standards
+        url: current-season/qualifying-standards
       - title: Meet Results
         url: current-season/meet-results
       - title: Rule Changes
