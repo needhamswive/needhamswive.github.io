@@ -46,7 +46,8 @@ archives:
         url: archives/bay-state-conference/event-results
   - title: Championships
     children:
-      - title: Championship Cuttoffs
+      - title: Qualifying Standards
+        url: archives/championships/qualifying-standards
   - title: Sectionals
     children:
       - title: School Rankings
