@@ -31,15 +31,12 @@ general:
       - title: Rule Changes
         url: past-seasons/rule-changes
   - title: Archives
-    children:
-      - title: Bay State Conference
-        url: archives/bay-state-conference
+    url: archives
 
 archives:
   - title: Home
     url: /
   - title: Bay State Conference
-    url: archives/bay-state-conference
     children:
       - title: Conference Meet School Rankings
         url: archives/bay-state-conference/conference-meet-school-rankings
