@@ -169,7 +169,7 @@ results-by-year:
       - name: 2021006
         link: https://twitter.com/NHSRockets/status/1440472345475379201
       - name: 2021007
-        link: https://wickedlocal.com/story/the-beacon/2021/09/29/acton-boxborough-girls-swim-and-dive-defeats-talented-andover-needham-squads/5920982001/
+        link: https://www.wickedlocal.com/story/the-beacon/2021/09/29/acton-boxborough-girls-swim-and-dive-defeats-talented-andover-needham-squads/5920982001/
       - name: 2021008
         link: https://docs.google.com/document/d/194bbNcRkqWBbBqp_U781FgpFfT7KP1Z2Y76frgQv_2k
       - name: 2021100
@@ -418,10 +418,13 @@ results-by-year:
         link: https://www.teamunify.com/rechfhfhslma/__doc__/2018%20final%20scores.pdf
   - year: 2017
     dual-meets:
+      - school: Acton-Boxborough
+        result: L
+        citations: 2017007
       - school: Boston Latin
         score: 94 - 86
         result: W
-        citations: 2017002
+        citations: 2017002;2017007
       - school: Braintree
         score: 102 - 84
         result: W
@@ -429,7 +432,7 @@ results-by-year:
       - school: Brookline
         score: 90 - 98
         result: L
-        citations: 2017001
+        citations: 2017001;2017007
       - school: Milton
         score: 93 - 74
         result: W
@@ -446,6 +449,10 @@ results-by-year:
         score: 93 - 88
         result: W
         citations: 2017006
+      - school: Wellesley
+        score: 86 - 95
+        result: L
+        citations: 2017007
     championships:
       - name: Bay State Conference
         place: 5
@@ -490,6 +497,8 @@ results-by-year:
         link: https://twitter.com/NHSRockets/status/915386958213468160
       - name: 2017006
         link: https://twitter.com/NHSRockets/status/907385702362615808
+      - name: 2017007
+        link: https://www.wickedlocal.com/story/needham-times/2017/10/19/rockets-ready-for-what-s/18259853007/
       - name: 2017100
         link: http://miaa.ezstream.com/index.cfm?itemid=8063
       - name: 2017101
@@ -841,11 +850,11 @@ results-by-year:
       - school: Newton North
         score: 102 - 84
         result: W
-        citations: 2013002
+        citations: 2013002;2013007
       - school: Wellesley
         score: 100 - 84
         result: W
-        citations: 2013001
+        citations: 2013001;2013007
       - school: Weymouth
         score:
         result: W
@@ -853,10 +862,10 @@ results-by-year:
     championships:
       - name: Bay State Conference
         place: 2
-        citations: 2013105;2013104
+        citations: 2013105;2013104;2013107
       - name: South Sectionals
         place: 4
-        citations: 2013100;2013103
+        citations: 2013100;2013103;2013106
       - name: Division 1 States
         place: 7
         citations: 2013101;2013102
@@ -888,6 +897,8 @@ results-by-year:
         link: https://twitter.com/NHSRockets/status/383763864472780800
       - name: 2013006
         link: https://twitter.com/NHSRockets/status/380172503777550336
+      - name: 2013007
+        link: https://www.wickedlocal.com/story/needham-times/2013/10/24/girls-swimming-needham-high-wins/39605071007/
       - name: 2013100
         link: http://miaa.ezstream.com/index.cfm?itemid=7282
       - name: 2013101
@@ -900,6 +911,10 @@ results-by-year:
         link: https://twitter.com/NHSRockets/status/397064307303018496
       - name: 2013105
         link: https://www.gomotionapp.com/rechfhfhslma/__doc__/241700_2_2013%20Fall%20Conference%20Results.pdf
+      - name: 2013106
+        link: https://www.wickedlocal.com/story/needham-times/2013/11/11/needham-high-girls-swim-team/39604873007/
+      - name: 2013107
+        link: https://www.wickedlocal.com/story/needham-times/2013/11/06/needham-girls-swim-team-places/39773034007/
   - year: 2012
     dual-meets:
       - school: Braintree
@@ -938,6 +953,19 @@ results-by-year:
       - name: 2012102
         link: https://twitter.com/NHSRockets/status/267482876390547456
   - year: 2011
+    dual-meets:
+      - school: Newton North
+        score: 97 - 89
+        result: W
+        citations: 2011000
+      - school: Walpole
+        score: 88 - 96
+        result: L
+        citations: 2011000
+      - school: Wellesley
+        score: 96 - 85
+        result: W
+        citations: 2011000
     championships:
       - name: South Sectionals
         place: 4
@@ -955,12 +983,41 @@ results-by-year:
       - name: Division 1 State Results
         link: http://miaa.ezstream.com/index.cfm?itemid=6699
     citations:
+      - name: 2011000
+        link: https://www.wickedlocal.com/story/needham-times/2011/10/26/needham-high-swimmers-pool-their/64848881007/
       - name: 2011100
         link: http://miaa.ezstream.com/index.cfm?itemid=6688
       - name: 2011101
         link: http://miaa.ezstream.com/index.cfm?itemid=6699
   - year: 2010
+    dual-meets:
+      - school: Braintree
+        score: 92 - 85
+        result: W
+        citations: 2010001
+      - school: Dedham
+        score: 99 - 72
+        result: W
+        citations: 2010001
+      - school: Natick
+        score: 105 - 79
+        result: W
+        citations: 2010000
+      - school: Newton North
+        score: 97 - 87
+        result: W
+        citations: 2010002
+      - school: Walpole
+        result: L
+        citations: 2011000
+      - school: Weymouth
+        score: 85 - 75
+        result: W
+        citations: 2010001
     championships:
+      - name: Coaches Invitational
+        place: 6
+        citations: 2010001
       - name: South Sectionals
         place: 4
         citations: 2010100
@@ -977,11 +1034,24 @@ results-by-year:
       - name: Division 1 State Results
         link: http://miaa.ezstream.com/index.cfm?itemid=6403
     citations:
+      - name: 2010000
+        link: https://www.wickedlocal.com/story/needham-times/2010/10/20/needham-high-girls-swim-team/40386278007/
+      - name: 2010001
+        link: https://www.wickedlocal.com/story/needham-times/2010/09/29/needham-high-girls-swim-team/40313628007/
+      - name: 2010002
+        link: https://www.wickedlocal.com/story/newton-tab/2010/10/28/newton-north-girls-swim-team/37313454007/
       - name: 2010100
         link: http://miaa.ezstream.com/index.cfm?itemid=6392
       - name: 2010101
         link: http://miaa.ezstream.com/index.cfm?itemid=6403
   - year: 2009
+    dual-meets:
+      - school: Natick
+        result: L
+        citations: 2010000
+      - school: Walpole
+        result: T
+        citations: 2010000;2011000
     championships:
       - name: South Sectionals
         place: 15
