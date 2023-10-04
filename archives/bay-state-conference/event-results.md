@@ -16,6 +16,7 @@ title: Event Results
     <tr>
       <th>Place</th>
       <th>Name</th>
+      <th>Age</th>
       <th>School</th>
       <th>Result</th>
       <th>Points</th>
@@ -30,8 +31,9 @@ title: Event Results
       {% for row in event-results %}
         <tr>
           <td>{{ row.place }}</td>
-          <td>{{ row.name }}</td>
-          <td>{{ row.school }}</td>
+          <td>{{ row.name | replace: " ", "&nbsp;" | replace: "-", "&#8209;" }}</td>
+          <td>{{ row.age }}</td>
+          <td>{{ row.school | replace: " ", "&nbsp;" }}</td>
           <td>{{ row.result }}</td>
           <td>{{ row.points }}</td>
         </tr>
