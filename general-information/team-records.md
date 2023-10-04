@@ -2,6 +2,13 @@
 title: Records
 ---
 
+{% assign events = site.data.records-event-order | map: "name" %}
+{% assign team-records = site.data.records.needham.all-time %}
+{% assign conference-records = site.data.records.bay-state-conference.all-time %}
+{% assign conference-meet-records = site.data.records.bay-state-conference.meet %}
+
+A history of the records can be found [here](/general-information/team-records-history/).
+
 ## Team Records
 
 <table>
@@ -14,7 +21,9 @@ title: Records
     </tr>
   </thead>
   <tbody>
-    {% for record in site.data.records.needham.all-time %}
+    {% for event in events %}
+      {% assign records-for-event = team-records | where: "event", event %}
+      {% assign record = records-for-event[0] %}
       <tr>
         <td>{{ record.event | replace: " ", "&nbsp;" | replace: "-", "–" }}</td>
         <td style="text-align: center;">{{ record.date | replace: ";", "<br>" }}</td>
@@ -57,7 +66,9 @@ South Sectional Champions
     </tr>
   </thead>
   <tbody>
-    {% for record in site.data.records.bay-state-conference.all-time %}
+    {% for event in events %}
+      {% assign records-for-event = conference-records | where: "event", event %}
+      {% assign record = records-for-event[0] %}
       <tr>
         <td>{{ record.event | replace: " ", "&nbsp;" | replace: "-", "–" }}</td>
         <td style="text-align: center;">{{ record.date | replace: ";", "<br>" }}</td>
@@ -82,7 +93,9 @@ South Sectional Champions
     </tr>
   </thead>
   <tbody>
-    {% for record in site.data.records.bay-state-conference.meet %}
+    {% for event in events %}
+      {% assign records-for-event = conference-meet-records | where: "event", event %}
+      {% assign record = records-for-event[0] %}
       <tr>
         <td>{{ record.event | replace: " ", "&nbsp;" | replace: "-", "–" }}</td>
         <td style="text-align: center;">{{ record.date | replace: ";", "<br>" }}</td>
