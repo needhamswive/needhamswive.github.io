@@ -1,9 +1,21 @@
+const hexDesignDefinitions = {
+  "welcome": {
+    "colors": ["blue", "blue", "blue", "gold"],
+    "corners": {
+      "top left": [5, 3, 1],
+      "bottom right": [2, 7],
+    }
+  },
+};
+
 let progressBar;
 let progressBarAnimation;
 let progressBarStartTime;
 let slides;
 let activeSlide;
 let activeSlideIndex;
+
+let hexTemplate;
 
 window.addEventListener("DOMContentLoaded", () => {
   progressBar = document.getElementsByClassName("progress")[0];
@@ -12,6 +24,9 @@ window.addEventListener("DOMContentLoaded", () => {
   activeSlideIndex = 0;
   activeSlide = document.getElementsByClassName("active")[activeSlideIndex];
   setupNavigation();
+
+  hexTemplate = document.getElementById("hex-template");
+  setupHexDesigns();
 }, false);
 
 function setupNavigation() {
@@ -26,7 +41,7 @@ function setupNavigation() {
     nextSlide();
   };
   progressBar.addEventListener("animationend", () => {
-    nextSlide();
+    // nextSlide();
   });
 }
 
@@ -64,4 +79,41 @@ function offsetSlide(offset) {
     }
   });
   progressBarStartTime = Date.now();
+}
+
+function setupHexDesigns() {
+  for (const [slideName, designDefinition] of Object.entries(hexDesignDefinitions)) {
+    const slide = document.getElementsByClassName(`slide ${slideName}`)[0];
+
+    if (!slide) {
+      return;
+    }
+
+    const colors = designDefinition.colors;
+
+    for (const [corner, rowCounts] of Object.entries(designDefinition.corners)) {
+      const hexContainer = document.createElement("div");
+      slide.appendChild(hexContainer);
+      hexContainer.classList.add("hex-container");
+
+      if (corner.includes("bottom")) {
+        hexContainer.classList.add("bottom");
+      }
+      if (corner.includes("right")) {
+        hexContainer.classList.add("right");
+      }
+
+      for (count of rowCounts) {
+        const hexRow = document.createElement("div");
+        hexRow.classList.add("hex-row");
+        hexContainer.appendChild(hexRow);
+        for (let i = 0; i < count; i++) {
+          const hex = hexTemplate.content.cloneNode(true);
+          const color = colors[Math.floor(Math.random() * colors.length)];
+          hex.children[0].classList.add(color);
+          hexRow.appendChild(hex);
+        }
+      }
+    }
+  }
 }
