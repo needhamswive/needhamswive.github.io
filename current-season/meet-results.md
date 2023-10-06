@@ -8,9 +8,9 @@ title: Meet Results
   }
 </style>
 
-{% assign results-for-year = site.data.meet-results.needham.current-season %}
-
-{% include results-for-year.md %}
+{% include results-for-year.md
+  results-for-year = site.data.meet-results.needham.current-season
+%}
 
 ---
 

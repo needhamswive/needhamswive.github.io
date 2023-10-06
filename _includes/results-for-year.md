@@ -1,4 +1,4 @@
-{% if results-for-year.dual-meets %}
+{% if include.results-for-year.dual-meets %}
 ### Dual Meets
 
 <table>
@@ -8,7 +8,7 @@
   <th>Result</th>
 </thead>
 <tbody>
-{% for meet in results-for-year.dual-meets %}
+{% for meet in include.results-for-year.dual-meets %}
 <tr>
   <td>
   <div markdown="1">
@@ -24,7 +24,7 @@
 </table>
 {% endif %}
 
-{% if results-for-year.championships %}
+{% if include.results-for-year.championships %}
 ### Championships
 
 <table>
@@ -35,7 +35,7 @@
 </tr>
 </thead>
 <tbody>
-{% for meet in results-for-year.championships %}
+{% for meet in include.results-for-year.championships %}
 <tr>
   <td>
   <div markdown="1">
@@ -49,10 +49,10 @@
 </table>
 {% endif %}
 
-{% if results-for-year.psych-sheets-and-results %}
+{% if include.results-for-year.psych-sheets-and-results %}
 ### Psych Sheets and Results
 
-{% for href in results-for-year.psych-sheets-and-results %}
+{% for href in include.results-for-year.psych-sheets-and-results %}
 - [{{ href.name }}]({{ href.link }})
 {% endfor %}
 {% endif %}
