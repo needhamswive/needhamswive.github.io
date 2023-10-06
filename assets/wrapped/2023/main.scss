@@ -82,6 +82,10 @@ html, body {
       .middle {
         background-color: var(--blue);
       }
+
+      .middle-cover {
+        background-color: var(--blue);
+      }
     }
 
     &.gold {
@@ -89,6 +93,10 @@ html, body {
       border-right-color: var(--gold);
 
       .middle {
+        background-color: var(--gold);
+      }
+
+      .middle-cover {
         background-color: var(--gold);
       }
     }
@@ -104,7 +112,16 @@ html, body {
     .middle {
       float: left;
       height: 52px;
+      position: relative;
       width: 30px;
+    }
+
+    .middle-cover {
+      position: absolute;
+      top: 2px;
+      left: -1px;
+      width: 32px;
+      height: 48px;
     }
 
     .right {
