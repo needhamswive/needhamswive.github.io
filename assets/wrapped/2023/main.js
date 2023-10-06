@@ -1,9 +1,32 @@
+class Slide {
+  name;
+  element;
+  hexElements = [];
+  hexColors = [];
+
+  constructor(name, element) {
+    this.name = name;
+    this.element = element;
+  }
+
+  nextHexColor() {
+    return this.hexColors[Math.floor(Math.random() * this.hexColors.length)];
+  }
+}
+
 const hexDesignDefinitions = {
   "welcome": {
     "colors": ["blue", "blue", "blue", "gold"],
     "corners": {
       "top left": [5, 3, 1],
       "bottom right": [7, 5, 1],
+    }
+  },
+  "team-summary": {
+    "colors": ["blue", "blue", "blue", "gold"],
+    "corners": {
+      "top right": [6, 5, 3, 1],
+      "bottom left": [7, 5, 1],
     }
   },
   "practice-summary": {
@@ -28,14 +51,17 @@ let hexTemplate;
 window.addEventListener("DOMContentLoaded", () => {
   progressBar = document.getElementsByClassName("progress")[0];
   progressBarStartTime = Date.now();
-  slides = Array.from(document.getElementsByClassName("slide"));
+  slides = Array
+    .from(document.getElementsByClassName("slide"))
+    .map(element => new Slide(element.dataset.name, element));
   activeSlide = document.getElementsByClassName("active")[0] || slides[0];
-  activeSlide.classList.add("active");
+  activeSlide.element.classList.add("active");
   activeSlideIndex = slides.indexOf(activeSlide);
   setupNavigation();
 
   hexTemplate = document.getElementById("hex-template");
   setupHexDesigns();
+  window.setInterval(animateHexes, 1000);
 }, false);
 
 function setupNavigation() {
@@ -50,7 +76,7 @@ function setupNavigation() {
     nextSlide();
   };
   progressBar.addEventListener("animationend", () => {
-    // nextSlide();
+    nextSlide();
   });
 }
 
@@ -80,11 +106,11 @@ function offsetSlide(offset) {
   const nextIndex = activeSlideIndex + offset;
   slides.forEach((slide, index) => {
     if (index == nextIndex) {
-      slide.classList.add("active");
+      slide.element.classList.add("active");
       activeSlideIndex += offset;
       activeSlide = slide;
     } else {
-      slide.classList.remove("active");
+      slide.element.classList.remove("active");
     }
   });
   progressBarStartTime = Date.now();
@@ -92,17 +118,20 @@ function offsetSlide(offset) {
 
 function setupHexDesigns() {
   for (const [slideName, designDefinition] of Object.entries(hexDesignDefinitions)) {
-    const slide = document.getElementsByClassName(`slide ${slideName}`)[0];
+    let slide = slides.filter(slide => slide.name === slideName)[0];
 
     if (!slide) {
-      return;
+      continue;
     }
 
-    const colors = designDefinition.colors;
+    if (!designDefinition.corners) {
+      continue;
+    }
 
+    slide.hexColors = designDefinition.colors;
     for (const [corner, rowCounts] of Object.entries(designDefinition.corners)) {
       const hexContainer = document.createElement("div");
-      slide.appendChild(hexContainer);
+      slide.element.appendChild(hexContainer);
       hexContainer.classList.add("hex-container");
 
       if (corner.includes("right")) {
@@ -117,13 +146,51 @@ function setupHexDesigns() {
         const hexRow = document.createElement("div");
         hexRow.classList.add("hex-row");
         hexContainer.appendChild(hexRow);
-        for (let i = 0; i < count; i++) {
+
+        const hexes = Array(count).fill().map(_ => {
           const hex = hexTemplate.content.cloneNode(true);
-          const color = colors[Math.floor(Math.random() * colors.length)];
-          hex.children[0].classList.add(color);
-          hexRow.appendChild(hex);
-        }
+          hex.children[0].dataset.color = slide.nextHexColor();
+          return hex;
+        });
+
+        hexRow.append(...hexes);
+        slide.hexElements.push(...Array.from(hexRow.querySelectorAll(".hex")));
       }
     }
   }
+}
+
+function animateHexes() {
+  if (activeSlide.hexColors.length <= 1) {
+    return;
+  }
+
+  const numberToChange = 1;
+  const hexElementsToChange = getRandom(activeSlide.hexElements, numberToChange);
+
+  for (const hexElement of hexElementsToChange) {
+    while (true) {
+      const nextColor = activeSlide.nextHexColor();
+      if (nextColor === hexElement.dataset.color) {
+        continue;
+      }
+      hexElement.dataset.color = nextColor;
+      break;
+    }
+  }
+}
+
+// https://stackoverflow.com/a/19270021
+function getRandom(arr, n) {
+  var result = new Array(n),
+    len = arr.length,
+    taken = new Array(len);
+  if (n > len)
+    throw new RangeError("getRandom: more elements taken than available");
+  while (n--) {
+    var x = Math.floor(Math.random() * len);
+    result[n] = arr[x in taken ? taken[x] : x];
+    taken[x] = --len in taken ? taken[len] : len;
+  }
+  return result;
 }

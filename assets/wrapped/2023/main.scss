@@ -35,122 +35,6 @@ html, body {
   color: var(--gold);
 }
 
-.hex-container {
-  position: absolute;
-  top: 13px;
-
-  &.bottom {
-    bottom: 3px;
-    top: unset;
-
-    .hex {
-      margin-bottom: 2px;
-    }
-
-    .hex:nth-child(2n) {
-      margin-top: -27px;
-    }
-  }
-
-  &.right {
-    position: absolute;
-    right: 18px;
-
-    .hex-row {
-      clear: right;
-
-      .hex {
-        float: right;
-      }
-    }
-  }
-
-  .hex-row {
-    clear: left;
-    height: 54px;
-  }
-
-  .hex {
-    float: left;
-    margin-bottom: -25px;
-    margin-right: -13px;
-
-    &:nth-child(2n) {
-      margin-top: 27px;
-    }
-
-    &.blue {
-      border-left-color: var(--blue);
-      border-right-color: var(--blue);
-
-      .middle {
-        background-color: var(--blue);
-      }
-
-      .middle-cover {
-        background-color: var(--blue);
-      }
-    }
-
-    &.gold {
-      border-left-color: var(--gold);
-      border-right-color: var(--gold);
-
-      .middle {
-        background-color: var(--gold);
-      }
-
-      .middle-cover {
-        background-color: var(--gold);
-      }
-    }
-
-    &.white {
-      border-left-color: var(--offwhite);
-      border-right-color: var(--offwhite);
-
-      .middle {
-        background-color: var(--offwhite);
-      }
-
-      .middle-cover {
-        background-color: var(--offwhite);
-      }
-    }
-
-    .left {
-      border-bottom: 26px solid transparent;
-      border-right: 15px solid;
-      border-top: 26px solid transparent;
-      float: left;
-      width: 0;
-    }
-
-    .middle {
-      float: left;
-      height: 52px;
-      position: relative;
-      width: 30px;
-    }
-
-    .middle-cover {
-      position: absolute;
-      top: 2px;
-      left: -1px;
-      width: 32px;
-      height: 48px;
-    }
-
-    .right {
-      border-bottom: 26px solid transparent;
-      border-left: 15px solid;
-      border-top: 26px solid transparent;
-      float: left;
-      width: 0;
-    }
-  }
-}
-
 .container-outer {
   display: table;
   height: 100%;
@@ -164,6 +48,8 @@ html, body {
     vertical-align: middle;
 
     .container-inner {
+      background-color: var(--offwhite);
+      color: var(--blue);
       height: 100vh;
       margin-left: auto;
       margin-right: auto;
@@ -229,11 +115,35 @@ html, body {
   text-align: center;
   width: 100%;
 
+  &.blue {
+    background-color: var(--blue);
+    color: var(--offwhite);
+  }
+
+  &.gold {
+    background-color: var(--gold);
+    color: var(--offwhite);
+  }
+
   &.active {
     display: inline-block;
   }
 
-  &.welcome {
+  table {
+    width: 100%;
+
+    td:nth-child(1) {
+      text-align: right;
+      padding-right: 5px;
+    }
+
+    td:nth-child(2) {
+      text-align: left;
+      padding-left: 5px;
+    }
+  }
+
+  &[data-name="welcome"] {
     background-color: var(--offwhite);
     font-size: 30px;
 
@@ -265,21 +175,119 @@ html, body {
   width: 400px;
 }
 
-.slide.practice-summary {
-  color: var(--offwhite);
-  background-color: var(--blue);
 
-  table {
-    width: 100%;
+.hex-container {
+  position: absolute;
+  top: 13px;
 
-    td:nth-child(1) {
-      text-align: right;
-      padding-right: 5px;
+  &.bottom {
+    bottom: 3px;
+    top: unset;
+
+    .hex {
+      margin-bottom: 2px;
     }
 
-    td:nth-child(2) {
-      text-align: left;
-      padding-left: 5px;
+    .hex:nth-child(2n) {
+      margin-top: -27px;
+    }
+  }
+
+  &.right {
+    position: absolute;
+    right: 18px;
+
+    .hex-row {
+      clear: right;
+
+      .hex {
+        float: right;
+      }
+    }
+  }
+
+  .hex-row {
+    clear: left;
+    height: 54px;
+  }
+
+  .hex {
+    float: left;
+    margin-bottom: -25px;
+    margin-right: -13px;
+
+    &:nth-child(2n) {
+      margin-top: 27px;
+    }
+
+    &[data-color="blue"] {
+      border-color: var(--blue);
+      color: var(--blue);
+
+      .middle {
+        background-color: var(--blue);
+      }
+
+      .middle-cover {
+        background-color: var(--blue);
+      }
+    }
+
+    &[data-color="gold"] {
+      border-color: var(--gold);
+      color: var(--gold);
+
+      .middle {
+        background-color: var(--gold);
+      }
+
+      .middle-cover {
+        background-color: var(--gold);
+      }
+    }
+
+    &[data-color="white"] {
+      border-color: var(--offwhite);
+      color: var(--offwhite);
+
+      .middle {
+        background-color: var(--offwhite);
+      }
+
+      .middle-cover {
+        background-color: var(--offwhite);
+      }
+    }
+
+    .left {
+      border-bottom: 26px solid transparent;
+      border-right: 15px solid;
+      border-top: 26px solid transparent;
+      float: left;
+      width: 0;
+    }
+
+    .middle {
+      float: left;
+      height: 52px;
+      position: relative;
+      width: 30px;
+    }
+
+    .middle-cover {
+      position: absolute;
+      top: 2px;
+      left: -1px;
+      width: 32px;
+      height: 48px;
+    }
+
+    .right {
+      border-bottom: 26px solid transparent;
+      border-left: 15px solid;
+      border-top: 26px solid transparent;
+      float: left;
+      width: 0;
     }
   }
 }
