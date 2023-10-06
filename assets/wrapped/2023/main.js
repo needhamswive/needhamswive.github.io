@@ -3,7 +3,15 @@ const hexDesignDefinitions = {
     "colors": ["blue", "blue", "blue", "gold"],
     "corners": {
       "top left": [5, 3, 1],
-      "bottom right": [2, 7],
+      "bottom right": [7, 5, 1],
+    }
+  },
+  "practice-summary": {
+    "colors": ["white", "white", "gold", "gold", "gold"],
+    "corners": {
+      "top left": [2, 1],
+      "top right": [4, 2, 1, 1],
+      "bottom left": [7, 5, 1],
     }
   },
 };
@@ -21,8 +29,9 @@ window.addEventListener("DOMContentLoaded", () => {
   progressBar = document.getElementsByClassName("progress")[0];
   progressBarStartTime = Date.now();
   slides = Array.from(document.getElementsByClassName("slide"));
-  activeSlideIndex = 0;
-  activeSlide = document.getElementsByClassName("active")[activeSlideIndex];
+  activeSlide = document.getElementsByClassName("active")[0] || slides[0];
+  activeSlide.classList.add("active");
+  activeSlideIndex = slides.indexOf(activeSlide);
   setupNavigation();
 
   hexTemplate = document.getElementById("hex-template");
@@ -55,7 +64,7 @@ function resetTimer() {
 function previousSlide() {
   const elapsedTime = Date.now() - progressBarStartTime;
   resetTimer();
-  if (elapsedTime < 1000 && activeSlideIndex > 0) {
+  if (elapsedTime < 2000 && activeSlideIndex > 0) {
     offsetSlide(-1);
   }
 }
@@ -96,11 +105,12 @@ function setupHexDesigns() {
       slide.appendChild(hexContainer);
       hexContainer.classList.add("hex-container");
 
-      if (corner.includes("bottom")) {
-        hexContainer.classList.add("bottom");
-      }
       if (corner.includes("right")) {
         hexContainer.classList.add("right");
+      }
+      if (corner.includes("bottom")) {
+        hexContainer.classList.add("bottom");
+        rowCounts.reverse();
       }
 
       for (count of rowCounts) {
