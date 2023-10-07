@@ -49,7 +49,10 @@ let activeSlideIndex;
 
 let hexTemplate;
 
-window.addEventListener("DOMContentLoaded", () => {
+const athletePath = location.origin + "/assets/wrapped/2023/athletes/jane-smith.json";
+let athlete = fetch(athletePath).then((response) => response.json());
+
+window.addEventListener("DOMContentLoaded", async () => {
   progressBar = document.getElementsByClassName("progress")[0];
   progressBarStartTime = Date.now();
   slides = Array
@@ -63,6 +66,10 @@ window.addEventListener("DOMContentLoaded", () => {
   hexTemplate = document.getElementById("hex-template");
   setupHexDesigns();
   // window.setInterval(animateHexes, 1000);
+
+  athlete = await athlete;
+  preprocessAthlete(athlete);
+  processAthlete();
 }, false);
 
 function setupNavigation() {
@@ -194,4 +201,27 @@ function getRandom(arr, n) {
     taken[x] = --len in taken ? taken[len] : len;
   }
   return result;
+}
+
+function preprocessAthlete(athlete) {
+  athlete.slides.push({
+    "name": "team-summary",
+  });
+}
+
+function processAthlete() {
+  const slideNameToMetadata = new Map(athlete.slides.map(slide => [slide.name, slide]));
+  slides = slides.filter(slide => slideNameToMetadata.has(slide.name));
+
+  for (const slide of slides) {
+    const metadata = slideNameToMetadata.get(slide.name);
+    const element = slide.element;
+
+    if (!metadata.replacements) {
+      continue;
+    }
+    for (const [replacementKey, replacementValue] of Object.entries(metadata.replacements)) {
+      element.querySelector(".replacement-" + replacementKey).innerHTML = replacementValue;
+    }
+  }
 }
