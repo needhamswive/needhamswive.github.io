@@ -25,8 +25,9 @@ const hexDesignDefinitions = {
   "team-summary": {
     "colors": ["blue", "blue", "blue", "gold"],
     "corners": {
-      "top right": [6, 5, 3, 1],
-      "bottom left": [7, 5, 1],
+      "top left": [2, 1],
+      "top right": [3, 1],
+      "bottom left": [5, 3],
     }
   },
   "practice-summary": {
@@ -54,14 +55,14 @@ window.addEventListener("DOMContentLoaded", () => {
   slides = Array
     .from(document.getElementsByClassName("slide"))
     .map(element => new Slide(element.dataset.name, element));
-  activeSlide = document.getElementsByClassName("active")[0] || slides[0];
+  activeSlide = slides.filter(slide => slide.element.classList.contains("active"))[0] || slides[0];
   activeSlide.element.classList.add("active");
   activeSlideIndex = slides.indexOf(activeSlide);
   setupNavigation();
 
   hexTemplate = document.getElementById("hex-template");
   setupHexDesigns();
-  window.setInterval(animateHexes, 1000);
+  // window.setInterval(animateHexes, 1000);
 }, false);
 
 function setupNavigation() {
@@ -76,7 +77,7 @@ function setupNavigation() {
     nextSlide();
   };
   progressBar.addEventListener("animationend", () => {
-    nextSlide();
+    // nextSlide();
   });
 }
 

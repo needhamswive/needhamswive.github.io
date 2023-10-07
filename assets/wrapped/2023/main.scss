@@ -8,10 +8,15 @@
 }
 
 html, body {
-  font-family: 'Figtree', sans-serif;
-  font-family: 'Roboto Flex', sans-serif;
+  font-family: "Figtree", "Roboto Flex", sans-serif;
+  font-size: 30px;
+  font-weight: 300;
   height: 100%;
   margin: unset;
+}
+
+b {
+  font-weight: 400;
 }
 
 .noselect {
@@ -23,16 +28,16 @@ html, body {
             user-select: none; /* Non-prefixed version, currently supported by Chrome, Edge, Opera and Firefox */
 }
 
-.bold {
-  font-weight: 500;
-}
-
 .blue {
   color: var(--blue);
 }
 
 .gold {
   color: var(--gold);
+}
+
+.font-small {
+  font-size: 24px;
 }
 
 .container-outer {
@@ -107,13 +112,11 @@ html, body {
 
 .slide {
   display: none;
-  font-size: 30px;
-  font-weight: 300;
-  height: calc(100% - 13px);
+  height: calc(100% - 18px);
   padding: 13px 5px 5px 5px;
   position: relative;
   text-align: center;
-  width: 100%;
+  width: calc(100% - 10px);
 
   &.blue {
     background-color: var(--blue);
@@ -135,17 +138,18 @@ html, body {
     td:nth-child(1) {
       text-align: right;
       padding-right: 5px;
+      width: 40%;
     }
 
     td:nth-child(2) {
       text-align: left;
       padding-left: 5px;
+      width: 60%;
     }
   }
 
   &[data-name="welcome"] {
     background-color: var(--offwhite);
-    font-size: 30px;
 
     img {
       height: 200px;
@@ -172,7 +176,7 @@ html, body {
   position: absolute;
   top: 50%;
   transform: translateX(-50%) translateY(-50%);
-  width: 400px;
+  width: 100%;
 }
 
 
