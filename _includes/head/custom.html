@@ -8,8 +8,8 @@
 <meta name="msapplication-TileColor" content="#2b5797">
 <meta name="theme-color" content="#ffffff">
 
-<!-- Add `{:target='_blank' rel='noopener noreferrer'}` -->
 <script>
+  <!-- Add `{:target='_blank' rel='noopener noreferrer'}` -->
   // https://stackoverflow.com/questions/807878/how-to-make-javascript-execute-after-page-load
   window.addEventListener('load', () => {
     // https://stackoverflow.com/questions/4425198/can-i-create-links-with-target-blank-in-markdown/8000171
@@ -23,8 +23,8 @@
   });
 </script>
 
-<!-- Disable full width tables -->
 {% if page.fullwidthtable != false %}
+  <!-- Disable full width tables -->
   <style>
     /* full width table */
     table {
@@ -35,4 +35,9 @@
       width: 1%;
     }
   </style>
+{% endif %}
+
+{% if page.no-robots %}
+  <!-- Stop robots -->
+  <meta name="robots" content="noindex, nofollow">
 {% endif %}

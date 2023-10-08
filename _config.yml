@@ -247,16 +247,11 @@ defaults:
       sidebar:
         nav: general
   - scope:
-      path: ""
-      type: posts
-    values:
-      layout: single
-      author_profile: false
-      read_time: true
-      sidebar:
-        nav: general
-  - scope:
       path: "archives"
     values:
       sidebar:
         nav: archives
+  - scope:
+      path: "wrapped"
+    values:
+      no-robots: true
