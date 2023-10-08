@@ -20,7 +20,7 @@ const hexDesignDefinitions = {
     "corners": {
       "top left": [5, 3, 1],
       "bottom right": [7, 5, 1],
-    }
+    },
   },
   "team-summary": {
     "colors": ["blue", "blue", "blue", "gold"],
@@ -28,7 +28,7 @@ const hexDesignDefinitions = {
       "top left": [2, 1],
       "top right": [3, 1],
       "bottom left": [5, 3],
-    }
+    },
   },
   "practice-summary": {
     "colors": ["white", "white", "gold", "gold", "gold"],
@@ -36,7 +36,7 @@ const hexDesignDefinitions = {
       "top left": [2, 1],
       "top right": [4, 2, 1, 1],
       "bottom left": [7, 5, 1],
-    }
+    },
   },
   "practice-summary-diver": {
     "colors": ["white", "white", "gold", "gold", "gold"],
@@ -44,7 +44,7 @@ const hexDesignDefinitions = {
       "top left": [2, 1],
       "top right": [4, 2, 1, 1],
       "bottom left": [7, 5, 1],
-    }
+    },
   },
 };
 
