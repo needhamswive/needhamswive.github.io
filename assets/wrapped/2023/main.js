@@ -49,7 +49,8 @@ let activeSlideIndex;
 
 let hexTemplate;
 
-const athletePath = location.origin + "/assets/wrapped/2023/athletes/jane-smith.json";
+const athleteName = new URLSearchParams(window.location.search).get("athlete") || "jane-smith";
+const athletePath = location.origin + `/assets/wrapped/2023/athletes/${athleteName}.json`;
 let athlete = fetch(athletePath).then((response) => response.json());
 
 window.addEventListener("DOMContentLoaded", async () => {

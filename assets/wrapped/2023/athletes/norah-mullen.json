@@ -1,0 +1,10 @@
+{
+  "slides": [
+    {
+      "name": "welcome",
+      "replacements": {
+        "name": "Norah Mullen"
+      }
+    }
+  ]
+}
