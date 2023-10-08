@@ -38,6 +38,14 @@ const hexDesignDefinitions = {
       "bottom left": [7, 5, 1],
     }
   },
+  "practice-summary-diver": {
+    "colors": ["white", "white", "gold", "gold", "gold"],
+    "corners": {
+      "top left": [2, 1],
+      "top right": [4, 2, 1, 1],
+      "bottom left": [7, 5, 1],
+    }
+  },
 };
 
 let progressBar;

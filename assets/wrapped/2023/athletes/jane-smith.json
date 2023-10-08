@@ -15,6 +15,13 @@
       }
     },
     {
+      "name": "practice-summary-diver",
+      "replacements": {
+        "practice-count": "56",
+        "practice-percentage": "56.78%"
+      }
+    },
+    {
       "name": "best-dives",
       "replacements": {
         "dive-number-1": "5225D",
