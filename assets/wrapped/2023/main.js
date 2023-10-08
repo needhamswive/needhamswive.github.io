@@ -85,7 +85,7 @@ function setupNavigation() {
     nextSlide();
   };
   progressBar.addEventListener("animationend", () => {
-    // nextSlide();
+    nextSlide();
   });
 }
 
@@ -222,7 +222,12 @@ function processAthlete() {
       continue;
     }
     for (const [replacementKey, replacementValue] of Object.entries(metadata.replacements)) {
-      element.querySelector(".replacement-" + replacementKey).innerHTML = replacementValue;
+      const placeholder = element.querySelector(".replacement-" + replacementKey);
+      if (placeholder === null) {
+        console.error("Unable to find placeholder with for key " + replacementKey);
+        continue;
+      }
+      placeholder.innerHTML = replacementValue;
     }
   }
 }

@@ -5,6 +5,35 @@
       "replacements": {
         "name": "Jane Smith"
       }
+    },
+    {
+      "name": "practice-summary",
+      "replacements": {
+        "practice-count": "24",
+        "yard-count": "123456",
+        "practice-percentage": "12.34%"
+      }
+    },
+    {
+      "name": "best-dives",
+      "replacements": {
+        "dive-number-1": "5225D",
+        "dive-score-1": 52.65,
+        "dive-number-2": "5223D",
+        "dive-score-2": 41.40,
+        "dive-number-3": "104C",
+        "dive-score-3": 39.60,
+        "dive-number-4": "5124D",
+        "dive-score-4": 37.95,
+        "dive-number-5": "403C",
+        "dive-score-5": 34.65
+      }
+    },
+    {
+      "name": "goodbye"
+    },
+    {
+      "name": "goodbye-senior"
     }
   ]
 }
