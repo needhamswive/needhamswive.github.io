@@ -14,15 +14,17 @@ class Slide {
   }
 }
 
-const hexDesignDefinitions = {
-  "welcome": {
+const hexDesignDefinitions = [
+  {
+    "slideNames": ["welcome"],
     "colors": ["blue", "blue", "blue", "gold"],
     "corners": {
       "top left": [5, 3, 1],
       "bottom right": [7, 5, 1],
     },
   },
-  "team-summary": {
+  {
+    "slideNames": ["team-summary"],
     "colors": ["blue", "blue", "blue", "gold"],
     "corners": {
       "top left": [2, 1],
@@ -30,23 +32,34 @@ const hexDesignDefinitions = {
       "bottom left": [5, 3],
     },
   },
-  "practice-summary": {
+  {
+    "slideNames": ["practice-summary", "practice-summary-diver"],
     "colors": ["white", "white", "gold", "gold", "gold"],
     "corners": {
-      "top left": [2, 1],
-      "top right": [4, 2, 1, 1],
-      "bottom left": [7, 5, 1],
+      "top left": [4, 2, 1, 1],
+      "top right": [2, 1],
+      "bottom left": [7, 3, 1],
     },
   },
-  "practice-summary-diver": {
-    "colors": ["white", "white", "gold", "gold", "gold"],
+  {
+    "slideNames": ["top-dives"],
+    "colors": ["blue", "gold", "gold", "gold"],
+    "corners": {
+      "top left": [4, 2, 1],
+      "bottom right": [4, 3, 1, 1],
+    },
+  },
+  {
+    "slideNames": ["goodbye", "goodbye-senior"],
+    "colors": ["blue", "gold"],
     "corners": {
       "top left": [2, 1],
-      "top right": [4, 2, 1, 1],
-      "bottom left": [7, 5, 1],
+      "top right": [2, 1],
+      "bottom left": [2, 1],
+      "bottom right": [2, 1],
     },
-  },
-};
+  }
+];
 
 let progressBar;
 let progressBarAnimation;
@@ -136,44 +149,46 @@ function offsetSlide(offset) {
 }
 
 function setupHexDesigns() {
-  for (const [slideName, designDefinition] of Object.entries(hexDesignDefinitions)) {
-    let slide = slides.filter(slide => slide.name === slideName)[0];
+  for (const designDefinition of hexDesignDefinitions) {
+    for (const slideName of designDefinition.slideNames) {
+      let slide = slides.filter(slide => slide.name === slideName)[0];
 
-    if (!slide) {
-      continue;
-    }
-
-    if (!designDefinition.corners) {
-      continue;
-    }
-
-    slide.hexColors = designDefinition.colors;
-    for (const [corner, rowCounts] of Object.entries(designDefinition.corners)) {
-      const hexContainer = document.createElement("div");
-      slide.element.appendChild(hexContainer);
-      hexContainer.classList.add("hex-container");
-
-      if (corner.includes("right")) {
-        hexContainer.classList.add("right");
-      }
-      if (corner.includes("bottom")) {
-        hexContainer.classList.add("bottom");
-        rowCounts.reverse();
+      if (!slide) {
+        continue;
       }
 
-      for (count of rowCounts) {
-        const hexRow = document.createElement("div");
-        hexRow.classList.add("hex-row");
-        hexContainer.appendChild(hexRow);
+      if (!designDefinition.corners) {
+        continue;
+      }
 
-        const hexes = Array(count).fill().map(_ => {
-          const hex = hexTemplate.content.cloneNode(true);
-          hex.children[0].dataset.color = slide.nextHexColor();
-          return hex;
-        });
+      slide.hexColors = designDefinition.colors;
+      for (let [corner, rowCounts] of Object.entries(designDefinition.corners)) {
+        const hexContainer = document.createElement("div");
+        slide.element.appendChild(hexContainer);
+        hexContainer.classList.add("hex-container");
 
-        hexRow.append(...hexes);
-        slide.hexElements.push(...Array.from(hexRow.querySelectorAll(".hex")));
+        if (corner.includes("right")) {
+          hexContainer.classList.add("right");
+        }
+        if (corner.includes("bottom")) {
+          hexContainer.classList.add("bottom");
+          rowCounts = rowCounts.slice().reverse();
+        }
+
+        for (count of rowCounts) {
+          const hexRow = document.createElement("div");
+          hexRow.classList.add("hex-row");
+          hexContainer.appendChild(hexRow);
+
+          const hexes = Array(count).fill().map(_ => {
+            const hex = hexTemplate.content.cloneNode(true);
+            hex.children[0].dataset.color = slide.nextHexColor();
+            return hex;
+          });
+
+          hexRow.append(...hexes);
+          slide.hexElements.push(...Array.from(hexRow.querySelectorAll(".hex")));
+        }
       }
     }
   }
