@@ -5,6 +5,17 @@
       "replacements": {
         "name": "Nora Horton"
       }
+    },
+    {
+      "name": "practice-summary",
+      "replacements": {
+        "practice-count": 28,
+        "total-yardage": "73000",
+        "practice-percentage": "87.50%"
+      }
+    },
+    {
+      "name": "goodbye"
     }
   ]
 }

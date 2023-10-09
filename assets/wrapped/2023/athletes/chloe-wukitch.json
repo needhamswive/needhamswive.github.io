@@ -5,6 +5,17 @@
       "replacements": {
         "name": "Chloe Wukitch"
       }
+    },
+    {
+      "name": "practice-summary",
+      "replacements": {
+        "practice-count": 27,
+        "total-yardage": "63350",
+        "practice-percentage": "84.38%"
+      }
+    },
+    {
+      "name": "goodbye-senior"
     }
   ]
 }

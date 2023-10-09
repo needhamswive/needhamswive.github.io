@@ -5,6 +5,17 @@
       "replacements": {
         "name": "Sophie Guarrera"
       }
+    },
+    {
+      "name": "practice-summary",
+      "replacements": {
+        "practice-count": 31,
+        "total-yardage": "82750",
+        "practice-percentage": "96.88%"
+      }
+    },
+    {
+      "name": "goodbye-senior"
     }
   ]
 }

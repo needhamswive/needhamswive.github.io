@@ -5,6 +5,17 @@
       "replacements": {
         "name": "Tessa Jones"
       }
+    },
+    {
+      "name": "practice-summary",
+      "replacements": {
+        "practice-count": 25,
+        "total-yardage": "73450",
+        "practice-percentage": "78.13%"
+      }
+    },
+    {
+      "name": "goodbye"
     }
   ]
 }

@@ -9,7 +9,7 @@
     {
       "name": "practice-summary",
       "replacements": {
-        "practice-count": "24",
+        "practice-count": 24,
         "total-yardage": "123456",
         "practice-percentage": "12.34%"
       }
@@ -17,23 +17,23 @@
     {
       "name": "practice-summary-diver",
       "replacements": {
-        "practice-count": "56",
+        "practice-count": 56,
         "practice-percentage": "56.78%"
       }
     },
     {
-      "name": "best-dives",
+      "name": "top-dives",
       "replacements": {
         "dive-number-1": "5225D",
-        "dive-score-1": 52.65,
+        "dive-score-1": "52.65",
         "dive-number-2": "5223D",
-        "dive-score-2": 41.40,
+        "dive-score-2": "41.40",
         "dive-number-3": "104C",
-        "dive-score-3": 39.60,
+        "dive-score-3": "39.60",
         "dive-number-4": "5124D",
-        "dive-score-4": 37.95,
+        "dive-score-4": "37.95",
         "dive-number-5": "403C",
-        "dive-score-5": 34.65
+        "dive-score-5": "34.65"
       }
     },
     {

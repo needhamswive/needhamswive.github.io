@@ -5,6 +5,17 @@
       "replacements": {
         "name": "Ori Fux"
       }
+    },
+    {
+      "name": "practice-summary",
+      "replacements": {
+        "practice-count": 29,
+        "total-yardage": "79150",
+        "practice-percentage": "90.63%"
+      }
+    },
+    {
+      "name": "goodbye-senior"
     }
   ]
 }

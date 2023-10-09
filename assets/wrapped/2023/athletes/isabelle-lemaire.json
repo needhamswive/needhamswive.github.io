@@ -5,6 +5,31 @@
       "replacements": {
         "name": "Izzy Lemaire"
       }
+    },
+    {
+      "name": "practice-summary-diver",
+      "replacements": {
+        "practice-count": 20,
+        "practice-percentage": "95.24%"
+      }
+    },
+    {
+      "name": "top-dives",
+      "replacements": {
+        "dive-number-1": "104C",
+        "dive-score-1": "42.90",
+        "dive-number-2": "403C",
+        "dive-score-2": "37.95",
+        "dive-number-3": "103B",
+        "dive-score-3": "32.30",
+        "dive-number-4": "5122D",
+        "dive-score-4": "32.30",
+        "dive-number-5": "202A",
+        "dive-score-5": "31.88"
+      }
+    },
+    {
+      "name": "goodbye"
     }
   ]
 }

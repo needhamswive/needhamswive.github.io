@@ -5,6 +5,17 @@
       "replacements": {
         "name": "Kelly McFarland"
       }
+    },
+    {
+      "name": "practice-summary",
+      "replacements": {
+        "practice-count": 22,
+        "total-yardage": "71750",
+        "practice-percentage": "68.75%"
+      }
+    },
+    {
+      "name": "goodbye"
     }
   ]
 }

@@ -5,6 +5,17 @@
       "replacements": {
         "name": "Paige Ingrando"
       }
+    },
+    {
+      "name": "practice-summary",
+      "replacements": {
+        "practice-count": 31,
+        "total-yardage": "77750",
+        "practice-percentage": "96.88%"
+      }
+    },
+    {
+      "name": "goodbye"
     }
   ]
 }

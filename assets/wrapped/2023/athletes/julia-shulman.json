@@ -5,6 +5,17 @@
       "replacements": {
         "name": "Julia Shulman"
       }
+    },
+    {
+      "name": "practice-summary",
+      "replacements": {
+        "practice-count": 29,
+        "total-yardage": "79200",
+        "practice-percentage": "90.63%"
+      }
+    },
+    {
+      "name": "goodbye-senior"
     }
   ]
 }

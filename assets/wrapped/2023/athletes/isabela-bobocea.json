@@ -5,6 +5,17 @@
       "replacements": {
         "name": "Ella Bobocea"
       }
+    },
+    {
+      "name": "practice-summary",
+      "replacements": {
+        "practice-count": 22,
+        "total-yardage": "51350",
+        "practice-percentage": "68.75%"
+      }
+    },
+    {
+      "name": "goodbye-senior"
     }
   ]
 }

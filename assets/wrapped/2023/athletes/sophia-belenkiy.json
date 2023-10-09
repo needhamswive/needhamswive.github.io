@@ -5,6 +5,17 @@
       "replacements": {
         "name": "Sophia Belenkiy"
       }
+    },
+    {
+      "name": "practice-summary",
+      "replacements": {
+        "practice-count": 25,
+        "total-yardage": "63550",
+        "practice-percentage": "78.13%"
+      }
+    },
+    {
+      "name": "goodbye"
     }
   ]
 }

@@ -5,6 +5,17 @@
       "replacements": {
         "name": "Emma Zhang"
       }
+    },
+    {
+      "name": "practice-summary",
+      "replacements": {
+        "practice-count": 26,
+        "total-yardage": "68400",
+        "practice-percentage": "81.25%"
+      }
+    },
+    {
+      "name": "goodbye"
     }
   ]
 }

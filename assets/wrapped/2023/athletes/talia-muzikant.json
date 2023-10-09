@@ -5,6 +5,31 @@
       "replacements": {
         "name": "Talia Muzikant"
       }
+    },
+    {
+      "name": "practice-summary-diver",
+      "replacements": {
+        "practice-count": 18,
+        "practice-percentage": "85.71%"
+      }
+    },
+    {
+      "name": "top-dives",
+      "replacements": {
+        "dive-number-1": "104C",
+        "dive-score-1": "28.60",
+        "dive-number-2": "5221D",
+        "dive-score-2": "28.05",
+        "dive-number-3": "202A",
+        "dive-score-3": "28.05",
+        "dive-number-4": "103B",
+        "dive-score-4": "25.50",
+        "dive-number-5": "201A",
+        "dive-score-5": "25.50"
+      }
+    },
+    {
+      "name": "goodbye"
     }
   ]
 }

@@ -5,6 +5,31 @@
       "replacements": {
         "name": "Courtney Tobin"
       }
+    },
+    {
+      "name": "practice-summary-diver",
+      "replacements": {
+        "practice-count": 18,
+        "practice-percentage": "85.71%"
+      }
+    },
+    {
+      "name": "top-dives",
+      "replacements": {
+        "dive-number-1": "301C",
+        "dive-score-1": "31.20",
+        "dive-number-2": "103C",
+        "dive-score-2": "29.60",
+        "dive-number-3": "402C",
+        "dive-score-3": "28.80",
+        "dive-number-4": "5122D",
+        "dive-score-4": "28.50",
+        "dive-number-5": "201C",
+        "dive-score-5": "28.12"
+      }
+    },
+    {
+      "name": "goodbye"
     }
   ]
 }

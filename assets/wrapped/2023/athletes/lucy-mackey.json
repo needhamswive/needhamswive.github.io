@@ -5,6 +5,17 @@
       "replacements": {
         "name": "Lucy Mackey"
       }
+    },
+    {
+      "name": "practice-summary",
+      "replacements": {
+        "practice-count": 30,
+        "total-yardage": "78250",
+        "practice-percentage": "93.75%"
+      }
+    },
+    {
+      "name": "goodbye-senior"
     }
   ]
 }

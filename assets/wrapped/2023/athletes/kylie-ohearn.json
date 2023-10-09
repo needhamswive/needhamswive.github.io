@@ -5,6 +5,17 @@
       "replacements": {
         "name": "Kylie O'Hearn"
       }
+    },
+    {
+      "name": "practice-summary",
+      "replacements": {
+        "practice-count": 30,
+        "total-yardage": "82750",
+        "practice-percentage": "93.75%"
+      }
+    },
+    {
+      "name": "goodbye-senior"
     }
   ]
 }

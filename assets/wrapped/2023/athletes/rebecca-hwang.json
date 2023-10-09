@@ -5,6 +5,17 @@
       "replacements": {
         "name": "Becky Hwang"
       }
+    },
+    {
+      "name": "practice-summary",
+      "replacements": {
+        "practice-count": 29,
+        "total-yardage": "74200",
+        "practice-percentage": "90.63%"
+      }
+    },
+    {
+      "name": "goodbye"
     }
   ]
 }

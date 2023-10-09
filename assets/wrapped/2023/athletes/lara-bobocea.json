@@ -5,6 +5,17 @@
       "replacements": {
         "name": "Lara Bobocea"
       }
+    },
+    {
+      "name": "practice-summary",
+      "replacements": {
+        "practice-count": 19,
+        "total-yardage": "45750",
+        "practice-percentage": "59.38%"
+      }
+    },
+    {
+      "name": "goodbye"
     }
   ]
 }

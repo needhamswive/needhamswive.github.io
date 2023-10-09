@@ -5,6 +5,17 @@
       "replacements": {
         "name": "Genevieve Smith"
       }
+    },
+    {
+      "name": "practice-summary",
+      "replacements": {
+        "practice-count": 32,
+        "total-yardage": "82750",
+        "practice-percentage": "100.00%"
+      }
+    },
+    {
+      "name": "goodbye"
     }
   ]
 }

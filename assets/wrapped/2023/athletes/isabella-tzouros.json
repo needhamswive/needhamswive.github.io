@@ -5,6 +5,17 @@
       "replacements": {
         "name": "Bella Tzouros"
       }
+    },
+    {
+      "name": "practice-summary",
+      "replacements": {
+        "practice-count": 23,
+        "total-yardage": "41150",
+        "practice-percentage": "71.88%"
+      }
+    },
+    {
+      "name": "goodbye"
     }
   ]
 }

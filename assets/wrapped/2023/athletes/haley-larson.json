@@ -5,6 +5,29 @@
       "replacements": {
         "name": "Haley Larson"
       }
+    },
+    {
+      "name": "practice-summary-diver",
+      "replacements": {
+        "practice-count": 21,
+        "practice-percentage": "100.00%"
+      }
+    },
+    {
+      "name": "top-dives",
+      "replacements": {
+        "dive-number-1": "201A",
+        "dive-score-1": "22.95",
+        "dive-number-2": "5211A",
+        "dive-score-2": "21.60",
+        "dive-number-3": "401C",
+        "dive-score-3": "19.95",
+        "dive-number-4": "101C",
+        "dive-score-4": "14.40"
+      }
+    },
+    {
+      "name": "goodbye"
     }
   ]
 }
