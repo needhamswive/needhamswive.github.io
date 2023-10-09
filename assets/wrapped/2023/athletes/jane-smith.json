@@ -10,7 +10,7 @@
       "name": "practice-summary",
       "replacements": {
         "practice-count": "24",
-        "yard-count": "123456",
+        "total-yardage": "123456",
         "practice-percentage": "12.34%"
       }
     },
