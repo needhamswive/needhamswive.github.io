@@ -29,7 +29,7 @@
           "name": "sectionals-qualified-event",
           "sets": [
             {
-              "event": "200 medley"
+              "event": "200 IM"
             }
           ]
         },
@@ -37,16 +37,16 @@
           "name": "states-qualified-event",
           "sets": [
             {
-              "event": "100 fly"
+              "event": "100 Butterfly"
             },
             {
-              "event": "100 back"
+              "event": "100 Backstroke"
             }
           ]
         }
       ],
       "visible": [
-        "total-points",
+        "scored-points",
         "sectionals-qualified-events",
         "states-qualified-events"
       ]

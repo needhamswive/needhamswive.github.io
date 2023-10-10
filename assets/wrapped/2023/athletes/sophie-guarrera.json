@@ -29,7 +29,7 @@
           "name": "sectionals-qualified-event",
           "sets": [
             {
-              "event": "50 free"
+              "event": "50 Freestyle"
             }
           ]
         },
@@ -37,16 +37,16 @@
           "name": "states-qualified-event",
           "sets": [
             {
-              "event": "100 fly"
+              "event": "200 Freestyle"
             },
             {
-              "event": "200 free"
+              "event": "100 Butterfly"
             }
           ]
         }
       ],
       "visible": [
-        "total-points",
+        "scored-points",
         "sectionals-qualified-events",
         "states-qualified-events"
       ]

@@ -22,14 +22,14 @@
       "basicReplacements": {
         "individual-swim-count": 11,
         "relay-swim-count": 13,
-        "total-points": "74.0"
+        "total-points": "74"
       },
       "templateReplacements": [
         {
           "name": "sectionals-qualified-event",
           "sets": [
             {
-              "event": "100 breast"
+              "event": "100 Breaststroke"
             }
           ]
         },
@@ -37,22 +37,22 @@
           "name": "states-qualified-event",
           "sets": [
             {
-              "event": "200 medley"
+              "event": "200 IM"
             },
             {
-              "event": "100 fly"
+              "event": "50 Freestyle"
             },
             {
-              "event": "100 free"
+              "event": "100 Butterfly"
             },
             {
-              "event": "50 free"
+              "event": "100 Freestyle"
             }
           ]
         }
       ],
       "visible": [
-        "total-points",
+        "scored-points",
         "sectionals-qualified-events",
         "states-qualified-events"
       ]

@@ -22,7 +22,10 @@
       "basicReplacements": {
         "individual-swim-count": 9,
         "relay-swim-count": 2
-      }
+      },
+      "visible": [
+        "no-points"
+      ]
     },
     {
       "name": "goodbye"

@@ -29,13 +29,13 @@
           "name": "sectionals-qualified-event",
           "sets": [
             {
-              "event": "100 fly"
+              "event": "100 Butterfly"
             }
           ]
         }
       ],
       "visible": [
-        "total-points",
+        "scored-points",
         "sectionals-qualified-events"
       ]
     },

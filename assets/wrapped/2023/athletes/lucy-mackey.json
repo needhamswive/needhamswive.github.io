@@ -29,25 +29,25 @@
           "name": "states-qualified-event",
           "sets": [
             {
-              "event": "500 free"
+              "event": "200 Freestyle"
             },
             {
-              "event": "100 back"
+              "event": "50 Freestyle"
             },
             {
-              "event": "100 free"
+              "event": "100 Freestyle"
             },
             {
-              "event": "200 free"
+              "event": "500 Freestyle"
             },
             {
-              "event": "50 free"
+              "event": "100 Backstroke"
             }
           ]
         }
       ],
       "visible": [
-        "total-points",
+        "scored-points",
         "states-qualified-events"
       ]
     },

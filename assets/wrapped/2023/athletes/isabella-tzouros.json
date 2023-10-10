@@ -29,16 +29,16 @@
           "name": "sectionals-qualified-event",
           "sets": [
             {
-              "event": "100 breast"
+              "event": "200 Freestyle"
             },
             {
-              "event": "200 free"
+              "event": "100 Breaststroke"
             }
           ]
         }
       ],
       "visible": [
-        "total-points",
+        "scored-points",
         "sectionals-qualified-events"
       ]
     },

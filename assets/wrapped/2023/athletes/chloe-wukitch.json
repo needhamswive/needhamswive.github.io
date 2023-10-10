@@ -22,32 +22,32 @@
       "basicReplacements": {
         "individual-swim-count": 11,
         "relay-swim-count": 13,
-        "total-points": "78.0"
+        "total-points": "78"
       },
       "templateReplacements": [
         {
           "name": "states-qualified-event",
           "sets": [
             {
-              "event": "500 free"
+              "event": "200 Freestyle"
             },
             {
-              "event": "100 back"
+              "event": "50 Freestyle"
             },
             {
-              "event": "200 free"
+              "event": "100 Butterfly"
             },
             {
-              "event": "50 free"
+              "event": "500 Freestyle"
             },
             {
-              "event": "100 fly"
+              "event": "100 Backstroke"
             }
           ]
         }
       ],
       "visible": [
-        "total-points",
+        "scored-points",
         "states-qualified-events"
       ]
     },

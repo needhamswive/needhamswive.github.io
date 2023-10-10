@@ -22,10 +22,10 @@
       "basicReplacements": {
         "individual-swim-count": 6,
         "relay-swim-count": 9,
-        "total-points": "1.0"
+        "total-points": "1"
       },
       "visible": [
-        "total-points"
+        "scored-points"
       ]
     },
     {

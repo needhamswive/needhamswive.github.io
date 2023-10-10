@@ -5,6 +5,18 @@ from collections import OrderedDict
 from typing import Any, Callable
 
 
+SWIM_EVENT_ORDER = OrderedDict([
+    ("200 free", "200 Freestyle"),
+    ("200 medley", "200 IM"),
+    ("50 free", "50 Freestyle"),
+    ("100 fly", "100 Butterfly"),
+    ("100 free", "100 Freestyle"),
+    ("500 free", "500 Freestyle"),
+    ("100 back", "100 Backstroke"),
+    ("100 breast", "100 Breaststroke"),
+])
+
+
 class Table:
     def __init__(self, path: str, columns: set[str]) -> None:
         self.rows = []
@@ -45,8 +57,8 @@ class Athlete:
         self.grade = grade
         self.meets = set()
         self.points = 0
-        self.sectionals_events = set()
-        self.states_events = set()
+        self.sectionals_events = []
+        self.states_events = []
 
     def __str__(self) -> str:
         return (
@@ -104,9 +116,11 @@ class Athlete:
                 ]))
             ]))
             if self.points > 0:
-                slides[-1]["basicReplacements"]["total-points"] = f"{self.points}"
-                visible.append("total-points")
-            sectionals_only_events = self.sectionals_events - self.states_events
+                slides[-1]["basicReplacements"]["total-points"] = f"{self.points:g}"
+                visible.append("scored-points")
+            else:
+                visible.append("no-points")
+            sectionals_only_events = list(filter(lambda event: event not in self.states_events, self.sectionals_events))
             template_replacements = []
             if sectionals_only_events:
                 template_replacements.append(
@@ -114,7 +128,7 @@ class Athlete:
                         ("name", "sectionals-qualified-event"),
                         ("sets", [
                             OrderedDict([
-                                ("event", event),
+                                ("event", SWIM_EVENT_ORDER[event]),
                             ]) for event in sectionals_only_events
                         ]),
                     ])
@@ -126,7 +140,7 @@ class Athlete:
                         ("name", "states-qualified-event"),
                         ("sets", [
                             OrderedDict([
-                                ("event", event),
+                                ("event", SWIM_EVENT_ORDER[event]),
                             ]) for event in self.states_events
                         ]),
                     ])
@@ -193,8 +207,10 @@ class Athlete:
         for swim in self.swims:
             if swim.points:
                 self.points += float(swim.points)
-        self.sectionals_events.update(map(lambda swim: swim.event, filter(lambda swim: swim.sectionals_qualifier == "TRUE", self.swims)))
-        self.states_events.update(map(lambda swim: swim.event, filter(lambda swim: swim.states_qualifier == "TRUE", self.swims)))
+        self.sectionals_events.extend(set(map(lambda swim: swim.event, filter(lambda swim: swim.sectionals_qualifier == "TRUE", self.swims))))
+        self.states_events.extend(set(map(lambda swim: swim.event, filter(lambda swim: swim.states_qualifier == "TRUE", self.swims))))
+        self.sectionals_events.sort(key=lambda event: list(SWIM_EVENT_ORDER.keys()).index(event))
+        self.states_events.sort(key=lambda event: list(SWIM_EVENT_ORDER.keys()).index(event))
 
     def set_individual_dive_results(self, individual_dive_results_table) -> None:
         if not self.diver:
@@ -222,7 +238,6 @@ class IndividualDiveResult:
 class OverallDiveResult:
     def __init__(self, row: TableRow) -> None:
         self.meet = row.meet
-
 
 
 def main() -> None:
