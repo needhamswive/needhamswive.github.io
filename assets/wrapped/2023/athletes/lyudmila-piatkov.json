@@ -2,17 +2,20 @@
   "slides": [
     {
       "name": "welcome",
-      "replacements": {
+      "basicReplacements": {
         "name": "Mila Piatkov"
       }
     },
     {
       "name": "practice-summary",
-      "replacements": {
+      "basicReplacements": {
         "practice-count": 29,
-        "total-yardage": "74700",
-        "practice-percentage": "90.63%"
-      }
+        "practice-percentage": "90.63%",
+        "total-yardage": "74700"
+      },
+      "visible": [
+        "total-yardage"
+      ]
     },
     {
       "name": "goodbye"

@@ -2,17 +2,20 @@
   "slides": [
     {
       "name": "welcome",
-      "replacements": {
+      "basicReplacements": {
         "name": "Kelly McFarland"
       }
     },
     {
       "name": "practice-summary",
-      "replacements": {
+      "basicReplacements": {
         "practice-count": 22,
-        "total-yardage": "71750",
-        "practice-percentage": "68.75%"
-      }
+        "practice-percentage": "68.75%",
+        "total-yardage": "71750"
+      },
+      "visible": [
+        "total-yardage"
+      ]
     },
     {
       "name": "goodbye"

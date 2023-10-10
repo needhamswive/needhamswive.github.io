@@ -2,17 +2,20 @@
   "slides": [
     {
       "name": "welcome",
-      "replacements": {
+      "basicReplacements": {
         "name": "Becky Hwang"
       }
     },
     {
       "name": "practice-summary",
-      "replacements": {
+      "basicReplacements": {
         "practice-count": 29,
-        "total-yardage": "74200",
-        "practice-percentage": "90.63%"
-      }
+        "practice-percentage": "90.63%",
+        "total-yardage": "74200"
+      },
+      "visible": [
+        "total-yardage"
+      ]
     },
     {
       "name": "goodbye"

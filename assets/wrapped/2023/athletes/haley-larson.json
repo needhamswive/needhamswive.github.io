@@ -2,29 +2,47 @@
   "slides": [
     {
       "name": "welcome",
-      "replacements": {
+      "basicReplacements": {
         "name": "Haley Larson"
       }
     },
     {
-      "name": "practice-summary-diver",
-      "replacements": {
+      "name": "practice-summary",
+      "basicReplacements": {
         "practice-count": 21,
         "practice-percentage": "100.00%"
       }
     },
     {
-      "name": "top-dives",
-      "replacements": {
-        "dive-number-1": "201A",
-        "dive-score-1": "22.95",
-        "dive-number-2": "5211A",
-        "dive-score-2": "21.60",
-        "dive-number-3": "401C",
-        "dive-score-3": "19.95",
-        "dive-number-4": "101C",
-        "dive-score-4": "14.40"
-      }
+      "name": "dives-summary",
+      "basicReplacements": {
+        "dive-count": 8,
+        "meet-count": 2,
+        "point-count": "TODO"
+      },
+      "templateReplacements": [
+        {
+          "name": "dive-number-and-score",
+          "sets": [
+            {
+              "dive-number": "201A",
+              "dive-score": "22.95"
+            },
+            {
+              "dive-number": "5211A",
+              "dive-score": "21.6"
+            },
+            {
+              "dive-number": "401C",
+              "dive-score": "19.95"
+            },
+            {
+              "dive-number": "101C",
+              "dive-score": "14.4"
+            }
+          ]
+        }
+      ]
     },
     {
       "name": "goodbye"

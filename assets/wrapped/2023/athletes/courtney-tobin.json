@@ -2,31 +2,51 @@
   "slides": [
     {
       "name": "welcome",
-      "replacements": {
+      "basicReplacements": {
         "name": "Courtney Tobin"
       }
     },
     {
-      "name": "practice-summary-diver",
-      "replacements": {
+      "name": "practice-summary",
+      "basicReplacements": {
         "practice-count": 18,
         "practice-percentage": "85.71%"
       }
     },
     {
-      "name": "top-dives",
-      "replacements": {
-        "dive-number-1": "301C",
-        "dive-score-1": "31.20",
-        "dive-number-2": "103C",
-        "dive-score-2": "29.60",
-        "dive-number-3": "402C",
-        "dive-score-3": "28.80",
-        "dive-number-4": "5122D",
-        "dive-score-4": "28.50",
-        "dive-number-5": "201C",
-        "dive-score-5": "28.12"
-      }
+      "name": "dives-summary",
+      "basicReplacements": {
+        "dive-count": 30,
+        "meet-count": 5,
+        "point-count": "TODO"
+      },
+      "templateReplacements": [
+        {
+          "name": "dive-number-and-score",
+          "sets": [
+            {
+              "dive-number": "301C",
+              "dive-score": "31.2"
+            },
+            {
+              "dive-number": "103C",
+              "dive-score": "29.6"
+            },
+            {
+              "dive-number": "402C",
+              "dive-score": "28.8"
+            },
+            {
+              "dive-number": "5122D",
+              "dive-score": "28.5"
+            },
+            {
+              "dive-number": "201C",
+              "dive-score": "28.125"
+            }
+          ]
+        }
+      ]
     },
     {
       "name": "goodbye"

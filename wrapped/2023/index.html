@@ -89,75 +89,52 @@
 
         <div class="slide blue" data-name="practice-summary">
           <div class="slide-content">
-            You attended <span class="gold"><b><span class="replacement-practice-count"></span></b></span> practices
+            You attended <b><span class="gold replacement-practice-count"></span></b> practices
+            <div class="hidden visible-total-yardage">
+              <br>
+              and swam <b><span class="gold replacement-total-yardage"></span></b> yards
+            </div>
             <br>
-            and swam <span class="gold"><b><span class="replacement-total-yardage"></span></b></span> yards
             <br>
-            <br>
-            That's a practice attendance of <span class="gold"><b><span class="replacement-practice-percentage"></span></b></span>!
+            That's a practice attendance of <b><span class="gold replacement-practice-percentage"></span></b>!
           </div>
         </div>
 
-        <div class="slide blue" data-name="practice-summary-diver">
+        <div class="slide" data-name="swims-summary">
           <div class="slide-content">
-            You attended <span class="gold"><b><span class="replacement-practice-count"></span></b></span> practices
+            You swam in
             <br>
+            <span class="gold"><b>24</b></span> individual events
             <br>
-            That's a practice attendance of <span class="gold"><b><span class="replacement-practice-percentage"></span></b></span>!
+            and <span class="gold"><b>24</b></span> relays,
+            <br>
+            scoring <span class="gold"><b>24</b></span> points!
+            <br>
           </div>
         </div>
 
-        <div class="slide" data-name="top-dives">
+        <div class="slide" data-name="dives-summary">
           <div class="slide-content">
+            You dove <span class="gold replacement-dive-count"></span> dives at <span class="gold replacement-meet-count"></span> meets
+            <br>
+            and scored <span class="gold replacement-point-count"></span> points!
+            <br>
+            <br>
             Your highest scoring dives were
             <br>
             <br>
             <table id="best-dives" class="font-small">
-              <tr>
-                <td class="gold">
-                  <span class="replacement-dive-number-1"></span>
-                </td>
-                <td>
-                  <span class="replacement-dive-score-1"></span>
-                  points
-                </td>
-              </tr>
-              <tr>
-                <td class="gold">
-                  <span class="replacement-dive-number-2"></span>
-                </td>
-                <td>
-                  <span class="replacement-dive-score-2"></span>
-                  points
-                </td>
-              </tr>
-              <tr>
-                <td class="gold">
-                  <span class="replacement-dive-number-3"></span>
-                </td>
-                <td>
-                  <span class="replacement-dive-score-3"></span>
-                  points
-                </td>
-              </tr>
-              <tr>
-                <td class="gold">
-                  <span class="replacement-dive-number-4"></span>
-                </td>
-                <td>
-                  <span class="replacement-dive-score-4"></span>
-                  points
-                </td>
-              </tr>
-              <tr>
-                <td class="gold">
-                  <span class="replacement-dive-number-5"></span>
-                </td>
-                <td>
-                  <span class="replacement-dive-score-5"></span>
-                  points
-                </td>
-              </tr>
+              <template class="template-dive-number-and-score">
+                <tr>
+                  <td class="gold">
+                    <span class="replacement-dive-number"></span>
+                  </td>
+                  <td>
+                    <span class="replacement-dive-score"></span>
+                    points
+                  </td>
+                </tr>
+              </template>
             </table>
           </div>
         </div>

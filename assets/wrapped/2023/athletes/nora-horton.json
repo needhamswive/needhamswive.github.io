@@ -2,17 +2,20 @@
   "slides": [
     {
       "name": "welcome",
-      "replacements": {
+      "basicReplacements": {
         "name": "Nora Horton"
       }
     },
     {
       "name": "practice-summary",
-      "replacements": {
+      "basicReplacements": {
         "practice-count": 28,
-        "total-yardage": "73000",
-        "practice-percentage": "87.50%"
-      }
+        "practice-percentage": "87.50%",
+        "total-yardage": "73000"
+      },
+      "visible": [
+        "total-yardage"
+      ]
     },
     {
       "name": "goodbye"

@@ -2,17 +2,20 @@
   "slides": [
     {
       "name": "welcome",
-      "replacements": {
+      "basicReplacements": {
         "name": "Bella Tzouros"
       }
     },
     {
       "name": "practice-summary",
-      "replacements": {
+      "basicReplacements": {
         "practice-count": 23,
-        "total-yardage": "41150",
-        "practice-percentage": "71.88%"
-      }
+        "practice-percentage": "71.88%",
+        "total-yardage": "41150"
+      },
+      "visible": [
+        "total-yardage"
+      ]
     },
     {
       "name": "goodbye"

@@ -2,17 +2,20 @@
   "slides": [
     {
       "name": "welcome",
-      "replacements": {
+      "basicReplacements": {
         "name": "Natalie Guarrera"
       }
     },
     {
       "name": "practice-summary",
-      "replacements": {
+      "basicReplacements": {
         "practice-count": 31,
-        "total-yardage": "82750",
-        "practice-percentage": "96.88%"
-      }
+        "practice-percentage": "96.88%",
+        "total-yardage": "82750"
+      },
+      "visible": [
+        "total-yardage"
+      ]
     },
     {
       "name": "goodbye"

@@ -2,31 +2,51 @@
   "slides": [
     {
       "name": "welcome",
-      "replacements": {
+      "basicReplacements": {
         "name": "Lucy Aswad"
       }
     },
     {
-      "name": "practice-summary-diver",
-      "replacements": {
+      "name": "practice-summary",
+      "basicReplacements": {
         "practice-count": 21,
         "practice-percentage": "100.00%"
       }
     },
     {
-      "name": "top-dives",
-      "replacements": {
-        "dive-number-1": "5225D",
-        "dive-score-1": "52.65",
-        "dive-number-2": "5223D",
-        "dive-score-2": "41.40",
-        "dive-number-3": "104C",
-        "dive-score-3": "39.60",
-        "dive-number-4": "5124D",
-        "dive-score-4": "37.95",
-        "dive-number-5": "403C",
-        "dive-score-5": "34.65"
-      }
+      "name": "dives-summary",
+      "basicReplacements": {
+        "dive-count": 36,
+        "meet-count": 6,
+        "point-count": "TODO"
+      },
+      "templateReplacements": [
+        {
+          "name": "dive-number-and-score",
+          "sets": [
+            {
+              "dive-number": "5225D",
+              "dive-score": "52.65"
+            },
+            {
+              "dive-number": "5223D",
+              "dive-score": "41.4"
+            },
+            {
+              "dive-number": "104C",
+              "dive-score": "39.6"
+            },
+            {
+              "dive-number": "5124D",
+              "dive-score": "37.95"
+            },
+            {
+              "dive-number": "403C",
+              "dive-score": "34.65"
+            }
+          ]
+        }
+      ]
     },
     {
       "name": "goodbye"

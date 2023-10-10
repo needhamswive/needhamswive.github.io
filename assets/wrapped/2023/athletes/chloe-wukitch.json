@@ -2,17 +2,20 @@
   "slides": [
     {
       "name": "welcome",
-      "replacements": {
+      "basicReplacements": {
         "name": "Chloe Wukitch"
       }
     },
     {
       "name": "practice-summary",
-      "replacements": {
+      "basicReplacements": {
         "practice-count": 27,
-        "total-yardage": "63350",
-        "practice-percentage": "84.38%"
-      }
+        "practice-percentage": "84.38%",
+        "total-yardage": "63350"
+      },
+      "visible": [
+        "total-yardage"
+      ]
     },
     {
       "name": "goodbye-senior"

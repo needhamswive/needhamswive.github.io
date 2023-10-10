@@ -2,17 +2,20 @@
   "slides": [
     {
       "name": "welcome",
-      "replacements": {
+      "basicReplacements": {
         "name": "Lara Bobocea"
       }
     },
     {
       "name": "practice-summary",
-      "replacements": {
+      "basicReplacements": {
         "practice-count": 19,
-        "total-yardage": "45750",
-        "practice-percentage": "59.38%"
-      }
+        "practice-percentage": "59.38%",
+        "total-yardage": "45750"
+      },
+      "visible": [
+        "total-yardage"
+      ]
     },
     {
       "name": "goodbye"

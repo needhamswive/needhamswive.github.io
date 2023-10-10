@@ -2,17 +2,20 @@
   "slides": [
     {
       "name": "welcome",
-      "replacements": {
+      "basicReplacements": {
         "name": "Norah Mullen"
       }
     },
     {
       "name": "practice-summary",
-      "replacements": {
+      "basicReplacements": {
         "practice-count": 29,
-        "total-yardage": "77950",
-        "practice-percentage": "90.63%"
-      }
+        "practice-percentage": "90.63%",
+        "total-yardage": "77950"
+      },
+      "visible": [
+        "total-yardage"
+      ]
     },
     {
       "name": "goodbye"

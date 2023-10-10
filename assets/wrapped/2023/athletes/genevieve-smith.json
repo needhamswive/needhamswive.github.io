@@ -2,17 +2,20 @@
   "slides": [
     {
       "name": "welcome",
-      "replacements": {
+      "basicReplacements": {
         "name": "Genevieve Smith"
       }
     },
     {
       "name": "practice-summary",
-      "replacements": {
+      "basicReplacements": {
         "practice-count": 32,
-        "total-yardage": "82750",
-        "practice-percentage": "100.00%"
-      }
+        "practice-percentage": "100.00%",
+        "total-yardage": "82750"
+      },
+      "visible": [
+        "total-yardage"
+      ]
     },
     {
       "name": "goodbye"

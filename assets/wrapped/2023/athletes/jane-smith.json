@@ -2,39 +2,65 @@
   "slides": [
     {
       "name": "welcome",
-      "replacements": {
+      "basicReplacements": {
         "name": "Jane Smith"
       }
     },
     {
       "name": "practice-summary",
-      "replacements": {
+      "basicReplacements": {
         "practice-count": 24,
         "total-yardage": "123456",
         "practice-percentage": "12.34%"
-      }
+      },
+      "visible": [
+        "total-yardage"
+      ]
     },
     {
       "name": "practice-summary-diver",
-      "replacements": {
+      "basicReplacements": {
         "practice-count": 56,
         "practice-percentage": "56.78%"
       }
     },
     {
-      "name": "top-dives",
-      "replacements": {
-        "dive-number-1": "5225D",
-        "dive-score-1": "52.65",
-        "dive-number-2": "5223D",
-        "dive-score-2": "41.40",
-        "dive-number-3": "104C",
-        "dive-score-3": "39.60",
-        "dive-number-4": "5124D",
-        "dive-score-4": "37.95",
-        "dive-number-5": "403C",
-        "dive-score-5": "34.65"
-      }
+      "name": "swims-summary"
+    },
+    {
+      "name": "dives-summary",
+      "basicReplacements": {
+        "dive-count": 12,
+        "meet-count": 12,
+        "point-count": 12
+      },
+      "templateReplacements": [
+        {
+          "name": "dive-number-and-score",
+          "sets": [
+            {
+              "dive-number": "5225D",
+              "dive-score": "52.65"
+            },
+            {
+              "dive-number": "5223D",
+              "dive-score": "41.40"
+            },
+            {
+              "dive-number": "104C",
+              "dive-score": "39.60"
+            },
+            {
+              "dive-number": "5124D",
+              "dive-score": "37.95"
+            },
+            {
+              "dive-number": "403C",
+              "dive-score": "34.65"
+            }
+          ]
+        }
+      ]
     },
     {
       "name": "goodbye"

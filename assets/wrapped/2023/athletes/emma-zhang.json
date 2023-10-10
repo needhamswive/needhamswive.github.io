@@ -2,17 +2,20 @@
   "slides": [
     {
       "name": "welcome",
-      "replacements": {
+      "basicReplacements": {
         "name": "Emma Zhang"
       }
     },
     {
       "name": "practice-summary",
-      "replacements": {
+      "basicReplacements": {
         "practice-count": 26,
-        "total-yardage": "68400",
-        "practice-percentage": "81.25%"
-      }
+        "practice-percentage": "81.25%",
+        "total-yardage": "68400"
+      },
+      "visible": [
+        "total-yardage"
+      ]
     },
     {
       "name": "goodbye"

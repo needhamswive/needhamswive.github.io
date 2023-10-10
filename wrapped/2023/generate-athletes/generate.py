@@ -43,6 +43,7 @@ class Athlete:
         self.nickname = nickname
         self.last = last
         self.grade = grade
+        self.meets = set()
 
     def __str__(self) -> str:
         return (
@@ -74,44 +75,50 @@ class Athlete:
 
         slides.append(OrderedDict([
             ("name", "welcome"),
-            ("replacements", OrderedDict([
+            ("basicReplacements", OrderedDict([
                 ("name", self.display_name),
             ])),
         ]))
 
-        if self.diver:
-            slides.append(OrderedDict([
-                ("name", "practice-summary-diver"),
-                ("replacements", OrderedDict([
-                    ("practice-count", self.practice_count),
-                    ("practice-percentage", self.practice_percentage),
-                ])),
-            ]))
-        else:
-            slides.append(OrderedDict([
-                ("name", "practice-summary"),
-                ("replacements", OrderedDict([
-                    ("practice-count", self.practice_count),
-                    ("total-yardage", self.total_yardage),
-                    ("practice-percentage", self.practice_percentage),
-                ])),
-            ]))
+        slides.append(OrderedDict([
+            ("name", "practice-summary"),
+            ("basicReplacements", OrderedDict([
+                ("practice-count", self.practice_count),
+                ("practice-percentage", self.practice_percentage),
+            ])),
+        ]))
+        if not self.diver:
+            slides[-1]["basicReplacements"]["total-yardage"] = self.total_yardage
+            slides[-1]["visible"] = ["total-yardage"]
 
         if self.diver:
-            self.dives.sort(key=lambda dive: dive.score, reverse=True)
+            self.completed_dives.sort(key=lambda dive: dive.score, reverse=True)
             recorded_numbers = set()
-            top_per_number = []
-            for dive in self.dives:
+            top_score_per_dive_number = []
+            for dive in self.completed_dives:
                 if dive.number not in recorded_numbers:
-                    top_per_number.append(dive)
+                    top_score_per_dive_number.append(dive)
                     recorded_numbers.add(dive.number)
-            replacements = OrderedDict()
-            for i, dive in enumerate(top_per_number[:5]):
-                replacements[f"dive-number-{i+1}"] = dive.number
-                replacements[f"dive-score-{i+1}"] = f"{dive.score:.2f}"
+            basic_replacements = OrderedDict([
+                ("dive-count", len(self.dives)),
+                ("meet-count", len(self.meets)),
+                ("point-count", "TODO"),
+            ])
+            template_replacements = [
+                OrderedDict([
+                    ("name", "dive-number-and-score"),
+                    ("sets", [
+                        OrderedDict([
+                            ("dive-number", dive.number),
+                            ("dive-score", f"{dive.score:}"),
+                        ]) for dive in top_score_per_dive_number[:5]
+                    ]),
+                ])
+            ]
             slides.append(OrderedDict([
-                ("name", "top-dives"),
-                ("replacements", replacements),
+                ("name", "dives-summary"),
+                ("basicReplacements", basic_replacements),
+                ("templateReplacements", template_replacements),
             ]))
 
         if self.is_senior:
@@ -137,16 +144,29 @@ class Athlete:
         if not self.diver:
             return
         self.dives = list(map(IndividualDiveResult, individual_dive_results_table.get_by_name(self.name)))
+        self.completed_dives = list(filter(lambda dive: dive.score, self.dives))
+
+    def set_overall_dive_results(self, overall_dive_results_table) -> None:
+        if not self.diver:
+            return
+        overall_dive_results = list(map(OverallDiveResult, overall_dive_results_table.get_by_name(self.name)))
+        self.meets.update(map(lambda result: result.meet, overall_dive_results))
 
 
 class IndividualDiveResult:
     def __init__(self, row: TableRow) -> None:
         self.number = row.dive_number
         self.dod = float(row.degree_of_difficulty)
-        self.score = float(row.total_score)
+        self.score = float(row.total_score) if row.total_score else None
 
     def __repr__(self) -> str:
         return f"<IndividualDiveResult number:{self.number} dod:{self.dod} score:{self.score}>"
+
+
+class OverallDiveResult:
+    def __init__(self, row: TableRow) -> None:
+        self.meet = row.meet
+
 
 
 def main() -> None:
@@ -156,14 +176,13 @@ def main() -> None:
     individual_dive_results_table = Table("data/individual-dive-results.tsv", {"first-last", "dive-order", "dive-number", "degree-of-difficulty", "ns", "total-score", "qualified", "date", "meet"})
     overall_dive_results_table = Table("data/overall-dive-results.tsv", {"first-last", "dive-format", "score", "place", "date", "meet", "sectionals-qualifier", "states-qualifier"})
 
-    individual_dive_results_table.filter(lambda row: row.ns == "FALSE")
-
     athletes = [Athlete(row.first, row.nickname, row.last, int(row.grade)) for row in roster_table.rows]
     athletes.sort(key=lambda athlete: athlete.last + athlete.first)
 
     for athlete in athletes:
         athlete.set_attendance(attendance_table)
         athlete.set_individual_dive_results(individual_dive_results_table)
+        athlete.set_overall_dive_results(overall_dive_results_table)
         with open("athletes/" + athlete.file_name, "w") as f:
             f.write(athlete.json)
 

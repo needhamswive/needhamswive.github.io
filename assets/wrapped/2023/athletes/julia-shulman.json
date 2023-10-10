@@ -2,17 +2,20 @@
   "slides": [
     {
       "name": "welcome",
-      "replacements": {
+      "basicReplacements": {
         "name": "Julia Shulman"
       }
     },
     {
       "name": "practice-summary",
-      "replacements": {
+      "basicReplacements": {
         "practice-count": 29,
-        "total-yardage": "79200",
-        "practice-percentage": "90.63%"
-      }
+        "practice-percentage": "90.63%",
+        "total-yardage": "79200"
+      },
+      "visible": [
+        "total-yardage"
+      ]
     },
     {
       "name": "goodbye-senior"

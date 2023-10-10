@@ -2,17 +2,20 @@
   "slides": [
     {
       "name": "welcome",
-      "replacements": {
+      "basicReplacements": {
         "name": "Julia Rowe"
       }
     },
     {
       "name": "practice-summary",
-      "replacements": {
+      "basicReplacements": {
         "practice-count": 30,
-        "total-yardage": "79150",
-        "practice-percentage": "93.75%"
-      }
+        "practice-percentage": "93.75%",
+        "total-yardage": "79150"
+      },
+      "visible": [
+        "total-yardage"
+      ]
     },
     {
       "name": "goodbye"

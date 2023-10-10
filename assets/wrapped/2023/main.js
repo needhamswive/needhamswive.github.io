@@ -33,7 +33,7 @@ const hexDesignDefinitions = [
     },
   },
   {
-    "slideNames": ["practice-summary", "practice-summary-diver"],
+    "slideNames": ["practice-summary"],
     "colors": ["white", "white", "gold", "gold", "gold"],
     "corners": {
       "top left": [4, 2, 1, 1],
@@ -226,19 +226,61 @@ function processAthlete() {
 
   for (const slide of slides) {
     const metadata = slideNameToMetadata.get(slide.name);
-    const element = slide.element;
 
-    if (!metadata.replacements) {
-      continue;
-    }
-    for (const [replacementKey, replacementValue] of Object.entries(metadata.replacements)) {
-      const placeholder = element.querySelector(".replacement-" + replacementKey);
-      if (placeholder === null) {
-        console.error("Unable to find placeholder with for key " + replacementKey);
-        continue;
+    processAthleteBasicReplacements(slide, metadata);
+    processAthleteTemplateReplacements(slide, metadata);
+    processAthleteVisibility(slide, metadata);
+  }
+}
+
+function processAthleteBasicReplacements(slide, metadata) {
+  if (!metadata.basicReplacements) {
+    return;
+  }
+
+  for (const [replacementKey, replacementValue] of Object.entries(metadata.basicReplacements)) {
+    updatePlaceholders(slide.element, replacementKey, replacementValue);
+  }
+}
+
+function processAthleteTemplateReplacements(slide, metadata) {
+  if (!metadata.templateReplacements) {
+    return;
+  }
+
+  for (const templateReplacement of metadata.templateReplacements) {
+    const template = slide.element.querySelector(".template-" + templateReplacement.name);
+    for (const set of templateReplacement.sets) {
+      const copy = template.content.cloneNode(true);
+      for (const [replacementKey, replacementValue] of Object.entries(set)) {
+        updatePlaceholders(copy, replacementKey, replacementValue);
       }
-      placeholder.innerHTML = replacementValue;
+      template.parentElement.appendChild(copy);
     }
+  }
+}
+
+function updatePlaceholders(element, replacementKey, replacementValue) {
+  const placeholderElements = element.querySelectorAll(".replacement-" + replacementKey);
+  if (placeholderElements.length === 0) {
+    console.error("Unable to find placeholder with key " + replacementKey);
+    return;
+  }
+  placeholderElements.forEach(placeholderElement => {
+    placeholderElement.innerHTML = replacementValue;
+  });
+}
+
+function processAthleteVisibility(slide, metadata) {
+  if (!metadata.visible) {
+    return;
+  }
+  for (const name of metadata.visible) {
+    const hiddenElements = slide.element.querySelectorAll(".visible-" + name);
+    if (hiddenElements.length === 0) {
+      console.error("Unable to find hidden element with name " + name);
+    }
+    hiddenElements.forEach(hiddenElement => hiddenElement.style.display = "unset");
   }
 }
 

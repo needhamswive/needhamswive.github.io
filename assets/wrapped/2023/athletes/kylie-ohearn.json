@@ -2,17 +2,20 @@
   "slides": [
     {
       "name": "welcome",
-      "replacements": {
+      "basicReplacements": {
         "name": "Kylie O'Hearn"
       }
     },
     {
       "name": "practice-summary",
-      "replacements": {
+      "basicReplacements": {
         "practice-count": 30,
-        "total-yardage": "82750",
-        "practice-percentage": "93.75%"
-      }
+        "practice-percentage": "93.75%",
+        "total-yardage": "82750"
+      },
+      "visible": [
+        "total-yardage"
+      ]
     },
     {
       "name": "goodbye-senior"

@@ -2,17 +2,20 @@
   "slides": [
     {
       "name": "welcome",
-      "replacements": {
+      "basicReplacements": {
         "name": "Lucy Mackey"
       }
     },
     {
       "name": "practice-summary",
-      "replacements": {
+      "basicReplacements": {
         "practice-count": 30,
-        "total-yardage": "78250",
-        "practice-percentage": "93.75%"
-      }
+        "practice-percentage": "93.75%",
+        "total-yardage": "78250"
+      },
+      "visible": [
+        "total-yardage"
+      ]
     },
     {
       "name": "goodbye-senior"
