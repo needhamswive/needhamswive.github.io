@@ -18,6 +18,17 @@
       ]
     },
     {
+      "name": "swims-summary",
+      "basicReplacements": {
+        "individual-swim-count": 6,
+        "relay-swim-count": 9,
+        "total-points": "1.0"
+      },
+      "visible": [
+        "total-points"
+      ]
+    },
+    {
       "name": "goodbye"
     }
   ]

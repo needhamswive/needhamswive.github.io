@@ -104,12 +104,42 @@
           <div class="slide-content">
             You swam in
             <br>
-            <span class="gold"><b>24</b></span> individual events
+            <b><span class="gold replacement-individual-swim-count"></span></b> individual events
             <br>
-            and <span class="gold"><b>24</b></span> relays,
+            <b><span class="gold replacement-relay-swim-count"></span></b> relays<div class="hidden visible-total-points">,
+              <br>
+              scoring <b><span class="gold replacement-total-points"></span></b> points!
+            </div>
             <br>
-            scoring <span class="gold"><b>24</b></span> points!
             <br>
+            <div class="hidden visible-sectionals-qualified-events visible-states-qualified-events">
+              You qualified for
+              <br class="extended">
+              <div class="hidden visible-sectionals-qualified-events">
+                sectionals in the
+                <table id="sectionals-qualified-events" class="font-small">
+                  <template class="template-sectionals-qualified-event">
+                    <tr>
+                      <td>
+                        <span class="gold replacement-event"></span>
+                      </td>
+                    </tr>
+                  </template>
+                </table>
+              </div>
+              <div class="hidden visible-states-qualified-events">
+                states in the
+                <table id="states-qualified-events" class="font-small">
+                  <template class="template-states-qualified-event">
+                    <tr>
+                      <td>
+                        <span class="gold replacement-event"></span>
+                      </td>
+                    </tr>
+                  </template>
+                </table>
+              </div>
+            </div>
           </div>
         </div>
 
@@ -123,7 +153,7 @@
             Your highest scoring dives were
             <br>
             <br>
-            <table id="best-dives" class="font-small">
+            <table id="top-dives" class="font-small">
               <template class="template-dive-number-and-score">
                 <tr>
                   <td class="gold">

@@ -44,6 +44,9 @@ class Athlete:
         self.last = last
         self.grade = grade
         self.meets = set()
+        self.points = 0
+        self.sectionals_events = set()
+        self.states_events = set()
 
     def __str__(self) -> str:
         return (
@@ -90,6 +93,49 @@ class Athlete:
         if not self.diver:
             slides[-1]["basicReplacements"]["total-yardage"] = self.total_yardage
             slides[-1]["visible"] = ["total-yardage"]
+
+        if self.swims:
+            visible = []
+            slides.append(OrderedDict([
+                ("name", "swims-summary"),
+                ("basicReplacements", OrderedDict([
+                    ("individual-swim-count", len(self.individual_swims)),
+                    ("relay-swim-count", len(self.relay_swims)),
+                ]))
+            ]))
+            if self.points > 0:
+                slides[-1]["basicReplacements"]["total-points"] = f"{self.points}"
+                visible.append("total-points")
+            sectionals_only_events = self.sectionals_events - self.states_events
+            template_replacements = []
+            if sectionals_only_events:
+                template_replacements.append(
+                    OrderedDict([
+                        ("name", "sectionals-qualified-event"),
+                        ("sets", [
+                            OrderedDict([
+                                ("event", event),
+                            ]) for event in sectionals_only_events
+                        ]),
+                    ])
+                )
+                visible.append("sectionals-qualified-events")
+            if self.states_events:
+                template_replacements.append(
+                    OrderedDict([
+                        ("name", "states-qualified-event"),
+                        ("sets", [
+                            OrderedDict([
+                                ("event", event),
+                            ]) for event in self.states_events
+                        ]),
+                    ])
+                )
+                visible.append("states-qualified-events")
+            if template_replacements:
+                slides[-1]["templateReplacements"] = template_replacements
+            if visible:
+                slides[-1]["visible"] = visible
 
         if self.diver:
             self.completed_dives.sort(key=lambda dive: dive.score, reverse=True)
@@ -140,6 +186,16 @@ class Athlete:
         if not self.diver:
             self.total_yardage = attendance_row.total_yardage
 
+    def set_swim_results_table(self, swim_results_table) -> None:
+        self.swims = swim_results_table.get_by_name(self.name)
+        self.individual_swims = list(filter(lambda swim: "split" not in swim.event, self.swims))
+        self.relay_swims = [swim for swim in self.swims if swim not in self.individual_swims]
+        for swim in self.swims:
+            if swim.points:
+                self.points += float(swim.points)
+        self.sectionals_events.update(map(lambda swim: swim.event, filter(lambda swim: swim.sectionals_qualifier == "TRUE", self.swims)))
+        self.states_events.update(map(lambda swim: swim.event, filter(lambda swim: swim.states_qualifier == "TRUE", self.swims)))
+
     def set_individual_dive_results(self, individual_dive_results_table) -> None:
         if not self.diver:
             return
@@ -181,6 +237,7 @@ def main() -> None:
 
     for athlete in athletes:
         athlete.set_attendance(attendance_table)
+        athlete.set_swim_results_table(swim_results_table)
         athlete.set_individual_dive_results(individual_dive_results_table)
         athlete.set_overall_dive_results(overall_dive_results_table)
         with open("athletes/" + athlete.file_name, "w") as f:

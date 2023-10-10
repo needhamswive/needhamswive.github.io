@@ -18,6 +18,40 @@
       ]
     },
     {
+      "name": "swims-summary",
+      "basicReplacements": {
+        "individual-swim-count": 8,
+        "relay-swim-count": 12,
+        "total-points": "36.5"
+      },
+      "templateReplacements": [
+        {
+          "name": "sectionals-qualified-event",
+          "sets": [
+            {
+              "event": "50 free"
+            }
+          ]
+        },
+        {
+          "name": "states-qualified-event",
+          "sets": [
+            {
+              "event": "100 fly"
+            },
+            {
+              "event": "200 free"
+            }
+          ]
+        }
+      ],
+      "visible": [
+        "total-points",
+        "sectionals-qualified-events",
+        "states-qualified-events"
+      ]
+    },
+    {
       "name": "goodbye-senior"
     }
   ]

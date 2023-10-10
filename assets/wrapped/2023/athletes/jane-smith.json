@@ -25,7 +25,15 @@
       }
     },
     {
-      "name": "swims-summary"
+      "name": "swims-summary",
+      "basicReplacements": {
+        "individual-swim-count": 10,
+        "relay-swim-count": 10,
+        "total-points": "44.0"
+      },
+      "visible": [
+        "total-points"
+      ]
     },
     {
       "name": "dives-summary",

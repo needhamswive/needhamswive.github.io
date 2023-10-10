@@ -18,6 +18,28 @@
       ]
     },
     {
+      "name": "swims-summary",
+      "basicReplacements": {
+        "individual-swim-count": 7,
+        "relay-swim-count": 10,
+        "total-points": "15.5"
+      },
+      "templateReplacements": [
+        {
+          "name": "sectionals-qualified-event",
+          "sets": [
+            {
+              "event": "100 breast"
+            }
+          ]
+        }
+      ],
+      "visible": [
+        "total-points",
+        "sectionals-qualified-events"
+      ]
+    },
+    {
       "name": "goodbye"
     }
   ]

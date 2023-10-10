@@ -18,6 +18,37 @@
       ]
     },
     {
+      "name": "swims-summary",
+      "basicReplacements": {
+        "individual-swim-count": 10,
+        "relay-swim-count": 10,
+        "total-points": "63.0"
+      },
+      "templateReplacements": [
+        {
+          "name": "states-qualified-event",
+          "sets": [
+            {
+              "event": "100 free"
+            },
+            {
+              "event": "100 breast"
+            },
+            {
+              "event": "200 medley"
+            },
+            {
+              "event": "50 free"
+            }
+          ]
+        }
+      ],
+      "visible": [
+        "total-points",
+        "states-qualified-events"
+      ]
+    },
+    {
       "name": "goodbye-senior"
     }
   ]

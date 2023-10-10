@@ -18,6 +18,37 @@
       ]
     },
     {
+      "name": "swims-summary",
+      "basicReplacements": {
+        "individual-swim-count": 12,
+        "relay-swim-count": 10,
+        "total-points": "30.5"
+      },
+      "templateReplacements": [
+        {
+          "name": "sectionals-qualified-event",
+          "sets": [
+            {
+              "event": "200 free"
+            }
+          ]
+        },
+        {
+          "name": "states-qualified-event",
+          "sets": [
+            {
+              "event": "500 free"
+            }
+          ]
+        }
+      ],
+      "visible": [
+        "total-points",
+        "sectionals-qualified-events",
+        "states-qualified-events"
+      ]
+    },
+    {
       "name": "goodbye"
     }
   ]

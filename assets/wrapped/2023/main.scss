@@ -19,6 +19,10 @@ b {
   font-weight: 400;
 }
 
+br.extended {
+  line-height: 2em;
+}
+
 .noselect {
   -webkit-touch-callout: none; /* iOS Safari */
     -webkit-user-select: none; /* Safari */
@@ -139,23 +143,17 @@ b {
   table {
     width: 100%;
 
-    td:nth-child(1) {
-      text-align: right;
-      padding-right: 5px;
-    }
-
-    td:nth-child(2) {
-      text-align: left;
-      padding-left: 5px;
-    }
-
-    &#best-dives {
+    &#top-dives {
       td:nth-child(1) {
+        padding-right: 5px;
+        text-align: right;
         width: 40%;
       }
 
       td:nth-child(2) {
         width: 60%;
+        padding-left: 5px;
+        text-align: left;
       }
     }
   }

@@ -18,6 +18,13 @@
       ]
     },
     {
+      "name": "swims-summary",
+      "basicReplacements": {
+        "individual-swim-count": 7,
+        "relay-swim-count": 7
+      }
+    },
+    {
       "name": "goodbye"
     }
   ]
