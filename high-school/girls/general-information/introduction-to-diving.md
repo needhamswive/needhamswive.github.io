@@ -268,7 +268,7 @@ To compete officially, a diver must compete 6 dives which meet the following cri
 
 There is a focus on a different dive group for each week of the season.
 The first dive of a diver's dive sheet must be in that dive group.
-See the [schedule](/current-season/schedule) for the list of dive weeks.
+See the [schedule](/high-school/girls/current-season/schedule) for the list of dive weeks.
 
 ## Dive Table
 
