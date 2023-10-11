@@ -7,7 +7,7 @@ title: Records
 {% assign conference-records = site.data.records.bay-state-conference.all-time %}
 {% assign conference-meet-records = site.data.records.bay-state-conference.meet %}
 
-A history of the records can be found [here](/general-information/team-records-history/).
+A history of the records can be found [here](/high-school/girls/general-information/team-records-history/).
 
 ## Team Records
 
