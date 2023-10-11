@@ -210,13 +210,13 @@ dive-table:
         degree-of-difficulties: ["", "", "", 3.1]
 ---
 
-Diving is an individual event which is the first event to take place at dual meets and typically takes place at the same time as swimming during championship meets.
+Diving is an individual event which is generally the first event to take place at dual meets and takes place simultaneously with swimming events during championship meets.
 
 ## Summary
 
-For dual meets, each diver competes six dives
-At championship meets each diver will compete up to eleven dives.
-Each dive will receive three scores from the diving judges, which is summed and multiplied by the degree of difficulty of the dive.
+For dual meets, each diver competes six dives.
+At championship meets, each diver will compete up to eleven dives.
+Each dive will receive three scores from the diving judges, which is summed and then multiplied by the degree of difficulty of the dive.
 The cumulative score after all the dives are completed are compared to determine the final rankings.
 
 ## Dive Numbers
