@@ -70,9 +70,10 @@ let activeSlideIndex;
 
 let hexTemplate;
 
-const athleteName = new URLSearchParams(window.location.search).get("athlete") || "jane-smith";
-const athletePath = window.location.origin + `/assets/wrapped/2023/athletes/${athleteName}.json`;
-let athlete = fetch(athletePath).then((response) => response.json());
+const athleteName = new URLSearchParams(window.location.search).get("athlete");
+const athletePath = window.location.origin + `/assets/high-school/girls/wrapped/2023/athletes/${athleteName}.json`;
+let athlete = fetch(athletePath)
+  .then((response) => response.json());
 
 let random = mulberry32(cyrb128(athleteName)[0]);
 
