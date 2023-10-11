@@ -7,29 +7,29 @@ general:
   - title: General Information
     children:
       - title: About The Team
-        url: general-information/about-the-team
+        url: high-school/girls/general-information/about-the-team
       - title: Scoring a Meet
-        url: general-information/scoring-a-meet
+        url: high-school/girls/general-information/scoring-a-meet
       - title: Introduction to Diving
-        url: general-information/introduction-to-diving
+        url: high-school/girls/general-information/introduction-to-diving
       - title: Team Records
-        url: general-information/team-records
+        url: high-school/girls/general-information/team-records
   - title: Current Season
     children:
       - title: Schedule
-        url: current-season/schedule
+        url: high-school/girls/current-season/schedule
       - title: Qualifying Standards
-        url: current-season/qualifying-standards
+        url: high-school/girls/current-season/qualifying-standards
       - title: Meet Results
-        url: current-season/meet-results
+        url: high-school/girls/current-season/meet-results
       - title: Rule Changes
-        url: current-season/rule-changes
+        url: high-school/girls/current-season/rule-changes
   - title: Past Seasons
     children:
       - title: Meet Results
-        url: past-seasons/meet-results
+        url: high-school/girls/past-seasons/meet-results
       - title: Rule Changes
-        url: past-seasons/rule-changes
+        url: high-school/girls/past-seasons/rule-changes
   - title: Archives
     url: archives
 
