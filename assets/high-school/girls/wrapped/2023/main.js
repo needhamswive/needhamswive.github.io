@@ -72,8 +72,7 @@ let hexTemplate;
 
 const athleteName = new URLSearchParams(window.location.search).get("athlete");
 const athletePath = window.location.origin + `/assets/high-school/girls/wrapped/2023/athletes/${athleteName}.json`;
-let athlete = fetch(athletePath)
-  .then((response) => response.json());
+const athleteRequest = fetch(athletePath);
 
 let random = mulberry32(cyrb128(athleteName)[0]);
 
@@ -92,9 +91,16 @@ window.addEventListener("DOMContentLoaded", async () => {
   setupHexDesigns();
   // window.setInterval(animateHexes, 1000);
 
-  athlete = await athlete;
+  const athleteResponse = await athleteRequest;
+
+  if (athleteResponse.status === 404) {
+    slides = slides.slice(0, 1);
+    return;
+  }
+;
+  const athlete = await athleteResponse.json();
   preprocessAthlete(athlete);
-  processAthlete();
+  processAthlete(athlete);
 }, false);
 
 function setupNavigation() {
@@ -221,7 +227,7 @@ function preprocessAthlete(athlete) {
   });
 }
 
-function processAthlete() {
+function processAthlete(athlete) {
   const slideNameToMetadata = new Map(athlete.slides.map(slide => [slide.name, slide]));
   slides = slides.filter(slide => slideNameToMetadata.has(slide.name));
 
