@@ -28,7 +28,7 @@ A history of the records can be found [here](/high-school/girls/general-informat
       <tr>
         <td>{{ record.event | replace: " ", "&nbsp;" | replace: "-", "–" }}</td>
         <td style="text-align: center;">{{ record.date | replace: ";", "<br>" }}</td>
-        <td>{{ record.athletes | replace: ";", "<br>" | replace: " ", "&nbsp;" }}</td>
+        <td>{{ record.name | replace: ";", "<br>" | replace: " ", "&nbsp;" }}</td>
         <td style="text-align: center;">{{ record.result }}</td>
       </tr>
     {% endfor %}
@@ -74,7 +74,7 @@ South Sectional Champions
         <td>{{ record.event | replace: " ", "&nbsp;" | replace: "-", "–" }}</td>
         <td style="text-align: center;">{{ record.date | replace: ";", "<br>" }}</td>
         <td>{{ record.school | replace: ";", "<br>" }}</td>
-        <td>{{ record.athletes | replace: ";", "<br>" | replace: " ", "&nbsp;" }}</td>
+        <td>{{ record.name | replace: ";", "<br>" | replace: " ", "&nbsp;" }}</td>
         <td style="text-align: center;">{{ record.result }}</td>
       </tr>
     {% endfor %}
@@ -103,7 +103,7 @@ These records are from results since 1990.
         <td>{{ record.event | replace: " ", "&nbsp;" | replace: "-", "–" }}</td>
         <td style="text-align: center;">{{ record.date | replace: ";", "<br>" }}</td>
         <td>{{ record.school | replace: ";", "<br>" }}</td>
-        <td>{{ record.athletes | replace: ";", "<br>" | replace: " ", "&nbsp;" }}</td>
+        <td>{{ record.name | replace: ";", "<br>" | replace: " ", "&nbsp;" }}</td>
         <td style="text-align: center;">{{ record.result }}</td>
       </tr>
     {% endfor %}

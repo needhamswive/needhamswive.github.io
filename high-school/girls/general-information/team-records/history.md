@@ -27,7 +27,7 @@ title: Records History
       {% for record in records-for-event %}
         <tr>
           <td style="text-align: center;">{{ record.date | replace: ";", "<br>" }}</td>
-          <td>{{ record.athletes | replace: ";", "<br>" | replace: " ", "&nbsp;" }}</td>
+          <td>{{ record.name | replace: ";", "<br>" | replace: " ", "&nbsp;" }}</td>
           <td style="text-align: center;">{{ record.result }}</td>
         </tr>
       {% endfor %}
@@ -56,7 +56,7 @@ title: Records History
         <tr>
           <td style="text-align: center;">{{ record.date | replace: ";", "<br>" }}</td>
           <td>{{ record.school | replace: ";", "<br>" }}</td>
-          <td>{{ record.athletes | replace: ";", "<br>" | replace: " ", "&nbsp;" }}</td>
+          <td>{{ record.name | replace: ";", "<br>" | replace: " ", "&nbsp;" }}</td>
           <td style="text-align: center;">{{ record.result }}</td>
         </tr>
       {% endfor %}
@@ -87,7 +87,7 @@ This record history is from results since 1990.
         <tr>
           <td style="text-align: center;">{{ record.date | replace: ";", "<br>" }}</td>
           <td>{{ record.school | replace: ";", "<br>" }}</td>
-          <td>{{ record.athletes | replace: ";", "<br>" | replace: " ", "&nbsp;" }}</td>
+          <td>{{ record.name | replace: ";", "<br>" | replace: " ", "&nbsp;" }}</td>
           <td style="text-align: center;">{{ record.result }}</td>
         </tr>
       {% endfor %}
