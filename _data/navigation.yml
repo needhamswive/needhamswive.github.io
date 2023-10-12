@@ -31,7 +31,7 @@ general:
       - title: Rule Changes
         url: high-school/girls/past-seasons/rule-changes
   - title: Archives
-    url: archives
+    url: high-school/archives
 
 archives:
   - title: Home
@@ -39,15 +39,15 @@ archives:
   - title: Bay State Conference
     children:
       - title: Conference Meet School Rankings
-        url: archives/bay-state-conference/conference-meet-school-rankings
+        url: high-school/archives/fall/bay-state-conference/conference-meet-school-rankings
       - title: Dual Meet Record School Rankings
-        url: archives/bay-state-conference/dual-meet-record-school-rankings
+        url: high-school/archives/fall/bay-state-conference/dual-meet-record-school-rankings
       - title: Event Results
-        url: archives/bay-state-conference/event-results
+        url: high-school/archives/fall/bay-state-conference/event-results
   - title: Championships
     children:
       - title: Qualifying Standards
-        url: archives/championships/qualifying-standards
+        url: high-school/archives/fall/championships/qualifying-standards
   - title: Sectionals
     children:
       - title: School Rankings

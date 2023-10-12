@@ -14,7 +14,7 @@ years-boys-scored-with-girls:
 
 [^comment-on-scoring]: Boys scored with girls.
 
-{% assign school-rankings = site.data.meet-results.bay-state-conference.conference-meet-school-rankings %}
+{% assign school-rankings = site.data.high-school.fall.girls.meet-results.bay-state-conference.conference-meet-school-rankings %}
 {% assign years = school-rankings | map: "year" | uniq | sort | reverse %}
 {% assign years-boys-scored-with-girls = page.years-boys-scored-with-girls | append: "" %}
 

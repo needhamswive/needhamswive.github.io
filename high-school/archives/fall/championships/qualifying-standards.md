@@ -2,7 +2,8 @@
 title: Qualifying Standards
 ---
 
-{% assign all-qualifying-standards = site.data.championships.qualifying-standards %}
+{% assign event-order = site.data.high-school.results-event-order %}
+{% assign all-qualifying-standards = site.data.high-school.fall.qualifying-standards %}
 {% assign years = all-qualifying-standards | map: "year" | uniq %}
 
 {% for year in years %}
@@ -22,7 +23,7 @@ title: Qualifying Standards
     </tr>
   </thead>
   <tbody>
-    {% for event in site.data.event-order %}
+    {% for event in event-order %}
       <tr>
         <td>{{ event.name | replace: " ", "&nbsp;" }}</td>
         {% for group in groups %}

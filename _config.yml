@@ -248,7 +248,7 @@ defaults:
       sidebar:
         nav: general
   - scope:
-      path: "archives"
+      path: "high-school/archives"
     values:
       sidebar:
         nav: archives

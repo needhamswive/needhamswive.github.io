@@ -9,13 +9,13 @@ title: Meet Results
 </style>
 
 {% include results-for-year.md
-  results-for-year = site.data.meet-results.needham.current-season
+  results-for-year = site.data.high-school.fall.girls.meet-results.dual-meets.current-season
 %}
 
 ---
 
 __Sources__
 
-{% for citation in site.data.meet-results.needham.current-season.citations -%}
+{% for citation in site.data.high-school.fall.girls.meet-results.dual-meets.current-season.citations -%}
   {% include citation.md %}
 {% endfor %}

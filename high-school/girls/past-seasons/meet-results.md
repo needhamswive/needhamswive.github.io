@@ -13,7 +13,7 @@ title: Meet Results
 - [Bay State Conference Results](https://www.gomotionapp.com/team/rechfhfhslma/page/newsletter)
 - [MIAA Swim and Dive Feed](http://miaa.ezstream.com/index.cfm?ChnID=328)
 
-{% for results-for-year in site.data.meet-results.needham.past-seasons.results-by-year %}
+{% for results-for-year in site.data.high-school.fall.girls.meet-results.dual-meets.past-seasons.results-by-year %}
 
 ## {{ results-for-year.year }}
 
@@ -27,10 +27,10 @@ title: Meet Results
 
 __Sources__
 
-{% for citation in site.data.meet-results.needham.past-seasons.general-citations -%}
+{% for citation in site.data.high-school.fall.girls.meet-results.dual-meets.past-seasons.general-citations -%}
   {% include citation.md %}
 {% endfor %}
-{% for results-for-year in site.data.meet-results.needham.past-seasons.results-by-year %}
+{% for results-for-year in site.data.high-school.fall.girls.meet-results.dual-meets.past-seasons.results-by-year %}
   {% for citation in results-for-year.citations -%}
     {% include citation.md %}
   {% endfor %}
