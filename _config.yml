@@ -246,13 +246,18 @@ defaults:
     values:
       layout: single
       sidebar:
-        nav: general
+        nav: home
   - scope:
-      path: "high-school/archives"
+      path: high-school/girls
+    values:
+      sidebar:
+        nav: high-school-girls
+  - scope:
+      path: high-school/archives
     values:
       sidebar:
         nav: archives
   - scope:
-      path: "wrapped"
+      path: wrapped
     values:
       no-robots: true

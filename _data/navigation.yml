@@ -3,7 +3,13 @@ main:
   # - title: Times Search
   #   url: times/individual-times-search
 
-general:
+home:
+  - title: Teams
+    children:
+    - title: High School Girls
+      url: high-school/girls
+
+high-school-girls:
   - title: General Information
     children:
       - title: About The Team
@@ -30,12 +36,12 @@ general:
         url: high-school/girls/past-seasons/meet-results
       - title: Rule Changes
         url: high-school/girls/past-seasons/rule-changes
-  - title: Archives
-    url: high-school/archives
+  - title: Miscellaneous
+    children:
+      - title: Archives
+        url: high-school/archives
 
 archives:
-  - title: Home
-    url: /
   - title: Bay State Conference
     children:
       - title: Conference Meet School Rankings
