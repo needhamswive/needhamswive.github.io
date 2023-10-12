@@ -2,7 +2,7 @@
 title: Event Results
 ---
 
-{% assign event-order = site.data.high-school.results-event-order %}
+{% assign event-order = site.data.high-school.results-event-order | map: "name" %}
 {% assign all-event-results = site.data.high-school.fall.girls.meet-results.bay-state-conference.event-results %}
 {% assign years = all-event-results | map: "year" | uniq | sort | reverse %}
 
@@ -26,9 +26,9 @@ title: Event Results
   <tbody>
     {% for event in event-order %}
       <tr>
-        <th colspan="5" style="text-align: center;">{{ event.name }}</th>
+        <th colspan="5" style="text-align: center;">{{ event }}</th>
       </tr>
-      {% assign event-results = event-results-for-year | where: "event", event.name %}
+      {% assign event-results = event-results-for-year | where: "event", event %}
       {% for row in event-results %}
         <tr>
           <td>{{ row.place }}</td>
