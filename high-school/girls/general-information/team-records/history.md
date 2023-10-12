@@ -2,11 +2,11 @@
 title: Records History
 ---
 
-{% assign championship-events = site.data.records-championship-event-order | map: "name" %}
-{% assign dual-meet-events = site.data.records-dual-meet-event-order | map: "name" %}
-{% assign team-records = site.data.records.needham.all-time %}
-{% assign conference-records = site.data.records.bay-state-conference.all-time %}
-{% assign conference-meet-records = site.data.records.bay-state-conference.meet %}
+{% assign championship-events = site.data.high-school.records-championship-event-order | map: "name" %}
+{% assign dual-meet-events = site.data.high-school.records-dual-meet-event-order | map: "name" %}
+{% assign team-records = site.data.high-school.fall.girls.records.needham.all-time %}
+{% assign conference-records = site.data.high-school.fall.girls.records.bay-state-conference.all-time %}
+{% assign conference-meet-records = site.data.high-school.fall.girls.records.bay-state-conference.meet %}
 
 ## Team Records
 
