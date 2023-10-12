@@ -2,7 +2,8 @@
 title: Records History
 ---
 
-{% assign events = site.data.records-event-order | map: "name" %}
+{% assign championship-events = site.data.records-championship-event-order | map: "name" %}
+{% assign dual-meet-events = site.data.records-dual-meet-event-order | map: "name" %}
 {% assign team-records = site.data.records.needham.all-time %}
 {% assign conference-records = site.data.records.bay-state-conference.all-time %}
 {% assign conference-meet-records = site.data.records.bay-state-conference.meet %}
@@ -18,7 +19,7 @@ title: Records History
     </tr>
   </thead>
   <tbody>
-    {% for event in events %}
+    {% for event in championship-events %}
       <tr>
         <td colspan="3" style="font-weight: bold; text-align: center;">{{ event | replace: "-", "–" }}</td>
       </tr>
@@ -46,7 +47,7 @@ title: Records History
     </tr>
   </thead>
   <tbody>
-    {% for event in events %}
+    {% for event in championship-events %}
       <tr>
         <td colspan="4" style="font-weight: bold; text-align: center;">{{ event | replace: "-", "–" }}</td>
       </tr>
@@ -77,7 +78,7 @@ This record history is from results since 1990.
     </tr>
   </thead>
   <tbody>
-    {% for event in events %}
+    {% for event in dual-meet-events %}
       <tr>
         <td colspan="4" style="font-weight: bold; text-align: center;">{{ event | replace: "-", "–" }}</td>
       </tr>

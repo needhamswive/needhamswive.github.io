@@ -2,7 +2,8 @@
 title: Records
 ---
 
-{% assign events = site.data.records-event-order | map: "name" %}
+{% assign championship-events = site.data.records-championship-event-order | map: "name" %}
+{% assign dual-meet-events = site.data.records-dual-meet-event-order | map: "name" %}
 {% assign team-records = site.data.records.needham.all-time %}
 {% assign conference-records = site.data.records.bay-state-conference.all-time %}
 {% assign conference-meet-records = site.data.records.bay-state-conference.meet %}
@@ -21,7 +22,7 @@ A history of the records can be found [here](/high-school/girls/general-informat
     </tr>
   </thead>
   <tbody>
-    {% for event in events %}
+    {% for event in championship-events %}
       {% assign records-for-event = team-records | where: "event", event %}
       {% assign record = records-for-event[0] %}
       <tr>
@@ -66,7 +67,7 @@ South Sectional Champions
     </tr>
   </thead>
   <tbody>
-    {% for event in events %}
+    {% for event in championship-events %}
       {% assign records-for-event = conference-records | where: "event", event %}
       {% assign record = records-for-event[0] %}
       <tr>
@@ -95,7 +96,7 @@ These records are from results since 1990.
     </tr>
   </thead>
   <tbody>
-    {% for event in events %}
+    {% for event in dual-meet-events %}
       {% assign records-for-event = conference-meet-records | where: "event", event %}
       {% assign record = records-for-event[0] %}
       <tr>
