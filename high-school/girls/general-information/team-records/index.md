@@ -61,7 +61,7 @@ South Sectional Champions
     <tr>
       <th>Event</th>
       <th style="text-align: center;">Date</th>
-      <th>Town</th>
+      <th>School</th>
       <th>Athlete(s)</th>
       <th style="text-align: center;">Result</th>
     </tr>
@@ -73,7 +73,7 @@ South Sectional Champions
       <tr>
         <td>{{ record.event | replace: " ", "&nbsp;" | replace: "-", "–" }}</td>
         <td style="text-align: center;">{{ record.date | replace: ";", "<br>" }}</td>
-        <td>{{ record.town | replace: ";", "<br>" }}</td>
+        <td>{{ record.school | replace: ";", "<br>" }}</td>
         <td>{{ record.athletes | replace: ";", "<br>" | replace: " ", "&nbsp;" }}</td>
         <td style="text-align: center;">{{ record.result }}</td>
       </tr>
@@ -90,7 +90,7 @@ These records are from results since 1990.
     <tr>
       <th>Event</th>
       <th style="text-align: center;">Date</th>
-      <th>Town</th>
+      <th>School</th>
       <th>Athlete(s)</th>
       <th style="text-align: center;">Result</th>
     </tr>
@@ -102,7 +102,7 @@ These records are from results since 1990.
       <tr>
         <td>{{ record.event | replace: " ", "&nbsp;" | replace: "-", "–" }}</td>
         <td style="text-align: center;">{{ record.date | replace: ";", "<br>" }}</td>
-        <td>{{ record.town | replace: ";", "<br>" }}</td>
+        <td>{{ record.school | replace: ";", "<br>" }}</td>
         <td>{{ record.athletes | replace: ";", "<br>" | replace: " ", "&nbsp;" }}</td>
         <td style="text-align: center;">{{ record.result }}</td>
       </tr>
