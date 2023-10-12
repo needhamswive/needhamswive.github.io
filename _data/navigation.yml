@@ -50,6 +50,8 @@ archives:
         url: high-school/archives/fall/bay-state-conference/dual-meet-record-school-rankings
       - title: Event Results
         url: high-school/archives/fall/bay-state-conference/event-results
+      - title: Event Top Results
+        url: high-school/archives/fall/bay-state-conference/event-top-results
   - title: Championships
     children:
       - title: Qualifying Standards

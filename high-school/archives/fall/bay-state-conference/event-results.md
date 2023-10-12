@@ -25,14 +25,14 @@ title: Event Results
   </thead>
   <tbody>
     {% for event in event-order %}
+      {% assign event-results = event-results-for-year | where: "event", event %}
       <tr>
         <th colspan="5" style="text-align: center;">{{ event }}</th>
       </tr>
-      {% assign event-results = event-results-for-year | where: "event", event %}
       {% for row in event-results %}
         <tr>
           <td>{{ row.place }}</td>
-          <td>{{ row.name | replace: " ", "&nbsp;" | replace: "-", "&#8209;" }}</td>
+          <td>{{ row.name | replace: ";", "<br>" | replace: " ", "&nbsp;" | replace: "-", "&#8209;" }}</td>
           <td>{{ row.age }}</td>
           <td>{{ row.school | replace: " ", "&nbsp;" }}</td>
           <td>{{ row.result }}</td>
