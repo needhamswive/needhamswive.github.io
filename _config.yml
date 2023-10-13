@@ -256,7 +256,7 @@ defaults:
       path: high-school/archives
     values:
       sidebar:
-        nav: archives
+        nav: high-school-archives
   - scope:
       path: wrapped
     values:

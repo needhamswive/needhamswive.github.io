@@ -9,6 +9,16 @@ home:
     - title: High School Girls
       url: high-school/girls
 
+high-school-home:
+  - title: Teams
+    children:
+    - title: High School Girls
+      url: high-school/girls
+  - title: Miscellaneous
+    children:
+    - title: Archives
+      url: high-school/archives
+
 high-school-girls:
   - title: General Information
     children:
@@ -41,7 +51,7 @@ high-school-girls:
       - title: Archives
         url: high-school/archives
 
-archives:
+high-school-archives:
   - title: Bay State Conference
     children:
       - title: Conference Meet School Rankings
