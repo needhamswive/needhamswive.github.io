@@ -96,7 +96,7 @@ year,event,place,name,age,school,result,points
 2021,200 Individual Medley,6,Michell Li,,Natick,2:24.52,13
 2021,200 Individual Medley,7,James Mahoney,,Needham,2:24.79,12
 2021,200 Individual Medley,8,Grace Chan,,Wellesley,2:27.55,11
-2021,200 Individual Medley,9,Isabael Mckay,,Wellesley,2:27.81,9
+2021,200 Individual Medley,9,Isabael McKay,,Wellesley,2:27.81,9
 2021,200 Individual Medley,10,Lily Nguyen,,Walpole,2:27.82,7
 2021,200 Individual Medley,11,Sarah Francis,,Needham,2:28.47,6
 2021,200 Individual Medley,12,Julia Kammer,,Newton North,2:29.96,5
@@ -129,7 +129,7 @@ year,event,place,name,age,school,result,points
 2021,50 Freestyle,9,Katie Passanisi,,Wellesley,26.24,9
 2021,50 Freestyle,10,Sofia Cozza,,Wellesley,26.25,7
 2021,50 Freestyle,11,Julia Tulimieri,,Newton North,26.34,6
-2021,50 Freestyle,12,Anna Mcgrew,,Wellesley,26.65,4.5
+2021,50 Freestyle,12,Anna McGrew,,Wellesley,26.65,4.5
 2021,50 Freestyle,13,Julia Shulman,,Needham,26.93,4.5
 2021,50 Freestyle,14,Marie Scanlon,,Framingham,27.02,3
 2021,50 Freestyle,15,Emma Angelo,,Framingham,27.11,1.5
@@ -150,7 +150,7 @@ year,event,place,name,age,school,result,points
 2021,50 Freestyle,30,Lexi Curtis,,Braintree,31.61,
 2021,50 Freestyle,31,Ashlyn Hough,,Braintree,32.63,
 2021,50 Freestyle,32,Nora Kelly,,Braintree,34.54,
-2021,50 Freestyle,33,Harper Mccarthy,,Natick,36.25,
+2021,50 Freestyle,33,Harper McCarthy,,Natick,36.25,
 2021,50 Freestyle,34,Caroline Norwood,,Walpole,37.79,
 2021,50 Freestyle,35,Savannah Gentile,,Natick,39.01,
 2021,50 Freestyle,36,Abby Ugochukwo,,Braintree,40.20,
@@ -182,7 +182,7 @@ year,event,place,name,age,school,result,points
 2021,100 Butterfly,24,Mia Bazcko,,Newton North,1:25.37,
 2021,100 Butterfly,25,Irini Kollcinaku,,Braintree,1:31.82,
 2021,100 Butterfly,26,Savannah Gentile,,Natick,1:41.03,
-2021,100 Butterfly,27,Harper Mccarthy,,Natick,1:44.33,
+2021,100 Butterfly,27,Harper McCarthy,,Natick,1:44.33,
 2021,100 Butterfly,28,Naomi Boegholm,,Wellesley,59.40,
 2021,100 Butterfly,,Elyssa Truong,,Braintree,SCR,
 2021,100 Freestyle,1,Elle Anthony,,Milton,53.44,20
@@ -228,7 +228,7 @@ year,event,place,name,age,school,result,points
 2021,500 Freestyle,4,Olive Haller,,Needham,5:37.32,15
 2021,500 Freestyle,5,Kylie O'Hearn,,Needham,5:41.75,14
 2021,500 Freestyle,6,Alexa Vaillancourt,,Newton North,5:42.00,13
-2021,500 Freestyle,7,Anna Mcgrew,,Wellesley,5:44.04,12
+2021,500 Freestyle,7,Anna McGrew,,Wellesley,5:44.04,12
 2021,500 Freestyle,8,Kaleigh Boynton,,Milton,5:48.77,11
 2021,500 Freestyle,9,Georgia Spangler,,Wellesley,5:51.82,9
 2021,500 Freestyle,10,Sophie Kwan,,Wellesley,5:52.62,7
@@ -291,7 +291,7 @@ year,event,place,name,age,school,result,points
 2021,100 Backstroke,14,Abby Caputo,,Newton North,1:05.91,3
 2021,100 Backstroke,15,Parker Deveau,,Newton North,1:06.16,2
 2021,100 Backstroke,16,Isobel O'Connell,,Natick,1:06.30,1
-2021,100 Backstroke,17,Isabael Mckay,,Wellesley,1:08.22,
+2021,100 Backstroke,17,Isabael McKay,,Wellesley,1:08.22,
 2021,100 Backstroke,18,Lindsay Youngren,,Wellesley,1:09.26,
 2021,100 Backstroke,19,Sophia Naumov,,Brookline,1:09.84,
 2021,100 Backstroke,20,Claire Holland,,Newton North,1:09.99,
@@ -371,18 +371,389 @@ year,event,place,name,age,school,result,points
 2021,400 Freestyle Relay,22,Braintree C,,Braintree,4:58.50,
 2021,400 Freestyle Relay,,Weymouth A,,Weymouth,DQ,
 2021,400 Freestyle Relay,,Walpole C,,Walpole,DQ,
-2019,1 Meter Diving,1,Elinor Wilson,,Needham,250.65,
-2019,200 Medley Relay,1,N. Boegholm;I. Xia;G. Meisner;K. Rochelle,,Wellesley,1:50.87,
-2019,200 Freestyle,1,Claire Tzouros,,Needham,1:57.32,
-2019,200 Individual Medley,1,Naomi Boegholm,,Wellesley,2:11.97,
-2019,50 Freestyle,1,Zoei Howard,,Needham,24.17,
-2019,100 Butterfly,1,Emily Dobrindt,,Milton,1:00.59,
-2019,100 Freestyle,1,Zoei Howard,,Needham,52.72,
-2019,500 Freestyle,1,Claire Tzouros,,Needham,5:16.80,
-2019,200 Freestyle Relay,1,I. Boegholm;V. Passanisi;K. Rochelle ;N. Thompson,,Wellesley,1:41.23,
-2019,100 Backstroke,1,Naomi Boegholm,,Wellesley,59.28,
-2019,100 Breaststroke,1,Hannah Lee,,Brookline,1:07.66,
-2019,400 Freestyle Relay,1,C. Tzouros;K. Dunbar;E. Higgins;Z. Howard,,Needham,3:37.87,
+2019,1 Meter Diving,1,Elinor Wilson,,Needham,250.65,20
+2019,1 Meter Diving,2,Sara Anastasi,,Framingham,242.40,17
+2019,1 Meter Diving,3,Amanda Melish,,Walpole,237.40,16
+2019,1 Meter Diving,4,Angela Burke,,Framingham,229.75,15
+2019,1 Meter Diving,5,Bliss Vernon,,Wellesley,227.20,14
+2019,1 Meter Diving,6,Jocelyn Schechter,,Newton,217.05,13
+2019,1 Meter Diving,7,Chloe Berg,,Needham,191.15,12
+2019,1 Meter Diving,8,Lelia Allen,,Brookline,191.05,11
+2019,1 Meter Diving,9,Dierdre Mccarthy,,Walpole,185.25,9
+2019,1 Meter Diving,10,Jasmine Palli,,Needham,184.80,7
+2019,1 Meter Diving,11,Isabella Germain,,Framingham,182.40,6
+2019,1 Meter Diving,12,Megan Gillooly,,Wellesley,182.40,5
+2019,1 Meter Diving,13,Maggie Singer,,Walpole,180.05,4
+2019,1 Meter Diving,14,Nanna Atake,,Natick,178.80,3
+2019,1 Meter Diving,15,Eva Georgaklis,,Brookline,178.25,2
+2019,1 Meter Diving,16,Maggie Rosenberg,,Needham,177.25,1
+2019,1 Meter Diving,17,Sofia Puopolo,,Wellesley,175.80,
+2019,1 Meter Diving,18,Emma Koskovich,,Natick,174.25,
+2019,1 Meter Diving,19,Bella Donovan,,Newton,173.55,
+2019,1 Meter Diving,20,Nora Daisy Proskauer,,Newton,168.70,
+2019,1 Meter Diving,21,Zoe Raybould,,Brookline,167.80,
+2019,1 Meter Diving,22,Patricia Landers,,Wellesley,165.10,
+2019,1 Meter Diving,23,Janelle Burke,,Framingham,158.95,
+2019,1 Meter Diving,24,Emily Duseau,,Walpole,156.85,
+2019,1 Meter Diving,25,Kate Gately,,Braintree,152.40,
+2019,1 Meter Diving,26,Karina Lam,,Braintree,144.80,
+2019,1 Meter Diving,27,Isabelle Montrond,,Brookline,143.40,
+2019,200 Medley Relay,1,Naomi Boegholm;Iris Xia;Gracie Meisner;Keleyia Rochelle,,Wellesley,1:50.87,40
+2019,200 Medley Relay,2,Claire Tzouros;Gabby Kim;Katy Dunbar;Zoei Howard,,Needham,1:52.44,34
+2019,200 Medley Relay,3,Taylor Whitley;Hannah Lee;Bonnie Zhao;Ellie Eisenhauer,,Brookline,1:52.67,32
+2019,200 Medley Relay,4,Meg Dipasquale;Jessica Tosi;Caroline Mazariegos;Jillian O'Neil,,Framingham,1:56.56,30
+2019,200 Medley Relay,5,Arina Collin;Ula Haller;Emmy Higgins;Abby Thress,,Needham,1:56.74,28
+2019,200 Medley Relay,6,Karen Tong;Anna Rahilly;Abby Caputo;Julia Tulimieri,,Newton North,1:56.98,26
+2019,200 Medley Relay,7,Amalia Halpin;Emily Dobrindt;Madison Crummey;Rose Gillooly,,Milton,1:57.56,24
+2019,200 Medley Relay,8,Grace Chan;Caroline Zimmer;Sofia Cozza;Valerie Passanisi,,Wellesley,1:58.56,22
+2019,200 Medley Relay,9,Kacie Zonghetti;Laura Dube;Trinity Trainor;Emma Angelo,,Framingham,1:58.69,18
+2019,200 Medley Relay,10,Abby Chen;Sarah Shentu;Sophia Wong;Samantha Fuchs,,Natick,1:59.85,14
+2019,200 Medley Relay,11,Sarah Tanabe;Katherine Henry;Elina Kasida;Lyla Baldwin,,Brookline,1:59.88,12
+2019,200 Medley Relay,12,Grace O'Malley;Emily Rose;Dierdre McCarthy;Anna Smith,,Walpole,2:02.14,10
+2019,200 Medley Relay,13,Adriana Cosentino;Kayla Talcoff;Abby Krivopal;Rachel Talcoff,,Needham,2:02.84,
+2019,200 Medley Relay,14,Michaela Grant;Grace Benzi;Taylor Landurand;Abby Hayes,,Natick,2:05.13,8
+2019,200 Medley Relay,15,Rebecca Nguygen;Avery Packard;Amber Mickelson;Leigh Mitchell,,Brookline,2:05.72,
+2019,200 Medley Relay,16,Claire Holland;Megan Schneider;Helen Xiao;Louisa Essmann,,Newton North,2:06.06,6
+2019,200 Medley Relay,17,Alice Cook;Maree Allred;Lily Biro;Paige Buller,,Wellesley,2:06.67,
+2019,200 Medley Relay,18,Aija Dilba;Arielle Shek;Grayson Dolin;Bella Bowen,,Framingham,2:10.51,
+2019,200 Medley Relay,19,Isabelle Graham;Danielle Abril;Erin Foley;Shreeya Shenoy,,Walpole,2:16.51,4
+2019,200 Medley Relay,20,Vera Gorman;Jen Crisafulli;Lauren Hymes;Ellen Kiernan,,Natick,2:25.14,
+2019,200 Medley Relay,21,Rebecca Longo;Haley Best;Ness Hoch;Talya Erbil,,Newton North,2:25.90,
+2019,200 Medley Relay,22,Hannah Hartshorn;Lauren Crisileo;Lianne Tran;Amy Vo,,Weymouth,2:26.18,2
+2019,200 Medley Relay,23,Jillian Matthews;Chloe Sullivan;Jessica Elmhurst;Caitlin Roacha,,Walpole,2:30.56,
+2019,200 Medley Relay,,Braintree A,,Braintree,SCR,
+2019,200 Freestyle,1,Claire Tzouros,,Needham,1:57.32,20
+2019,200 Freestyle,2,Honour Dufresne,,Newton,1:59.27,17
+2019,200 Freestyle,3,Lil Gross,,Wellesley,1:59.64,16
+2019,200 Freestyle,4,Vaani Kapoor,,Wellesley,2:02.45,15
+2019,200 Freestyle,5,Emily Dobrindt,,Milton,2:03.31,14
+2019,200 Freestyle,6,Isabelle Boegholm,,Wellesley,2:03.78,13
+2019,200 Freestyle,7,Molly Jordan,,Wellesley,2:04.83,12
+2019,200 Freestyle,8,Marley Desimone,,Framingham,2:05.03,11
+2019,200 Freestyle,9,Alex Filipova,,Newton,2:05.28,9
+2019,200 Freestyle,10,Amelia Walker,,Brookline,2:05.79,7
+2019,200 Freestyle,11,Tatum O'Leary,,Framingham,2:05.85,6
+2019,200 Freestyle,12,Ellie Ofer,,Needham,2:05.93,5
+2019,200 Freestyle,13,Julia Mahoney,,Needham,2:06.12,4
+2019,200 Freestyle,14,Kayla Talcoff,,Needham,2:06.67,3
+2019,200 Freestyle,15,Anna Friedman,,Brookline,2:07.48,2
+2019,200 Freestyle,16,Ivy Griller,,Natick,2:08.29,1
+2019,200 Freestyle,17,Suzanne Julakis,,Framingham,2:08.70,
+2019,200 Freestyle,18,Taylor Landurand,,Natick,2:09.49,
+2019,200 Freestyle,19,Adriana Halpin,,Milton,2:10.76,
+2019,200 Freestyle,20,Isobel O'Connell,,Natick,2:12.21,
+2019,200 Freestyle,21,Chantel Pereira,,Braintree,2:13.84,
+2019,200 Freestyle,22,Katherine Kett,,Newton,2:14.19,
+2019,200 Freestyle,23,Sabrina Tersoni,,Framingham,2:14.41,
+2019,200 Freestyle,24,Amanda Kravitz,,Brookline,2:14.57,
+2019,200 Freestyle,25,Emma Hoffman,,Natick,2:17.25,
+2019,200 Freestyle,26,Meghan Scott-Richmond,,Braintree,2:21.09,
+2019,200 Freestyle,27,Stefania Kales,,Newton,2:21.68,
+2019,200 Freestyle,28,Natalie Aronson,,Brookline,2:28.21,
+2019,200 Freestyle,29,Gianna Pompeo,,Walpole,2:31.11,
+2019,200 Freestyle,30,Ciara Kelly,,Braintree,2:32.20,
+2019,200 Freestyle,31,Bridget Loughran,,Walpole,2:34.77,
+2019,200 Freestyle,32,Shreeya Shenoy,,Walpole,2:39.87,
+2019,200 Freestyle,33,Joanna Lam,,Braintree,2:44.89,
+2019,200 Freestyle,34,Grace Mortali,,Walpole,2:51.76,
+2019,200 Freestyle,,Katie McKenna,,Weymouth,SCR,
+2019,200 Individual Medley,1,Naomi Boegholm,,Wellesley,2:11.97,20
+2019,200 Individual Medley,2,Laura Dube,,Framingham,2:14.70,17
+2019,200 Individual Medley,3,Emmy Higgins,,Needham,2:15.75,16
+2019,200 Individual Medley,4,Hannah Lee,,Brookline,2:16.82,15
+2019,200 Individual Medley,5,Anna Rahilly,,Newton,2:20.22,14
+2019,200 Individual Medley,6,Katherine Henry,,Brookline,2:20.59,13
+2019,200 Individual Medley,7,Caroline Mazariegos,,Framingham,2:22.84,12
+2019,200 Individual Medley,8,Sophia Wong,,Natick,2:23.43,11
+2019,200 Individual Medley,9,Iris Xia,,Wellesley,2:23.74,9
+2019,200 Individual Medley,10,Olive Haller,,Needham,2:24.07,7
+2019,200 Individual Medley,11,Ula Haller,,Needham,2:24.37,6
+2019,200 Individual Medley,12,Helen Xiao,,Newton,2:26.42,5
+2019,200 Individual Medley,13,Eliza Callahan,,Milton,2:28.02,4
+2019,200 Individual Medley,14,Amalia Halpin,,Milton,2:28.30,3
+2019,200 Individual Medley,15,Lily Krivopal,,Needham,2:30.29,2
+2019,200 Individual Medley,16,Amber Mickelson,,Brookline,2:30.32,1
+2019,200 Individual Medley,17,Jessica Tosi,,Framingham,2:30.65,
+2019,200 Individual Medley,18,Katie Passanisi,,Wellesley,2:31.59,
+2019,200 Individual Medley,19,Maree Allred,,Wellesley,2:32.22,
+2019,200 Individual Medley,20,Sarah Shentu,,Natick,2:32.70,
+2019,200 Individual Medley,21,Avery Packard,,Brookline,2:32.74,
+2019,200 Individual Medley,22,Val Ledesma,,Framingham,2:34.85,
+2019,200 Individual Medley,23,Tiffany Hoang,,Braintree,2:40.05,
+2019,200 Individual Medley,24,Megan Pham,,Braintree,2:40.43,
+2019,200 Individual Medley,25,Aria Long,,Braintree,2:42.89,
+2019,200 Individual Medley,26,Louisa Essmann,,Newton,2:43.31,
+2019,200 Individual Medley,27,Jadine Le,,Walpole,2:44.93,
+2019,200 Individual Medley,28,Shivani Shah,,Newton,2:47.46,
+2019,200 Individual Medley,29,Mary Dempsey,,Natick,2:50.59,
+2019,200 Individual Medley,30,Chloe Sullivan,,Walpole,2:53.81,
+2019,200 Individual Medley,31,Jillian Matthews,,Walpole,2:54.43,
+2019,200 Individual Medley,32,Lauren Crisileo,,Weymouth,3:07.90,
+2019,200 Individual Medley,33,Caitlin Roacha,,Walpole,3:22.35,
+2019,200 Individual Medley,,Victoria Viglas,,Weymouth,SCR,
+2019,200 Individual Medley,,Daria Dobrolinski,,Braintree,SCR,
+2019,50 Freestyle,1,Zoei Howard,,Needham,24.17,20
+2019,50 Freestyle,2,Nellie Thompson,,Wellesley,24.80,17
+2019,50 Freestyle,3,Keleyia Rochelle,,Wellesley,25.40,16
+2019,50 Freestyle,4,Meredith Flint,,Newton,25.64,15
+2019,50 Freestyle,5,Anna Smith,,Walpole,25.67,14
+2019,50 Freestyle,6,Valerie Passanisi,,Wellesley,25.70,13
+2019,50 Freestyle,7,Audrey Stanton,,Brookline,25.75,12
+2019,50 Freestyle,8,Ellie Eisenhauer,,Brookline,25.76,11
+2019,50 Freestyle,9,Samantha Fuchs,,Natick,25.97,9
+2019,50 Freestyle,10,Alyssa Chen,,Brookline,26.06,7
+2019,50 Freestyle,11,Jillian O'Neil,,Framingham,26.15,6
+2019,50 Freestyle,12,Trinity Trainor,,Framingham,26.29,5
+2019,50 Freestyle,13,Julia Tulimieri,,Newton,26.30,4
+2019,50 Freestyle,14,Rose Gillooly,,Milton,26.34,3
+2019,50 Freestyle,15,Abby Thress,,Needham,26.36,2
+2019,50 Freestyle,16,Audrey McKenzie,,Brookline,26.66,1
+2019,50 Freestyle,17,Megan Schneider,,Newton,26.70,
+2019,50 Freestyle,18,Emily Rose,,Walpole,26.71,
+2019,50 Freestyle,19,Margaret Haley,,Milton,26.75,
+2019,50 Freestyle,20,Rory Paterniti,,Needham,27.25,
+2019,50 Freestyle,21,Paige Buller,,Wellesley,27.29,
+2019,50 Freestyle,22,Emma Angelo,,Framingham,27.44,
+2019,50 Freestyle,23,Kelsey Rondini,,Needham,27.59,
+2019,50 Freestyle,24,Claire Holland,,Newton,27.68,
+2019,50 Freestyle,25,Madison Hymes,,Natick,27.95,
+2019,50 Freestyle,26,Arielle Shek,,Framingham,28.12,
+2019,50 Freestyle,27,Abby Hayes,,Natick,28.85,
+2019,50 Freestyle,28,Candice Keung,,Braintree,28.96,
+2019,50 Freestyle,29,Mia Coen,,Braintree,29.76,
+2019,50 Freestyle,30,Emily Garufi,,Milton,30.13,
+2019,50 Freestyle,31,Shreeya Shenoy,,Walpole,30.61,
+2019,50 Freestyle,32,Vera Gorman,,Natick,31.29,
+2019,50 Freestyle,33,Amy Vo,,Weymouth,31.30,
+2019,50 Freestyle,34,Julie Stornaeilo,,Braintree,31.41,
+2019,50 Freestyle,35,Joanna Lam,,Braintree,32.04,
+2019,50 Freestyle,36,Emily Duseau,,Walpole,33.27,
+2019,50 Freestyle,37,Lianne Tran,,Weymouth,33.71,
+2019,50 Freestyle,,Abigail Ierardi,,Weymouth,SCR,
+2019,50 Freestyle,,Amanda Arcieri,,Milton,SCR,
+2019,50 Freestyle,,Victoria Viglas,,Weymouth,SCR
+2019,100 Butterfly,1,Emily Dobrindt,,Milton,1:00.59,20
+2019,100 Butterfly,2,Katy Dunbar,,Needham,1:00.87,17
+2019,100 Butterfly,3,Gracie Meisner,,Wellesley,1:00.93,16
+2019,100 Butterfly,4,Bonnie Zhao,,Brookline,1:03.16,15
+2019,100 Butterfly,5,Meg Dipasquale,,Framingham,1:04.30,14
+2019,100 Butterfly,6,Abby Caputo,,Newton,1:04.72,13
+2019,100 Butterfly,7,Sofia Cozza,,Wellesley,1:04.88,12
+2019,100 Butterfly,8,Isabelle Boegholm,,Wellesley,1:05.52,11
+2019,100 Butterfly,9,Marley Desimone,,Framingham,1:05.67,9
+2019,100 Butterfly,10,Olive Haller,,Needham,1:06.31,7
+2019,100 Butterfly,11,Michaela Grant,,Natick,1:06.36,6
+2019,100 Butterfly,12,Vaani Kapoor,,Wellesley,1:06.40,5
+2019,100 Butterfly,13,Liv Disandro,,Milton,1:06.72,4
+2019,100 Butterfly,14,Elina Kasida,,Brookline,1:06.84,3
+2019,100 Butterfly,15,Tiffany Hoang,,Braintree,1:06.84,2
+2019,100 Butterfly,16,Ava Sirignano,,Needham,1:07.19,1
+2019,100 Butterfly,17,Abby Chen,,Natick,1:07.22,
+2019,100 Butterfly,18,Amber Mickelson,,Brookline,1:07.44,
+2019,100 Butterfly,19,Kate O'Brien,,Needham,1:07.90,
+2019,100 Butterfly,20,Helen Xiao,,Newton,1:09.46,
+2019,100 Butterfly,21,Suzanne Julakis,,Framingham,1:09.92,
+2019,100 Butterfly,22,Dierdre McCarthy,,Walpole,1:10.33,
+2019,100 Butterfly,23,Aija Dilba,,Framingham,1:10.94,
+2019,100 Butterfly,24,Claire Holland,,Newton,1:12.19,
+2019,100 Butterfly,25,Leigh Mitchell,,Brookline,1:14.92,
+2019,100 Butterfly,26,Erin Foley,,Walpole,1:16.76,
+2019,100 Butterfly,27,Shivani Shah,,Newton,1:16.97,
+2019,100 Butterfly,28,Danielle Abril,,Walpole,1:17.87,
+2019,100 Butterfly,29,Jadine Le,,Walpole,1:18.16,
+2019,100 Butterfly,30,Aria Long,,Braintree,1:19.07,
+2019,100 Butterfly,31,Meghan Scott-Richmond,,Braintree,1:21.36,
+2019,100 Butterfly,32,Valentina Valderama-Perez,,Natick,1:21.37,
+2019,100 Butterfly,33,Jen Crisafulli,,Natick,1:26.63,
+2019,100 Freestyle,1,Zoei Howard,,Needham,52.72,20
+2019,100 Freestyle,2,Emmy Higgins,,Needham,55.51,17
+2019,100 Freestyle,3,Karen Tong,,Newton,55.56,16
+2019,100 Freestyle,4,Nellie Thompson,,Wellesley,55.62,15
+2019,100 Freestyle,5,Lil Gross,,Wellesley,56.17,14
+2019,100 Freestyle,6,Keleyia Rochelle,,Wellesley,56.60,13
+2019,100 Freestyle,7,Audrey Stanton,,Brookline,56.65,12
+2019,100 Freestyle,8,Madison Crummey,,Milton,56.73,11
+2019,100 Freestyle,9,Anna Smith,,Walpole,57.07,9
+2019,100 Freestyle,10,Alex Filipova,,Newton,57.34,7
+2019,100 Freestyle,11,Jillian O'Neil,,Framingham,57.54,6
+2019,100 Freestyle,12,Samantha Fuchs,,Natick,57.64,5
+2019,100 Freestyle,13,Allie Jiang,,Needham,57.64,4
+2019,100 Freestyle,14,Caroline Mazariegos,,Framingham,57.68,3
+2019,100 Freestyle,15,Alyssa Chen,,Brookline,57.84,2
+2019,100 Freestyle,16,Trinity Trainor,,Framingham,58.24,1
+2019,100 Freestyle,17,Eleanor Mackey,,Needham,58.74,
+2019,100 Freestyle,18,Ivy Griller,,Natick,58.78,
+2019,100 Freestyle,19,Margaret Haley,,Milton,59.02,
+2019,100 Freestyle,20,Audrey McKenzie,,Brookline,59.04,
+2019,100 Freestyle,21,Kacie Zonghetti,,Framingham,59.83,
+2019,100 Freestyle,22,Megan Schneider,,Newton,1:00.41,
+2019,100 Freestyle,23,Julia Tulimieri,,Newton,1:00.46,
+2019,100 Freestyle,24,Paige Buller,,Wellesley,1:00.49,
+2019,100 Freestyle,25,Madison Hymes,,Natick,1:01.68,
+2019,100 Freestyle,26,Emily Rose,,Walpole,1:02.21,
+2019,100 Freestyle,27,Hannah Hartshorn,,Weymouth,1:02.30,
+2019,100 Freestyle,28,Megan Pham,,Braintree,1:03.70,
+2019,100 Freestyle,29,Lyla Baldwin,,Brookline,1:04.47,
+2019,100 Freestyle,30,April Smerdon,,Natick,1:06.20,
+2019,100 Freestyle,31,Jasmine Huang,,Braintree,1:10.84,
+2019,100 Freestyle,32,Grace Mortali,,Walpole,1:17.94,
+2019,100 Freestyle,33,Caitlin Roacha,,Walpole,1:19.32,
+2019,100 Freestyle,34,Bridget Greene,,Milton,1:23.38,
+2019,100 Freestyle,,Lauren Crisileo,,Weymouth,SCR,
+2019,500 Freestyle,1,Claire Tzouros,,Needham,5:16.80,20
+2019,500 Freestyle,2,Honour Dufresne,,Newton,5:19.78,17
+2019,500 Freestyle,3,Ellie Ofer,,Needham,5:30.98,16
+2019,500 Freestyle,4,Julia Mahoney,,Needham,5:34.96,15
+2019,500 Freestyle,5,Bonnie Zhao,,Brookline,5:35.61,14
+2019,500 Freestyle,6,Molly Jordan,,Wellesley,5:35.98,13
+2019,500 Freestyle,7,Rose Gillooly,,Milton,5:36.86,12
+2019,500 Freestyle,8,Tatum O'Leary,,Framingham,5:37.56,11
+2019,500 Freestyle,9,Caroline Zimmer,,Wellesley,5:39.93,9
+2019,500 Freestyle,10,Sofia Cozza,,Wellesley,5:42.35,7
+2019,500 Freestyle,11,Amelia Cookson,,Wellesley,5:43.20,6
+2019,500 Freestyle,12,Anna Rahilly,,Newton,5:44.90,5
+2019,500 Freestyle,13,Madison Talcoff,,Needham,5:48.17,4
+2019,500 Freestyle,14,Liv Disandro,,Milton,5:48.63,3
+2019,500 Freestyle,15,Anna Friedman,,Brookline,5:52.89,2
+2019,500 Freestyle,16,Taylor Landurand,,Natick,5:53.56,1
+2019,500 Freestyle,17,Katherine Kett,,Newton,5:53.65,
+2019,500 Freestyle,18,Adriana Halpin,,Milton,5:54.10,
+2019,500 Freestyle,19,Sabrina Tersoni,,Framingham,5:57.73,
+2019,500 Freestyle,20,Alexa Vaillancourt,,Newton,5:58.12,
+2019,500 Freestyle,21,Isobel O'Connell,,Natick,6:02.83,
+2019,500 Freestyle,22,Grace O'Malley,,Walpole,6:03.02,
+2019,500 Freestyle,23,Emma Hoffman,,Natick,6:03.61,
+2019,500 Freestyle,24,Chantel Pereira,,Braintree,6:03.70,
+2019,500 Freestyle,25,Amanda Kravitz,,Brookline,6:04.09,
+2019,500 Freestyle,26,Jordan Summerfield,,Framingham,6:05.09,
+2019,500 Freestyle,27,Val Ledesma,,Framingham,6:12.15,
+2019,500 Freestyle,28,Isabelle Graham,,Walpole,6:25.23,
+2019,500 Freestyle,29,Natalie Aronson,,Brookline,6:39.09,
+2019,500 Freestyle,30,Grace Benzi,,Natick,6:49.04,
+2019,500 Freestyle,31,Ciara Kelly,,Braintree,6:53.05,
+2019,500 Freestyle,32,Britney Tran,,Braintree,6:57.76,
+2019,500 Freestyle,33,Gianna Pompeo,,Walpole,7:07.45,
+2019,500 Freestyle,34,Jessica Elmhurst,,Walpole,7:28.15,
+2019,200 Freestyle Relay,1,Isabelle Boegholm;Valerie Passanisi;Keleyia Rochelle;Nellie Thompson,,Wellesley,1:41.23,40
+2019,200 Freestyle Relay,2,Audrey Stanton;Alyssa Chen;Audrey McKenzie;Ellie Eisenhauer,,Brookline,1:43.20,34
+2019,200 Freestyle Relay,3,Jillian O'Neil;Trinity Trainor;Jessica Tosi;Marley Desimone,,Framingham,1:43.58,32
+2019,200 Freestyle Relay,4,Alex Filipova;Julia Tulimieri;Honour Dufresne;Meredith Flint,,Newton North,1:44.57,30
+2019,200 Freestyle Relay,5,Iris Xia;Vaani Kapoor;Molly Jordan;Lil Gross,,Wellesley,1:45.16,28
+2019,200 Freestyle Relay,6,Allie Jiang;Abby Thress;Ula Haller;Rachel Talcoff,,Needham,1:45.52,26
+2019,200 Freestyle Relay,7,Samantha Fuchs;Sophia Wong;Ivy Griller;Isobel O'Connell,,Natick,1:46.56,24
+2019,200 Freestyle Relay,8,Margaret Haley;Liv Disandro;Eliza Callahan;Amalia Halpin,,Milton,1:46.59,22
+2019,200 Freestyle Relay,9,Ellie Ofer;Gabi Spengler;Eleanor Mackey;Rory Paterniti,,Needham,1:46.71,18
+2019,200 Freestyle Relay,10,Caroline Mazariegos;Tatum O'Leary;Arielle Shek;Emma Angelo,,Framingham,1:47.89,14
+2019,200 Freestyle Relay,11,Kelsey Rondini;Hannah Goldstein;Julia Mahoney;Audrey Finelli,,Needham,1:49.55,
+2019,200 Freestyle Relay,12,Lyla Baldwin;Amelia Walker;Anna Friedman;Elina Kasida;Neda Sabeva,,Brookline,1:49.86,12
+2019,200 Freestyle Relay,13,Dierdre McCarthy;Emily Rose;Grace O'Malley;Anna Smith,,Walpole,1:50.34,10
+2019,200 Freestyle Relay,14,Grayson Dolin;Sabrina Tersoni;Suzanne Julakis;Val Ledesma,,Framingham,1:51.13,
+2019,200 Freestyle Relay,15,Rebecca Nguygen;Taylor Whitley;Avery Packard;Leigh Mitchell,,Brookline,1:52.45,
+2019,200 Freestyle Relay,16,Tiffany Hoang;Megan Pham;Candice Keung;Chantel Pereira,,Braintree,1:53.35,8
+2019,200 Freestyle Relay,17,Claire Holland;Louisa Essmann;Megan Schneider;Alexa Vaillancourt,,Newton North,1:54.41,6
+2019,200 Freestyle Relay,18,Madison Hymes;Abby Hayes;Emma Hoffman;April Smerdon,,Natick,1:55.12,4
+2019,200 Freestyle Relay,19,Lily Biro;Abby Frank;Maggie Wargo,,Wellesley,1:59.76,
+2019,200 Freestyle Relay,20,Lauren Hymes;Ellen Kiernan;Mary Dempsey;Val Valderama-Perez,,Natick,2:05.49,
+2019,200 Freestyle Relay,21,Karen Matsuoka;Natalie Bankman;Kaela Heinstein;Rheona Mehta,,Newton North,2:06.58,
+2019,200 Freestyle Relay,22,Hannah Hartshorn;Lauren Crisileo;Lianne Tran;Amy Vo,,Weymouth,2:07.10,2
+2019,200 Freestyle Relay,23,Jadine Le;Bridget Loughran;Grace Mortali;Gianna Pompeo,,Walpole,2:08.93,
+2019,200 Freestyle Relay,24,Amanda Arcieri;Hannah Andrews;Bridget Greene;Emily Garufi;Adriana Halpin,,Milton,2:17.89,
+2019,200 Freestyle Relay,25,Maggie Devlin;Catherine Martin;Maggie Singer;Breanna Fils-Aime,,Walpole,3:11.09,
+2019,200 Freestyle Relay,,Braintree B,,Braintree,SCR,
+2019,100 Backstroke,1,Naomi Boegholm,,Wellesley,59.28,20
+2019,100 Backstroke,2,Karen Tong,,Newton,1:00.76,17
+2019,100 Backstroke,3,Laura Dube,,Framingham,1:01.55,16
+2019,100 Backstroke,4,Meg Dipasquale,,Framingham,1:02.56,15
+2019,100 Backstroke,5,Katy Dunbar,,Needham,1:02.77,14
+2019,100 Backstroke,6,Abby Caputo,,Newton,1:03.60,13
+2019,100 Backstroke,7,Amalia Halpin,,Milton,1:03.67,12
+2019,100 Backstroke,8,Abby Chen,,Natick,1:03.72,11
+2019,100 Backstroke,9,Gracie Meisner,,Wellesley,1:03.77,9
+2019,100 Backstroke,10,Taylor Whitley,,Brookline,1:04.87,7
+2019,100 Backstroke,11,Arina Collin,,Needham,1:05.35,6
+2019,100 Backstroke,12,Amelia Walker,,Brookline,1:05.86,5
+2019,100 Backstroke,13,Rebecca Nguygen,,Brookline,1:05.96,4
+2019,100 Backstroke,14,Sarah Tanabe,,Brookline,1:06.18,3
+2019,100 Backstroke,15,Olivia Finelli,,Needham,1:07.02,2
+2019,100 Backstroke,16,Hannah Hartshorn,,Weymouth,1:07.05,1
+2019,100 Backstroke,17,Michaela Grant,,Natick,1:07.10,
+2019,100 Backstroke,18,Adriana Cosentino,,Needham,1:08.42,
+2019,100 Backstroke,19,Aija Dilba,,Framingham,1:08.51,
+2019,100 Backstroke,20,Kacie Zonghetti,,Framingham,1:08.77,
+2019,100 Backstroke,21,Maree Allred,,Wellesley,1:09.51,
+2019,100 Backstroke,22,Isabelle Graham,,Walpole,1:09.78,
+2019,100 Backstroke,23,Katie Passanisi,,Wellesley,1:09.99,
+2019,100 Backstroke,24,Grace O'Malley,,Walpole,1:10.72,
+2019,100 Backstroke,25,Louisa Essmann,,Newton,1:12.78,
+2019,100 Backstroke,26,Ella McNally,,Newton,1:13.49,
+2019,100 Backstroke,27,April Smerdon,,Natick,1:13.93,
+2019,100 Backstroke,28,Jillian Matthews,,Walpole,1:15.83,
+2019,100 Backstroke,29,Vera Gorman,,Natick,1:16.82,
+2019,100 Backstroke,30,Bridget Loughran,,Walpole,1:20.23,
+2019,100 Backstroke,31,Jasmine Huang,,Braintree,1:25.19,
+2019,100 Backstroke,32,Julie Stornaeilo,,Braintree,1:27.55,
+2019,100 Backstroke,33,Britney Tran,,Braintree,1:29.24,
+2019,100 Breaststroke,1,Hannah Lee,,Brookline,1:07.66,20
+2019,100 Breaststroke,2,Ula Haller,,Needham,1:10.63,17
+2019,100 Breaststroke,3,Katherine Henry,,Brookline,1:11.29,16
+2019,100 Breaststroke,4,Meredith Flint,,Newton,1:11.50,15
+2019,100 Breaststroke,5,Iris Xia,,Wellesley,1:12.64,14
+2019,100 Breaststroke,6,Gabby Kim,,Needham,1:13.45,13
+2019,100 Breaststroke,7,Madison Crummey,,Milton,1:13.53,12
+2019,100 Breaststroke,8,Caroline Zimmer,,Wellesley,1:13.86,11
+2019,100 Breaststroke,9,Kayla Talcoff,,Needham,1:14.06,9
+2019,100 Breaststroke,10,Jessica Tosi,,Framingham,1:14.18,7
+2019,100 Breaststroke,11,Allie Jiang,,Needham,1:14.51,6
+2019,100 Breaststroke,12,Valerie Passanisi,,Wellesley,1:14.84,5
+2019,100 Breaststroke,13,Sarah Shentu,,Natick,1:16.19,4
+2019,100 Breaststroke,14,Avery Packard,,Brookline,1:18.10,3
+2019,100 Breaststroke,15,Amelia Cookson,,Wellesley,1:18.23,2
+2019,100 Breaststroke,16,Maria Martinez,,Framingham,1:18.34,1
+2019,100 Breaststroke,17,Eliza Callahan,,Milton,1:18.35,
+2019,100 Breaststroke,18,Grace Benzi,,Natick,1:18.80,
+2019,100 Breaststroke,19,Alexa Vaillancourt,,Newton,1:19.77,
+2019,100 Breaststroke,20,Candice Keung,,Braintree,1:20.28,
+2019,100 Breaststroke,21,Bella Bowen,,Framingham,1:21.93,
+2019,100 Breaststroke,22,Maryssa Miele,,Framingham,1:23.00,
+2019,100 Breaststroke,23,Zara Sideeka,,Brookline,1:24.24,
+2019,100 Breaststroke,24,Mary Dempsey,,Natick,1:25.69,
+2019,100 Breaststroke,25,Karen Matsuoka,,Newton,1:27.46,
+2019,100 Breaststroke,26,Chloe Sullivan,,Walpole,1:27.89,
+2019,100 Breaststroke,27,Erin Foley,,Walpole,1:28.65,
+2019,100 Breaststroke,28,Haley Best,,Newton,1:29.44,
+2019,100 Breaststroke,29,Danielle Abril,,Walpole,1:29.59,
+2019,100 Breaststroke,30,Jessica Elmhurst,,Walpole,1:30.73,
+2019,100 Breaststroke,31,Mia Coen,,Braintree,1:34.82,
+2019,100 Breaststroke,32,Hannah Andrews,,Milton,1:36.33,
+2019,100 Breaststroke,33,Amy Vo,,Weymouth,1:44.06,
+2019,100 Breaststroke,34,Lianne Tran,,Weymouth,1:44.98,
+2019,100 Breaststroke,,Jen Crisafulli,,Natick,DQ,
+2019,100 Breaststroke,,Joanna Lam,,Braintree,SCR,
+2019,100 Breaststroke,,Daria Dobrolinski,,Braintree,SCR,
+2019,400 Freestyle Relay,1,Claire Tzouros;Katy Dunbar;Emmy Higgins;Zoei Howard,,Needham,3:37.87,40
+2019,400 Freestyle Relay,2,Lil Gross;Naomi Boegholm;Gracie Meisner;Nellie Thompson,,Wellesley,3:38.52,34
+2019,400 Freestyle Relay,3,Audrey Stanton;Bonnie Zhao;Ellie Eisenhauer;Hannah Lee,,Brookline,3:45.48,32
+2019,400 Freestyle Relay,4,Meredith Flint;Alex Filipova;Honour Dufresne;Karen Tong,,Newton North,3:46.39,30
+2019,400 Freestyle Relay,5,Molly Jordan;Vaani Kapoor;Sofia Cozza;Isabelle Boegholm,,Wellesley,3:49.90,28
+2019,400 Freestyle Relay,6,Marley Desimone;Tatum O'Leary;Meg Dipasquale;Laura Dube,,Framingham,3:50.34,26
+2019,400 Freestyle Relay,7,Rose Gillooly;Emily Dobrindt;Liv Disandro;Madison Crummey,,Milton,3:50.80,24
+2019,400 Freestyle Relay,8,Allie Jiang;Abby Thress;Julia Mahoney;Eleanor Mackey,,Needham,3:53.10,22
+2019,400 Freestyle Relay,9,Audrey McKenzie;Alyssa Chen;Amelia Walker;Katherine Henry,,Brookline,3:53.96,18
+2019,400 Freestyle Relay,10,Isobel O'Connell;Ivy Griller;Sophia Wong;Abby Chen,,Natick,3:57.06,14
+2019,400 Freestyle Relay,11,Sarah Francis;Kelsey Rondini;Olive Haller;Ellie Ofer,,Needham,4:00.30,
+2019,400 Freestyle Relay,12,Suzanne Julakis;Sabrina Tersoni;Arielle Shek;Kacie Zonghetti,,Framingham,4:05.41,12
+2019,400 Freestyle Relay,13,Grayson Dolin;Aija Dilba;Emma Angelo;Val Ledesma,,Framingham,4:05.87,
+2019,400 Freestyle Relay,14,Taylor Landurand;Michaela Grant;Abby Hayes;Sarah Shentu,,Natick,4:08.06,10
+2019,400 Freestyle Relay,15,Abby Caputo;Stefania Kales;Helen Xiao;Anna Rahilly,,Newton North,4:08.46,8
+2019,400 Freestyle Relay,16,Katie Passanisi;Maggie Wargo;Ariel Oppenheim;Amelia Cookson,,Wellesley,4:09.45,
+2019,400 Freestyle Relay,17,Lyla Baldwin;Rebecca Nguygen;Anna Friedman;Elina Kasida,,Brookline,4:12.44,
+2019,400 Freestyle Relay,18,Aria Long;Ciara Kelly;Mia Coen;Megh Scott-Richmond,,Braintree,4:30.77,6
+2019,400 Freestyle Relay,19,Candice Keung;Megan Pham;Tiffany Hoang;Chantel Pereira,,Braintree,4:32.40,4
+2019,400 Freestyle Relay,20,Jadine Le;Bridget Loughran;Isabelle Graham;Gianna Pompeo,,Walpole,4:33.83,2
+2019,400 Freestyle Relay,21,Emlyn Thomas;Katherine Kett; Shivani3 Shah,,Newton North,4:36.57,
+2019,400 Freestyle Relay,22,Emma Valhoffman;Valderama-Perez;Jen Crisafulli;Lauren Hymes,,Natick,4:41.14,
+2019,400 Freestyle Relay,23,Danielle Abril;Chloe Sullivan;Erin Foley;Shreeya Shenoy,,Walpole,4:56.33,
+2019,400 Freestyle Relay,24,Grace Mortali;Jessica Elmhurst;Caitlin Roacha;Jillian Matthews,,Walpole,5:08.19,
 2018,1 Meter Diving,1,Emma Petrovich,,Wellesley,300.50,
 2018,200 Medley Relay,1,A. Caputo;M.Alberts;C. Flint;K. Tong,,Newton North,1:56.45,
 2018,200 Freestyle,1,Gracie Meisner,,Wellesley,2:02.17,
@@ -648,12 +1019,12 @@ year,event,place,name,age,school,result,points
 1994,400 Freestyle Relay,1,J. Caputo;S. Belanger;M. Bruchez;J. Graham,,Wellesley,3:56.75,
 1993,1 Meter Diving,1,Liz Stone,,Needhan,257.35,
 1993,200 Medley Relay,1,J. Steifel;J. Barlas;E. Rooney;A. Robichuad,,Natick,1:58.98,
-1993,200 Freestyle,1,Shannon Mccarthy,,Framingham,2:14.15,
+1993,200 Freestyle,1,Shannon McCarthy,,Framingham,2:14.15,
 1993,200 Individual Medley,1,Carmen Trombini,,Needham,2:17.29,
 1993,50 Freestyle,1,Anne Robichaud,,Natick,26.03,
 1993,100 Butterfly,1,Andrea Slate,,Newton North,1:03.59,
 1993,100 Freestyle,1,Anne Robichaud,,Natick,57.29,
-1993,500 Freestyle,1,Shannon Mccarthy,,Framingham,5:32.16,
+1993,500 Freestyle,1,Shannon McCarthy,,Framingham,5:32.16,
 1993,200 Freestyle Relay,1,J. Kelleher;S. Carney;A. Mullen;C. Trombini,,Needham,1:47.39,
 1993,100 Backstroke,1,Jessica Graham,,Wellesley,1:06.66,
 1993,100 Breaststroke,1,Carmen Trombini,,Needham,1:10.55,
