@@ -12,6 +12,7 @@
   {% assign crumb-path = site.category_archive.path %}
 {% endif %}
 
+{% assign upper-case-crumb-segments = "MIAA" | split: "," %}
 {% assign all-urls = site.pages | map: "url" %}
 
 <nav class="breadcrumbs">
@@ -23,7 +24,12 @@
       {% assign crumb-segments = crumb | split: "-" %}
       {% assign crumb-display = "" %}
       {% for crumb-segment in crumb-segments %}
-        {% assign normalized-crumb-segment = crumb-segment | replace: "-", " " | replace: "%20", " " | capitalize %}
+        {% assign upper-case-crumb-segment = crumb-segment | upcase %}
+        {% if upper-case-crumb-segments contains upper-case-crumb-segment %}
+          {% assign normalized-crumb-segment = crumb-segment | replace: "-", " " | replace: "%20", " " | upcase %}
+        {% else %}
+          {% assign normalized-crumb-segment = crumb-segment | replace: "-", " " | replace: "%20", " " | capitalize %}
+        {% endif %}
         {% assign crumb-display = crumb-display | append: normalized-crumb-segment | append: " " %}
       {% endfor %}
       {% if forloop.first %}
