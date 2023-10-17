@@ -31,12 +31,12 @@ title: Meet Results
       </tr>
       {% for row in event-results %}
         <tr>
-          <td>{{ row.place }}</td>
-          <td>{{ row.name | replace: ";", "<br>" | replace: " ", "&nbsp;" | replace: "-", "&#8209;" }}</td>
-          <td>{{ row.age }}</td>
-          <td>{{ row.school | replace: " ", "&nbsp;" }}</td>
-          <td>{{ row.result }}</td>
-          <td>{{ row.points }}</td>
+          <td>{{ row.place | formatcell }}</td>
+          <td>{{ row.name | formatcell }}</td>
+          <td>{{ row.age | formatcell }}</td>
+          <td>{{ row.school | formatcell }}</td>
+          <td>{{ row.result | formatcell }}</td>
+          <td>{{ row.points | formatcell }}</td>
         </tr>
       {% endfor %}
     {% endfor %}

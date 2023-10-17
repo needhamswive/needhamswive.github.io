@@ -21,14 +21,14 @@ title: Records History
   <tbody>
     {% for event in championship-events %}
       <tr>
-        <td colspan="3" style="font-weight: bold; text-align: center;">{{ event | replace: "-", "–" }}</td>
+        <td colspan="3" style="font-weight: bold; text-align: center;">{{ event | formatcell }}</td>
       </tr>
       {% assign records-for-event = team-records | where: "event", event %}
       {% for record in records-for-event %}
         <tr>
-          <td style="text-align: center;">{{ record.date | replace: ";", "<br>" }}</td>
-          <td>{{ record.name | replace: ";", "<br>" | replace: " ", "&nbsp;" }}</td>
-          <td style="text-align: center;">{{ record.result }}</td>
+          <td style="text-align: center;">{{ record.date | formatcell }}</td>
+          <td>{{ record.name | formatcell }}</td>
+          <td style="text-align: center;">{{ record.result | formatcell }}</td>
         </tr>
       {% endfor %}
     {% endfor %}
@@ -49,15 +49,15 @@ title: Records History
   <tbody>
     {% for event in championship-events %}
       <tr>
-        <td colspan="4" style="font-weight: bold; text-align: center;">{{ event | replace: "-", "–" }}</td>
+        <td colspan="4" style="font-weight: bold; text-align: center;">{{ event | formatcell }}</td>
       </tr>
       {% assign records-for-event = conference-records | where: "event", event %}
       {% for record in records-for-event %}
         <tr>
-          <td style="text-align: center;">{{ record.date | replace: ";", "<br>" }}</td>
-          <td>{{ record.school | replace: ";", "<br>" }}</td>
-          <td>{{ record.name | replace: ";", "<br>" | replace: " ", "&nbsp;" }}</td>
-          <td style="text-align: center;">{{ record.result }}</td>
+          <td style="text-align: center;">{{ record.date | formatcell }}</td>
+          <td>{{ record.school | formatcell }}</td>
+          <td>{{ record.name | formatcell }}</td>
+          <td style="text-align: center;">{{ record.result | formatcell }}</td>
         </tr>
       {% endfor %}
     {% endfor %}
@@ -80,15 +80,15 @@ This record history is from results since 1990.
   <tbody>
     {% for event in dual-meet-events %}
       <tr>
-        <td colspan="4" style="font-weight: bold; text-align: center;">{{ event | replace: "-", "–" }}</td>
+        <td colspan="4" style="font-weight: bold; text-align: center;">{{ event | formatcell }}</td>
       </tr>
       {% assign records-for-event = conference-meet-records | where: "event", event %}
       {% for record in records-for-event %}
         <tr>
-          <td style="text-align: center;">{{ record.date | replace: ";", "<br>" }}</td>
-          <td>{{ record.school | replace: ";", "<br>" }}</td>
-          <td>{{ record.name | replace: ";", "<br>" | replace: " ", "&nbsp;" }}</td>
-          <td style="text-align: center;">{{ record.result }}</td>
+          <td style="text-align: center;">{{ record.date | formatcell }}</td>
+          <td>{{ record.school | formatcell }}</td>
+          <td>{{ record.name | formatcell }}</td>
+          <td style="text-align: center;">{{ record.result | formatcell }}</td>
         </tr>
       {% endfor %}
     {% endfor %}

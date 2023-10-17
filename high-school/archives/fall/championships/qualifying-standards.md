@@ -25,10 +25,10 @@ title: Qualifying Standards
   <tbody>
     {% for event in event-order %}
       <tr>
-        <td>{{ event | replace: " ", "&nbsp;" }}</td>
+        <td>{{ event | formatcell }}</td>
         {% for group in groups %}
           {% assign qualifying-standard = qualifying-standards-for-year | where: "event", event | where: "group", group %}
-          <td>{{ qualifying-standard.first.cutoff | replace: " ", "&nbsp;" }}</td>
+          <td>{{ qualifying-standard.first.cutoff | formatcell }}</td>
         {% endfor %}
       </tr>
     {% endfor %}

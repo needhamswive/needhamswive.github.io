@@ -32,10 +32,10 @@ missing-years:
       {% assign event-results-for-year-and-event = all-event-results | where: "year", year | where: "event", event %}
       {% assign row = event-results-for-year-and-event[0] %}
       <tr>
-        <td>{{ year }}</td>
-        <td>{{ row.name | replace: ";", "<br>" | replace: " ", "&nbsp;" | replace: "-", "&#8209;" }}</td>
-        <td>{{ row.school | replace: " ", "&nbsp;" }}</td>
-        <td>{{ row.result }}</td>
+        <td>{{ year | formatcell }}</td>
+        <td>{{ row.name | formatcell }}</td>
+        <td>{{ row.school | formatcell }}</td>
+        <td>{{ row.result | formatcell }}</td>
       </tr>
     {% endfor %}
   </tbody>

@@ -26,10 +26,10 @@ A history of the records can be found [here](/high-school/girls/general-informat
       {% assign records-for-event = team-records | where: "event", event %}
       {% assign record = records-for-event[0] %}
       <tr>
-        <td>{{ record.event | replace: " ", "&nbsp;" | replace: "-", "–" }}</td>
-        <td style="text-align: center;">{{ record.date | replace: ";", "<br>" }}</td>
-        <td>{{ record.name | replace: ";", "<br>" | replace: " ", "&nbsp;" }}</td>
-        <td style="text-align: center;">{{ record.result }}</td>
+        <td>{{ record.event | formatcell }}</td>
+        <td style="text-align: center;">{{ record.date | formatcell }}</td>
+        <td>{{ record.name | formatcell }}</td>
+        <td style="text-align: center;">{{ record.result | formatcell }}</td>
       </tr>
     {% endfor %}
   </tbody>
@@ -71,11 +71,11 @@ South Sectional Champions
       {% assign records-for-event = conference-records | where: "event", event %}
       {% assign record = records-for-event[0] %}
       <tr>
-        <td>{{ record.event | replace: " ", "&nbsp;" | replace: "-", "–" }}</td>
-        <td style="text-align: center;">{{ record.date | replace: ";", "<br>" }}</td>
-        <td>{{ record.school | replace: ";", "<br>" }}</td>
-        <td>{{ record.name | replace: ";", "<br>" | replace: " ", "&nbsp;" }}</td>
-        <td style="text-align: center;">{{ record.result }}</td>
+        <td>{{ record.event | formatcell }}</td>
+        <td style="text-align: center;">{{ record.date | formatcell }}</td>
+        <td>{{ record.school | formatcell }}</td>
+        <td>{{ record.name | formatcell }}</td>
+        <td style="text-align: center;">{{ record.result | formatcell }}</td>
       </tr>
     {% endfor %}
   </tbody>
@@ -100,11 +100,11 @@ These records are from results since 1990.
       {% assign records-for-event = conference-meet-records | where: "event", event %}
       {% assign record = records-for-event[0] %}
       <tr>
-        <td>{{ record.event | replace: " ", "&nbsp;" | replace: "-", "–" }}</td>
-        <td style="text-align: center;">{{ record.date | replace: ";", "<br>" }}</td>
-        <td>{{ record.school | replace: ";", "<br>" }}</td>
-        <td>{{ record.name | replace: ";", "<br>" | replace: " ", "&nbsp;" }}</td>
-        <td style="text-align: center;">{{ record.result }}</td>
+        <td>{{ record.event | formatcell }}</td>
+        <td style="text-align: center;">{{ record.date | formatcell }}</td>
+        <td>{{ record.school | formatcell }}</td>
+        <td>{{ record.name | formatcell }}</td>
+        <td style="text-align: center;">{{ record.result| formatcell }}</td>
       </tr>
     {% endfor %}
   </tbody>
