@@ -1,5 +1,5 @@
 ---
-title: Event Top Results
+title: Meet Top Results
 
 relay-events:
   - 200 Medley Relay
