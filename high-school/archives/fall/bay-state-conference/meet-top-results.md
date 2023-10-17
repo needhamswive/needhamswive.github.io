@@ -1,20 +1,17 @@
 ---
 title: Meet Top Results
 
-relay-events:
-  - 200 Medley Relay
-  - 200 Freestyle Relay
-  - 400 Freestyle Relay
 missing-years:
-  - "2001"
-  - "2002"
-  - "2003"
+  - 2003
+  - 2002
+  - 2001
 ---
 
 {% assign event-order = site.data.high-school.results-event-order | map: "name" %}
 {% assign all-event-results = site.data.high-school.fall.girls.meet-results.bay-state-conference.event-results %}
-{% assign years = all-event-results | map: "year" | uniq | sort | reverse %}
-{% assign years = years | concat: page.missing-years %}
+{% assign years = all-event-results | map: "year" %}
+{% assign missing-years = page.missing-years | join: "," | split: "," %}
+{% assign years = years | concat: missing-years %}
 {% assign years = years | uniq | sort | reverse %}
 
 {% for event in event-order %}
