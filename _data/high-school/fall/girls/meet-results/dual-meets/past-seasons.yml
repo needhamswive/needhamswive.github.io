@@ -196,47 +196,47 @@ results-by-year:
       - school: Acton-Boxborough
         score: 98 - 83
         result: W
-        citations: 2019000
+        citations: 2019000;2019012
       - school: Braintree
         score: 97 - 81
         result: W
-        citations: 2019011
+        citations: 2019011;2019012
       - school: Brookline
         score: 99 - 82
         result: W
-        citations: 2019005
+        citations: 2019005;2019012
       - school: Framingham
         score: 97 - 84
         result: W
-        citations: 2019010;2019008
+        citations: 2019010;2019008;2019012
       - school: Milton
         score: 96 - 87
         result: W
-        citations: 2019006
+        citations: 2019006;2019012
       - school: Natick
         score: 101 - 80
         result: W
-        citations: 2019004
+        citations: 2019004;2019012
       - school: Newton North
         score:
         result: W
-        citations: 2019002
+        citations: 2019002;2019012
       - school: Notre Dame Academy
         score: 91 - 85
         result: W
-        citations: 2019009
+        citations: 2019009;2019012
       - school: Walpole
         score:
         result: W
-        citations: 2019011;2019007
+        citations: 2019011;2019007;2019012
       - school: Wellesley
         score: 87 - 99
         result: L
-        citations: 2019003
+        citations: 2019003;2019012
       - school: Weymouth
         score:
         result: W
-        citations: 2019001
+        citations: 2019001;2019012
     championships:
       - name: Bay State Conference
         citations: 2019100;2019104
@@ -294,6 +294,8 @@ results-by-year:
         link: https://docs.google.com/document/d/1XvBrwQE2yVKDS6qkCUKdLD6kP0BSaZD2_05lfF6rsGc
       - name: 2019011
         link: https://docs.google.com/document/d/1blo_wwstpSgiI4wu9aFHJDPr-fPiUnWu05c9y0w7jOM
+      - name: 2019012
+        link: https://www.wickedlocal.com/story/needham-times/2019/10/21/needham-high-school-swimmers-on/2482221007/
       - name: 2019100
         link: https://www.teamunify.com/https://www.teamunify.com/rechfhfhslma/__doc__/2019%20final%20scores.pdf
       - name: 2019101
@@ -433,6 +435,9 @@ results-by-year:
         score: 90 - 98
         result: L
         citations: 2017001;2017007
+      - school: Framingham
+        result: L
+        citations: 2017007;2017008
       - school: Milton
         score: 93 - 74
         result: W
@@ -441,6 +446,9 @@ results-by-year:
         score: 86 - 93
         result: L
         citations: 2017004
+      - school: Newton North
+        result: L
+        citations: 2017007;2017008
       - school: Norwood
         score: 102 - 80
         result: W
@@ -453,6 +461,9 @@ results-by-year:
         score: 86 - 95
         result: L
         citations: 2017007
+      - school: Weymouth
+        result: W
+        citations: 2017007;2017008
     championships:
       - name: Bay State Conference
         place: 5
@@ -499,6 +510,8 @@ results-by-year:
         link: https://twitter.com/NHSRockets/status/907385702362615808
       - name: 2017007
         link: https://www.wickedlocal.com/story/needham-times/2017/10/19/rockets-ready-for-what-s/18259853007/
+      - name: 2017008
+        link: https://www.wickedlocal.com/story/needham-times/2017/11/30/solid-season-swimming-diving/64780999007/
       - name: 2017100
         link: http://miaa.ezstream.com/index.cfm?itemid=8063
       - name: 2017101
@@ -654,7 +667,7 @@ results-by-year:
       - school: Natick
         score: 98 -  86
         result: W
-        citations: 2015009
+        citations: 2015009;2015012
       - school: Newton North
         score:
         result: L
@@ -678,13 +691,13 @@ results-by-year:
     championships:
       - name: Bay State Conference
         place: 4
-        citations: 2015102;2015103
+        citations: 2015102;2015103;2015106
       - name: South Sectionals
         place: 6
         citations: 2015100;2015104
       - name: Division 1 States
         place: 8
-        citations: 2015101;2015105
+        citations: 2015101;2015105;2015107
     psych-sheets-and-results:
       - name: Bay State Conference Needham Results
         link: https://www.gomotionapp.com/rechfhfhslma/__doc__/2015needham_results.pdf
@@ -729,6 +742,8 @@ results-by-year:
         link: https://sites.google.com/a/needham.k12.ma.us/rockets-review-10-25/
       - name: 2015011
         link: https://sites.google.com/a/needham.k12.ma.us/rockets-review-11-2/
+      - name: 2015012
+        link: https://www.wickedlocal.com/story/needham-times/2015/10/22/needham-swimmers-making-splash-in/64713079007/
       - name: 2015100
         link: http://miaa.ezstream.com/index.cfm?itemid=7727
       - name: 2015101
@@ -741,8 +756,17 @@ results-by-year:
         link: https://sites.google.com/a/needham.k12.ma.us/rockets-review-11-15/
       - name: 2015105
         link: https://sites.google.com/a/needham.k12.ma.us/rockets-revuew-11-22/
+      - name: 2015106
+        link: https://www.wickedlocal.com/story/needham-times/2015/11/11/swimmers-fourth-at-bsc-championships/64712563007/
+      - name: 2015107
+        link: https://www.wickedlocal.com/story/needham-times/2015/11/24/needham-high-roundup-swimmers-eighth/32960453007/
   - year: 2014
     dual-meets:
+      - school: Acton-Boxborough
+        citations: 2014008
+      - school: Bishop Feehan
+        result: L
+        citations: 2014008
       - school: Braintree
         score: 103 - 78
         result: W
@@ -756,17 +780,17 @@ results-by-year:
         result: W
         citations: 2014002;BayStateConference;2014001
       - school: Framingham
-        score:
+        score: 94 - 86
         result: W
-        citations: 2014003;BayStateConference;2014001
+        citations: 2014003;BayStateConference;2014001;2014008
       - school: Natick
         score: 94 - 87
         result: W
         citations: 2014005
       - school: Newton North
-        score:
+        score: 82 - 102
         result: L
-        citations: 2014001
+        citations: 2014001;2014009
       - school: Norwood
         score: 97 - 81
         result: W
@@ -784,7 +808,7 @@ results-by-year:
         citations: 2014100
       - name: Division 1 States
         place: 6
-        citations: 2014101
+        citations: 2014101;2014104
     psych-sheets-and-results:
       - name: Bay State Conference Heat Sheet
         link: https://www.gomotionapp.com/rechfhfhslma/__doc__/283607_2_Program.pdf
@@ -821,6 +845,10 @@ results-by-year:
         link: https://twitter.com/NHSRockets/status/514607490223599616
       - name: 2014007
         link: https://twitter.com/NHSRockets/status/512012805122576384
+      - name: 2014008
+        link: https://www.wickedlocal.com/story/needham-times/2014/09/25/rocket-roundup-girls-swimming-team/36325567007/
+      - name: 2014009
+        link: https://www.wickedlocal.com/story/newton-tab/2014/10/15/newton-north-102-needham-82/36161788007/
       - name: 2014100
         link: http://miaa.ezstream.com/index.cfm?itemid=7485
       - name: 2014101
@@ -829,20 +857,30 @@ results-by-year:
         link: https://twitter.com/NHSRockets/status/529077952466944000
       - name: 2014103
         link: https://www.gomotionapp.com/rechfhfhslma/__doc__/283637_2_girlsscores.html
+      - name: 2014104
+        link: https://www.wickedlocal.com/story/needham-times/2014/11/20/rocket-roundup-girls-swimming-team/64841261007/
   - year: 2013
     dual-meets:
       - school: Acton-Boxborough
         score: 84 - 94
         result: L
         citations: 2013003
+      - school: Braintree
+        score: 96 - 89
+        result: W
+        citations: 2013009
       - school: Brookline
         score: 96 - 44
         result: W
         citations: 2013000
+      - school: Dedham
+        score: 93 - 69
+        result: W
+        citations: 2013009
       - school: Framingham
         score: 92 - 94
         result: L
-        citations: 2013005
+        citations: 2013005;2013010
       - school: Natick
         score: 98 - 97
         result: W
@@ -851,14 +889,18 @@ results-by-year:
         score: 102 - 84
         result: W
         citations: 2013002;2013007
+      - school: Norwood
+        score: 100 - 55
+        result: W
+        citations: 2013010
       - school: Wellesley
         score: 100 - 84
         result: W
         citations: 2013001;2013007
       - school: Weymouth
-        score:
+        score: 90 - 80
         result: W
-        citations: 2013006
+        citations: 2013006;2013008
     championships:
       - name: Bay State Conference
         place: 2
@@ -868,7 +910,7 @@ results-by-year:
         citations: 2013100;2013103;2013106
       - name: Division 1 States
         place: 7
-        citations: 2013101;2013102
+        citations: 2013101;2013102;2013108
     psych-sheets-and-results:
       - name: Bay State Conference Complete Results
         link: https://www.gomotionapp.com/rechfhfhslma/__doc__/241700_2_2013%20Fall%20Conference%20Results.pdf
@@ -899,6 +941,14 @@ results-by-year:
         link: https://twitter.com/NHSRockets/status/380172503777550336
       - name: 2013007
         link: https://www.wickedlocal.com/story/needham-times/2013/10/24/girls-swimming-needham-high-wins/39605071007/
+      - name: 2013008
+        link: https://www.wickedlocal.com/story/needham-times/2013/09/18/needham-high-girls-swimming-splashes/39728703007/
+      - name: 2013009
+        link: https://www.wickedlocal.com/story/needham-times/2013/09/25/needham-high-girls-swimming-stays/39728288007/
+      - name: 2013010
+        link: https://www.wickedlocal.com/story/needham-times/2013/10/02/needham-high-swimmers-improve-to/39728210007/
+      - name: 2013011
+        link:
       - name: 2013100
         link: http://miaa.ezstream.com/index.cfm?itemid=7282
       - name: 2013101
@@ -915,23 +965,51 @@ results-by-year:
         link: https://www.wickedlocal.com/story/needham-times/2013/11/11/needham-high-girls-swim-team/39604873007/
       - name: 2013107
         link: https://www.wickedlocal.com/story/needham-times/2013/11/06/needham-girls-swim-team-places/39773034007/
+      - name: 2013108
+        link: https://www.wickedlocal.com/story/needham-times/2013/11/20/needham-high-sports-roundup-swimmers/39772810007/
   - year: 2012
     dual-meets:
+      - school: Acton-Boxborough
+        result: L
+        citations: 2012002
       - school: Braintree
-        score:
         result: W
-        citations: 2012001
+        citations: 2012001;2012002
+      - school: Brookline
+        score: 95 - 85
+        result: W
+        citations: 2012003
+      - school: Dedham
+        result: W
+        citations: 2012002
+      - school: Framingham
+        result: L
+        citations: 2012002
+      - school: Natick
+        citations: 2012002
+      - school: Newton North
+        citations: 2012003
+      - school: Norwood
+        score: 100 - 84
+        result: W
+        citations: 2012002
+      - school: Walpole
+        citations: 2012002
+      - school: Wellesley
+        score: 101 - 85
+        result: W
+        citations: 2012003
       - school: Weymouth
         score: 94 - 74
         result: W
-        citations: 2012000
+        citations: 2012000;2012002
     championships:
       - name: South Sectionals
         place: 3
         citations: 2012100;2012102
       - name: Division 1 States
         place: 5
-        citations: 2012101
+        citations: 2012101;2012103
     psych-sheets-and-results:
       - name: South Sectional Psych Sheet
         link: http://miaa.ezstream.com/index.cfm?itemid=7005
@@ -946,14 +1024,36 @@ results-by-year:
         link: https://twitter.com/NHSRockets/status/245700545875173376
       - name: 2012001
         link: https://twitter.com/NHSRockets/status/248930346832371713
+      - name: 2012002
+        link: https://www.wickedlocal.com/story/needham-times/2012/10/11/needham-high-girls-swimming-team/39653395007/
+      - name: 2012003
+        link: https://www.wickedlocal.com/story/needham-times/2012/10/31/needham-high-girls-swim-team/39729025007/
       - name: 2012100
         link: http://miaa.ezstream.com/index.cfm?itemid=7025
       - name: 2012101
         link: http://miaa.ezstream.com/index.cfm?itemid=7032
       - name: 2012102
         link: https://twitter.com/NHSRockets/status/267482876390547456
+      - name: 2012103
+        link: https://www.wickedlocal.com/story/needham-times/2012/11/21/needham-high-sports-roundup-swimmers/39849512007/
   - year: 2011
     dual-meets:
+      - school: Braintree
+        score: 94 - 87
+        result: W
+        citations: 2011001
+      - school: Dedham
+        score: 105 - 67
+        result: W
+        citations: 2011001
+      - school: Framingham
+        score: 104.3 - 81.6
+        result: W
+        citations: 2011001
+      - school: Natick
+        score: 103 - 82
+        result: W
+        citations: 2011002
       - school: Newton North
         score: 97 - 89
         result: W
@@ -961,7 +1061,7 @@ results-by-year:
       - school: Walpole
         score: 88 - 96
         result: L
-        citations: 2011000
+        citations: 2011000;2012002
       - school: Wellesley
         score: 96 - 85
         result: W
@@ -969,10 +1069,10 @@ results-by-year:
     championships:
       - name: South Sectionals
         place: 4
-        citations: 2011100
+        citations: 2011100;2011102
       - name: Division 1 States
         place: 4
-        citations: 2011101
+        citations: 2011101;2011103
     psych-sheets-and-results:
       - name: South Sectional Psych Sheet
         link: http://miaa.ezstream.com/index.cfm?itemid=6657
@@ -985,20 +1085,36 @@ results-by-year:
     citations:
       - name: 2011000
         link: https://www.wickedlocal.com/story/needham-times/2011/10/26/needham-high-swimmers-pool-their/64848881007/
+      - name: 2011001
+        link: https://www.wickedlocal.com/story/needham-times/2011/09/28/swimming-needham-high-stays-undefeated/39653520007/
+      - name: 2011002
+        link: https://www.wickedlocal.com/story/needham-times/2011/10/19/needham-high-sports-roundup-swimmers/39605167007/
       - name: 2011100
         link: http://miaa.ezstream.com/index.cfm?itemid=6688
       - name: 2011101
         link: http://miaa.ezstream.com/index.cfm?itemid=6699
+      - name: 2011102
+        link: https://www.wickedlocal.com/story/needham-times/2011/11/21/needham-high-swimmers-fourth-at/39676674007/
+      - name: 2011103
+        link: https://www.wickedlocal.com/story/needham-times/2011/11/23/needham-high-girls-swim-team/39688622007/
   - year: 2010
     dual-meets:
       - school: Braintree
         score: 92 - 85
         result: W
         citations: 2010001
+      - school: Brookline
+        score: 98 - 82
+        result: W
+        citations: 2010005
       - school: Dedham
         score: 99 - 72
         result: W
         citations: 2010001
+      - school: Framingham
+        score: 99 - 87
+        result: W
+        citations: 2010003
       - school: Natick
         score: 105 - 79
         result: W
@@ -1007,9 +1123,16 @@ results-by-year:
         score: 97 - 87
         result: W
         citations: 2010002
+      - school: Norwood
+        score: 100 - 80
+        result: W
+        citations: 2010004
       - school: Walpole
         result: L
         citations: 2011000
+      - school: Wellesley
+        result: W
+        citations: 2010005
       - school: Weymouth
         score: 85 - 75
         result: W
@@ -1018,12 +1141,15 @@ results-by-year:
       - name: Coaches Invitational
         place: 6
         citations: 2010001
+      - name: Bay State Conference
+        place: 2
+        citations: 2010102
       - name: South Sectionals
         place: 4
-        citations: 2010100
+        citations: 2010100;2010103;2010104
       - name: Division 2 States
         place: 8
-        citations: 2010101
+        citations: 2010101;2010104
     psych-sheets-and-results:
       - name: South Sectional Psych Sheet
         link: http://miaa.ezstream.com/index.cfm?itemid=6383
@@ -1040,25 +1166,54 @@ results-by-year:
         link: https://www.wickedlocal.com/story/needham-times/2010/09/29/needham-high-girls-swim-team/40313628007/
       - name: 2010002
         link: https://www.wickedlocal.com/story/newton-tab/2010/10/28/newton-north-girls-swim-team/37313454007/
+      - name: 2010003
+        link: https://www.wickedlocal.com/story/needham-times/2010/10/06/needham-high-roundup-swimmers-improve/39923379007/
+      - name: 2010004
+        link: https://www.wickedlocal.com/story/needham-times/2010/10/19/needham-high-girls-swim-team/40504313007/
+      - name: 2010005
+        link: https://www.wickedlocal.com/story/needham-times/2010/11/03/needham-high-roundup-swimmers-nab/40310445007/
       - name: 2010100
         link: http://miaa.ezstream.com/index.cfm?itemid=6392
       - name: 2010101
         link: http://miaa.ezstream.com/index.cfm?itemid=6403
+      - name: 2010102
+        link: https://www.wickedlocal.com/story/needham-times/2010/11/09/needham-high-swim-team-second/40007946007/
+      - name: 2010103
+        link: https://www.wickedlocal.com/story/needham-times/2010/11/17/needham-high-girls-swimming-takes/40312013007/
+      - name: 2010104
+        link: https://www.wickedlocal.com/story/needham-times/2010/11/23/needham-high-roundup-swimmers-finish/40385638007/
   - year: 2009
     dual-meets:
+      - school: Brookline
+        result: W
+        citations: 2009002;2009001
+      - school: Framingham
+        result: W
+        citations: 2009001
       - school: Natick
         result: L
         citations: 2010000
       - school: Walpole
+        score: 93 - 93
         result: T
-        citations: 2010000;2011000
+        citations: 2010000;2011000;2009001;2009003
+      - school: Wellesley
+        score: 101 - 83
+        result: W
+        citations: 2009000
+      - school: Weymouth
+        result: W
+        citations: 2009002;2009001
     championships:
+      - name: Bay State Conference
+        place: 3
+        citations: 2009102
       - name: South Sectionals
         place: 15
         citations: 2009100
       - name: Division 1 States
         place: 14
-        citations: 2009101
+        citations: 2009101;2010104
     psych-sheets-and-results:
       - name: South Sectional Psych Sheet
         link: http://miaa.ezstream.com/index.cfm?itemid=6063
@@ -1069,12 +1224,64 @@ results-by-year:
       - name: Division 1 State Results
         link: http://miaa.ezstream.com/index.cfm?itemid=6088
     citations:
+      - name: 2009000
+        link: https://www.wickedlocal.com/story/needham-times/2009/10/29/needham-roundup-golfers-advance-to/40436979007/
+      - name: 2009001
+        link: https://www.wickedlocal.com/story/needham-times/2010/08/31/fall-sports-previews-swim-team/40505998007/
+      - name: 2009002
+        link: https://www.wickedlocal.com/story/needham-times/2009/09/09/needham-roundup-girls-swim-team/40434333007/
+      - name: 2009003
+        link: https://www.wickedlocal.com/story/times-advocate/2009/10/28/walpole-high-swimmers-tie-needham/40743502007/
       - name: 2009100
         link: http://miaa.ezstream.com/index.cfm?itemid=6075
       - name: 2009101
         link: http://miaa.ezstream.com/index.cfm?itemid=6088
+      - name: 2009102
+        link: https://www.wickedlocal.com/story/needham-times/2009/11/12/needham-roundup-swimmers-take-3rd/39923096007/
   - year: 2008
+    dual-meets:
+      - school: Braintree
+        score: 96 - 76
+        result: W
+        citations: 2008002;2008001
+      - school: Brookline
+        score: 83 - 101
+        result: L
+        citations: 2008000
+      - school: Dedham
+        score: 93 - 82
+        result: W
+        citations: 2008001;2008000
+      - school: Framingham
+        score: 81 - 97
+        result: L
+        citations: 2008002;2009001;2008001
+      - school: Natick
+        score: 95 - 86
+        result: W
+        citations: 2008003
+      - school: Newton North
+        score: 103 - 84
+        result: W
+        citations: 2008004;2008003
+      - school: Norwood
+        result: W
+        citations: 2008002;2008004
+      - school: Walpole
+        score: 81 - 100
+        result: L
+        citations: 2008003;2008004
+      - school: Wellesley
+        score: 93 - 92
+        result: W
+        citations: 2008003;2008004
+      - school: Weymouth
+        result: W
+        citations: 2008001;2008000
     championships:
+      - name: Bay State Conference
+        place: 4
+        citations: 2008102
       - name: South Sectionals
         place: no place
         citations: 2008100
@@ -1091,12 +1298,61 @@ results-by-year:
       - name: Division 1 State Results
         link: http://miaa.ezstream.com/index.cfm?itemid=4122
     citations:
+      - name: 2008000
+        link: https://www.wickedlocal.com/story/needham-times/2008/09/17/girls-swimmers-come-up-just/39969970007/
+      - name: 2008001
+        link: https://www.wickedlocal.com/story/needham-times/2008/09/24/back-to-back-wins-for/40505917007/
+      - name: 2008002
+        link: https://www.wickedlocal.com/story/needham-times/2008/10/01/swimmers-cruise-past-braintree/40007638007/
+      - name: 2008003
+        link: https://www.wickedlocal.com/story/needham-times/2008/10/29/swimmers-cruise/39967814007/
+      - name: 2008004
+        link: https://www.wickedlocal.com/story/needham-times/2008/11/12/swimmers-edge-rival-wellesley/40436394007/
       - name: 2008100
         link: http://miaa.ezstream.com/index.cfm?itemid=4047
       - name: 2008101
         link: http://miaa.ezstream.com/index.cfm?itemid=4122
+      - name: 2008102
+        link: https://www.wickedlocal.com/story/needham-times/2008/11/19/needham-swimmers-4th-at-bsc/40434548007/
   - year: 2007
+    dual-meets:
+      - school: Braintree
+        result: W
+        citations: 2007002;2007003
+      - school: Brookline
+        score: 78 - 105
+        result: L
+        citations: 2007001;2007000
+      - school: Dedham
+        score: 95 - 91
+        result: W
+        citations: 2007002;2007001
+      - school: Framingham
+        citations: 2007002
+      - school: Natick
+        result: L
+        citations: 2007003
+      - school: Newton North
+        score: 96 - 85
+        result: W
+        citations: 2007001;2007000
+      - school: Norwood
+        score: 94 - 89
+        result: W
+        citations: 2007003
+      - school: Walpole
+        score: 99.5 - 84.5
+        result: W
+        citations: 2007003
+      - school: Westwood
+        citations: 2007001
+      - school: Weymouth
+        result: W
+        citations: 2007002;2007001
     championships:
+      - name: Bay State Conference
+        place: 7
+        citations: 2007102;2007103
       - name: South Sectionals
         place: 19
         citations: 2007100
@@ -1113,10 +1369,22 @@ results-by-year:
       - name: Division 1 State Results
         link: http://miaa.ezstream.com/index.cfm?itemid=1801
     citations:
+      - name: 2007000
+        link: https://www.wickedlocal.com/story/needham-times/2007/09/12/swimmers-eager-to-kick-off/39969479007/
+      - name: 2007001
+        link: https://www.wickedlocal.com/story/needham-times/2007/09/19/swim-team-splits-win-opener/39966463007/
+      - name: 2007002
+        link: https://www.wickedlocal.com/story/needham-times/2007/10/03/swim-team-back-to-its/39967117007/
+      - name: 2007003
+        link: https://www.wickedlocal.com/story/needham-times/2007/10/24/swimmers-knock-off-norwood/40505723007/
       - name: 2007100
         link: http://miaa.ezstream.com/index.cfm?itemid=1761
       - name: 2007101
         link: http://miaa.ezstream.com/index.cfm?itemid=1801
+      - name: 2007102
+        link: https://www.wickedlocal.com/story/needham-times/2008/09/03/rocket-swimmers-looking-to-make/40310485007/
+      - name: 2007103
+        link: https://www.wickedlocal.com/story/needham-times/2007/11/07/swimmers-take-7th-at-bay/40537688007/
   - year: 2006
     championships:
       - name: South Sectionals
