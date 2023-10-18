@@ -94,7 +94,7 @@ classes: wide
       {% endif %}
     {% endif %}
 
-    <td class="{{color}}">{{ score-l }} &mdash; {{ score-r }}</td>
+    <td class="{{color}}">{{ score-l }}&nbsp;&mdash;&nbsp;{{ score-r }}</td>
   {% endfor %}
 </tr>
 {% endfor %}
