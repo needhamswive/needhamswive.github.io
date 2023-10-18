@@ -1,5 +1,5 @@
 ---
-title: Meet Results
+title: Conference Meet Results
 ---
 
 {% assign event-order = site.data.high-school.results-event-order | map: "name" %}
