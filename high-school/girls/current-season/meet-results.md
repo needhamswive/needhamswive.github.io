@@ -8,14 +8,19 @@ title: Meet Results
   }
 </style>
 
+{% assign results-for-year = site.data.high-school.fall.girls.meet-results.dual-meets.results-by-year | where: "year", 2023 | first %}
+
 {% include results-for-year.md
-  results-for-year = site.data.high-school.fall.girls.meet-results.dual-meets.current-season
+  results-for-year = results-for-year
 %}
 
 ---
 
 __Sources__
 
-{% for citation in site.data.high-school.fall.girls.meet-results.dual-meets.current-season.citations -%}
+{% for citation in site.data.high-school.fall.girls.meet-results.dual-meets.general-citations -%}
+  {% include citation.md %}
+{% endfor %}
+{% for citation in results-for-year.citations -%}
   {% include citation.md %}
 {% endfor %}
