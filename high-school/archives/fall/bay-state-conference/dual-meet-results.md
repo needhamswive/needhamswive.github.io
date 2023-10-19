@@ -32,9 +32,10 @@ classes: wide
 
 {% assign dual-meet-results-for-year = dual-meet-results | where: "year", year %}
 {% assign dual-meet-results-citations-for-year = dual-meet-results-citations | where: "year", year %}
-{% assign schools = dual-meet-results-for-year | map: "school-1" | uniq %}
+{% assign schools-1 = dual-meet-results-for-year | map: "school-1" | uniq %}
+{% assign schools-2 = dual-meet-results-for-year | map: "school-2" | uniq %}
+{% assign schools = schools-1 | concat: schools-2 | uniq %}
 
-<div markdown="1">
 ## {{ year }}
 
 {% for citation in dual-meet-results-citations-for-year %}[^{{ citation.name }}] {% endfor %}
@@ -42,7 +43,6 @@ classes: wide
 {% for citation in dual-meet-results-citations-for-year %}
   {% include citation.md%}
 {% endfor %}
-</div>
 
 <table>
 <tbody>
@@ -62,9 +62,9 @@ classes: wide
     {% endif %}
 
     {% if school-1 < school-2 %}
-      {% assign dual-meet-result = dual-meet-results | where: "school-1", school-1 | where: "school-2", school-2 | first %}
+      {% assign dual-meet-result = dual-meet-results-for-year | where: "school-1", school-1 | where: "school-2", school-2 | first %}
     {% else %}
-      {% assign dual-meet-result = dual-meet-results | where: "school-1", school-2 | where: "school-2", school-1 | first %}
+      {% assign dual-meet-result = dual-meet-results-for-year | where: "school-1", school-2 | where: "school-2", school-1 | first %}
     {% endif %}
 
     {% if dual-meet-result.score-1 == nil or dual-meet-result.score-2 == nil %}

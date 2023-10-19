@@ -44,3 +44,93 @@ year,school-1,school-2,score-1,score-2,school-1-result
 2023,Walpole,Wellesley,48,80,L
 2023,Walpole,Weymouth,,,
 2023,Wellesley,Weymouth,46,38,W
+2022,Braintree,Brookline,79,97,L
+2022,Braintree,Framingham,98,88,W
+2022,Braintree,Milton,,,
+2022,Braintree,Natick,98,82,W
+2022,Braintree,Needham,80,97,L
+2022,Braintree,Newton North,,,
+2022,Braintree,Walpole,97,89,W
+2022,Braintree,Wellesley,81,95,L
+2022,Braintree,Weymouth,94,78,W
+2022,Brookline,Framingham,93,85,W
+2022,Brookline,Milton,104,81,W
+2022,Brookline,Natick,100,80,W
+2022,Brookline,Needham,85,99,L
+2022,Brookline,Newton North,98,86,W
+2022,Brookline,Walpole,93,76,W
+2022,Brookline,Wellesley,80,98,L
+2022,Brookline,Weymouth,,,
+2022,Framingham,Milton,,,
+2022,Framingham,Natick,98.5,85.5,W
+2022,Framingham,Needham,85,95,L
+2022,Framingham,Newton North,,,
+2022,Framingham,Walpole,96,76,W
+2022,Framingham,Wellesley,80,95,L
+2022,Framingham,Weymouth,,,
+2022,Milton,Natick,99,82,W
+2022,Milton,Needham,84,100,L
+2022,Milton,Newton North,80,104,L
+2022,Milton,Walpole,100,84,W
+2022,Milton,Wellesley,64,100,L
+2022,Milton,Weymouth,,,
+2022,Natick,Needham,77,90,L
+2022,Natick,Newton North,,,
+2022,Natick,Walpole,95,82,W
+2022,Natick,Wellesley,76,105,L
+2022,Natick,Weymouth,,,
+2022,Needham,Newton North,99,85,W
+2022,Needham,Walpole,97,75,W
+2022,Needham,Wellesley,82,99,L
+2022,Needham,Weymouth,85,69,W
+2022,Newton North,Walpole,93,82,W
+2022,Newton North,Wellesley,73,101,L
+2022,Newton North,Weymouth,,,
+2022,Walpole,Wellesley,75,88,L
+2022,Walpole,Weymouth,,,
+2022,Wellesley,Weymouth,87,74,W
+2021,Braintree,Brookline,,,
+2021,Braintree,Framingham,88,92,L
+2021,Braintree,Milton,89,97,L
+2021,Braintree,Natick,94,84,W
+2021,Braintree,Needham,82,98,L
+2021,Braintree,Newton North,,,
+2021,Braintree,Walpole,89,97,L
+2021,Braintree,Wellesley,71,101,L
+2021,Braintree,Weymouth,98,70,W
+2021,Brookline,Framingham,,,
+2021,Brookline,Milton,81,105,L
+2021,Brookline,Natick,,,
+2021,Brookline,Needham,88,96,L
+2021,Brookline,Newton North,,,
+2021,Brookline,Walpole,95,83,W
+2021,Brookline,Wellesley,81,100,L
+2021,Brookline,Weymouth,,,
+2021,Framingham,Milton,94,90,W
+2021,Framingham,Natick,96,84,W
+2021,Framingham,Needham,78,94,L
+2021,Framingham,Newton North,,,
+2021,Framingham,Walpole,94,86,W
+2021,Framingham,Wellesley,88,93,L
+2021,Framingham,Weymouth,,,
+2021,Milton,Natick,87,78,W
+2021,Milton,Needham,100,84,W
+2021,Milton,Newton North,,,
+2021,Milton,Walpole,107,79,W
+2021,Milton,Wellesley,64,100,L
+2021,Milton,Weymouth,79,66,W
+2021,Natick,Needham,75,98,L
+2021,Natick,Newton North,,,
+2021,Natick,Walpole,92,94,L
+2021,Natick,Wellesley,78,95,L
+2021,Natick,Weymouth,,,
+2021,Needham,Newton North,100,84,W
+2021,Needham,Walpole,99,75,W
+2021,Needham,Wellesley,85,101,L
+2021,Needham,Weymouth,102,73,W
+2021,Newton North,Walpole,101,89,W
+2021,Newton North,Wellesley,86,90,L
+2021,Newton North,Weymouth,80,79,W
+2021,Walpole,Wellesley,79,96,L
+2021,Walpole,Weymouth,93,73,W
+2021,Wellesley,Weymouth,129,38,W
