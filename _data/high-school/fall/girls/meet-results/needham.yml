@@ -744,7 +744,7 @@ results-by-year:
       - school: Framingham
         score: 100 - 84
         result: W
-        citations: 2015007;2015013p2015014
+        citations: 2015007;2015013;2015014
       - school: Natick
         score: 98 -  86
         result: W
