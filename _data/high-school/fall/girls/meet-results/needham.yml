@@ -208,7 +208,7 @@ results-by-year:
     championships:
       - name: Bay State Conference
         place: 2
-        citations: 2021104
+        citations: 2021104;BSCRankings
       - name: South Sectionals
         place: 2
         citations: 2021100;2021103
@@ -318,7 +318,7 @@ results-by-year:
         citations: 2019001;2019012
     championships:
       - name: Bay State Conference
-        citations: 2019100;2019104
+        citations: 2019100;2019104;BSCRankings
       - name: South Sectionals
         citations: 2019101;2019105
       - name: Division 1 States
@@ -432,7 +432,7 @@ results-by-year:
     championships:
       - name: Bay State Conference
         place: 2
-        citations: 2018103
+        citations: 2018103;BSCRankings
       - name: South Sectionals
         place: 3
         citations: 2018100
@@ -546,7 +546,7 @@ results-by-year:
     championships:
       - name: Bay State Conference
         place: 5
-        citations: 2017104;2017103
+        citations: 2017104;2017103;BSCRankings
       - name: South Sectionals
         place: 7
         citations: 2017100;2017102
@@ -654,7 +654,7 @@ results-by-year:
     championships:
       - name: Bay State Conference
         place: 3
-        citations: 2016103;2016016;2016102
+        citations: 2016103;2016016;2016102;BSCRankings
       - name: South Sectionals
         place: 8
         citations: 2016100
@@ -772,7 +772,7 @@ results-by-year:
     championships:
       - name: Bay State Conference
         place: 4
-        citations: 2015102;2015103;2015106
+        citations: 2015102;2015103;2015106;BSCRankings
       - name: South Sectionals
         place: 6
         citations: 2015100;2015104
@@ -891,7 +891,7 @@ results-by-year:
     championships:
       - name: Bay State Conference
         place: 3
-        citations: 2014103;2014102
+        citations: 2014103;2014102;BSCRankings
       - name: South Sectionals
         place: 4
         citations: 2014100
@@ -998,7 +998,7 @@ results-by-year:
         citations: 2013012
       - name: Bay State Conference
         place: 2
-        citations: 2013105;2013104;2013107
+        citations: 2013105;2013104;2013107;BSCRankings
       - name: South Sectionals
         place: 4
         citations: 2013100;2013103;2013106
@@ -1102,7 +1102,7 @@ results-by-year:
     championships:
       - name: South Sectionals
         place: 3
-        citations: 2012100;2012102
+        citations: 2012100;2012102;BSCRankings
       - name: Division 1 States
         place: 5
         citations: 2012101;2012103
@@ -1171,7 +1171,7 @@ results-by-year:
     championships:
       - name: Bay State Conference
         place: 3
-        citations: 2011105
+        citations: 2011105;BSCRankings
       - name: South Sectionals
         place: 4
         citations: 2011100;2011102
@@ -1252,7 +1252,7 @@ results-by-year:
         citations: 2010001
       - name: Bay State Conference
         place: 2
-        citations: 2010102
+        citations: 2010102;BSCRankings
       - name: South Sectionals
         place: 4
         citations: 2010100;2010103;2010104
@@ -1326,7 +1326,7 @@ results-by-year:
     championships:
       - name: Bay State Conference
         place: 3
-        citations: 2009102
+        citations: 2009102;BSCRankings
       - name: South Sectionals
         place: 15
         citations: 2009100
@@ -1400,7 +1400,7 @@ results-by-year:
     championships:
       - name: Bay State Conference
         place: 4
-        citations: 2008102
+        citations: 2008102;BSCRankings
       - name: South Sectionals
         place: no place
         citations: 2008100
@@ -1473,7 +1473,7 @@ results-by-year:
     championships:
       - name: Bay State Conference
         place: 7
-        citations: 2007102;2007103
+        citations: 2007102;2007103;BSCRankings
       - name: South Sectionals
         place: 19
         citations: 2007100
@@ -1508,6 +1508,9 @@ results-by-year:
         link: https://www.wickedlocal.com/story/needham-times/2007/11/07/swimmers-take-7th-at-bay/40537688007/
   - year: 2006
     championships:
+      - name: Bay State Conference
+        place: 2
+        citations: BSCRankings
       - name: South Sectionals
         place: 22
         citations: 2006100
@@ -1528,3 +1531,78 @@ results-by-year:
         link: http://miaa.ezstream.com/index.cfm?itemid=487
       - name: 2006101
         link: http://miaa.ezstream.com/index.cfm?itemid=525
+  - year: 2005
+    championships:
+      - name: Bay State Conference
+        place: 2
+        citations: BSCRankings
+  - year: 2003
+    championships:
+      - name: Bay State Conference
+        place: 1
+        citations: BSCRankings
+  - year: 2002
+    championships:
+      - name: Bay State Conference
+        place: 1
+        citations: BSCRankings
+  - year: 2001
+    championships:
+      - name: Bay State Conference
+        place: 1
+        citations: BSCRankings
+  - year: 2000
+    championships:
+      - name: Bay State Conference
+        place: 1
+        citations: BSCRankings
+  - year: 1999
+    championships:
+      - name: Bay State Conference
+        place: 1
+        citations: BSCRankings
+  - year: 1998
+    championships:
+      - name: Bay State Conference
+        place: 1
+        citations: BSCRankings
+  - year: 1997
+    championships:
+      - name: Bay State Conference
+        place: 2
+        citations: BSCRankings
+  - year: 1996
+    championships:
+      - name: Bay State Conference
+        place: 1
+        citations: BSCRankings
+  - year: 1995
+    championships:
+      - name: Bay State Conference
+        place: 3
+        citations: BSCRankings
+  - year: 1994
+    championships:
+      - name: Bay State Conference
+        place: 2
+        citations: BSCRankings
+  - year: 1993
+    championships:
+      - name: Bay State Conference
+        place: 2
+        citations: BSCRankings
+  - year: 1992
+    championships:
+      - name: Bay State Conference
+        place: 2
+        citations: BSCRankings
+  - year: 1991
+    championships:
+      - name: Bay State Conference
+        place: 2
+        citations: BSCRankings
+  - year: 1990
+    championships:
+      - name: Bay State Conference
+        place: 2
+        citations: BSCRankings
