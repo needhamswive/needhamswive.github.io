@@ -363,10 +363,10 @@ year,school-1,school-2,score-1,score-2,school-1-result
 2015,Dedham,Weymouth,,,
 2015,Framingham,Natick,,,
 2015,Framingham,Needham,84,100,L
-2015,Framingham,Newton North,,,
+2015,Framingham,Newton North,,,L
 2015,Framingham,Norwood,,,
-2015,Framingham,Walpole,,,
-2015,Framingham,Wellesley,,,
+2015,Framingham,Walpole,97,84,W
+2015,Framingham,Wellesley,83,83,T
 2015,Framingham,Weymouth,,,
 2015,Natick,Needham,86,98,L
 2015,Natick,Newton North,,,
