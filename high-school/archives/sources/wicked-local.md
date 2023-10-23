@@ -1,5 +1,5 @@
 ---
-title: Wicked Local Links
+title: Wicked Local Articles
 classes: wide
 ---
 

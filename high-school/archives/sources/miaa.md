@@ -1,5 +1,5 @@
 ---
-title: MIAA Links
+title: MIAA
 ---
 
 - [MIAA Division 2 Boys Swim &amp; Dive State Results](http://miaa.ezstream.net/index.cfm?itemid=8624)
