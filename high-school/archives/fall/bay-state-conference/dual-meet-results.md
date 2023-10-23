@@ -22,6 +22,10 @@ classes: wide
   .loss {
     background-color: #ff6962;
   }
+
+  .tie {
+    background-color: #e8e8e8;
+  }
 </style>
 
 {% assign dual-meet-results = site.data.high-school.fall.girls.meet-results.bay-state-conference.dual-meet-results %}
@@ -67,11 +71,6 @@ classes: wide
       {% assign dual-meet-result = dual-meet-results-for-year | where: "school-1", school-2 | where: "school-2", school-1 | first %}
     {% endif %}
 
-    {% if dual-meet-result.score-1 == nil or dual-meet-result.score-2 == nil %}
-      <td></td>
-      {% continue %}
-    {% endif %}
-
     {% if school-1 < school-2 %}
       {% assign score-l = dual-meet-result.score-1 | default: "unk" %}
       {% assign score-r = dual-meet-result.score-2 | default: "unk" %}
@@ -94,7 +93,15 @@ classes: wide
       {% endif %}
     {% endif %}
 
-    <td class="{{color}}">{{ score-l }}&nbsp;&mdash;&nbsp;{{ score-r }}</td>
+    {% if dual-meet-result.score-1 == nil or dual-meet-result.score-2 == nil %}
+      {% if dual-meet-result.school-1-result != nil %}
+        <td class="{{color}}"></td>
+      {% else %}
+        <td></td>
+      {% endif %}
+    {% else %}
+      <td class="{{color}}">{{ score-l }}&nbsp;&ndash;&nbsp;{{ score-r }}</td>
+    {% endif %}
   {% endfor %}
 </tr>
 {% endfor %}

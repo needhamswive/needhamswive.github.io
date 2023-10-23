@@ -1,8 +1,10 @@
 general-citations:
   - name: ArbiterSports
     link: https://www.arbiterlive.com/Teams/Schedule/5772348
-  - name: BayStateConference
+  - name: BSCWiki
     link: https://en.wikipedia.org/wiki/Bay_State_Conference
+  - name: BSCRankings
+    link: https://needhamswive.com/high-school/archives/fall/bay-state-conference/conference-meet-school-rankings/
 
 results-by-year:
   - year: 2023
@@ -733,6 +735,8 @@ results-by-year:
         score: 100 - 78
         result: W
         citations: 2015006;2015003
+      - school: Brookline
+        citations: BSCRankings
       - school: Dedham
         score: 95 - 76
         result: W
@@ -855,11 +859,11 @@ results-by-year:
       - school: Dedham
         score:
         result: W
-        citations: 2014002;BayStateConference;2014001
+        citations: 2014002;BSCWiki;2014001
       - school: Framingham
         score: 94 - 86
         result: W
-        citations: 2014003;BayStateConference;2014001;2014008
+        citations: 2014003;BSCWiki;2014001;2014008
       - school: Natick
         score: 94 - 87
         result: W
@@ -876,6 +880,10 @@ results-by-year:
         score:
         result: W
         citations: 2014004
+      - school: Wellesley
+        citations: BSCRankings
+      - school: Weymouth
+        citations: BSCRankings
     championships:
       - name: Bay State Conference
         place: 3
@@ -970,6 +978,8 @@ results-by-year:
         score: 100 - 55
         result: W
         citations: 2013010
+      - school: Walpole
+        citations: BSCRankings
       - school: Wellesley
         score: 100 - 84
         result: W
@@ -1119,6 +1129,8 @@ results-by-year:
         score: 94 - 87
         result: W
         citations: 2011001
+      - school: Brookline
+        citations: BSCRankings
       - school: Dedham
         score: 105 - 67
         result: W
@@ -1135,6 +1147,8 @@ results-by-year:
         score: 97 - 89
         result: W
         citations: 2011000
+      - school: Norwood
+        citations: BSCRankings
       - school: Walpole
         score: 88 - 96
         result: L
@@ -1143,6 +1157,8 @@ results-by-year:
         score: 96 - 85
         result: W
         citations: 2011000
+      - school: Weymouth
+        citations: BSCRankings
     championships:
       - name: South Sectionals
         place: 4
@@ -1261,15 +1277,23 @@ results-by-year:
         link: https://www.wickedlocal.com/story/needham-times/2010/11/23/needham-high-roundup-swimmers-finish/40385638007/
   - year: 2009
     dual-meets:
+      - school: Braintree
+        citations: BSCRankings
       - school: Brookline
         result: W
         citations: 2009002;2009001
+      - school: Dedham
+        citations: BSCRankings
       - school: Framingham
         result: W
         citations: 2009001
       - school: Natick
         result: L
         citations: 2010000
+      - school: Newton North
+        citations: BSCRankings
+      - school: Norwood
+        citations: BSCRankings
       - school: Walpole
         score: 93 - 93
         result: T
@@ -1421,6 +1445,8 @@ results-by-year:
         score: 99.5 - 84.5
         result: W
         citations: 2007003
+      - school: Wellesley
+        citations: BSCRankings
       - school: Westwood
         citations: 2007001
       - school: Weymouth
