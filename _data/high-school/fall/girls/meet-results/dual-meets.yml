@@ -743,8 +743,8 @@ results-by-year:
         citations: 2015005;2015004
       - school: Framingham
         score: 100 - 84
-        result: L
-        citations: 2015007
+        result: W
+        citations: 2015007;2015013
       - school: Natick
         score: 98 -  86
         result: W
@@ -825,6 +825,8 @@ results-by-year:
         link: https://sites.google.com/a/needham.k12.ma.us/rockets-review-11-2/
       - name: 2015012
         link: https://www.wickedlocal.com/story/needham-times/2015/10/22/needham-swimmers-making-splash-in/64713079007/
+      - name: 2015013
+        link: https://patch.com/massachusetts/framingham/foleys-flyers-talented-framingham-high-girls-swim-dive-team-0
       - name: 2015100
         link: http://miaa.ezstream.com/index.cfm?itemid=7727
       - name: 2015101
