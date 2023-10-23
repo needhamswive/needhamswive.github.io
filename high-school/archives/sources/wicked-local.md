@@ -18,10 +18,10 @@ classes: wide
   </thead>
   <tbody>
     {% for article in articles %}
-    <tr>
-      <td>{{ article.date }}</td>
-      <td><a href="{{ article.url }}">{{ article.title }}</a></td>
-    </tr>
+      <tr>
+        <td>{{ article.date }}</td>
+        <td><a href="{{ article.url }}">{{ article.title }}</a></td>
+      </tr>
     {% endfor %}
   </tbody>
 </table>
