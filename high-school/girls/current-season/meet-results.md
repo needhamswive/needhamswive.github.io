@@ -8,7 +8,7 @@ title: Meet Results
   }
 </style>
 
-{% assign results-for-year = site.data.high-school.fall.girls.meet-results.dual-meets.results-by-year | where: "year", 2023 | first %}
+{% assign results-for-year = site.data.high-school.fall.girls.meet-results.needham.results-by-year | where: "year", 2023 | first %}
 
 {% include results-for-year.md
   results-for-year = results-for-year
@@ -18,7 +18,7 @@ title: Meet Results
 
 __Sources__
 
-{% for citation in site.data.high-school.fall.girls.meet-results.dual-meets.general-citations -%}
+{% for citation in site.data.high-school.fall.girls.meet-results.needham.general-citations -%}
   {% include citation.md %}
 {% endfor %}
 {% for citation in results-for-year.citations -%}

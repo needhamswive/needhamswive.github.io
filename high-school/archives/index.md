@@ -7,8 +7,9 @@ Archives for the Bay State Conference, Sectionals, and States.
 
 ## Primary Sources
 
-- [MIAA](/high-school/archives/sources/miaa)
 - [Google Drive](/high-school/archives/sources/google-drive)
+- [MIAA](/high-school/archives/sources/miaa)
+- [Patch News](/high-school/archives/sources/patch-news)
 - [Wicked Local](/high-school/archives/sources/wicked-local)
 
 ## Secondary Sources
