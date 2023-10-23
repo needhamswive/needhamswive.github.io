@@ -4,10 +4,20 @@ classes: wide
 ---
 
 <style>
+  table {
+    overflow: visible;
+  }
+
   td {
     border: 1px solid #b6b6b6;
     text-align: center;
     padding: 0;
+    width: 50px;
+  }
+
+  .school-name {
+    transform: rotate(-90deg) translateX(15px);
+    max-width: 50px;
     width: 50px;
   }
 
@@ -53,7 +63,7 @@ classes: wide
 <tr>
   <th></th>
   {% for school in schools %}
-    <th style="transform: rotate(-90deg); height: 125px; max-width: 50px;">{{ school }}</th>
+    <th><div class="school-name">{{ school }}</div></th>
   {% endfor %}
 </tr>
 {% for school-1 in schools %}
