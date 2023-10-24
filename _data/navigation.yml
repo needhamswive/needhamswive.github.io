@@ -70,9 +70,11 @@ high-school-archives:
     children:
       - title: School Rankings
         url: high-school/archives/fall/sectionals/school-rankings
-      - title: Event Results
+      - title: Meet Results
+        url: high-school/archives/fall/sectionals/meet-results
   - title: States
     children:
       - title: School Rankings
         url: high-school/archives/fall/states/school-rankings
-      - title: Event Results
+      - title: Meet Results
+        url: high-school/archives/fall/states/meet-results
