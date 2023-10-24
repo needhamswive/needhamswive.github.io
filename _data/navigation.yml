@@ -73,13 +73,13 @@ high-school-fall-archives:
   - title: Bay State Conference
     children:
       - title: Conference Meet School Rankings
-        url: high-school/archives/fall/bay-state-conference/conference-meet-school-rankings
+        url: high-school/archives/fall/girls/bay-state-conference/conference-meet-school-rankings
       - title: Conference Dual Meet Results
-        url: high-school/archives/fall/bay-state-conference/conference-dual-meet-results
+        url: high-school/archives/fall/girls/bay-state-conference/conference-dual-meet-results
       - title: Conference Meet Results
-        url: high-school/archives/fall/bay-state-conference/conference-meet-results
+        url: high-school/archives/fall/girls/bay-state-conference/conference-meet-results
       - title: Conference Meet Top Results
-        url: high-school/archives/fall/bay-state-conference/conference-meet-top-results
+        url: high-school/archives/fall/girls/bay-state-conference/conference-meet-top-results
   - title: Championships
     children:
       - title: Qualifying Standards
@@ -87,15 +87,15 @@ high-school-fall-archives:
   - title: Sectionals
     children:
       - title: School Rankings
-        url: high-school/archives/fall/sectionals/school-rankings
+        url: high-school/archives/fall/girls/sectionals/school-rankings
       - title: Meet Results
-        url: high-school/archives/fall/sectionals/meet-results
+        url: high-school/archives/fall/girls/sectionals/meet-results
   - title: States
     children:
       - title: School Rankings
-        url: high-school/archives/fall/states/school-rankings
+        url: high-school/archives/fall/girls/states/school-rankings
       - title: Meet Results
-        url: high-school/archives/fall/states/meet-results
+        url: high-school/archives/fall/girls/states/meet-results
 
 high-school-winter-archives:
   - title: Bay State Conference
