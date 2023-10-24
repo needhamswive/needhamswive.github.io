@@ -27,7 +27,7 @@ high-school:
       - title: Scoring a Meet
         url: high-school/general-information/scoring-a-meet
       - title: Introduction to Diving
-        url: high-school/general-info
+        url: high-school/general-information/introduction-to-diving
   - title: Archives
     url: high-school/archives
     children:
@@ -75,7 +75,7 @@ high-school-boys:
       - title: Scoring a Meet
         url: high-school/general-information/scoring-a-meet
       - title: Introduction to Diving
-        url: high-school/general-info
+        url: high-school/general-information/introduction-to-diving
   - title: Archives
     url: high-school/archives
     children:
