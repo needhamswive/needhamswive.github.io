@@ -18,15 +18,15 @@ The order of swimming events is as follows:
 - 100 yard breaststroke
 - 400 yard freestyle relay
 
-For dual meets, diving will take place before swimming.
+For dual meets, diving will take place before swimming or after the 50 yard freestyle.
 At the Bay State Conference (BSC), diving and / or the 500 freestyle may take place the day before the other events.
-Otherwise, similar to sectionals and states, the diving and swimming events will take place on the same day.
+Otherwise, similar to sectionals and states, the diving and swimming events will take place simultaneously.
 
 ## Dual Meet
 
 There are a total of 186 points available.
 There are 14 points available for each of the 3 relay events (totaling 42 points) and 16 points available for each of the 9 individual events (totaling 144 points).
-Only the first heat of each event (and the first three divers from each team) may score points.
+Only the first heat of each swimming event and the top three divers from each team may score points.
 
 The point distribution is as follows:
 
