@@ -74,4 +74,5 @@ high-school-archives:
   - title: States
     children:
       - title: School Rankings
+        url: high-school/archives/fall/states/school-rankings
       - title: Event Results
