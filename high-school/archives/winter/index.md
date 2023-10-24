@@ -1,7 +1,5 @@
 ---
-title: High School Archives
-sidebar:
-  nav: high-school-archives
+title: High School Winter Archives
 ---
 
 Archives for the Bay State Conference, Sectionals, and States.

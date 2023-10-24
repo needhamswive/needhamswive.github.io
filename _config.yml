@@ -253,10 +253,15 @@ defaults:
       sidebar:
         nav: high-school-girls
   - scope:
-      path: high-school/archives
+      path: high-school/archives/fall
     values:
       sidebar:
-        nav: high-school-archives
+        nav: high-school-fall-archives
+  - scope:
+      path: high-school/archives/winter
+    values:
+      sidebar:
+        nav: high-school-winter-archives
   - scope:
       path: wrapped
     values:
