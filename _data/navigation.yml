@@ -62,7 +62,7 @@ high-school-girls:
         url: high-school/archives/winter
 
 high-school-archives:
-  - title: Seasons
+  - title: Archives
     children:
       - title: Fall Archives
         url: high-school/archives/fall
@@ -70,6 +70,17 @@ high-school-archives:
         url: high-school/archives/winter
 
 high-school-fall-archives:
+  - title: Archives
+    children:
+      - title: Fall Girls Archives
+        url: high-school/archives/fall/girls
+      # - title: Fall Boys Archives
+  - title: Championships
+    children:
+      - title: Qualifying Standards
+        url: high-school/archives/fall/championships/qualifying-standards
+
+high-school-fall-girls-archives:
   - title: Bay State Conference
     children:
       - title: Conference Meet School Rankings
@@ -98,16 +109,27 @@ high-school-fall-archives:
         url: high-school/archives/fall/girls/states/meet-results
 
 high-school-winter-archives:
+  - title: Archives
+    children:
+      # - title: Winter Girls Archives
+      - title: Winter Boys Archives
+        url: high-school/archives/winter/boys
+  - title: Championships
+    children:
+      - title: Qualifying Standards
+        url: high-school/archives/winter/championships/qualifying-standards
+
+high-school-winter-boys-archives:
   - title: Bay State Conference
     children:
       - title: Conference Meet School Rankings
-        url: high-school/archives/winter/bay-state-conference/conference-meet-school-rankings
+        url: high-school/archives/winter/boys/bay-state-conference/conference-meet-school-rankings
       - title: Conference Dual Meet Results
-        url: high-school/archives/winter/bay-state-conference/conference-dual-meet-results
+        url: high-school/archives/winter/boys/bay-state-conference/conference-dual-meet-results
       - title: Conference Meet Results
-        url: high-school/archives/winter/bay-state-conference/conference-meet-results
+        url: high-school/archives/winter/boys/bay-state-conference/conference-meet-results
       - title: Conference Meet Top Results
-        url: high-school/archives/winter/bay-state-conference/conference-meet-top-results
+        url: high-school/archives/winter/boys/bay-state-conference/conference-meet-top-results
   - title: Championships
     children:
       - title: Qualifying Standards
@@ -115,12 +137,12 @@ high-school-winter-archives:
   - title: Sectionals
     children:
       - title: School Rankings
-        url: high-school/archives/winter/sectionals/school-rankings
+        url: high-school/archives/winter/boys/sectionals/school-rankings
       - title: Meet Results
-        url: high-school/archives/winter/sectionals/meet-results
+        url: high-school/archives/winter/boys/sectionals/meet-results
   - title: States
     children:
       - title: School Rankings
-        url: high-school/archives/winter/states/school-rankings
+        url: high-school/archives/winter/boys/states/school-rankings
       - title: Meet Results
-        url: high-school/archives/winter/states/meet-results
+        url: high-school/archives/winter/boys/states/meet-results

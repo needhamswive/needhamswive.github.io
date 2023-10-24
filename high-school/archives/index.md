@@ -1,9 +1,4 @@
 ---
 title: High School Archives
-sidebar:
-  nav: high-school-archives
+layout: high-school-archives-homepage
 ---
-
-Archives for the Bay State Conference, Sectionals, and States.
-
-{% include high-school-archive-sources.md %}
