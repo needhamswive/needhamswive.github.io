@@ -1,4 +1,265 @@
 year,division,rank,school,score
+2022,Division 2,1,Wellesley,477.5
+2022,Division 2,2,Needham,330
+2022,Division 2,3,Winchester,252
+2022,Division 2,4,Chelmsford,189
+2022,Division 2,5,Belmont,165
+2022,Division 2,6,North Andover,154
+2022,Division 2,7,Natick,150
+2022,Division 2,8,Reading,132
+2022,Division 2,9,Wakefield,123
+2022,Division 2,10,Watertown,96
+2022,Division 2,11,Boston Latin School,70.5
+2022,Division 2,12,Milton,41
+2022,Division 2,13,Walpole,22
+2022,Division 2,14,Stoneham,11
+2022,Division 2,14,Academy of Notre Dame,11
+2022,Division 2,16,Billerica,6
+2021,Division 2,1,Wellesley,358
+2021,Division 2,2,Needham,294
+2021,Division 2,3,Chelmsford,248
+2021,Division 2,4,Winchester,222
+2021,Division 2,5,North Andover,212
+2021,Division 2,6,Milton,181
+2021,Division 2,7,Belmont,141
+2021,Division 2,8,Reading,138
+2021,Division 2,9,Watertown,128
+2021,Division 2,10,Wakefield,111
+2021,Division 2,11,Natick,96
+2021,Division 2,12,Boston Latin School,44
+2021,Division 2,13,Walpole,43
+2021,Division 2,14,Woburn,41
+2021,Division 2,15,Braintree,36
+2021,Division 2,16,Melrose,8
+2021,Division 2,17,Burlington,2
+2021,Division 2,18,Billerica,1
+2019,Division 1,1,Andover,456.5
+2019,Division 1,2,Needham,256
+2019,Division 1,3,Newton North,199
+2019,Division 1,4,Brookline,188
+2019,Division 1,5,Acton-Boxborough,184
+2019,Division 1,6,Lexington,178.5
+2019,Division 1,7,Framingham,171.5
+2019,Division 1,8,Chelmsford,153
+2019,Division 1,9,Arlington,146
+2019,Division 1,10,North Andover,144
+2019,Division 1,11,Haverhill,124
+2019,Division 1,12,Lowell,39
+2019,Division 1,13,Methuen,34.5
+2019,Division 1,14,Boston Latin School,31
+2019,Division 1,15,Braintree,10
+2018,Division 1,1,Andover,518
+2018,Division 1,2,Acton-Boxborough,224
+2018,Division 1,3,Newton North,206.5
+2018,Division 1,4,Needham,191
+2018,Division 1,5,Framingham,163.5
+2018,Division 1,6,Brookline,162
+2018,Division 1,7,Haverhill,158
+2018,Division 1,8,Arlington,148
+2018,Division 1,9,Chelmsford,129
+2018,Division 1,10,Boston Latin School,119
+2018,Division 1,11,Lexington,100
+2018,Division 1,12,North Andover,70
+2018,Division 1,13,Methuen,63
+2018,Division 1,14,Lowell,55
+2018,Division 1,15,Braintree,4
+2017,Division 1,1,Andover,488.5
+2017,Division 1,2,Acton-Boxborough,267.5
+2017,Division 1,3,Newton North,263
+2017,Division 1,4,Chelmsford,210
+2017,Division 1,5,Brookline,176
+2017,Division 1,6,Haverhill,170
+2017,Division 1,7,Needham,165
+2017,Division 1,8,Boston Latin School,148
+2017,Division 1,9,Framingham,109
+2017,Division 1,10,Lexington,86
+2017,Division 1,11,Lowell,66
+2017,Division 1,12,Arlington,59
+2017,Division 1,13,Methuen,54
+2017,Division 1,14,Braintree,29
+2017,Division 1,15,North Andover,20
+2016,Division 1,1,Andover,476.5
+2016,Division 1,2,Newton North,281
+2016,Division 1,3,Acton-Boxborough,263
+2016,Division 1,4,Framingham High School,205
+2016,Division 1,4,Chelmsford,205
+2016,Division 1,6,Brookline,196
+2016,Division 1,7,Haverhill,156
+2016,Division 1,8,Lexington,141
+2016,Division 1,9,Needham,122.5
+2016,Division 1,10,Lowell,100
+2016,Division 1,11,Boston Latin School,66
+2016,Division 1,12,Braintree,36
+2016,Division 1,13,Billerica,17
+2016,Division 1,14,Methuen,16
+2015,Division 1,1,Andover,527
+2015,Division 1,2,Acton-Boxborough,233
+2015,Division 1,3,Newton North,217
+2015,Division 1,4,Chelmsford,201
+2015,Division 1,5,Brookline,197
+2015,Division 1,6,Haverhill,187
+2015,Division 1,7,Framingham,166
+2015,Division 1,8,Needham,156
+2015,Division 1,9,Lexington,147
+2015,Division 1,10,New Bedford,73
+2015,Division 1,11,Braintree,45
+2015,Division 1,12,Boston Latin School,41
+2015,Division 1,13,Billerica,35
+2015,Division 1,14,Lowell,32
+2015,Division 1,15,Brockton,16
+2015,Division 1,16,Durfee,10
+2015,Division 1,17,MethTewk,4
+2014,Division 1,1,Andover,367
+2014,Division 1,2,Acton Boxborough,314
+2014,Division 1,3,Newton North,309
+2014,Division 1,4,Framingham,209
+2014,Division 1,5,Lexington,195
+2014,Division 1,6,Needham,180.5
+2014,Division 1,7,Chelmsford,159
+2014,Division 1,8,Lowell,105
+2014,Division 1,9,Haverhill,88
+2014,Division 1,10,Brookline,84.5
+2014,Division 1,11,Boston Latin,56
+2014,Division 1,12,New Bedford,55
+2014,Division 1,13,Durfee,54
+2014,Division 1,14,Methuen,39
+2014,Division 1,15,Billerica Memorial,26
+2014,Division 1,16,Brockton,25
+2014,Division 1,17,Braintree,23
+2013,Division 1,1,Chelmsford,381.5
+2013,Division 1,2,Andover,278.5
+2013,Division 1,3,Framingham,252
+2013,Division 1,4,Acton-Boxborough,243
+2013,Division 1,5,Newton North,217
+2013,Division 1,6,Lexington,204
+2013,Division 1,7,Needham,167
+2013,Division 1,8,Haverhill,145
+2013,Division 1,9,Brockton,85
+2013,Division 1,10,Methuen,55
+2013,Division 1,11,Boston Latin,45
+2013,Division 1,11,Brookline,45
+2013,Division 1,13,Lowell,37
+2013,Division 1,14,Durfee, Fall River,30
+2013,Division 1,15,Braintree,7
+2012,Division 1,1,Andover,428
+2012,Division 1,2,Chelmsford,282.5
+2012,Division 1,3,Acton-Boxborough,253
+2012,Division 1,4,Framingham,225.5
+2012,Division 1,5,Needham,185
+2012,Division 1,6,Haverhill,174
+2012,Division 1,7,Lexington,120
+2012,Division 1,8,Wellesley,104
+2012,Division 1,9,Methuen,96
+2012,Division 1,10,Natick,84
+2012,Division 1,11,Newton North,76.5
+2012,Division 1,12,Brockton,61
+2012,Division 1,13,Central Catholic-Lawrence,47
+2012,Division 1,14,Braintree,39.5
+2012,Division 1,15,Boston Latin,31
+2012,Division 1,16,Durfee, Fall River,30
+2012,Division 1,17,Marshfield,20
+2012,Division 1,18,Lowell,19
+2012,Division 1,19,Billerica Memorial,17
+2012,Division 1,20,Brookline,16
+2012,Division 1,21,North Andover,14
+2012,Division 1,22,Dracut,2
+2011,Division 1,1,Andover,481
+2011,Division 1,2,Chelmsford,273
+2011,Division 1,3,Acton-Boxborough,247
+2011,Division 1,4,Needham,173
+2011,Division 1,5,Framingham,171
+2011,Division 1,6,Walpole,166
+2011,Division 1,7,Haverhill,154
+2011,Division 1,8,Lexington,77
+2011,Division 1,9,Methuen,72
+2011,Division 1,10,Newton North,64
+2011,Division 1,11,Dracut,60
+2011,Division 1,12,Braintree,56
+2011,Division 1,13,Natick,51
+2011,Division 1,14,Norwood,49
+2011,Division 1,15,Central Catholic-Lawrence,46
+2011,Division 1,16,Marshfield,41
+2011,Division 1,17,Billerica Memorial,36
+2011,Division 1,18,Wellesley,35
+2011,Division 1,19,Durfee,33
+2011,Division 1,20,Brockton,27
+2011,Division 1,21,Lowell,6
+2011,Division 1,21,Brookline,6
+2011,Division 1,23,Boston Latin,1
+2010,Division 1,1,Andover,357.5
+2010,Division 1,2,Acton-Boxborough,225
+2010,Division 1,3,Chelmsford,187
+2010,Division 1,4,Framingham,113
+2010,Division 1,5,Haverhill,98
+2010,Division 1,6,Lexington,97
+2010,Division 1,7,Central Catholic-Lawrence,63
+2010,Division 1,8,Needham,62.5
+2010,Division 1,9,Wellesley,52.5
+2010,Division 1,10,Natick,43.5
+2010,Division 1,11,Norwood,28
+2010,Division 1,12,Lowell,19
+2010,Division 1,13,Newton North,18
+2010,Division 1,14,Brookline,12
+2010,Division 1,15,Boston Latin,9
+2010,Division 1,16,Methuen,4
+2010,Division 1,17,Braintree,3
+2010,Division 1,17,St.Peter-Marian, ,
+2009,Division 1,1,Andover,321
+2009,Division 1,2,Chelmsford,214.5
+2009,Division 1,3,Acton-Boxborough,193.5
+2009,Division 1,4,Framingham,98.5
+2009,Division 1,5,Haverhill,81.5
+2009,Division 1,6,New Bedford,71
+2009,Division 1,7,Dedham,62
+2009,Division 1,8,Lexington,46
+2009,Division 1,9,Central Catholic,44
+2009,Division 1,10,Marshfield,39
+2009,Division 1,11,Wellesley,38
+2009,Division 1,12,Natick,33
+2009,Division 1,13,Dracut,29
+2009,Division 1,14,Lowell,28
+2009,Division 1,14,Needham,28
+2009,Division 1,16,Braintree,25
+2009,Division 1,17,Durfee,19
+2009,Division 1,18,Newton North,10
+2009,Division 1,19,Brookline,8
+2009,Division 1,20,Boston Latin,6
+2008,Division 1,1,Chelmsford,277
+2008,Division 1,2,Acton-Boxborough,170
+2008,Division 1,3,Reading,165.5
+2008,Division 1,4,Andover,162.5
+2008,Division 1,5,Haverhill,119
+2008,Division 1,6,Framingham,89
+2008,Division 1,7,Lexington,79
+2008,Division 1,8,Brookline,65
+2008,Division 1,9,New Bedford,54
+2008,Division 1,10,Durfee,52
+2008,Division 1,11,Fontbonne Academy,47
+2008,Division 1,12,Lowell,25
+2008,Division 1,12,Brockton,25
+2008,Division 1,14,Methuen,23
+2008,Division 1,15,Braintree,21
+2008,Division 1,16,Marshfield,11
+2008,Division 1,17,Newton North,4
+2008,Division 1,17,Boston Latin,4
+2008,Division 1,19,Weymouth,2
+2007,Division 1,1,Andover,245
+2007,Division 1,2,Chelmsford,227
+2007,Division 1,3,Acton-Boxborough,211
+2007,Division 1,4,Reading,134
+2007,Division 1,5,Framingham,95
+2007,Division 1,6,Lexington,86
+2007,Division 1,7,Haverhill,84
+2007,Division 1,8,Methuen,82
+2007,Division 1,9,Brookline,56
+2007,Division 1,10,Lowell,43
+2007,Division 1,11,Fontbonne Academy,39
+2007,Division 1,12,Durfee,31
+2007,Division 1,13,Brockton,25
+2007,Division 1,14,Boston Latin,22
+2007,Division 1,15,Braintree,12
+2007,Division 1,16,Needham,2
+2007,Division 1,17,Weymouth,1
 2006,Division 1,1,Andover,301
 2006,Division 1,2,Chelmsford,288
 2006,Division 1,3,Acton-Boxborough,220
