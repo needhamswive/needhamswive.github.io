@@ -69,6 +69,7 @@ high-school-archives:
   - title: Sectionals
     children:
       - title: School Rankings
+        url: high-school/archives/fall/sectionals/school-rankings
       - title: Event Results
   - title: States
     children:

@@ -53,23 +53,7 @@ years-boys-scored-with-girls:
 
 ### {{ year }}{% if years-boys-scored-with-girls contains year %}[^comment-on-scoring]{% endif %}
 
-<table>
-  <thead>
-    <tr>
-      <th>School</th>
-      <th style="text-align: center;">Rank</th>
-      <th style="text-align: center;">Score</th>
-    </tr>
-  </thead>
-  <tbody>
-    {% for school-ranking in school-rankings-for-year %}
-      <tr>
-        <td>{{ school-ranking.school }}</td>
-        <td style="text-align: center;">{{ school-ranking.rank }}</td>
-        <td style="text-align: center;">{{ school-ranking.score }}</td>
-      </tr>
-    {% endfor %}
-  </tbody>
-</table>
+{% include rankings.md
+  rankings = school-rankings-for-year %}
 
 {% endfor %}
