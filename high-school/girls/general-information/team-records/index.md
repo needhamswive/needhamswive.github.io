@@ -12,28 +12,9 @@ A history of the records can be found [here](/high-school/girls/general-informat
 
 ## Team Records
 
-<table>
-  <thead>
-    <tr>
-      <th>Event</th>
-      <th style="text-align: center;">Date</th>
-      <th>Athlete(s)</th>
-      <th style="text-align: center;">Result</th>
-    </tr>
-  </thead>
-  <tbody>
-    {% for event in championship-events %}
-      {% assign records-for-event = team-records | where: "event", event %}
-      {% assign record = records-for-event[0] %}
-      <tr>
-        <td>{{ record.event | formatcell }}</td>
-        <td style="text-align: center;">{{ record.date | formatcell }}</td>
-        <td>{{ record.name | formatcell }}</td>
-        <td style="text-align: center;">{{ record.result | formatcell }}</td>
-      </tr>
-    {% endfor %}
-  </tbody>
-</table>
+{% include records.md
+  events = championship-events
+  records = team-records %}
 
 {% assign years = "" %}
 {% for year in site.data.high-school.fall.girls.records.needham.bay-state-conference-champions.years %}
@@ -56,56 +37,14 @@ South Sectional Champions
 
 ## Bay State Conference Records
 
-<table>
-  <thead>
-    <tr>
-      <th>Event</th>
-      <th style="text-align: center;">Date</th>
-      <th>School</th>
-      <th>Athlete(s)</th>
-      <th style="text-align: center;">Result</th>
-    </tr>
-  </thead>
-  <tbody>
-    {% for event in championship-events %}
-      {% assign records-for-event = conference-records | where: "event", event %}
-      {% assign record = records-for-event[0] %}
-      <tr>
-        <td>{{ record.event | formatcell }}</td>
-        <td style="text-align: center;">{{ record.date | formatcell }}</td>
-        <td>{{ record.school | formatcell }}</td>
-        <td>{{ record.name | formatcell }}</td>
-        <td style="text-align: center;">{{ record.result | formatcell }}</td>
-      </tr>
-    {% endfor %}
-  </tbody>
-</table>
+{% include records.md
+  events = championship-events
+  records = conference-records %}
 
 ## Bay State Conference Meet Records
 
 These records are from results since 1990.
 
-<table>
-  <thead>
-    <tr>
-      <th>Event</th>
-      <th style="text-align: center;">Date</th>
-      <th>School</th>
-      <th>Athlete(s)</th>
-      <th style="text-align: center;">Result</th>
-    </tr>
-  </thead>
-  <tbody>
-    {% for event in dual-meet-events %}
-      {% assign records-for-event = conference-meet-records | where: "event", event %}
-      {% assign record = records-for-event[0] %}
-      <tr>
-        <td>{{ record.event | formatcell }}</td>
-        <td style="text-align: center;">{{ record.date | formatcell }}</td>
-        <td>{{ record.school | formatcell }}</td>
-        <td>{{ record.name | formatcell }}</td>
-        <td style="text-align: center;">{{ record.result| formatcell }}</td>
-      </tr>
-    {% endfor %}
-  </tbody>
-</table>
+{% include records.md
+  events = dual-meet-events
+  records = conference-meet-records %}
