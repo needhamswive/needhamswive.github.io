@@ -18,8 +18,7 @@ title: Meet Results
 ## {{ results-for-year.year }}
 
 {% include results-for-year.md
-  results-for-year = results-for-year
- %}
+  results-for-year = results-for-year %}
 
 {%- endfor %}
 

@@ -11,8 +11,7 @@ title: Meet Results
 {% assign results-for-year = site.data.high-school.fall.girls.meet-results.needham.results-by-year | where: "year", 2023 | first %}
 
 {% include results-for-year.md
-  results-for-year = results-for-year
-%}
+  results-for-year = results-for-year %}
 
 ---
 
