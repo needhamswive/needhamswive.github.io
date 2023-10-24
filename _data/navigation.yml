@@ -6,25 +6,35 @@ main:
 home:
   - title: Teams
     children:
-    - title: High School Girls
-      url: high-school/girls
+      - title: High School Girls
+        url: high-school/girls
+      - title: High School Boys
+        url: high-school/boys
   - title: Archives
     children:
       - title: High School Archives
         url: high-school/archives
 
-high-school-home:
+high-school:
   - title: Teams
     children:
-    - title: High School Girls
-      url: high-school/girls
+      - title: High School Girls
+        url: high-school/girls
+      - title: High School Boys
+        url: high-school/boys
+  - title: General Information
+    children:
+      - title: Scoring a Meet
+        url: high-school/general-information/scoring-a-meet
+      - title: Introduction to Diving
+        url: high-school/general-info
   - title: Archives
     url: high-school/archives
     children:
-      - title: Fall Archives
-        url: high-school/archives/fall
-      - title: Winter Archives
-        url: high-school/archives/winter
+      - title: Fall Girls Archives
+        url: high-school/archives/fall/girls
+      - title: Winter Boys Archives
+        url: high-school/archives/winter/boys
 
 high-school-girls:
   - title: General Information
@@ -32,9 +42,9 @@ high-school-girls:
       - title: About The Team
         url: high-school/girls/general-information/about-the-team
       - title: Scoring a Meet
-        url: high-school/girls/general-information/scoring-a-meet
+        url: high-school/general-information/scoring-a-meet
       - title: Introduction to Diving
-        url: high-school/girls/general-information/introduction-to-diving
+        url: high-school/general-information/introduction-to-diving
       - title: Team Records
         url: high-school/girls/general-information/team-records
   - title: Current Season
@@ -56,10 +66,21 @@ high-school-girls:
   - title: Archives
     url: high-school/archives
     children:
-      - title: Fall Archives
-        url: high-school/archives/fall
-      - title: Winter Archives
-        url: high-school/archives/winter
+      - title: Fall Girls Archives
+        url: high-school/archives/fall/girls
+
+high-school-boys:
+  - title: General Information
+    children:
+      - title: Scoring a Meet
+        url: high-school/general-information/scoring-a-meet
+      - title: Introduction to Diving
+        url: high-school/general-info
+  - title: Archives
+    url: high-school/archives
+    children:
+      - title: Winter Boys Archives
+        url: high-school/archives/winter/boys
 
 high-school-archives:
   - title: Archives

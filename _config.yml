@@ -91,28 +91,6 @@ atom_feed:
 #       icon: "fab fa-fw fa-instagram"
 #       # url: "https://instagram.com/"
 
-# Site Footer
-footer:
-  links:
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: https://www.instagram.com/needhamgirlsswive/
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: https://twitter.com/rocketsswimdive
-    # - label: "Facebook"
-    #   icon: "fab fa-fw fa-facebook-square"
-    #   # url:
-    # - label: "GitHub"
-    #   icon: "fab fa-fw fa-github"
-    #   # url:
-    # - label: "GitLab"
-    #   icon: "fab fa-fw fa-gitlab"
-    #   # url:
-    # - label: "Bitbucket"
-    #   icon: "fab fa-fw fa-bitbucket"
-    #   # url:
-
 
 # Reading Files
 include:
@@ -247,11 +225,39 @@ defaults:
       layout: single
       sidebar:
         nav: home
+      footer:
+        links:
+          - label: "GitHub"
+            icon: "fab fa-fw fa-github"
+            url: https://github.com/needhamswive/needhamswive.github.io
+  - scope:
+      path: high-school
+    values:
+      sidebar:
+        nav: high-school
   - scope:
       path: high-school/girls
     values:
       sidebar:
         nav: high-school-girls
+      footer:
+        links:
+          - label: Instagram
+            icon: fab fa-fw fa-instagram
+            url: https://www.instagram.com/needhamgirlsswive
+          - label: Twitter
+            icon: fab fa-fw fa-twitter-square
+            url: https://twitter.com/rocketsswimdive
+  - scope:
+      path: high-school/boys
+    values:
+      sidebar:
+        nav: high-school-boys
+      footer:
+        links:
+          - label: Instagram
+            icon: fab fa-fw fa-instagram
+            url: https://www.instagram.com/nhsboysswive/
   - scope:
       path: high-school/archives
     values:
