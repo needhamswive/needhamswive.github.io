@@ -28,6 +28,14 @@ high-school:
         url: high-school/general-information/scoring-a-meet
       - title: Introduction to Diving
         url: high-school/general-information/introduction-to-diving
+  - title: Current Season
+    children:
+      - title: Rule Changes
+        url: high-school/current-season/rule-changes
+  - title: Past Seasons
+    children:
+      - title: Rule Changes
+        url: high-school/past-seasons/rule-changes
   - title: Archives
     url: high-school/archives
     children:
@@ -56,13 +64,13 @@ high-school-girls:
       - title: Meet Results
         url: high-school/girls/current-season/meet-results
       - title: Rule Changes
-        url: high-school/girls/current-season/rule-changes
+        url: high-school/current-season/rule-changes
   - title: Past Seasons
     children:
       - title: Meet Results
         url: high-school/girls/past-seasons/meet-results
       - title: Rule Changes
-        url: high-school/girls/past-seasons/rule-changes
+        url: high-school/past-seasons/rule-changes
   - title: Archives
     url: high-school/archives
     children:
@@ -76,6 +84,14 @@ high-school-boys:
         url: high-school/general-information/scoring-a-meet
       - title: Introduction to Diving
         url: high-school/general-information/introduction-to-diving
+  - title: Current Season
+    children:
+      - title: Rule Changes
+        url: high-school/current-season/rule-changes
+  - title: Past Seasons
+    children:
+      - title: Rule Changes
+        url: high-school/past-seasons/rule-changes
   - title: Archives
     url: high-school/archives
     children:
