@@ -10,16 +10,16 @@ title: States School Rankings
 ## {{ year }}
 
 {% assign school-rankings-for-year = south-school-rankings | where: "year", year | sort: "rank" %}
-{% assign regions = school-rankings-for-year | map: "region" | uniq | sort %}
+{% assign divisions = school-rankings-for-year | map: "division" | uniq | sort %}
 
-{% for region in regions %}
+{% for division in divisions %}
 
-### {{ region }} State
+### {{ division }} State
 
-{% assign school-rankings-for-year-by-region = school-rankings-for-year | where: "region", region %}
+{% assign school-rankings-for-year-by-division = school-rankings-for-year | where: "division", division %}
 
 {% include rankings.md
-    rankings = school-rankings-for-year-by-region %}
+    rankings = school-rankings-for-year-by-division %}
 
 {% endfor %}
 
