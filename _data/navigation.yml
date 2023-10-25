@@ -28,6 +28,8 @@ high-school:
         url: high-school/general-information/scoring-a-meet
       - title: Introduction to Diving
         url: high-school/general-information/introduction-to-diving
+      - title: Student Handbook
+        url: high-school/general-information/student-handbook
   - title: Current Season
     children:
       - title: Rule Changes
@@ -55,6 +57,8 @@ high-school-girls:
         url: high-school/general-information/introduction-to-diving
       - title: Team Records
         url: high-school/girls/general-information/team-records
+      - title: Student Handbook
+        url: high-school/general-information/student-handbook
   - title: Current Season
     children:
       - title: Schedule
@@ -84,6 +88,8 @@ high-school-boys:
         url: high-school/general-information/scoring-a-meet
       - title: Introduction to Diving
         url: high-school/general-information/introduction-to-diving
+      - title: Student Handbook
+        url: high-school/general-information/student-handbook
   - title: Current Season
     children:
       - title: Rule Changes
