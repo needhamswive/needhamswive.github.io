@@ -10,87 +10,20 @@ title: Records History
 
 ## Team Records
 
-<table>
-  <thead>
-    <tr>
-      <th style="text-align: center;">Date</th>
-      <th>Athlete(s)</th>
-      <th style="text-align: center;">Result</th>
-    </tr>
-  </thead>
-  <tbody>
-    {% for event in championship-events %}
-      <tr>
-        <td colspan="3" style="font-weight: bold; text-align: center;">{{ event | formatcell }}</td>
-      </tr>
-      {% assign records-for-event = team-records | where: "event", event %}
-      {% for record in records-for-event %}
-        <tr>
-          <td style="text-align: center;">{{ record.date | formatcell }}</td>
-          <td>{{ record.name | formatcell }}</td>
-          <td style="text-align: center;">{{ record.result | formatcell }}</td>
-        </tr>
-      {% endfor %}
-    {% endfor %}
-  </tbody>
-</table>
+{% include records-history.md
+  events = championship-events
+  records = team-records %}
 
 ## Bay State Conference Records
 
-<table>
-  <thead>
-    <tr>
-      <th style="text-align: center;">Date</th>
-      <th>School</th>
-      <th>Athlete(s)</th>
-      <th style="text-align: center;">Result</th>
-    </tr>
-  </thead>
-  <tbody>
-    {% for event in championship-events %}
-      <tr>
-        <td colspan="4" style="font-weight: bold; text-align: center;">{{ event | formatcell }}</td>
-      </tr>
-      {% assign records-for-event = conference-records | where: "event", event %}
-      {% for record in records-for-event %}
-        <tr>
-          <td style="text-align: center;">{{ record.date | formatcell }}</td>
-          <td>{{ record.school | formatcell }}</td>
-          <td>{{ record.name | formatcell }}</td>
-          <td style="text-align: center;">{{ record.result | formatcell }}</td>
-        </tr>
-      {% endfor %}
-    {% endfor %}
-  </tbody>
-</table>
+{% include records-history.md
+  events = championship-events
+  records = conference-records %}
 
 ## Bay State Conference Meet Records
 
 This record history is from results since 1990.
 
-<table>
-  <thead>
-    <tr>
-      <th style="text-align: center;">Date</th>
-      <th>School</th>
-      <th>Athlete(s)</th>
-      <th style="text-align: center;">Result</th>
-    </tr>
-  </thead>
-  <tbody>
-    {% for event in dual-meet-events %}
-      <tr>
-        <td colspan="4" style="font-weight: bold; text-align: center;">{{ event | formatcell }}</td>
-      </tr>
-      {% assign records-for-event = conference-meet-records | where: "event", event %}
-      {% for record in records-for-event %}
-        <tr>
-          <td style="text-align: center;">{{ record.date | formatcell }}</td>
-          <td>{{ record.school | formatcell }}</td>
-          <td>{{ record.name | formatcell }}</td>
-          <td style="text-align: center;">{{ record.result | formatcell }}</td>
-        </tr>
-      {% endfor %}
-    {% endfor %}
-  </tbody>
-</table>
+{% include records-history.md
+  events = dual-meet-events
+  records = conference-meet-records %}
