@@ -44,7 +44,7 @@ results-by-year:
       - school: Wellesley
         score: 98 - 86
         result: W
-        citations: ArbiterSports
+        citations: ArbiterSports;2023015;2023016
       - school: Weymouth
         score: 98 - 72
         result: W
@@ -84,6 +84,10 @@ results-by-year:
         link: https://twitter.com/NHSRockets/status/1711436456642609152
       - name: 2023014
         link: https://twitter.com/NHSRockets/status/1710085640031801503
+      - name: 2023015
+        link: https://www.instagram.com/p/CypMv-ssIuK/
+      - name: 2023016
+        link: https://twitter.com/NHSRockets/status/1715530332303491459
   - year: 2022
     dual-meets:
       - school: Acton-Boxborough
