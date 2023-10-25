@@ -13,12 +13,17 @@
   // https://stackoverflow.com/questions/807878/how-to-make-javascript-execute-after-page-load
   window.addEventListener('load', () => {
     // https://stackoverflow.com/questions/4425198/can-i-create-links-with-target-blank-in-markdown
-    let links = document.links;
+    const links = document.links;
     for (const link of links) {
       if (link.hostname != window.location.hostname) {
         link.target = '_blank';
         link.rel = 'noopener noreferrer';
       }
+    }
+
+    const footnotes = document.querySelectorAll(".footnotes li p");
+    for (const footnote of footnotes) {
+      footnote.innerHTML = footnote.innerHTML.replace(/&nbsp;/g, " ");
     }
   });
 </script>
