@@ -1,4 +1,40 @@
 year,division,place,school,score
+2022,North,1,Acton-Boxborough,321.5
+2022,North,2,Andover,269
+2022,North,3,Winchester,227
+2022,North,3,Lexington,227
+2022,North,5,Chelmsford,193
+2022,North,6,Belmont,157
+2022,North,7,Haverhill,156
+2022,North,8,Reading,143
+2022,North,9,Central Catholic,138
+2022,North,10,North Andover,133.5
+2022,North,11,Wakefield,128
+2022,North,12,Watertown,78
+2022,North,13,Malden Catholic,65
+2022,North,14,Academy of Notre Dame,28
+2022,North,15,Woburn,26
+2022,North,16,Methuen,21
+2022,North,17,Stoneham,4
+2022,North,18,Billerica,3
+2021,North,1,Acton-Boxborough,356.5
+2021,North,2,Andover,247
+2021,North,3,Central Catholic,218
+2021,North,4,North Andover,206
+2021,North,5,Chelmsford,196
+2021,North,6,Winchester,193
+2021,North,7,Haverhill,190
+2021,North,8,Belmont,146
+2021,North,9,Reading,136
+2021,North,10,Watertown,134
+2021,North,11,Wakefield,108
+2021,North,12,Lexington,95
+2021,North,13,Malden Catholic,44.5
+2021,North,14,Methuen,23
+2021,North,15,Woburn,12
+2021,North,16,Melrose,10
+2021,North,17,Burlington,2
+2021,North,17,Stoneham,2
 2021,South,1,Wellesley,390.5
 2021,South,2,Needham,329
 2021,South,3,Brookline,304
@@ -13,6 +49,23 @@ year,division,place,school,score
 2021,South,12,Walpole,51.5
 2021,South,13,Notre Dame Hingham,32
 2021,South,14,Weymouth,16
+2019,North,1,Andover,467
+2019,North,2,Central Catholic,254
+2019,North,3,Reading,239
+2019,North,4,Lexington,196
+2019,North,5,Acton-Boxborough,178
+2019,North,6,North Andover,149
+2019,North,7,Arlington,135.5
+2019,North,8,Chelmsford,131
+2019,North,9,Wakefield,121.5
+2019,North,10,Winchester,118
+2019,North,10,Haverhill,118
+2019,North,12,Belmont,95
+2019,North,13,Methuen,54
+2019,North,14,Lowell,38
+2019,North,15,Woburn,15
+2019,North,16,Burlington,14
+2019,North,17,Billerica,2
 2019,South,1,Wellesley,352
 2019,South,2,Ursuline Academy,255
 2019,South,3,Needham,244
@@ -28,6 +81,24 @@ year,division,place,school,score
 2019,South,13,Braintree,24
 2019,South,14,Mount Alvernia,8
 2019,South,14,Weymouth,8
+2018,North,1,Andover,411
+2018,North,2,Reading,400
+2018,North,3,Acton-Boxborough,204.5
+2018,North,4,Belmont,173.5
+2018,North,5,Chelmsford,140.5
+2018,North,6,Haverhill,139
+2018,North,7,Central Catholic,131.5
+2018,North,8,Arlington,128
+2018,North,9,Lexington,124
+2018,North,10,Wakefield,122
+2018,North,11,Winchester,78
+2018,North,12,Melrose,75
+2018,North,13,North Andover,57
+2018,North,14,Methuen,55
+2018,North,15,Lowell,43
+2018,North,16,Burlington,23
+2018,North,17,Woburn,11
+2018,North,18,Stoneham,8
 2018,South,1,Wellesley,352
 2018,South,2,Ursuline Academy,255
 2018,South,3,Needham,244
@@ -43,6 +114,25 @@ year,division,place,school,score
 2018,South,13,Braintree,24
 2018,South,14,Mount Alvernia,8
 2018,South,14,Weymouth,8
+2017,North,1,Andover,409
+2017,North,2,Reading,356
+2017,North,3,Acton-Boxborough,264
+2017,North,4,Belmont,165
+2017,North,5,Melrose,164
+2017,North,6,Central Catholic,144
+2017,North,7,Haverhill,135
+2017,North,8,Winchester,129
+2017,North,9,Chelmsford,126
+2017,North,10,Stoneham,85
+2017,North,11,Lexington,68
+2017,North,12,Lowell,60
+2017,North,13,Wakefield,57
+2017,North,14,Methuen,48
+2017,North,15,Arlington,40
+2017,North,16,Burlington,26
+2017,North,17,Woburn,24
+2017,North,18,North Andover,20
+2017,North,19,Billerica,4
 2017,South,1,Wellesley,376
 2017,South,2,Newton North,332
 2017,South,3,Brookline,268
@@ -57,6 +147,26 @@ year,division,place,school,score
 2017,South,12,Walpole,35
 2017,South,13,Norwood,32
 2017,South,14,Milton,31
+2016,North,1,Andover,464
+2016,North,2,Acton-Boxborough,298
+2016,North,3,Reading,258
+2016,North,4,Central Catholic,204
+2016,North,5,Belmont,180
+2016,North,6,Lexington,127
+2016,North,7,Winchester,126
+2016,North,8,Chelmsford,117
+2016,North,9,Haverhill,111
+2016,North,9,Melrose,111
+2016,North,11,Lowell,107
+2016,North,12,Burlington,55
+2016,North,13,Boston Latin School,53
+2016,North,14,Stoneham,46
+2016,North,15,North Andover,26
+2016,North,16,Billerica,17
+2016,North,17,Methuen,13
+2016,North,18,Academy of Notre Dame,4
+2016,North,18,Woburn,4
+2016,North,20,Arlington,3
 2016,South,1,Framingham,300
 2016,South,2,Newton North,292
 2016,South,3,Brookline,263
@@ -70,6 +180,26 @@ year,division,place,school,score
 2016,South,11,Dedham,33
 2016,South,12,Norwood,24
 2016,South,13,Walpole,20
+2015,North,1,Andover,474
+2015,North,2,Acton-Boxborough,292.5
+2015,North,3,Reading,249
+2015,North,4,Belmont,236
+2015,North,5,Lexington,151
+2015,North,6,Haverhill,141.5
+2015,North,7,Central Catholic,139
+2015,North,8,Melrose,125
+2015,North,9,Chelmsford,113.5
+2015,North,10,Winchester,100.5
+2015,North,11,Burlington,54
+2015,North,12,Woburn,49
+2015,North,13,Boston Latin School,46
+2015,North,14,Wakefield,43
+2015,North,15,North Andover,37
+2015,North,16,Lowell,30.5
+2015,North,17,Methuen,18.5
+2015,North,18,Stoneham,12
+2015,North,19,Billerica,9
+2015,North,20,Notre Dame Academy-Worcester,4
 2015,South,1,Bishop Feehan,350
 2015,South,2,Brookline,267.5
 2015,South,3,Newton North,235.5
@@ -88,6 +218,27 @@ year,division,place,school,score
 2015,South,16,Walpole,18
 2015,South,17,Mount Alvernia,11
 2015,South,18,Norwood,6
+2014,North,1,Andover  High School,366
+2014,North,2,Acton-Boxborough High School,320
+2014,North,3,Belmont High School,217
+2014,North,4,Lexington High School,182
+2014,North,5,Chelmsford High School,160
+2014,North,6,Winchester High School,145
+2014,North,7,Central Catholic High School,125
+2014,North,8,Lowell High School,105
+2014,North,9,Haverhill High School,99.5
+2014,North,10,North Andover High School,96
+2014,North,11,Melrose High School,95
+2014,North,12,Stoneham High School,80
+2014,North,13,Reading High School,72
+2014,North,14,Wakefield High School,68
+2014,North,15,Woburn High School,50.5
+2014,North,16,Methuen High School,50
+2014,North,17,Burlington High School,37
+2014,North,18,Boston Latin School,34
+2014,North,19,Billerica High School,10
+2014,North,20,Dracut High School,9
+2014,North,21,Academy of Notre Dame,4
 2014,South,1,Newton North,313
 2014,South,2,Bishop Feehan,295
 2014,South,3,Framingham,269
@@ -108,6 +259,28 @@ year,division,place,school,score
 2014,South,18,Braintree,18
 2014,South,19,Norwood,14
 2014,South,20,Mount Alvernia,3
+2013,North,1,Andover High School,345.5
+2013,North,2,Chelmsford High School,336
+2013,North,3,Acton-Boxborough High School,258.5
+2013,North,4,Belmont High School,252
+2013,North,5,Lexington High School,178
+2013,North,6,Haverhill High School,118.5
+2013,North,7,North Andover High School,117
+2013,North,8,Reading High School,103
+2013,North,9,Central Catholic High School,102.5
+2013,North,10,Wakefield High School,92
+2013,North,11,Notre Dame Academy - Worcester,71
+2013,North,12,Melrose High School,54
+2013,North,13,Winchester High School,50
+2013,North,14,Methuen High School,49
+2013,North,15,Boston Latin School,43
+2013,North,16,Stoneham High School,35
+2013,North,17,Billerica High School,34
+2013,North,18,Lowell High School,33
+2013,North,19,Woburn High School,26
+2013,North,20,Burlington High School,21
+2013,North,21,Dracut High School,4
+2013,North,22,Academy of Notre Dame,2
 2013,South,1,Framingham,363
 2013,South,2,Bishop Feehan High School,346
 2013,South,3,Newton North High School,259
@@ -129,6 +302,28 @@ year,division,place,school,score
 2013,South,19,Norwood High School Mustangs,8
 2013,South,20,Mount Alvernia High School,6
 2013,South,21,Braintree High School,4.5
+2012,North,1,Andover High School,466
+2012,North,2,Acton-Boxborough High School,281
+2012,North,3,Chelmsford High School,269
+2012,North,4,Reading High School,234
+2012,North,5,Lexington High School,167
+2012,North,6,Haverhill High School,152
+2012,North,7,Belmont High School,151
+2012,North,8,Methuen High School,125
+2012,North,9,Wakefield High School,88
+2012,North,10,Central Catholic High School,79
+2012,North,11,Boston Latin School,75
+2012,North,12,Notre Dame Academy,56
+2012,North,13,Stoneham High School,51
+2012,North,14,Winchester High School,28
+2012,North,15,Billerica High School,22
+2012,North,16,North Andover High School,21
+2012,North,17,Melrose High School,16
+2012,North,18,Lowell High School,15
+2012,North,19,Woburn High School,14
+2012,North,20,Academy of Notre Dame,7
+2012,North,21,Dracut High School,6
+2012,North,22,St Peter-Marion,2
 2012,South,1,Framingham High School,344
 2012,South,2,Bishop Feehan High School,337
 2012,South,3,Needham High School,251.5
@@ -150,6 +345,28 @@ year,division,place,school,score
 2012,South,19,Apponequet High School,25
 2012,South,20,Brookline High School,24
 2012,South,21,Dedham High School,1
+2011,North,1,Andover High School,538
+2011,North,2,Acton-Boxborough High School,267
+2011,North,3,Reading High School,262.5
+2011,North,4,Chelmsford High School,243.5
+2011,North,5,Haverhill High School,146
+2011,North,6,Lexington High School,122
+2011,North,7,Dracut High School,115
+2011,North,8,Central Catholic High School,103
+2011,North,9,Belmont High School,99
+2011,North,10,Billerica High School,97
+2011,North,11,Methuen High School,77
+2011,North,12,Boston Latin School,42
+2011,North,12,Notre Dame Academy,42
+2011,North,14,Stoneham High School,41
+2011,North,15,Wakefield High School,38
+2011,North,16,Winchester High School,34
+2011,North,17,Melrose High School,22
+2011,North,18,Lowell High School,21
+2011,North,19,Burlington High School,6
+2011,North,20,St Peter-Marion,4
+2011,North,20,Woburn High School,4
+2011,North,22,Academy of Notre Dame,1
 2011,South,1,Bishop Feehan High School,281.5
 2011,South,2,Framingham High School,261
 2011,South,3,Walpole High School,254
@@ -173,6 +390,24 @@ year,division,place,school,score
 2011,South,21,Brookline High School,23
 2011,South,22,New Bedford High School,19
 2011,South,23,Milford High School,15
+2010,North,1,Andover High School,367
+2010,North,2,Reading High School,219.5
+2010,North,3,Acton-Boxborough High School,199.5
+2010,North,4,Chelmsford High School,137
+2010,North,5,Lexington High School,119
+2010,North,6,Haverhill High School,97
+2010,North,7,Central Catholic High School,61
+2010,North,8,Stoneham High School,54
+2010,North,9,Belmont High School,32
+2010,North,10,Winchester High School,22
+2010,North,11,Boston Latin School,21
+2010,North,12,Lowell High School,15
+2010,North,13,St Peter-Marion,13.5
+2010,North,14,Notre Dame Academy,10
+2010,North,15,Methuen High School,9
+2010,North,16,Wakefield High School,8
+2010,North,16,Billerica High School,8
+2010,North,18,Dracut High School,2.5
 2010,South,1,Bishop Feehan High School,263
 2010,South,2,Framingham High School,182
 2010,South,3,Bishop Stang High School,129
@@ -193,6 +428,22 @@ year,division,place,school,score
 2010,South,18,Marshfield High School,6
 2010,South,19,Brockton High School,4
 2010,South,20,New Bedford High School,2
+2009,North,1,Andover,374
+2009,North,2,Acton-Boxborough,219
+2009,North,3,Reading,132.5
+2009,North,4,Chelmsford,127
+2009,North,5,Lexington,111
+2009,North,6,Winchester,110.5
+2009,North,7,Haverhill,96
+2009,North,8,Wakefield Memorial,55
+2009,North,9,Lawrence Central Catholic,39
+2009,North,10,Lowell,32
+2009,North,11,Boston Latin,27
+2009,North,12,Belmont,26
+2009,North,13,Dracut,24
+2009,North,14,Stoneham,14
+2009,North,15,Burlington,4
+2009,North,15,Saint Peter-Marian,4
 2009,South,1,Bishop Feehan,251
 2009,South,2,Notre Dame Academy-Hingham,159
 2009,South,3,Bishop Stang,154
@@ -216,6 +467,24 @@ year,division,place,school,score
 2009,South,21,Apponequet Regional,9
 2009,South,22,Mount Alvernia,1
 2009,South,22,Sandwich,1
+2008,North,1,Reading,205
+2008,North,2,Acton Boxborough,199
+2008,North,3,Chelmsford,182
+2008,North,4,Andover,167
+2008,North,5,Winchester,146
+2008,North,6,Lexington,105
+2008,North,7,Haverhill,96
+2008,North,8,Belmont,74
+2008,North,9,Central Catholic,60
+2008,North,10,Methuen,38
+2008,North,11,Dracut,32
+2008,North,12,Lowell,24
+2008,North,13,Burlington,23
+2008,North,14,Notre Dame Academy,20
+2008,North,15,Boston Latin School,16
+2008,North,16,Wakefield,4
+2008,North,17,Stoneham,2
+2008,North,17,Melrose,2
 2008,South,1,Notre Dame Academy,239
 2008,South,2,Bishop Feehan,215.5
 2008,South,3,Bishop Stang,162.5
@@ -238,6 +507,24 @@ year,division,place,school,score
 2008,South,19,Apponequet,14
 2008,South,21,Marshfield,8
 2008,South,22,Weymouth,2
+2007,North,1,Andover,228
+2007,North,2,Acton Boxborough,221
+2007,North,3,Chelmsford,161
+2007,North,4,Reading,152
+2007,North,5,Lexington,105
+2007,North,6,Haverhill,96
+2007,North,7,Winchester,81
+2007,North,8,Methuen,80
+2007,North,9,Central Catholic,46
+2007,North,10,Belmont,42
+2007,North,11,Dracut,41
+2007,North,12,Boston Latin School,40
+2007,North,13,Lowell,36
+2007,North,14,Burlington,21
+2007,North,15,Stoneham,19
+2007,North,16,Academy of Notre Dame,12
+2007,North,17,Notre Dame Academy,10
+2007,North,18,Billerica,4
 2007,South,1,Notre Dame Academy,255
 2007,South,2,Bishop Feehan,201.5
 2007,South,3,Bishop Stang,186
@@ -262,6 +549,25 @@ year,division,place,school,score
 2007,South,22,Weymouth,1
 2007,South,22,Marshfield,1
 2007,South,24,Newton North,0.5
+2006,North,1,Andover,320
+2006,North,2,Acton Boxborough,210.5
+2006,North,3,Chelmsford,192
+2006,North,4,Reading,95
+2006,North,5,Methuen,79
+2006,North,6,Haverhill,73
+2006,North,7,Winchester,70
+2006,North,8,Cambridge Rindge and Latin,57
+2006,North,9,Belmont,53
+2006,North,10,Lexington,44
+2006,North,11,Stoneham,42.5
+2006,North,12,Burlington,41
+2006,North,13,Central Catholic,31
+2006,North,14,Lowell,29
+2006,North,15,Dracut,26
+2006,North,16,Academy of Notre Dame,12
+2006,North,17,Boston Latin School,11
+2006,North,18,Billerica,7
+2006,North,19,Notre Dame Academy,2
 2006,South,1,Notre Dame Academy,244
 2006,South,2,Bishop Stang,188.5
 2006,South,3,Framingham,141
