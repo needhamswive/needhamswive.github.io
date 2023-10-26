@@ -7,14 +7,19 @@ missing-years:
   - 2001
 ---
 
-{% assign event-order = site.data.high-school.results-event-order | map: "name" %}
+{% assign events = site.data.high-school.results-event-order | map: "name" %}
 {% assign all-event-results = site.data.high-school.fall.girls.meet-results.bay-state-conference.event-results %}
 {% assign years = all-event-results | map: "year" %}
 {% assign missing-years = page.missing-years | join: "," | split: "," %}
 {% assign years = years | concat: missing-years %}
 {% assign years = years | uniq | sort | reverse %}
 
-{% for event in event-order %}
+{% include filter-event.html
+  keys = events %}
+
+{% for event in events %}
+
+<div class="filter-section" data-key="{{ event }}" markdown="1">
 
 ## {{ event }}
 
@@ -40,5 +45,7 @@ missing-years:
     {% endfor %}
   </tbody>
 </table>
+
+</div>
 
 {% endfor %}

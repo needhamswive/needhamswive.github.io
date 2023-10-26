@@ -42,7 +42,12 @@ classes: wide
 {% assign dual-meet-results-citations = site.data.high-school.fall.girls.meet-results.bay-state-conference.dual-meet-results-citations %}
 {% assign years = dual-meet-results | map: "year" | uniq %}
 
+{% include filter-year.html
+  keys = years %}
+
 {% for year in years %}
+
+<div class="filter-section" data-key="{{ year }}" markdown="1">
 
 {% assign dual-meet-results-for-year = dual-meet-results | where: "year", year %}
 {% assign dual-meet-results-citations-for-year = dual-meet-results-citations | where: "year", year %}
@@ -117,6 +122,8 @@ classes: wide
 {% endfor %}
 </tbody>
 </table>
+
+</div>
 
 {% endfor %}
 

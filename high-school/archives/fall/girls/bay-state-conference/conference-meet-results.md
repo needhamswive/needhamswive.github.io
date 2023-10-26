@@ -2,13 +2,18 @@
 title: Conference Meet Results
 ---
 
-{% assign event-order = site.data.high-school.results-event-order | map: "name" %}
+{% assign events = site.data.high-school.results-event-order | map: "name" %}
 {% assign all-event-results = site.data.high-school.fall.girls.meet-results.bay-state-conference.event-results %}
 {% assign years = all-event-results | map: "year" | uniq | sort | reverse %}
+
+{% include filter-year.html
+  keys = years %}
 
 {% for year in years %}
 
 {% assign event-results-for-year = all-event-results | where: "year", year %}
+
+<div class="filter-section" data-key="{{ year }}" markdown="1">
 
 ## {{ year }}
 
@@ -24,7 +29,7 @@ title: Conference Meet Results
     </tr>
   </thead>
   <tbody>
-    {% for event in event-order %}
+    {% for event in events %}
       {% assign event-results = event-results-for-year | where: "event", event %}
       <tr>
         <th colspan="5" style="text-align: center;">{{ event }}</th>
@@ -42,5 +47,7 @@ title: Conference Meet Results
     {% endfor %}
   </tbody>
 </table>
+
+</div>
 
 {% endfor %}

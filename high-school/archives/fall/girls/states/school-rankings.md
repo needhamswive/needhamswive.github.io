@@ -5,7 +5,12 @@ title: States School Rankings
 {% assign south-school-rankings = site.data.high-school.fall.girls.meet-results.championships.states.school-rankings %}
 {% assign years = south-school-rankings | map: "year" | uniq | sort | reverse %}
 
+{% include filter-year.html
+  keys = years %}
+
 {% for year in years %}
+
+<div class="filter-section" data-key="{{ year }}" markdown="1">
 
 ## {{ year }}
 
@@ -22,5 +27,7 @@ title: States School Rankings
     rankings = school-rankings-for-year-by-division %}
 
 {% endfor %}
+
+</div>
 
 {% endfor %}

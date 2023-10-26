@@ -1,0 +1,29 @@
+<form>
+  <label for="select">{{ include.select-label }}</label>
+  <select id="select" name="{{ include.select-label | downcase }}">
+    <option value="all">All</option>
+    {% for key in include.keys %}
+      <option value="{{ key }}">{{ key }}</option>
+    {% endfor %}
+  </select>
+</form>
+
+<script>
+  const select = document.getElementById("select");
+  const sections = document.getElementsByClassName("filter-section");
+  select.addEventListener("change", (event) => {
+    if (select.value === "all") {
+      for (const section of sections) {
+        section.style.display = "unset";
+      }
+    } else {
+      for (const section of sections) {
+        if (section.dataset.key == select.value) {
+          section.style.display = "unset";
+        } else {
+          section.style.display = "none";
+        }
+      }
+    }
+  });
+</script>
