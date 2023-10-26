@@ -5,7 +5,7 @@ title: States School Rankings
 {% assign south-school-rankings = site.data.high-school.fall.girls.meet-results.championships.states.school-rankings %}
 {% assign years = south-school-rankings | map: "year" | uniq | sort | reverse %}
 
-{% for year in years -%}
+{% for year in years %}
 
 ## {{ year }}
 

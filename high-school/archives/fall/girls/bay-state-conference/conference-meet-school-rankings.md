@@ -47,7 +47,7 @@ years-boys-scored-with-girls:
 
 ## Rankings by Year
 
-{% for year in years -%}
+{% for year in years %}
 
 {% assign school-rankings-for-year = school-rankings | where: "year", year %}
 

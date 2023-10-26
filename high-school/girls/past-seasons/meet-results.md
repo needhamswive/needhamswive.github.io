@@ -26,11 +26,11 @@ title: Meet Results
 
 __Sources__
 
-{% for citation in site.data.high-school.fall.girls.meet-results.needham.general-citations -%}
+{% for citation in site.data.high-school.fall.girls.meet-results.needham.general-citations %}
   {% include citation.md %}
 {% endfor %}
 {% for results-for-year in site.data.high-school.fall.girls.meet-results.needham.results-by-year %}
-  {% for citation in results-for-year.citations -%}
+  {% for citation in results-for-year.citations %}
     {% include citation.md %}
   {% endfor %}
 {% endfor %}
