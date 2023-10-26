@@ -7,7 +7,7 @@ years-boys-scored-with-girls:
 ---
 
 <style type="text/css">
-  .page__content table p, .page__content ul p {
+  .page__content table p {
     margin-bottom: 0em;
   }
 </style>
