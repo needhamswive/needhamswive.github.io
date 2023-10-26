@@ -3,7 +3,7 @@ title: Qualifying Standards
 ---
 
 {% assign events = site.data.high-school.results-event-order | map: "name" %}
-{% assign all-qualifying-standards = site.data.high-school.fall.qualifying-standards %}
+{% assign all-qualifying-standards = site.data.high-school.archive.fall.qualifying-standards %}
 {% assign years = all-qualifying-standards | map: "year" | uniq %}
 
 {% for year in years %}

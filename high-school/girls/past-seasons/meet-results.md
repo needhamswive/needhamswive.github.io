@@ -13,12 +13,12 @@ title: Meet Results
 - [Bay State Conference Results](https://www.gomotionapp.com/team/rechfhfhslma/page/newsletter)
 - [MIAA Swim and Dive Feed](http://miaa.ezstream.com/index.cfm?ChnID=328)
 
-{% assign years = site.data.high-school.fall.girls.meet-results.needham.results-by-year | map: "year" %}
+{% assign years = site.data.high-school.girls.meet-results.results-by-year | map: "year" %}
 
 {% include filter-year.html
   keys = years %}
 
-{% for results-for-year in site.data.high-school.fall.girls.meet-results.needham.results-by-year %}
+{% for results-for-year in site.data.high-school.girls.meet-results.results-by-year %}
 
 <div class="filter-section" data-key="{{ results-for-year.year }}" markdown="1">
 
@@ -35,10 +35,10 @@ title: Meet Results
 
 __Sources__
 
-{% for citation in site.data.high-school.fall.girls.meet-results.needham.general-citations %}
+{% for citation in site.data.high-school.girls.meet-results.general-citations %}
   {% include citation.md %}
 {% endfor %}
-{% for results-for-year in site.data.high-school.fall.girls.meet-results.needham.results-by-year %}
+{% for results-for-year in site.data.high-school.girls.meet-results.results-by-year %}
   {% for citation in results-for-year.citations %}
     {% include citation.md %}
   {% endfor %}
