@@ -9,7 +9,7 @@ classes: wide
   }
 </style>
 
-{% assign articles = site.data.high-school.archives.sources.patch-news %}
+{% assign articles = site.data.high-school.sources.patch-news %}
 
 <table>
   <thead>
