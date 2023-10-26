@@ -1,0 +1,140 @@
+event	time	splits	place	points	date	year	meet	sectionals-qualified	states-qualified
+100 Backstroke	67.44				10/08/2021	2021	Walpole	TRUE	TRUE
+100 Backstroke	67.75	33.19/34.31	2	4	10/17/2023	2023	Weymouth	TRUE	TRUE
+100 Backstroke	72.71	35.00/37.68	3	3	10/03/2022	2022	Braintree	FALSE	FALSE
+100 Breaststroke	78.29	36.62/41.32	4	2	10/05/2023	2023	Brookline	TRUE	FALSE
+100 Butterfly	62.12	28.99/33.13	1	6	10/20/2023	2023	Wellesley	TRUE	TRUE
+100 Butterfly	62.61	29.03/33.58	1	6	10/13/2023	2023	Natick	TRUE	TRUE
+100 Butterfly	62.87	28.83/34.04	9	9	11/14/2021	2021	States	TRUE	TRUE
+100 Butterfly	62.98	29.84/33.41	1	6	09/26/2023	2023	Braintree	TRUE	TRUE
+100 Butterfly	63.07	29.28/33.11	2	4	10/09/2023	2023	Framingham	TRUE	TRUE
+100 Butterfly	63.36	29.57/33.79	8	11	11/13/2022	2022	States	TRUE	TRUE
+100 Butterfly	63.40		4	15	10/29/2021	2021	Bay State Conference	TRUE	TRUE
+100 Butterfly	63.43		1	6	10/02/2023	2023	Newton North	TRUE	TRUE
+100 Butterfly	63.47	29.75/33.72	7	12	11/07/2021	2021	Sectionals	TRUE	TRUE
+100 Butterfly	64.13				10/22/2021	2021	Wellesley	TRUE	TRUE
+100 Butterfly	64.52	29.88/34.50	2	4	09/20/2022	2022	Milton	TRUE	TRUE
+100 Butterfly	64.71	30.33/34.38	6	13	11/06/2022	2022	Sectionals	TRUE	TRUE
+100 Butterfly	64.81				10/19/2021	2021	Newton North	TRUE	TRUE
+100 Butterfly	65.05	30.01/34.68	2	4	09/15/2022	2022	Acton-Boxborough	TRUE	TRUE
+100 Butterfly	65.17	30.15/34.72	1	6	10/07/2022	2022	Framingham	TRUE	TRUE
+100 Butterfly	65.34				09/28/2021	2021	Brookline	TRUE	TRUE
+100 Butterfly	65.46	31.08/34.38	3	3	10/20/2022	2022	Wellesley	TRUE	TRUE
+100 Freestyle	56.48	27.32/29.16	5	14	10/29/2022	2022	Bay State Conference	TRUE	TRUE
+100 Freestyle	56.92	26.84/30.05	2	4	10/17/2023	2023	Weymouth	TRUE	TRUE
+100 Freestyle	56.94	27.68/29.21	1	6	09/12/2023	2023	Walpole	TRUE	TRUE
+100 Freestyle	57.05		3	3	09/28/2022	2022	Brookline	TRUE	TRUE
+100 Freestyle	57.25				09/24/2021	2021	Acton-Boxborough	TRUE	TRUE
+100 Freestyle	57.30	27.42/29.88			10/18/2022	2022	Natick	TRUE	TRUE
+100 Freestyle	57.82				10/05/2021	2021	Milton	TRUE	TRUE
+100 Freestyle	57.91	27.50/32.12	2	4	09/29/2023	2023	Acton-Boxborough	TRUE	TRUE
+100 Freestyle	58.09				09/14/2021	2021	Natick	TRUE	TRUE
+100 Freestyle	58.13				09/21/2021	2021	Framingham	TRUE	TRUE
+100 Freestyle	58.29		2	4	10/03/2022	2022	Braintree	TRUE	TRUE
+100 Freestyle	58.31	27.57/30.50	1	6	10/14/2022	2022	Newton North	TRUE	TRUE
+100 Freestyle	58.38				09/10/2021	2021	Weymouth	TRUE	TRUE
+100 Freestyle	58.50	28.27/29.72	2	4	09/13/2022	2022	Weymouth	TRUE	TRUE
+100 Freestyle Split	56.10	26.53/29.57	1	2	10/20/2023	2023	Wellesley	FALSE	FALSE
+100 Freestyle Split	56.38	27.36/29.02	2	8.5	10/29/2022	2022	Bay State Conference	FALSE	FALSE
+100 Freestyle Split	56.53	27.19/29.34	3	8	11/13/2022	2022	States	FALSE	FALSE
+100 Freestyle Split	57.07		1	2	09/15/2022	2022	Acton-Boxborough	FALSE	FALSE
+100 Freestyle Split	57.10		2	1	10/20/2022	2022	Wellesley	FALSE	FALSE
+100 Freestyle Split	57.12		2	1	10/13/2023	2023	Natick	FALSE	FALSE
+100 Freestyle Split	57.20		1	2	09/29/2023	2023	Acton-Boxborough	FALSE	FALSE
+100 Freestyle Split	57.24		1	2	10/17/2023	2023	Weymouth	FALSE	FALSE
+100 Freestyle Split	57.75		2	1	09/20/2022	2022	Milton	FALSE	FALSE
+100 Freestyle Split	57.96		1	2	09/12/2023	2023	Walpole	FALSE	FALSE
+100 Freestyle Split	57.98				10/19/2021	2021	Newton North	FALSE	FALSE
+100 Freestyle Split	58.15				09/24/2021	2021	Acton-Boxborough	FALSE	FALSE
+100 Freestyle Split	58.16		2	1	09/28/2022	2022	Brookline	FALSE	FALSE
+100 Freestyle Split	58.20				10/22/2021	2021	Wellesley	FALSE	FALSE
+100 Freestyle Split	58.28				09/21/2021	2021	Framingham	FALSE	FALSE
+100 Freestyle Split	58.34				09/14/2021	2021	Natick	FALSE	FALSE
+100 Freestyle Split	58.39	28.10/30.29	3	8	11/06/2022	2022	Sectionals	FALSE	FALSE
+100 Freestyle Split	58.60		1	2	10/02/2023	2023	Newton North	FALSE	FALSE
+100 Freestyle Split	58.72				09/28/2021	2021	Brookline	FALSE	FALSE
+100 Freestyle Split	58.73				10/21/2022	2022	Walpole	FALSE	FALSE
+100 Freestyle Split	58.85				10/05/2021	2021	Milton	FALSE	FALSE
+100 Freestyle Split	58.85				10/08/2021	2021	Walpole	FALSE	FALSE
+100 Freestyle Split	58.86		1	2	09/26/2023	2023	Braintree	FALSE	FALSE
+100 Freestyle Split	58.87				10/15/2021	2021	Braintree	FALSE	FALSE
+100 Freestyle Split	58.97				10/14/2022	2022	Newton North	FALSE	FALSE
+100 Freestyle Split	59.35				09/13/2022	2022	Weymouth	FALSE	FALSE
+100 Freestyle Split	59.80				10/07/2022	2022	Framingham	FALSE	FALSE
+100 Freestyle Split	60.37				10/18/2022	2022	Natick	FALSE	FALSE
+100 Freestyle Split			2	1	09/19/2023	2023	Milton	FALSE	FALSE
+200 medley	139.99	29.04/36.32/42.78/32.25	1	6	09/12/2023	2023	Walpole	TRUE	TRUE
+200 medley	141.40	29.93/36.85/32.90/31.60	3	3	09/29/2023	2023	Acton-Boxborough	TRUE	TRUE
+200 medley	141.67	33.41/32.91/42.65/32.41	2	4	09/19/2023	2023	Milton	TRUE	TRUE
+200 medley	144.78				10/15/2021	2021	Braintree	TRUE	TRUE
+200 medley	146.12	30.84/37.54/44.57/32.80			10/18/2022	2022	Natick	TRUE	TRUE
+200 medley	146.19	30.40/37.97/44.13/33.65	1	6	10/21/2022	2022	Walpole	TRUE	TRUE
+50 Butterfly Split	28.04		1	2	10/17/2023	2023	Weymouth	FALSE	FALSE
+50 Butterfly Split	28.21				10/08/2021	2021	Walpole	FALSE	FALSE
+50 Butterfly Split	28.53				10/22/2021	2021	Wellesley	FALSE	FALSE
+50 Butterfly Split	29.04		1	2	10/03/2022	2022	Braintree	FALSE	FALSE
+50 Butterfly Split	29.25		1	2	10/21/2022	2022	Walpole	FALSE	FALSE
+50 Freestyle	25.94		7	12	11/13/2022	2022	States	TRUE	TRUE
+50 Freestyle	25.99		13	4	11/07/2021	2021	Sectionals	TRUE	TRUE
+50 Freestyle	26.09		4	15	10/29/2022	2022	Bay State Conference	TRUE	TRUE
+50 Freestyle	26.10				09/24/2021	2021	Acton-Boxborough	TRUE	TRUE
+50 Freestyle	26.11		3	3	10/20/2022	2022	Wellesley	TRUE	TRUE
+50 Freestyle	26.13		7	12	11/06/2022	2022	Sectionals	TRUE	TRUE
+50 Freestyle	26.18		10	7	11/14/2021	2021	States	TRUE	TRUE
+50 Freestyle	26.22				10/05/2021	2021	Milton	TRUE	TRUE
+50 Freestyle	26.22		1	6	10/05/2023	2023	Brookline	TRUE	TRUE
+50 Freestyle	26.23		3	3	10/02/2023	2023	Newton North	TRUE	TRUE
+50 Freestyle	26.27				09/14/2021	2021	Natick	TRUE	TRUE
+50 Freestyle	26.28				09/10/2021	2021	Weymouth	TRUE	TRUE
+50 Freestyle	26.30		1	6	10/13/2023	2023	Natick	TRUE	TRUE
+50 Freestyle	26.41		1	6	09/15/2022	2022	Acton-Boxborough	TRUE	TRUE
+50 Freestyle	26.41		2	4	09/28/2022	2022	Brookline	TRUE	TRUE
+50 Freestyle	26.48		2	4	09/20/2022	2022	Milton	TRUE	TRUE
+50 Freestyle	26.57				09/21/2021	2021	Framingham	TRUE	TRUE
+50 Freestyle	26.61		2	4	10/09/2023	2023	Framingham	TRUE	TRUE
+50 Freestyle	26.84		3	3	10/14/2022	2022	Newton North	TRUE	TRUE
+50 Freestyle	26.89		2	4	09/26/2023	2023	Braintree	TRUE	TRUE
+50 Freestyle	26.93		13	4	10/29/2021	2021	Bay State Conference	TRUE	TRUE
+50 Freestyle	27.12		1	6	09/13/2022	2022	Weymouth	TRUE	FALSE
+50 Freestyle	27.13				10/19/2021	2021	Newton North	TRUE	FALSE
+50 Freestyle	27.46		4	2	10/20/2023	2023	Wellesley	FALSE	FALSE
+50 Freestyle Split	25.18		4	7.5	11/14/2021	2021	States	FALSE	FALSE
+50 Freestyle Split	25.39		2	8.5	10/29/2022	2022	Bay State Conference	FALSE	FALSE
+50 Freestyle Split	25.43		5	7	11/07/2021	2021	Sectionals	FALSE	FALSE
+50 Freestyle Split	25.44		5	7	11/07/2021	2021	Sectionals	FALSE	FALSE
+50 Freestyle Split	25.46		4	7.5	11/13/2022	2022	States	FALSE	FALSE
+50 Freestyle Split	25.53		2	1	10/20/2023	2023	Wellesley	FALSE	FALSE
+50 Freestyle Split	25.67		3	8	11/14/2021	2021	States	FALSE	FALSE
+50 Freestyle Split	25.70				09/21/2021	2021	Framingham	FALSE	FALSE
+50 Freestyle Split	25.85		1	2	09/15/2022	2022	Acton-Boxborough	FALSE	FALSE
+50 Freestyle Split	25.87		1	2	09/19/2023	2023	Milton	FALSE	FALSE
+50 Freestyle Split	25.88		2	1	10/20/2022	2022	Wellesley	FALSE	FALSE
+50 Freestyle Split	25.92		1	2	10/13/2023	2023	Natick	FALSE	FALSE
+50 Freestyle Split	25.94		1	2	10/02/2023	2023	Newton North	FALSE	FALSE
+50 Freestyle Split	25.96				10/22/2021	2021	Wellesley	FALSE	FALSE
+50 Freestyle Split	25.97		1	2	10/05/2023	2023	Brookline	FALSE	FALSE
+50 Freestyle Split	26.00		1	2	09/12/2023	2023	Walpole	FALSE	FALSE
+50 Freestyle Split	26.03				10/18/2022	2022	Natick	FALSE	FALSE
+50 Freestyle Split	26.12				10/19/2021	2021	Newton North	FALSE	FALSE
+50 Freestyle Split	26.12		1	2	09/29/2023	2023	Acton-Boxborough	FALSE	FALSE
+50 Freestyle Split	26.14		2	8.5	11/06/2022	2022	Sectionals	FALSE	FALSE
+50 Freestyle Split	26.21		1	2	10/09/2023	2023	Framingham	FALSE	FALSE
+50 Freestyle Split	26.22				10/08/2021	2021	Walpole	FALSE	FALSE
+50 Freestyle Split	26.22		1	2	10/14/2022	2022	Newton North	FALSE	FALSE
+50 Freestyle Split	26.32		1	2	09/20/2022	2022	Milton	FALSE	FALSE
+50 Freestyle Split	26.32		1	2	10/07/2022	2022	Framingham	FALSE	FALSE
+50 Freestyle Split	26.35		2	1	09/19/2023	2023	Milton	FALSE	FALSE
+50 Freestyle Split	26.36		1	2	10/05/2023	2023	Brookline	FALSE	FALSE
+50 Freestyle Split	26.38				09/14/2021	2021	Natick	FALSE	FALSE
+50 Freestyle Split	26.43				10/07/2022	2022	Framingham	FALSE	FALSE
+50 Freestyle Split	26.47		1	2	10/09/2023	2023	Framingham	FALSE	FALSE
+50 Freestyle Split	26.49				10/15/2021	2021	Braintree	FALSE	FALSE
+50 Freestyle Split	26.56				09/24/2021	2021	Acton-Boxborough	FALSE	FALSE
+50 Freestyle Split	26.60		1	2	09/26/2023	2023	Braintree	FALSE	FALSE
+50 Freestyle Split	26.63				09/10/2021	2021	Weymouth	FALSE	FALSE
+50 Freestyle Split	26.68				10/05/2021	2021	Milton	FALSE	FALSE
+50 Freestyle Split	26.86		1	2	10/03/2022	2022	Braintree	FALSE	FALSE
+50 Freestyle Split	26.90				09/13/2022	2022	Weymouth	FALSE	FALSE
+50 Freestyle Split	26.93				10/21/2022	2022	Walpole	FALSE	FALSE
+50 Freestyle Split	27.28		1	2	09/28/2022	2022	Brookline	FALSE	FALSE
+50 Freestyle Split	28.07				09/28/2021	2021	Brookline	FALSE	FALSE

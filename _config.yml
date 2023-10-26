@@ -249,6 +249,12 @@ defaults:
             icon: fab fa-fw fa-twitter-square
             url: https://twitter.com/rocketsswimdive
   - scope:
+      path: high-school/girls/graduates
+    values:
+      breadcrumbs: false
+      sidebar:
+        nav: none
+  - scope:
       path: high-school/boys
     values:
       sidebar:
