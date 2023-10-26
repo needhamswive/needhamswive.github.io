@@ -9,21 +9,38 @@
 </form>
 
 <script>
-  const select = document.getElementById("select");
-  const sections = document.getElementsByClassName("filter-section");
-  select.addEventListener("change", (event) => {
-    if (select.value === "all") {
+  function change(value) {
+    // https://stackoverflow.com/a/41542008
+    const searchParams = new URLSearchParams(window.location.search);
+    searchParams.set("section", value);
+    const newRelativePathQuery = window.location.pathname + "?" + searchParams.toString();
+    history.pushState(null, "", newRelativePathQuery);
+
+    if (value === "all") {
       for (const section of sections) {
         section.style.display = "unset";
       }
     } else {
       for (const section of sections) {
-        if (section.dataset.key == select.value) {
+        if (section.dataset.key == value) {
           section.style.display = "unset";
         } else {
           section.style.display = "none";
         }
       }
     }
-  });
+  }
+
+  const select = document.getElementById("select");
+  const sections = document.getElementsByClassName("filter-section");
+  select.addEventListener("change", (event) => change(select.value));
+
+  window.addEventListener("DOMContentLoaded", () => {
+    const searchParams = new URLSearchParams(window.location.search);
+    const section = searchParams.get("section");
+    if ("{{ include.keys }}".includes(section)) {
+      change(section);
+      select.value = section;
+    }
+  }, false);
 </script>
