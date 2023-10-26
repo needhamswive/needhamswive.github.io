@@ -1,5 +1,6 @@
 ---
 title: NHS Student Handbook
+toc: true
 ---
 
 The [NHS Student Handbook 2023-24](https://docs.google.com/document/d/1tUuUsATfyptbm2ODc0HXYVAq43oJnt4ltwC4X0FcgcU/edit) includes information about high school athletics.
