@@ -9,7 +9,7 @@ classes: wide
   }
 </style>
 
-{% assign articles = site.data.high-school.sources.wicked-local %}
+{% assign articles = site.data.high-school.archives.sources.wicked-local %}
 
 <table>
   <thead>

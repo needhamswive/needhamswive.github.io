@@ -2,7 +2,7 @@
 title: MIAA
 ---
 
-{% assign pages = site.data.high-school.sources.miaa-ezstream %}
+{% assign pages = site.data.high-school.archives.sources.miaa-ezstream %}
 
 <table>
   <thead>
