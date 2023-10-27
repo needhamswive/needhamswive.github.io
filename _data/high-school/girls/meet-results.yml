@@ -1323,8 +1323,9 @@ results-by-year:
       - school: Dedham
         citations: BSCRankings
       - school: Framingham
+        score: 100 - 83
         result: W
-        citations: 2009001
+        citations: 2009001;2009004
       - school: Natick
         result: L
         citations: 2010000;2010006
@@ -1371,6 +1372,8 @@ results-by-year:
         link: https://www.wickedlocal.com/story/needham-times/2009/09/09/needham-roundup-girls-swim-team/40434333007/
       - name: 2009003
         link: https://www.wickedlocal.com/story/times-advocate/2009/10/28/walpole-high-swimmers-tie-needham/40743502007/
+      - name: 2009004
+        link: https://www.wickedlocal.com/story/bulletin-tab/2009/09/30/schools-framingham-swimmers-fall/38910516007/
       - name: 2009100
         link: http://miaa.ezstream.com/index.cfm?itemid=6075
       - name: 2009101

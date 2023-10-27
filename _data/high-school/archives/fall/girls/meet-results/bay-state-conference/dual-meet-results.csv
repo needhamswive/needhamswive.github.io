@@ -361,7 +361,7 @@ year,school-1,school-2,score-1,score-2,school-1-result
 2015,Dedham,Walpole,,,
 2015,Dedham,Wellesley,,,
 2015,Dedham,Weymouth,,,
-2015,Framingham,Natick,,,
+2015,Framingham,Natick,98,86,W
 2015,Framingham,Needham,84,100,L
 2015,Framingham,Newton North,,,L
 2015,Framingham,Norwood,,,
@@ -636,7 +636,7 @@ year,school-1,school-2,score-1,score-2,school-1-result
 2010,Dedham,Walpole,,,
 2010,Dedham,Wellesley,,,
 2010,Dedham,Weymouth,,,
-2010,Framingham,Natick,,,
+2010,Framingham,Natick,97,84,W
 2010,Framingham,Needham,87,99,L
 2010,Framingham,Newton North,,,
 2010,Framingham,Norwood,,,
@@ -681,7 +681,7 @@ year,school-1,school-2,score-1,score-2,school-1-result
 2009,Brookline,Newton North,,,
 2009,Brookline,Norwood,,,
 2009,Brookline,Walpole,,,
-2009,Brookline,Wellesley,,,
+2009,Brookline,Wellesley,88,93,L
 2009,Brookline,Weymouth,,,
 2009,Dedham,Framingham,,,
 2009,Dedham,Natick,,,
@@ -692,7 +692,7 @@ year,school-1,school-2,score-1,score-2,school-1-result
 2009,Dedham,Wellesley,,,
 2009,Dedham,Weymouth,,,
 2009,Framingham,Natick,,,
-2009,Framingham,Needham,,,L
+2009,Framingham,Needham,83,100,L
 2009,Framingham,Newton North,,,
 2009,Framingham,Norwood,,,
 2009,Framingham,Walpole,,,
@@ -721,7 +721,7 @@ year,school-1,school-2,score-1,score-2,school-1-result
 2009,Wellesley,Weymouth,,,
 2008,Braintree,Brookline,,,
 2008,Braintree,Dedham,,,
-2008,Braintree,Framingham,,,
+2008,Braintree,Framingham,,,L
 2008,Braintree,Natick,,,
 2008,Braintree,Needham,76,96,L
 2008,Braintree,Newton North,,,
@@ -730,7 +730,7 @@ year,school-1,school-2,score-1,score-2,school-1-result
 2008,Braintree,Wellesley,,,
 2008,Braintree,Weymouth,,,
 2008,Brookline,Dedham,,,
-2008,Brookline,Framingham,,,
+2008,Brookline,Framingham,,,L
 2008,Brookline,Natick,,,
 2008,Brookline,Needham,101,83,W
 2008,Brookline,Newton North,,,
@@ -738,7 +738,7 @@ year,school-1,school-2,score-1,score-2,school-1-result
 2008,Brookline,Walpole,,,
 2008,Brookline,Wellesley,,,
 2008,Brookline,Weymouth,,,
-2008,Dedham,Framingham,,,
+2008,Dedham,Framingham,,,L
 2008,Dedham,Natick,,,
 2008,Dedham,Needham,82,93,L
 2008,Dedham,Newton North,,,
@@ -746,13 +746,13 @@ year,school-1,school-2,score-1,score-2,school-1-result
 2008,Dedham,Walpole,,,
 2008,Dedham,Wellesley,,,
 2008,Dedham,Weymouth,,,
-2008,Framingham,Natick,,,
+2008,Framingham,Natick,,,W
 2008,Framingham,Needham,97,81,W
-2008,Framingham,Newton North,,,
-2008,Framingham,Norwood,,,
-2008,Framingham,Walpole,,,
-2008,Framingham,Wellesley,,,
-2008,Framingham,Weymouth,,,
+2008,Framingham,Newton North,,,W
+2008,Framingham,Norwood,,,W
+2008,Framingham,Walpole,,,W
+2008,Framingham,Wellesley,,,W
+2008,Framingham,Weymouth,,,W
 2008,Natick,Needham,86,95,L
 2008,Natick,Newton North,,,
 2008,Natick,Norwood,,,
@@ -776,7 +776,7 @@ year,school-1,school-2,score-1,score-2,school-1-result
 2008,Wellesley,Weymouth,,,
 2007,Braintree,Brookline,,,
 2007,Braintree,Dedham,,,
-2007,Braintree,Framingham,,,
+2007,Braintree,Framingham,,,L
 2007,Braintree,Natick,,,
 2007,Braintree,Needham,,,L
 2007,Braintree,Newton North,,,
@@ -785,7 +785,7 @@ year,school-1,school-2,score-1,score-2,school-1-result
 2007,Braintree,Wellesley,,,
 2007,Braintree,Weymouth,,,
 2007,Brookline,Dedham,,,
-2007,Brookline,Framingham,,,
+2007,Brookline,Framingham,,,L
 2007,Brookline,Natick,,,
 2007,Brookline,Needham,105,78,W
 2007,Brookline,Newton North,,,
@@ -793,7 +793,7 @@ year,school-1,school-2,score-1,score-2,school-1-result
 2007,Brookline,Walpole,,,
 2007,Brookline,Wellesley,,,
 2007,Brookline,Weymouth,,,
-2007,Dedham,Framingham,,,
+2007,Dedham,Framingham,,,L
 2007,Dedham,Natick,,,
 2007,Dedham,Needham,91,95,L
 2007,Dedham,Newton North,,,
@@ -801,13 +801,13 @@ year,school-1,school-2,score-1,score-2,school-1-result
 2007,Dedham,Walpole,,,
 2007,Dedham,Wellesley,,,
 2007,Dedham,Weymouth,,,
-2007,Framingham,Natick,,,
-2007,Framingham,Needham,,,
-2007,Framingham,Newton North,,,
-2007,Framingham,Norwood,,,
-2007,Framingham,Walpole,,,
-2007,Framingham,Wellesley,,,
-2007,Framingham,Weymouth,,,
+2007,Framingham,Natick,,,W
+2007,Framingham,Needham,,,W
+2007,Framingham,Newton North,,,W
+2007,Framingham,Norwood,,,W
+2007,Framingham,Walpole,,,W
+2007,Framingham,Wellesley,,,W
+2007,Framingham,Weymouth,,,W
 2007,Natick,Needham,,,W
 2007,Natick,Newton North,,,
 2007,Natick,Norwood,,,
@@ -829,3 +829,608 @@ year,school-1,school-2,score-1,score-2,school-1-result
 2007,Walpole,Wellesley,,,
 2007,Walpole,Weymouth,,,
 2007,Wellesley,Weymouth,,,
+2006,Braintree,Brookline,,,
+2006,Braintree,Dedham,,,
+2006,Braintree,Framingham,,,L
+2006,Braintree,Natick,,,
+2006,Braintree,Needham,,,
+2006,Braintree,Newton North,,,
+2006,Braintree,Norwood,,,
+2006,Braintree,Walpole,,,
+2006,Braintree,Wellesley,,,
+2006,Braintree,Weymouth,,,
+2006,Brookline,Dedham,,,
+2006,Brookline,Framingham,,,L
+2006,Brookline,Natick,,,
+2006,Brookline,Needham,,,
+2006,Brookline,Newton North,,,
+2006,Brookline,Norwood,,,
+2006,Brookline,Walpole,,,
+2006,Brookline,Wellesley,,,
+2006,Brookline,Weymouth,,,
+2006,Dedham,Framingham,,,L
+2006,Dedham,Natick,,,
+2006,Dedham,Needham,,,
+2006,Dedham,Newton North,,,
+2006,Dedham,Norwood,,,
+2006,Dedham,Walpole,,,
+2006,Dedham,Wellesley,,,
+2006,Dedham,Weymouth,,,
+2006,Framingham,Natick,,,W
+2006,Framingham,Needham,,,W
+2006,Framingham,Newton North,,,W
+2006,Framingham,Norwood,,,W
+2006,Framingham,Walpole,,,W
+2006,Framingham,Wellesley,,,W
+2006,Framingham,Weymouth,,,W
+2006,Natick,Needham,,,
+2006,Natick,Newton North,,,
+2006,Natick,Norwood,,,
+2006,Natick,Walpole,,,
+2006,Natick,Wellesley,,,
+2006,Natick,Weymouth,,,
+2006,Needham,Newton North,,,
+2006,Needham,Norwood,,,
+2006,Needham,Walpole,,,
+2006,Needham,Wellesley,,,
+2006,Needham,Weymouth,,,
+2006,Newton North,Norwood,,,
+2006,Newton North,Walpole,,,
+2006,Newton North,Wellesley,,,
+2006,Newton North,Weymouth,,,
+2006,Norwood,Walpole,,,
+2006,Norwood,Wellesley,,,
+2006,Norwood,Weymouth,,,
+2006,Walpole,Wellesley,,,
+2006,Walpole,Weymouth,,,
+2006,Wellesley,Weymouth,,,
+2005,Braintree,Brookline,,,
+2005,Braintree,Dedham,,,
+2005,Braintree,Framingham,,,L
+2005,Braintree,Natick,,,
+2005,Braintree,Needham,,,
+2005,Braintree,Newton North,,,
+2005,Braintree,Norwood,,,
+2005,Braintree,Walpole,,,
+2005,Braintree,Wellesley,,,
+2005,Braintree,Weymouth,,,
+2005,Brookline,Dedham,,,
+2005,Brookline,Framingham,,,L
+2005,Brookline,Natick,,,
+2005,Brookline,Needham,,,
+2005,Brookline,Newton North,,,
+2005,Brookline,Norwood,,,
+2005,Brookline,Walpole,,,
+2005,Brookline,Wellesley,,,
+2005,Brookline,Weymouth,,,
+2005,Dedham,Framingham,,,L
+2005,Dedham,Natick,,,
+2005,Dedham,Needham,,,
+2005,Dedham,Newton North,,,
+2005,Dedham,Norwood,,,
+2005,Dedham,Walpole,,,
+2005,Dedham,Wellesley,,,
+2005,Dedham,Weymouth,,,
+2005,Framingham,Natick,,,W
+2005,Framingham,Needham,,,W
+2005,Framingham,Newton North,,,W
+2005,Framingham,Norwood,,,W
+2005,Framingham,Walpole,,,W
+2005,Framingham,Wellesley,,,W
+2005,Framingham,Weymouth,,,W
+2005,Natick,Needham,,,
+2005,Natick,Newton North,,,
+2005,Natick,Norwood,,,
+2005,Natick,Walpole,,,
+2005,Natick,Wellesley,,,
+2005,Natick,Weymouth,,,
+2005,Needham,Newton North,,,
+2005,Needham,Norwood,,,
+2005,Needham,Walpole,,,
+2005,Needham,Wellesley,,,
+2005,Needham,Weymouth,,,
+2005,Newton North,Norwood,,,
+2005,Newton North,Walpole,,,
+2005,Newton North,Wellesley,,,
+2005,Newton North,Weymouth,,,
+2005,Norwood,Walpole,,,
+2005,Norwood,Wellesley,,,
+2005,Norwood,Weymouth,,,
+2005,Walpole,Wellesley,,,
+2005,Walpole,Weymouth,,,
+2005,Wellesley,Weymouth,,,
+2004,Braintree,Brookline,,,
+2004,Braintree,Dedham,,,
+2004,Braintree,Framingham,,,L
+2004,Braintree,Natick,,,
+2004,Braintree,Needham,,,
+2004,Braintree,Newton North,,,
+2004,Braintree,Norwood,,,
+2004,Braintree,Walpole,,,
+2004,Braintree,Wellesley,,,
+2004,Braintree,Weymouth,,,
+2004,Brookline,Dedham,,,
+2004,Brookline,Framingham,,,L
+2004,Brookline,Natick,,,
+2004,Brookline,Needham,,,
+2004,Brookline,Newton North,,,
+2004,Brookline,Norwood,,,
+2004,Brookline,Walpole,,,
+2004,Brookline,Wellesley,,,
+2004,Brookline,Weymouth,,,
+2004,Dedham,Framingham,,,L
+2004,Dedham,Natick,,,
+2004,Dedham,Needham,,,
+2004,Dedham,Newton North,,,
+2004,Dedham,Norwood,,,
+2004,Dedham,Walpole,,,
+2004,Dedham,Wellesley,,,
+2004,Dedham,Weymouth,,,
+2004,Framingham,Natick,,,W
+2004,Framingham,Needham,,,W
+2004,Framingham,Newton North,,,W
+2004,Framingham,Norwood,,,W
+2004,Framingham,Walpole,,,W
+2004,Framingham,Wellesley,,,W
+2004,Framingham,Weymouth,,,W
+2004,Natick,Needham,,,
+2004,Natick,Newton North,,,
+2004,Natick,Norwood,,,
+2004,Natick,Walpole,,,
+2004,Natick,Wellesley,,,
+2004,Natick,Weymouth,,,
+2004,Needham,Newton North,,,
+2004,Needham,Norwood,,,
+2004,Needham,Walpole,,,
+2004,Needham,Wellesley,,,
+2004,Needham,Weymouth,,,
+2004,Newton North,Norwood,,,
+2004,Newton North,Walpole,,,
+2004,Newton North,Wellesley,,,
+2004,Newton North,Weymouth,,,
+2004,Norwood,Walpole,,,
+2004,Norwood,Wellesley,,,
+2004,Norwood,Weymouth,,,
+2004,Walpole,Wellesley,,,
+2004,Walpole,Weymouth,,,
+2004,Wellesley,Weymouth,,,
+2003,Braintree,Brookline,,,
+2003,Braintree,Dedham,,,
+2003,Braintree,Framingham,,,
+2003,Braintree,Natick,,,
+2003,Braintree,Needham,,,L
+2003,Braintree,Newton North,,,
+2003,Braintree,Norwood,,,
+2003,Braintree,Walpole,,,
+2003,Braintree,Wellesley,,,
+2003,Braintree,Weymouth,,,
+2003,Brookline,Dedham,,,
+2003,Brookline,Framingham,,,
+2003,Brookline,Natick,,,
+2003,Brookline,Needham,,,L
+2003,Brookline,Newton North,,,
+2003,Brookline,Norwood,,,
+2003,Brookline,Walpole,,,
+2003,Brookline,Wellesley,,,
+2003,Brookline,Weymouth,,,
+2003,Dedham,Framingham,,,
+2003,Dedham,Natick,,,
+2003,Dedham,Needham,,,L
+2003,Dedham,Newton North,,,
+2003,Dedham,Norwood,,,
+2003,Dedham,Walpole,,,
+2003,Dedham,Wellesley,,,
+2003,Dedham,Weymouth,,,
+2003,Framingham,Natick,,,
+2003,Framingham,Needham,,,L
+2003,Framingham,Newton North,,,
+2003,Framingham,Norwood,,,
+2003,Framingham,Walpole,,,
+2003,Framingham,Wellesley,,,
+2003,Framingham,Weymouth,,,
+2003,Natick,Needham,,,L
+2003,Natick,Newton North,,,
+2003,Natick,Norwood,,,
+2003,Natick,Walpole,,,
+2003,Natick,Wellesley,,,
+2003,Natick,Weymouth,,,
+2003,Needham,Newton North,,,W
+2003,Needham,Norwood,,,W
+2003,Needham,Walpole,,,W
+2003,Needham,Wellesley,,,W
+2003,Needham,Weymouth,,,W
+2003,Newton North,Norwood,,,
+2003,Newton North,Walpole,,,
+2003,Newton North,Wellesley,,,
+2003,Newton North,Weymouth,,,
+2003,Norwood,Walpole,,,
+2003,Norwood,Wellesley,,,
+2003,Norwood,Weymouth,,,
+2003,Walpole,Wellesley,,,
+2003,Walpole,Weymouth,,,
+2003,Wellesley,Weymouth,,,
+2002,Braintree,Brookline,,,
+2002,Braintree,Dedham,,,
+2002,Braintree,Framingham,,,
+2002,Braintree,Natick,,,
+2002,Braintree,Needham,,,L
+2002,Braintree,Newton North,,,
+2002,Braintree,Norwood,,,
+2002,Braintree,Walpole,,,
+2002,Braintree,Wellesley,,,
+2002,Braintree,Weymouth,,,
+2002,Brookline,Dedham,,,
+2002,Brookline,Framingham,,,
+2002,Brookline,Natick,,,
+2002,Brookline,Needham,,,L
+2002,Brookline,Newton North,,,
+2002,Brookline,Norwood,,,
+2002,Brookline,Walpole,,,
+2002,Brookline,Wellesley,,,
+2002,Brookline,Weymouth,,,
+2002,Dedham,Framingham,,,
+2002,Dedham,Natick,,,
+2002,Dedham,Needham,,,L
+2002,Dedham,Newton North,,,
+2002,Dedham,Norwood,,,
+2002,Dedham,Walpole,,,
+2002,Dedham,Wellesley,,,
+2002,Dedham,Weymouth,,,
+2002,Framingham,Natick,,,
+2002,Framingham,Needham,,,L
+2002,Framingham,Newton North,,,
+2002,Framingham,Norwood,,,
+2002,Framingham,Walpole,,,
+2002,Framingham,Wellesley,,,
+2002,Framingham,Weymouth,,,
+2002,Natick,Needham,,,L
+2002,Natick,Newton North,,,
+2002,Natick,Norwood,,,
+2002,Natick,Walpole,,,
+2002,Natick,Wellesley,,,
+2002,Natick,Weymouth,,,
+2002,Needham,Newton North,,,W
+2002,Needham,Norwood,,,W
+2002,Needham,Walpole,,,W
+2002,Needham,Wellesley,,,W
+2002,Needham,Weymouth,,,W
+2002,Newton North,Norwood,,,
+2002,Newton North,Walpole,,,
+2002,Newton North,Wellesley,,,
+2002,Newton North,Weymouth,,,
+2002,Norwood,Walpole,,,
+2002,Norwood,Wellesley,,,
+2002,Norwood,Weymouth,,,
+2002,Walpole,Wellesley,,,
+2002,Walpole,Weymouth,,,
+2002,Wellesley,Weymouth,,,
+2001,Braintree,Brookline,,,
+2001,Braintree,Dedham,,,
+2001,Braintree,Framingham,,,
+2001,Braintree,Natick,,,
+2001,Braintree,Needham,,,L
+2001,Braintree,Newton North,,,
+2001,Braintree,Norwood,,,
+2001,Braintree,Walpole,,,
+2001,Braintree,Wellesley,,,
+2001,Braintree,Weymouth,,,
+2001,Brookline,Dedham,,,
+2001,Brookline,Framingham,,,
+2001,Brookline,Natick,,,
+2001,Brookline,Needham,,,L
+2001,Brookline,Newton North,,,
+2001,Brookline,Norwood,,,
+2001,Brookline,Walpole,,,
+2001,Brookline,Wellesley,,,
+2001,Brookline,Weymouth,,,
+2001,Dedham,Framingham,,,
+2001,Dedham,Natick,,,
+2001,Dedham,Needham,,,L
+2001,Dedham,Newton North,,,
+2001,Dedham,Norwood,,,
+2001,Dedham,Walpole,,,
+2001,Dedham,Wellesley,,,
+2001,Dedham,Weymouth,,,
+2001,Framingham,Natick,,,
+2001,Framingham,Needham,,,L
+2001,Framingham,Newton North,,,
+2001,Framingham,Norwood,,,
+2001,Framingham,Walpole,,,
+2001,Framingham,Wellesley,,,
+2001,Framingham,Weymouth,,,
+2001,Natick,Needham,,,L
+2001,Natick,Newton North,,,
+2001,Natick,Norwood,,,
+2001,Natick,Walpole,,,
+2001,Natick,Wellesley,,,
+2001,Natick,Weymouth,,,
+2001,Needham,Newton North,,,W
+2001,Needham,Norwood,,,W
+2001,Needham,Walpole,,,W
+2001,Needham,Wellesley,,,W
+2001,Needham,Weymouth,,,W
+2001,Newton North,Norwood,,,
+2001,Newton North,Walpole,,,
+2001,Newton North,Wellesley,,,
+2001,Newton North,Weymouth,,,
+2001,Norwood,Walpole,,,
+2001,Norwood,Wellesley,,,
+2001,Norwood,Weymouth,,,
+2001,Walpole,Wellesley,,,
+2001,Walpole,Weymouth,,,
+2001,Wellesley,Weymouth,,,
+2000,Braintree,Brookline,,,
+2000,Braintree,Dedham,,,
+2000,Braintree,Framingham,,,
+2000,Braintree,Natick,,,
+2000,Braintree,Needham,,,L
+2000,Braintree,Newton North,,,
+2000,Braintree,Norwood,,,
+2000,Braintree,Walpole,,,
+2000,Braintree,Wellesley,,,
+2000,Braintree,Weymouth,,,
+2000,Brookline,Dedham,,,
+2000,Brookline,Framingham,,,
+2000,Brookline,Natick,,,
+2000,Brookline,Needham,,,L
+2000,Brookline,Newton North,,,
+2000,Brookline,Norwood,,,
+2000,Brookline,Walpole,,,
+2000,Brookline,Wellesley,,,
+2000,Brookline,Weymouth,,,
+2000,Dedham,Framingham,,,
+2000,Dedham,Natick,,,
+2000,Dedham,Needham,,,L
+2000,Dedham,Newton North,,,
+2000,Dedham,Norwood,,,
+2000,Dedham,Walpole,,,
+2000,Dedham,Wellesley,,,
+2000,Dedham,Weymouth,,,
+2000,Framingham,Natick,,,
+2000,Framingham,Needham,,,L
+2000,Framingham,Newton North,,,
+2000,Framingham,Norwood,,,
+2000,Framingham,Walpole,,,
+2000,Framingham,Wellesley,,,
+2000,Framingham,Weymouth,,,
+2000,Natick,Needham,,,L
+2000,Natick,Newton North,,,
+2000,Natick,Norwood,,,
+2000,Natick,Walpole,,,
+2000,Natick,Wellesley,,,
+2000,Natick,Weymouth,,,
+2000,Needham,Newton North,,,W
+2000,Needham,Norwood,,,W
+2000,Needham,Walpole,,,W
+2000,Needham,Wellesley,,,W
+2000,Needham,Weymouth,,,W
+2000,Newton North,Norwood,,,
+2000,Newton North,Walpole,,,
+2000,Newton North,Wellesley,,,
+2000,Newton North,Weymouth,,,
+2000,Norwood,Walpole,,,
+2000,Norwood,Wellesley,,,
+2000,Norwood,Weymouth,,,
+2000,Walpole,Wellesley,,,
+2000,Walpole,Weymouth,,,
+2000,Wellesley,Weymouth,,,
+1999,Braintree,Brookline,,,
+1999,Braintree,Dedham,,,
+1999,Braintree,Framingham,,,
+1999,Braintree,Natick,,,
+1999,Braintree,Needham,,,L
+1999,Braintree,Newton North,,,
+1999,Braintree,Norwood,,,
+1999,Braintree,Walpole,,,
+1999,Braintree,Wellesley,,,
+1999,Braintree,Weymouth,,,
+1999,Brookline,Dedham,,,
+1999,Brookline,Framingham,,,
+1999,Brookline,Natick,,,
+1999,Brookline,Needham,,,L
+1999,Brookline,Newton North,,,
+1999,Brookline,Norwood,,,
+1999,Brookline,Walpole,,,
+1999,Brookline,Wellesley,,,
+1999,Brookline,Weymouth,,,
+1999,Dedham,Framingham,,,
+1999,Dedham,Natick,,,
+1999,Dedham,Needham,,,L
+1999,Dedham,Newton North,,,
+1999,Dedham,Norwood,,,
+1999,Dedham,Walpole,,,
+1999,Dedham,Wellesley,,,
+1999,Dedham,Weymouth,,,
+1999,Framingham,Natick,,,
+1999,Framingham,Needham,,,L
+1999,Framingham,Newton North,,,
+1999,Framingham,Norwood,,,
+1999,Framingham,Walpole,,,
+1999,Framingham,Wellesley,,,
+1999,Framingham,Weymouth,,,
+1999,Natick,Needham,,,L
+1999,Natick,Newton North,,,
+1999,Natick,Norwood,,,
+1999,Natick,Walpole,,,
+1999,Natick,Wellesley,,,
+1999,Natick,Weymouth,,,
+1999,Needham,Newton North,,,W
+1999,Needham,Norwood,,,W
+1999,Needham,Walpole,,,W
+1999,Needham,Wellesley,,,W
+1999,Needham,Weymouth,,,W
+1999,Newton North,Norwood,,,
+1999,Newton North,Walpole,,,
+1999,Newton North,Wellesley,,,
+1999,Newton North,Weymouth,,,
+1999,Norwood,Walpole,,,
+1999,Norwood,Wellesley,,,
+1999,Norwood,Weymouth,,,
+1999,Walpole,Wellesley,,,
+1999,Walpole,Weymouth,,,
+1999,Wellesley,Weymouth,,,
+1998,Braintree,Brookline,,,
+1998,Braintree,Dedham,,,
+1998,Braintree,Framingham,,,
+1998,Braintree,Natick,,,
+1998,Braintree,Needham,,,L
+1998,Braintree,Newton North,,,
+1998,Braintree,Norwood,,,
+1998,Braintree,Walpole,,,
+1998,Braintree,Wellesley,,,
+1998,Braintree,Weymouth,,,
+1998,Brookline,Dedham,,,
+1998,Brookline,Framingham,,,
+1998,Brookline,Natick,,,
+1998,Brookline,Needham,,,L
+1998,Brookline,Newton North,,,
+1998,Brookline,Norwood,,,
+1998,Brookline,Walpole,,,
+1998,Brookline,Wellesley,,,
+1998,Brookline,Weymouth,,,
+1998,Dedham,Framingham,,,
+1998,Dedham,Natick,,,
+1998,Dedham,Needham,,,L
+1998,Dedham,Newton North,,,
+1998,Dedham,Norwood,,,
+1998,Dedham,Walpole,,,
+1998,Dedham,Wellesley,,,
+1998,Dedham,Weymouth,,,
+1998,Framingham,Natick,,,
+1998,Framingham,Needham,,,L
+1998,Framingham,Newton North,,,
+1998,Framingham,Norwood,,,
+1998,Framingham,Walpole,,,
+1998,Framingham,Wellesley,,,
+1998,Framingham,Weymouth,,,
+1998,Natick,Needham,,,L
+1998,Natick,Newton North,,,
+1998,Natick,Norwood,,,
+1998,Natick,Walpole,,,
+1998,Natick,Wellesley,,,
+1998,Natick,Weymouth,,,
+1998,Needham,Newton North,,,W
+1998,Needham,Norwood,,,W
+1998,Needham,Walpole,,,W
+1998,Needham,Wellesley,,,W
+1998,Needham,Weymouth,,,W
+1998,Newton North,Norwood,,,
+1998,Newton North,Walpole,,,
+1998,Newton North,Wellesley,,,
+1998,Newton North,Weymouth,,,
+1998,Norwood,Walpole,,,
+1998,Norwood,Wellesley,,,
+1998,Norwood,Weymouth,,,
+1998,Walpole,Wellesley,,,
+1998,Walpole,Weymouth,,,
+1998,Wellesley,Weymouth,,,
+1997,Braintree,Brookline,,,
+1997,Braintree,Dedham,,,
+1997,Braintree,Framingham,,,
+1997,Braintree,Natick,,,
+1997,Braintree,Needham,,,L
+1997,Braintree,Newton North,,,
+1997,Braintree,Norwood,,,
+1997,Braintree,Walpole,,,
+1997,Braintree,Wellesley,,,
+1997,Braintree,Weymouth,,,
+1997,Brookline,Dedham,,,
+1997,Brookline,Framingham,,,
+1997,Brookline,Natick,,,
+1997,Brookline,Needham,,,L
+1997,Brookline,Newton North,,,
+1997,Brookline,Norwood,,,
+1997,Brookline,Walpole,,,
+1997,Brookline,Wellesley,,,
+1997,Brookline,Weymouth,,,
+1997,Dedham,Framingham,,,
+1997,Dedham,Natick,,,
+1997,Dedham,Needham,,,L
+1997,Dedham,Newton North,,,
+1997,Dedham,Norwood,,,
+1997,Dedham,Walpole,,,
+1997,Dedham,Wellesley,,,
+1997,Dedham,Weymouth,,,
+1997,Framingham,Natick,,,
+1997,Framingham,Needham,,,L
+1997,Framingham,Newton North,,,
+1997,Framingham,Norwood,,,
+1997,Framingham,Walpole,,,
+1997,Framingham,Wellesley,,,
+1997,Framingham,Weymouth,,,
+1997,Natick,Needham,,,L
+1997,Natick,Newton North,,,
+1997,Natick,Norwood,,,
+1997,Natick,Walpole,,,
+1997,Natick,Wellesley,,,
+1997,Natick,Weymouth,,,
+1997,Needham,Newton North,,,W
+1997,Needham,Norwood,,,W
+1997,Needham,Walpole,,,W
+1997,Needham,Wellesley,,,W
+1997,Needham,Weymouth,,,W
+1997,Newton North,Norwood,,,
+1997,Newton North,Walpole,,,
+1997,Newton North,Wellesley,,,
+1997,Newton North,Weymouth,,,
+1997,Norwood,Walpole,,,
+1997,Norwood,Wellesley,,,
+1997,Norwood,Weymouth,,,
+1997,Walpole,Wellesley,,,
+1997,Walpole,Weymouth,,,
+1997,Wellesley,Weymouth,,,
+1996,Braintree,Brookline,,,
+1996,Braintree,Dedham,,,
+1996,Braintree,Framingham,,,
+1996,Braintree,Natick,,,
+1996,Braintree,Needham,,,L
+1996,Braintree,Newton North,,,
+1996,Braintree,Norwood,,,
+1996,Braintree,Walpole,,,
+1996,Braintree,Wellesley,,,
+1996,Braintree,Weymouth,,,
+1996,Brookline,Dedham,,,
+1996,Brookline,Framingham,,,
+1996,Brookline,Natick,,,
+1996,Brookline,Needham,,,L
+1996,Brookline,Newton North,,,
+1996,Brookline,Norwood,,,
+1996,Brookline,Walpole,,,
+1996,Brookline,Wellesley,,,
+1996,Brookline,Weymouth,,,
+1996,Dedham,Framingham,,,
+1996,Dedham,Natick,,,
+1996,Dedham,Needham,,,L
+1996,Dedham,Newton North,,,
+1996,Dedham,Norwood,,,
+1996,Dedham,Walpole,,,
+1996,Dedham,Wellesley,,,
+1996,Dedham,Weymouth,,,
+1996,Framingham,Natick,,,
+1996,Framingham,Needham,,,L
+1996,Framingham,Newton North,,,
+1996,Framingham,Norwood,,,
+1996,Framingham,Walpole,,,
+1996,Framingham,Wellesley,,,
+1996,Framingham,Weymouth,,,
+1996,Natick,Needham,,,L
+1996,Natick,Newton North,,,
+1996,Natick,Norwood,,,
+1996,Natick,Walpole,,,
+1996,Natick,Wellesley,,,
+1996,Natick,Weymouth,,,
+1996,Needham,Newton North,,,W
+1996,Needham,Norwood,,,W
+1996,Needham,Walpole,,,W
+1996,Needham,Wellesley,,,W
+1996,Needham,Weymouth,,,W
+1996,Newton North,Norwood,,,
+1996,Newton North,Walpole,,,
+1996,Newton North,Wellesley,,,
+1996,Newton North,Weymouth,,,
+1996,Norwood,Walpole,,,
+1996,Norwood,Wellesley,,,
+1996,Norwood,Weymouth,,,
+1996,Walpole,Wellesley,,,
+1996,Walpole,Weymouth,,,
+1996,Wellesley,Weymouth,,,
