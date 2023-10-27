@@ -132,9 +132,9 @@ layout: single
     <tr>
       <th>Event</th>
       <th>Time</th>
-      <th>Splits</th>
       <th>Date</th>
       <th>Meet</th>
+      <th>Splits</th>
     </tr>
   </thead>
   <tbody>
@@ -144,9 +144,9 @@ layout: single
         <tr>
           <td>{{ swim.event | formatcell }}</td>
           <td>{{ swim.time | formattime }}</td>
-          <td>{{ swim.splits | replace: "/", "&nbsp;" }}</td>
           <td>{{ swim.date }}</td>
           <td>{{ swim.meet | formatcell }}</td>
+          <td>{{ swim.splits | replace: "/", "&nbsp;" }}</td>
         </tr>
       {% endfor %}
     {% endfor %}
