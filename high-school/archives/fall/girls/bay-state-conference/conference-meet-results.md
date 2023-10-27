@@ -3,7 +3,7 @@ title: Conference Meet Results
 ---
 
 {% assign events = site.data.high-school.results-event-order | map: "name" %}
-{% assign all-event-results = site.data.high-school.archive.fall.girls.meet-results.bay-state-conference.event-results %}
+{% assign all-event-results = site.data.high-school.archives.fall.girls.meet-results.bay-state-conference.event-results %}
 {% assign years = all-event-results | map: "year" | uniq | sort | reverse %}
 
 {% include filter-year.html

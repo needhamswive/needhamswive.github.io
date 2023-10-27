@@ -5,8 +5,8 @@ title: Records History
 {% assign championship-events = site.data.high-school.records-championship-event-order | map: "name" %}
 {% assign dual-meet-events = site.data.high-school.records-dual-meet-event-order | map: "name" %}
 {% assign team-records = site.data.high-school.girls.records.all-time %}
-{% assign conference-records = site.data.high-school.archive.fall.girls.records.bay-state-conference.all-time %}
-{% assign conference-meet-records = site.data.high-school.archive.fall.girls.records.bay-state-conference.meet %}
+{% assign conference-records = site.data.high-school.archives.fall.girls.records.bay-state-conference.all-time %}
+{% assign conference-meet-records = site.data.high-school.archives.fall.girls.records.bay-state-conference.meet %}
 
 ## Team Records
 

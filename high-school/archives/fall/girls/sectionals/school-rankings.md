@@ -2,7 +2,7 @@
 title: Sectionals School Rankings
 ---
 
-{% assign south-school-rankings = site.data.high-school.archive.fall.girls.meet-results.championships.sectionals.school-rankings %}
+{% assign south-school-rankings = site.data.high-school.archives.fall.girls.meet-results.championships.sectionals.school-rankings %}
 {% assign years = south-school-rankings | map: "year" | uniq | sort | reverse %}
 
 {% include filter-year.html
