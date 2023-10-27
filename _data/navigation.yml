@@ -4,7 +4,6 @@ main:
   #   url: times/individual-times-search
 
 none:
-  -
 
 home:
   - title: Teams
