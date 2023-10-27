@@ -113,7 +113,7 @@ results-by-year:
       - school: Natick
         score: 90 - 77
         result: W
-        citations: ArbiterSports;2022003
+        citations: ArbiterSports;2022003;2022007
       - school: Newton North
         score: 96 - 84
         result: W
@@ -163,6 +163,8 @@ results-by-year:
         link: https://twitter.com/NHSRockets/status/1570582971912015874
       - name: 2022006
         link: https://www.bostonglobe.com/2022/10/20/sports/naomi-boegholm-wins-four-events-lead-unbeaten-wellesley-girls-dual-swim-meet-vs-needham/
+      - name: 2022007
+        link: https://natickhigh.bigteams.com/main/teamschedule/id/3558081/seasonid/4726847
       - name: 2022100
         link: http://miaa.ezstream.com/index.cfm?itemid=8579
       - name: 2022101
@@ -192,7 +194,7 @@ results-by-year:
       - school: Natick
         score: 98 - 75
         result: W
-        citations: 2021001
+        citations: 2021001;2021009
       - school: Newton North
         score: 100 - 84
         result: W
@@ -255,6 +257,8 @@ results-by-year:
         link: https://www.wickedlocal.com/story/the-beacon/2021/09/29/acton-boxborough-girls-swim-and-dive-defeats-talented-andover-needham-squads/5920982001/
       - name: 2021008
         link: https://docs.google.com/document/d/194bbNcRkqWBbBqp_U781FgpFfT7KP1Z2Y76frgQv_2k
+      - name: 2021009
+        link: https://natickhigh.bigteams.com/main/teamschedule/id/3558081/seasonid/4658551
       - name: 2021100
         link: http://miaa.ezstream.com/index.cfm?itemid=8452
       - name: 2021101
@@ -283,7 +287,7 @@ results-by-year:
       - school: Braintree
         score: 97 - 81
         result: W
-        citations: 2019011;2019012
+        citations: 2019011;2019012;2019013
       - school: Brookline
         score: 99 - 82
         result: W
@@ -299,7 +303,7 @@ results-by-year:
       - school: Natick
         score: 101 - 80
         result: W
-        citations: 2019004;2019012
+        citations: 2019004;2019012;2019014
       - school: Newton North
         score:
         result: W
@@ -379,6 +383,10 @@ results-by-year:
         link: https://docs.google.com/document/d/1blo_wwstpSgiI4wu9aFHJDPr-fPiUnWu05c9y0w7jOM
       - name: 2019012
         link: https://www.wickedlocal.com/story/needham-times/2019/10/21/needham-high-school-swimmers-on/2482221007/
+      - name: 2019013
+        link: https://braintreesports.bigteams.com/main/teamschedule/id/3625620/seasonid/4453660
+      - name: 2019014
+        link: https://natickhigh.bigteams.com/main/teamschedule/id/3558081/seasonid/4497392
       - name: 2019100
         link: https://www.teamunify.com/https://www.teamunify.com/rechfhfhslma/__doc__/2019%20final%20scores.pdf
       - name: 2019101
@@ -400,7 +408,7 @@ results-by-year:
       - school: Braintree
         score: 96 - 79
         result: W
-        citations: 2018010
+        citations: 2018010;2018015
       - school: Brookline
         score: 101 - 85
         result: W
@@ -493,6 +501,8 @@ results-by-year:
         link: https://docs.google.com/document/d/18uYRu2l_9wECvUbtbwqbZRmLspp5IJHBbjsaN4swICA
       - name: 2018014
         link: https://docs.google.com/document/d/10GLdFrkutibBOZWz7NGsN6mzusS-uLwijH5SU1Tk-N8
+      - name: 2018015
+        link: https://braintreesports.bigteams.com/main/teamschedule/id/3625620/seasonid/4358638
       - name: 2018100
         link: http://miaa.ezstream.com/index.cfm?itemid=8222
       - name: 2018101
@@ -539,7 +549,7 @@ results-by-year:
       - school: Walpole
         score: 93 - 88
         result: W
-        citations: 2017006
+        citations: 2017006;2017009
       - school: Wellesley
         score: 86 - 95
         result: L
@@ -595,6 +605,8 @@ results-by-year:
         link: https://www.wickedlocal.com/story/needham-times/2017/10/19/rockets-ready-for-what-s/18259853007/
       - name: 2017008
         link: https://www.wickedlocal.com/story/needham-times/2017/11/30/solid-season-swimming-diving/64780999007/
+      - name: 2017009
+        link: https://walpolehigh.bigteams.com/main/teamschedule/id/3567605/seasonid/4238993
       - name: 2017100
         link: http://miaa.ezstream.com/index.cfm?itemid=8063
       - name: 2017101
@@ -614,7 +626,7 @@ results-by-year:
       - school: Braintree
         score: 100 - 81
         result: W
-        citations: 2016010;2016008
+        citations: 2016010;2016008;2016018
       - school: Brookline
         score: 89 - 99
         result: L
@@ -632,9 +644,9 @@ results-by-year:
         result: W
         citations: 2016013;2016000
       - school: Newton North
-        score: 90 - 96
+        score: 90 - 98
         result: L
-        citations: 2016015;2016001
+        citations: 2016015;2016001;2016019
       - school: Norwood
         score: 96 - 82
         result: W
@@ -721,6 +733,10 @@ results-by-year:
         link: https://sites.google.com/a/needham.k12.ma.us/rockets-review-10-30/
       - name: 2016017
         link: https://sites.google.com/a/needham.k12.ma.us/rockets-review-11-7/
+      - name: 2016018
+        link: https://braintreesports.bigteams.com/main/teamschedule/id/3625620/seasonid/4116216
+      - name: 2016019
+        link: https://newtontigers.bigteams.com/main/teamschedule/id/3658461/seasonid/4099975
       - name: 2016100
         link: http://miaa.ezstream.com/index.cfm?itemid=7916
       - name: 2016101
