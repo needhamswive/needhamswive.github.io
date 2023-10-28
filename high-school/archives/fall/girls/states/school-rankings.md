@@ -6,7 +6,7 @@ title: States School Rankings
 {% assign years = south-school-rankings | map: "year" | uniq | sort | reverse %}
 
 {% include filter-year.html
-  keys = years %}
+  years = years %}
 
 {% for year in years %}
 

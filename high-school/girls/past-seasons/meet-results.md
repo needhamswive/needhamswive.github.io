@@ -16,7 +16,7 @@ title: Meet Results
 {% assign years = site.data.high-school.girls.meet-results.results-by-year | map: "year" %}
 
 {% include filter-year.html
-  keys = years %}
+  years = years %}
 
 {% for results-for-year in site.data.high-school.girls.meet-results.results-by-year %}
 
