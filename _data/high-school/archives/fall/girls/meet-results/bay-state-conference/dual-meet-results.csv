@@ -1,13 +1,13 @@
 year,school-1,school-2,score-1,score-2,school-1-result
 2023,Braintree,Brookline,83,101,L
-2023,Braintree,Framingham,,,
+2023,Braintree,Framingham,102,84,W
 2023,Braintree,Milton,80,106,L
 2023,Braintree,Natick,92,82,W
 2023,Braintree,Needham,76,101,L
 2023,Braintree,Newton North,83,94,L
 2023,Braintree,Walpole,97,87,W
 2023,Braintree,Wellesley,86,100,L
-2023,Braintree,Weymouth,,,
+2023,Braintree,Weymouth,92,64,W
 2023,Brookline,Framingham,96,81,W
 2023,Brookline,Milton,80,106,L
 2023,Brookline,Natick,96,82,W
@@ -16,17 +16,17 @@ year,school-1,school-2,score-1,score-2,school-1-result
 2023,Brookline,Walpole,80,50,W
 2023,Brookline,Wellesley,85,95,L
 2023,Brookline,Weymouth,98,63,W
-2023,Framingham,Milton,126,58,W
-2023,Framingham,Natick,,,
+2023,Framingham,Milton,58,126,L
+2023,Framingham,Natick,95,85,W
 2023,Framingham,Needham,81,97,L
 2023,Framingham,Newton North,81,99,L
 2023,Framingham,Walpole,86,68,W
 2023,Framingham,Wellesley,78,100,L
 2023,Framingham,Weymouth,71,61,W
-2023,Milton,Natick,,,
+2023,Milton,Natick,97,86,W
 2023,Milton,Needham,95,91,W
 2023,Milton,Newton North,99,87,W
-2023,Milton,Walpole,,,
+2023,Milton,Walpole,94,81,W
 2023,Milton,Wellesley,87,99,L
 2023,Milton,Weymouth,98,68,W
 2023,Natick,Needham,78,100,L
