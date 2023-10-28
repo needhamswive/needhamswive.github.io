@@ -2,10 +2,12 @@
 title: Sectionals School Rankings
 ---
 
-{% assign south-school-rankings = site.data.high-school.archives.fall.girls.meet-results.championships.sectionals.school-rankings %}
-{% assign years = south-school-rankings | map: "year" | uniq | sort | reverse %}
+{% assign school-rankings = site.data.high-school.archives.fall.girls.meet-results.championships.sectionals.school-rankings %}
+{% assign years = school-rankings | map: "year" | uniq | sort | reverse %}
+{% assign divisions = school-rankings | map: "division" | uniq | sort %}
 
-{% include filter-year.html
+{% include filter-division-year.html
+  divisions = divisions
   years = years %}
 
 {% for year in years %}
@@ -14,10 +16,12 @@ title: Sectionals School Rankings
 
 ## {{ year }}
 
-{% assign school-rankings-for-year = south-school-rankings | where: "year", year | sort: "rank" %}
+{% assign school-rankings-for-year = school-rankings | where: "year", year | sort: "rank" %}
 {% assign divisions = school-rankings-for-year | map: "division" | uniq | sort %}
 
 {% for division in divisions %}
+
+<div class="filter-section" data-option="division" data-section="{{ division }}" markdown="1">
 
 ### {{ division }} Sectional
 
@@ -25,6 +29,8 @@ title: Sectionals School Rankings
 
 {% include rankings.md
     rankings = school-rankings-for-year-by-division %}
+
+</div>
 
 {% endfor %}
 

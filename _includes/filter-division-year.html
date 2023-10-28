@@ -1,0 +1,6 @@
+{% assign options = "Year,Division" | split: "," %}
+
+{% include filter.html
+  options = options
+  division-sections = include.divisions
+  year-sections = include.years %}
