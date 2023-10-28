@@ -1,5 +1,6 @@
 ---
 title: Conference Meet Results
+classes: wide
 ---
 
 {% assign events = site.data.high-school.dual-meet-results-event-order | map: "name" %}
