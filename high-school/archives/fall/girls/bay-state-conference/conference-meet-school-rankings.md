@@ -48,11 +48,11 @@ years-boys-scored-with-girls:
 ## Rankings by Year
 
 {% include filter-year.html
-  keys = years %}
+  years = years %}
 
 {% for year in years %}
 
-<div class="filter-section" data-key="{{ year }}" markdown="1">
+<div class="filter-section" data-option="year" data-section="{{ year }}" markdown="1">
 
 {% assign school-rankings-for-year = school-rankings | where: "year", year %}
 

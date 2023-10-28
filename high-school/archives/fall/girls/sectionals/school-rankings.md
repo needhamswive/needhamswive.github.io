@@ -6,11 +6,11 @@ title: Sectionals School Rankings
 {% assign years = south-school-rankings | map: "year" | uniq | sort | reverse %}
 
 {% include filter-year.html
-  keys = years %}
+  years = years %}
 
 {% for year in years %}
 
-<div class="filter-section" data-key="{{ year }}" markdown="1">
+<div class="filter-section" data-option="year" data-section="{{ year }}" markdown="1">
 
 ## {{ year }}
 

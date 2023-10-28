@@ -10,7 +10,7 @@ title: States School Rankings
 
 {% for year in years %}
 
-<div class="filter-section" data-key="{{ year }}" markdown="1">
+<div class="filter-section" data-option="year" data-section="{{ year }}" markdown="1">
 
 ## {{ year }}
 

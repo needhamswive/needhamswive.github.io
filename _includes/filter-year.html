@@ -1,3 +1,5 @@
+{% assign options = "Year" | split: "," %}
+
 {% include filter.html
-  keys = include.keys
-  select-label = "Year" %}
+  options = options
+  year-sections = include.years %}

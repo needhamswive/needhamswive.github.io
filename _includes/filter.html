@@ -1,29 +1,37 @@
 <form>
-  <label for="select">{{ include.select-label }}</label>
-  <select id="select" name="{{ include.select-label | downcase }}">
-    <option value="all">All</option>
-    {% for key in include.keys %}
-      <option value="{{ key }}">{{ key }}</option>
-    {% endfor %}
-  </select>
+  {% for option in include.options %}
+    {% assign key = option | downcase | append: "-sections" %}
+    {% assign sections = include[key] %}
+    <label for="select">{{ option }}</label>
+    <select id="select-{{ option | downcase }}" class="select" name="{{ option | downcase }}">
+      <option value="all">All</option>
+      {% for section in sections %}
+        <option value="{{ section }}">{{ section }}</option>
+      {% endfor %}
+    </select>
+  {% endfor %}
 </form>
 
 <script>
-  function change(value) {
+  function change(option, visibleSection) {
     // https://stackoverflow.com/a/41542008
     const searchParams = new URLSearchParams(window.location.search);
-    searchParams.set("section", value);
+    searchParams.set(option, visibleSection);
     const newRelativePathQuery = window.location.pathname + "?" + searchParams.toString();
     history.pushState(null, "", newRelativePathQuery);
 
-    if (value === "all") {
-      for (const section of sections) {
-        section.style.display = "unset";
+    const sectionsToUpdate = sections.filter(section => option === section.dataset.option);
+
+    console.log(sectionsToUpdate);
+
+    if (visibleSection === "all") {
+      for (const section of sectionsToUpdate) {
+        section.style.display = "";
       }
     } else {
-      for (const section of sections) {
-        if (section.dataset.key == value) {
-          section.style.display = "unset";
+      for (const section of sectionsToUpdate) {
+        if (visibleSection === section.dataset.section) {
+          section.style.display = "";
         } else {
           section.style.display = "none";
         }
@@ -31,16 +39,33 @@
     }
   }
 
-  const select = document.getElementById("select");
-  const sections = document.getElementsByClassName("filter-section");
-  select.addEventListener("change", (event) => change(select.value));
-
+  let sections = [];
   window.addEventListener("DOMContentLoaded", () => {
+    sections = Array.from(document.getElementsByClassName("filter-section"));
+    const selects = document.getElementsByClassName("select");
+
+    Array.from(selects).forEach(select => {
+      select.addEventListener("change", (event) => {
+        change(select.name, select.value)
+      });
+    });
+
+    const options = "{{ include.options | join: "," }}".split(",").map(option => option.toLowerCase());
+    const sectionsByOption = {};
+    {% for option in include.options %}
+      {% assign key = option | downcase | append: "-sections" %}
+      {% assign sections = include[key] %}
+      sectionsByOption.{{ option | downcase }} = "{{ sections | join: "," }}".split(",");
+    {% endfor %}
     const searchParams = new URLSearchParams(window.location.search);
-    const section = searchParams.get("section");
-    if ("{{ include.keys }}".includes(section)) {
-      change(section);
-      select.value = section;
+
+    for (const option of options) {
+      const section = searchParams.get(option);
+      if (sectionsByOption[option].includes(section)) {
+        change(option, section);
+
+        Array.from(selects).filter(section => option === section.name)[0].value = section;
+      }
     }
   }, false);
 </script>

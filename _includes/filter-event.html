@@ -1,3 +1,5 @@
+{% assign options = "Event" | split: "," %}
+
 {% include filter.html
-  keys = include.keys
-  select-label = "Event" %}
+  options = options
+  event-sections = include.events %}

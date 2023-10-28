@@ -43,11 +43,11 @@ classes: wide
 {% assign years = dual-meet-results | map: "year" | uniq %}
 
 {% include filter-year.html
-  keys = years %}
+  years = years %}
 
 {% for year in years %}
 
-<div class="filter-section" data-key="{{ year }}" markdown="1">
+<div class="filter-section" data-option="year" data-section="{{ year }}" markdown="1">
 
 {% assign dual-meet-results-for-year = dual-meet-results | where: "year", year %}
 {% assign dual-meet-results-citations-for-year = dual-meet-results-citations | where: "year", year %}

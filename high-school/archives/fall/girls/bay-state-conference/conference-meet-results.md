@@ -6,14 +6,15 @@ title: Conference Meet Results
 {% assign all-event-results = site.data.high-school.archives.fall.girls.meet-results.bay-state-conference.event-results %}
 {% assign years = all-event-results | map: "year" | uniq | sort | reverse %}
 
-{% include filter-year.html
-  keys = years %}
+{% include filter-event-year.html
+  events = events
+  years = years %}
 
 {% for year in years %}
 
 {% assign event-results-for-year = all-event-results | where: "year", year %}
 
-<div class="filter-section" data-key="{{ year }}" markdown="1">
+<div class="filter-section" data-option="year" data-section="{{ year }}" markdown="1">
 
 ## {{ year }}
 
@@ -31,11 +32,11 @@ title: Conference Meet Results
   <tbody>
     {% for event in events %}
       {% assign event-results = event-results-for-year | where: "event", event %}
-      <tr>
+      <tr class="filter-section" data-option="event" data-section="{{ event }}">
         <th colspan="5" style="text-align: center;">{{ event }}</th>
       </tr>
       {% for row in event-results %}
-        <tr>
+        <tr class="filter-section" data-option="event" data-section="{{ event }}">
           <td>{{ row.place | formatcell }}</td>
           <td>{{ row.name | formatcell }}</td>
           <td>{{ row.age | formatcell }}</td>

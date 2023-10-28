@@ -20,7 +20,7 @@ title: Meet Results
 
 {% for results-for-year in site.data.high-school.girls.meet-results.results-by-year %}
 
-<div class="filter-section" data-key="{{ results-for-year.year }}" markdown="1">
+<div class="filter-section" data-option="year" data-section="{{ results-for-year.year }}" markdown="1">
 
 ## {{ results-for-year.year }}
 

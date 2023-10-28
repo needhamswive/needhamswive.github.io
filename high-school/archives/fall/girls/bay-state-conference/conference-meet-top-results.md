@@ -15,11 +15,11 @@ missing-years:
 {% assign years = years | uniq | sort | reverse %}
 
 {% include filter-event.html
-  keys = events %}
+  events = events %}
 
 {% for event in events %}
 
-<div class="filter-section" data-key="{{ event }}" markdown="1">
+<div class="filter-section" data-option="event" data-section="{{ event }}" markdown="1">
 
 ## {{ event }}
 
