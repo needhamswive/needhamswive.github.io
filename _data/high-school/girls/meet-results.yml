@@ -772,9 +772,9 @@ results-by-year:
         result: W
         citations: 2015009;2015012
       - school: Newton North
-        score:
+        score: 89 - 97
         result: L
-        citations: 2015010;2015000
+        citations: 2015010;2015000;2015015
       - school: Norwood
         score: 102 - 76
         result: W
@@ -851,6 +851,8 @@ results-by-year:
         link: https://patch.com/massachusetts/framingham/foleys-flyers-talented-framingham-high-girls-swim-dive-team-0
       - name: 2015014
         link: https://patch.com/massachusetts/framingham/slideshow-flyers-lose-first-meet-season-needhams-rockets-0
+      - name: 2015015
+        link: https://www.wickedlocal.com/story/newton-tab/2015/10/27/newton-north-girls-swim-past/33189650007/
       - name: 2015100
         link: http://miaa.ezstream.com/index.cfm?itemid=7727
       - name: 2015101
@@ -999,7 +1001,7 @@ results-by-year:
       - school: Newton North
         score: 102 - 84
         result: W
-        citations: 2013002;2013007
+        citations: 2013002;2013007;2013013;2013014
       - school: Norwood
         score: 100 - 55
         result: W
@@ -1067,6 +1069,10 @@ results-by-year:
         link: https://patch.com/massachusetts/needham/nhs-swimming-girls-defeat-norwood-10055
       - name: 2013012
         link: https://patch.com/massachusetts/needham/needham-girls-swimming-30-in-league-3rd-at-elite-invitational
+      - name: 2013013
+        link: https://www.wickedlocal.com/story/newton-tab/2013/10/18/newton-north-settles-for-share/37256274007/
+      - name: 2013014
+        link: https://www.wickedlocal.com/story/newton-tab/2013/11/12/newton-north-girls-swim-to/37256276007/
       - name: 2013100
         link: http://miaa.ezstream.com/index.cfm?itemid=7282
       - name: 2013101
@@ -1124,7 +1130,7 @@ results-by-year:
     championships:
       - name: South Sectionals
         place: 3
-        citations: 2012100;2012102;BSCRankings
+        citations: 2012100;2012102;2012104;BSCRankings
       - name: Division 1 States
         place: 5
         citations: 2012101;2012103
@@ -1154,6 +1160,8 @@ results-by-year:
         link: https://twitter.com/NHSRockets/status/267482876390547456
       - name: 2012103
         link: https://www.wickedlocal.com/story/needham-times/2012/11/21/needham-high-sports-roundup-swimmers/39849512007/
+      - name: 2012104
+        link: https://www.wickedlocal.com/story/brookline-tab/2012/11/14/brookline-swimmers-make-strong-showing/40368339007/
   - year: 2011
     dual-meets:
       - school: Braintree
@@ -1418,7 +1426,7 @@ results-by-year:
       - school: Wellesley
         score: 93 - 92
         result: W
-        citations: 2008003;2008004
+        citations: 2008003;2008004;2008005
       - school: Weymouth
         result: W
         citations: 2008001;2008000
@@ -1452,6 +1460,8 @@ results-by-year:
         link: https://www.wickedlocal.com/story/needham-times/2008/10/29/swimmers-cruise/39967814007/
       - name: 2008004
         link: https://www.wickedlocal.com/story/needham-times/2008/11/12/swimmers-edge-rival-wellesley/40436394007/
+      - name: 2008005
+        link: https://www.wickedlocal.com/story/wellesley-townsman/2008/11/06/swimmers-edged-by-rival-rockets/40688329007/
       - name: 2008100
         link: http://miaa.ezstream.com/index.cfm?itemid=4047
       - name: 2008101
@@ -1487,9 +1497,11 @@ results-by-year:
       - school: Walpole
         score: 99.5 - 84.5
         result: W
-        citations: 2007003
+        citations: 2007003;2007004
       - school: Wellesley
-        citations: BSCRankings
+        score: 91 - 94
+        result: L
+        citations: 2007005
       - school: Westwood
         citations: 2007001
       - school: Weymouth
@@ -1523,6 +1535,10 @@ results-by-year:
         link: https://www.wickedlocal.com/story/needham-times/2007/10/03/swim-team-back-to-its/39967117007/
       - name: 2007003
         link: https://www.wickedlocal.com/story/needham-times/2007/10/24/swimmers-knock-off-norwood/40505723007/
+      - name: 2007004
+        link: https://www.wickedlocal.com/story/times-advocate/2007/10/26/dive-talking-excites-walpole-high/40700560007/
+      - name: 2007005
+        link: https://www.wickedlocal.com/story/wellesley-townsman/2008/09/04/swimmers-hope-to-make-splash/40555362007/
       - name: 2007100
         link: http://miaa.ezstream.com/index.cfm?itemid=1761
       - name: 2007101
