@@ -222,7 +222,7 @@ year,school-1,school-2,score-1,score-2,school-1-result
 2018,Newton North,Wellesley,,,L
 2018,Newton North,Weymouth,,,
 2018,Walpole,Wellesley,,,L
-2018,Walpole,Weymouth,,,
+2018,Walpole,Weymouth,87,78,W
 2018,Wellesley,Weymouth,,,W
 2017,Braintree,Brookline,,,
 2017,Braintree,Framingham,,,
@@ -230,7 +230,7 @@ year,school-1,school-2,score-1,score-2,school-1-result
 2017,Braintree,Natick,,,
 2017,Braintree,Needham,84,102,L
 2017,Braintree,Newton North,83,98,L
-2017,Braintree,Norwood,,,
+2017,Braintree,Norwood,,,W
 2017,Braintree,Walpole,114,75,W
 2017,Braintree,Wellesley,,,L
 2017,Braintree,Weymouth,,,
@@ -239,7 +239,7 @@ year,school-1,school-2,score-1,score-2,school-1-result
 2017,Brookline,Natick,,,
 2017,Brookline,Needham,98,90,W
 2017,Brookline,Newton North,86,98,L
-2017,Brookline,Norwood,,,
+2017,Brookline,Norwood,,,W
 2017,Brookline,Walpole,,,
 2017,Brookline,Wellesley,,,L
 2017,Brookline,Weymouth,,,
@@ -247,20 +247,20 @@ year,school-1,school-2,score-1,score-2,school-1-result
 2017,Framingham,Natick,,,
 2017,Framingham,Needham,,,W
 2017,Framingham,Newton North,86,95,L
-2017,Framingham,Norwood,,,
+2017,Framingham,Norwood,,,W
 2017,Framingham,Walpole,96,82,W
 2017,Framingham,Wellesley,,,L
 2017,Framingham,Weymouth,,,
 2017,Milton,Natick,,,
 2017,Milton,Needham,74,93,L
 2017,Milton,Newton North,,,
-2017,Milton,Norwood,,,
+2017,Milton,Norwood,,,W
 2017,Milton,Walpole,80,94,L
 2017,Milton,Wellesley,,,L
 2017,Milton,Weymouth,,,
 2017,Natick,Needham,93,86,W
 2017,Natick,Newton North,80,106,L
-2017,Natick,Norwood,,,
+2017,Natick,Norwood,,,W
 2017,Natick,Walpole,,,
 2017,Natick,Wellesley,,,L
 2017,Natick,Weymouth,,,
@@ -273,9 +273,9 @@ year,school-1,school-2,score-1,score-2,school-1-result
 2017,Newton North,Walpole,89,87,W
 2017,Newton North,Wellesley,88,93,L
 2017,Newton North,Weymouth,88,70,W
-2017,Norwood,Walpole,,,
+2017,Norwood,Walpole,87,99,L
 2017,Norwood,Wellesley,,,L
-2017,Norwood,Weymouth,,,
+2017,Norwood,Weymouth,98,70,W
 2017,Walpole,Wellesley,84,97,L
 2017,Walpole,Weymouth,86,76,W
 2017,Wellesley,Weymouth,,,W
@@ -302,16 +302,16 @@ year,school-1,school-2,score-1,score-2,school-1-result
 2016,Dedham,Natick,,,
 2016,Dedham,Needham,84,91,L
 2016,Dedham,Newton North,69,93,L
-2016,Dedham,Norwood,,,
-2016,Dedham,Walpole,,,
-2016,Dedham,Wellesley,,,
+2016,Dedham,Norwood,91,92,L
+2016,Dedham,Walpole,86,95,L
+2016,Dedham,Wellesley,83,95,L
 2016,Dedham,Weymouth,,,
 2016,Framingham,Natick,,,
 2016,Framingham,Needham,98,88,W
 2016,Framingham,Newton North,88,93,L
 2016,Framingham,Norwood,,,
 2016,Framingham,Walpole,,,
-2016,Framingham,Wellesley,,,
+2016,Framingham,Wellesley,97,89,W
 2016,Framingham,Weymouth,,,
 2016,Natick,Needham,92,94,L
 2016,Natick,Newton North,,,
@@ -330,7 +330,7 @@ year,school-1,school-2,score-1,score-2,school-1-result
 2016,Newton North,Weymouth,91,57,W
 2016,Norwood,Walpole,,,
 2016,Norwood,Wellesley,,,
-2016,Norwood,Weymouth,,,
+2016,Norwood,Weymouth,92,66,W
 2016,Walpole,Wellesley,,,
 2016,Walpole,Weymouth,,,
 2016,Wellesley,Weymouth,,,
@@ -345,7 +345,7 @@ year,school-1,school-2,score-1,score-2,school-1-result
 2015,Braintree,Wellesley,,,
 2015,Braintree,Weymouth,,,
 2015,Brookline,Dedham,,,
-2015,Brookline,Framingham,,,
+2015,Brookline,Framingham,94,90,L
 2015,Brookline,Natick,,,
 2015,Brookline,Needham,,,
 2015,Brookline,Newton North,,,
@@ -421,7 +421,7 @@ year,school-1,school-2,score-1,score-2,school-1-result
 2014,Framingham,Newton North,,,
 2014,Framingham,Norwood,,,
 2014,Framingham,Walpole,,,
-2014,Framingham,Wellesley,,,
+2014,Framingham,Wellesley,97,84,W
 2014,Framingham,Weymouth,,,
 2014,Natick,Needham,87,94,L
 2014,Natick,Newton North,,,

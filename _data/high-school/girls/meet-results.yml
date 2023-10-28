@@ -447,7 +447,7 @@ results-by-year:
         citations: 2018103;BSCRankings
       - name: South Sectionals
         place: 3
-        citations: 2018100
+        citations: 2018100;2018104
       - name: Division 1 States
         place: 4
         citations: 2018101;2018102
@@ -511,6 +511,8 @@ results-by-year:
         link: https://twitter.com/NHSRockets/status/1064199578403123200
       - name: 2018103
         link: https://www.teamunify.com/rechfhfhslma/__doc__/2018%20final%20scores.pdf
+      - name: 2018104
+        link: https://www.wickedlocal.com/story/newton-tab/2018/11/13/newton-north-swimmers-divers-show/8384565007/
   - year: 2017
     dual-meets:
       - school: Acton-Boxborough
