@@ -128,14 +128,14 @@ high-school-fall-archives:
 high-school-fall-girls-archives:
   - title: Bay State Conference
     children:
-      - title: Conference Meet School Rankings
-        url: high-school/archives/fall/girls/bay-state-conference/conference-meet-school-rankings
-      - title: Conference Dual Meet Results
-        url: high-school/archives/fall/girls/bay-state-conference/conference-dual-meet-results
-      - title: Conference Meet Results
-        url: high-school/archives/fall/girls/bay-state-conference/conference-meet-results
-      - title: Conference Meet Top Results
-        url: high-school/archives/fall/girls/bay-state-conference/conference-meet-top-results
+      - title: School Rankings
+        url: high-school/archives/fall/girls/bay-state-conference/school-rankings
+      - title: Dual Meet Results
+        url: high-school/archives/fall/girls/bay-state-conference/dual-meet-results
+      - title: Meet Results
+        url: high-school/archives/fall/girls/bay-state-conference/meet-results
+      - title: Meet Top Results
+        url: high-school/archives/fall/girls/bay-state-conference/meet-top-results
   - title: Championships
     children:
       - title: Qualifying Standards
