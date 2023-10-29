@@ -16,13 +16,21 @@
   function change(option, visibleSection) {
     // https://stackoverflow.com/a/41542008
     const searchParams = new URLSearchParams(window.location.search);
-    searchParams.set(option, visibleSection);
-    const newRelativePathQuery = window.location.pathname + "?" + searchParams.toString();
+    if (visibleSection === "all") {
+      searchParams.delete(option);
+    } else {
+      searchParams.set(option, visibleSection);
+    }
+
+    let newRelativePathQuery;
+    if (searchParams.toString() === "") {
+      newRelativePathQuery = window.location.pathname;
+    } else {
+      newRelativePathQuery = window.location.pathname + "?" + searchParams.toString();
+    }
     history.pushState(null, "", newRelativePathQuery);
 
     const sectionsToUpdate = sections.filter(section => option === section.dataset.option);
-
-    console.log(sectionsToUpdate);
 
     if (visibleSection === "all") {
       for (const section of sectionsToUpdate) {
