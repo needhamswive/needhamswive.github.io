@@ -24,7 +24,7 @@ classes: wide
     <tr>
       <th>Place</th>
       <th>Name</th>
-      <th>Age</th>
+      <th>Year</th>
       <th>School</th>
       <th>Result</th>
       <th>Points</th>
@@ -40,7 +40,7 @@ classes: wide
         <tr class="filter-section" data-option="event" data-section="{{ event }}">
           <td>{{ row.place | formatcell }}</td>
           <td>{{ row.name | formatcell }}</td>
-          <td>{{ row.age | formatcell }}</td>
+          <td>{{ row.year | formatcell }}</td>
           <td>{{ row.school | formatcell }}</td>
           <td>{{ row.result | formatcell }}</td>
           <td>{{ row.points | formatcell }}</td>
