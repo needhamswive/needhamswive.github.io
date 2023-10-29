@@ -4,7 +4,7 @@ general-citations:
   - name: BSCWiki
     link: https://en.wikipedia.org/wiki/Bay_State_Conference
   - name: BSCRankings
-    link: https://needhamswive.com/high-school/archives/fall/bay-state-conference/conference-meet-school-rankings/
+    link: https://needhamswive.com/high-school/archives/fall/girls/bay-state-conference/school-rankings/
 
 results-by-year:
   - year: 2023
@@ -134,6 +134,7 @@ results-by-year:
     championships:
       - name: Bay State Conference
         place: 2
+        citations: BSCRankings
       - name: South Sectionals
         place: 2
         citations: 2022100
