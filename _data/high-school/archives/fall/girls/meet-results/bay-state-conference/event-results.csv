@@ -1,44 +1,44 @@
 year,event,place,name,grade,school,result,points
-2023,1 Meter Diving,1,Lucy Savarese,,Wellesley,254.95,20
-2023,1 Meter Diving,2,Katie Dorey,,Natick,224.90,17
-2023,1 Meter Diving,3,Emily Richardson,,Framingham,223.80,16
-2023,1 Meter Diving,4,Hailey Ligibel,,Wellesley,209.15,15
-2023,1 Meter Diving,5,Kelsey DePaolo,,Braintree,208.90,14
-2023,1 Meter Diving,6,Lucy Aswad,,Needham,205.90,13
-2023,1 Meter Diving,7,Anusha Chakravathy,,Newton North,202.65,12
-2023,1 Meter Diving,8,Neve Knowlton,,Natick,200.40,11
-2023,1 Meter Diving,9,Sarah Ginsberg,,Wellesley,198.20,9
-2023,1 Meter Diving,10,Isabelle Lemaire,,Needham,195.60,7
-2023,1 Meter Diving,11,Lila Tumulieri,,Newton North,190.30,6
-2023,1 Meter Diving,12,Caisa Byerly,,Walpole,189.25,5
-2023,1 Meter Diving,13,Abby Holton,,Newton North,176.35,4
-2023,1 Meter Diving,14,Eva Olsen-Velasco,,Brookline,171.30,3
-2023,1 Meter Diving,15,Kat Barry,,Framingham,169.50,2
-2023,1 Meter Diving,16,Katie Coggins,,Milton,167.10,1
-2023,1 Meter Diving,17,Leila Le,,Walpole,166.95,
-2023,1 Meter Diving,18,Liat Williams,,Brookline,165.95,
-2023,1 Meter Diving,19,Izzy Eio,,Natick,161.50,
-2023,1 Meter Diving,20,Molly Whitestone,,Walpole,156.35,
-2023,1 Meter Diving,21,Mattie Cox,,Brookline,155.65,
-2023,1 Meter Diving,22,Courtney Tobin,,Needham,154.90,
-2023,1 Meter Diving,23,Lucy Asanza,,Milton,151.40,
-2023,1 Meter Diving,24,Sophie Balter,,Welleslev,142.40,
-2023,1 Meter Diving,25,Talia Muzikant,,Needham,133.25,
-2023,1 Meter Diving,26,EJ Donatiello,,Braintree,131.30,
-2023,1 Meter Diving,27,Kathryn DuBois,,Natick,128.50,
-2023,1 Meter Diving,28,Katie Doherty,,Framingham,114.95,
+2023,1 Meter Diving,1,Lucy Savarese,SR,Wellesley,254.95,20
+2023,1 Meter Diving,2,Katie Dorey,SR,Natick,224.90,17
+2023,1 Meter Diving,3,Emily Richardson,SR,Framingham,223.80,16
+2023,1 Meter Diving,4,Hailey Ligibel,SO,Wellesley,209.15,15
+2023,1 Meter Diving,5,Kelsey DePaolo,SR,Braintree,208.90,14
+2023,1 Meter Diving,6,Lucy Aswad,JR,Needham,205.90,13
+2023,1 Meter Diving,7,Anusha Chakravathy,FR,Newton North,202.65,12
+2023,1 Meter Diving,8,Neve Knowlton,SR,Natick,200.40,11
+2023,1 Meter Diving,9,Sarah Ginsberg,SO,Wellesley,198.20,9
+2023,1 Meter Diving,10,Isabelle Lemaire,JR,Needham,195.60,7
+2023,1 Meter Diving,11,Lila Tumulieri,SR,Newton North,190.30,6
+2023,1 Meter Diving,12,Caisa Byerly,SO,Walpole,189.25,5
+2023,1 Meter Diving,13,Abby Holton,FR,Newton North,176.35,4
+2023,1 Meter Diving,14,Eva Olsen-Velasco,SR,Brookline,171.30,3
+2023,1 Meter Diving,15,Kat Barry,SR,Framingham,169.50,2
+2023,1 Meter Diving,16,Katie Coggins,JR,Milton,167.10,1
+2023,1 Meter Diving,17,Leila Le,SO,Walpole,166.95,
+2023,1 Meter Diving,18,Liat Williams,FR,Brookline,165.95,
+2023,1 Meter Diving,19,Izzy Eio,SR,Natick,161.50,
+2023,1 Meter Diving,20,Molly Whitestone,SR,Walpole,156.35,
+2023,1 Meter Diving,21,Mattie Cox,JR,Brookline,155.65,
+2023,1 Meter Diving,22,Courtney Tobin,JR,Needham,154.90,
+2023,1 Meter Diving,23,Lucy Asanza,SR,Milton,151.40,
+2023,1 Meter Diving,24,Sophie Balter,SR,Welleslev,142.40,
+2023,1 Meter Diving,25,Talia Muzikant,SO,Needham,133.25,
+2023,1 Meter Diving,26,EJ Donatiello,SR,Braintree,131.30,
+2023,1 Meter Diving,27,Kathryn DuBois,FR,Natick,128.50,
+2023,1 Meter Diving,28,Katie Doherty,FR,Framingham,114.95,
 2022,1 Meter Diving,1,Lucy Savarese,,Wellesley,241.30,20
-2022,200 Medley Relay,1,Elena Dudkina;Alexandra Loo;Naomi Boegholm;Tracey Peng,,Wellesley,1:50.81,20
+2022,200 Medley Relay,1,Elena Dudkina;Alexandra Loo;Naomi Boegholm;Tracey Peng,JR;SO;SR;SO,Wellesley,1:50.81,20
 2022,200 Freestyle,1,Anna McGrew,JR,Wellesley,1:59.46,20
 2022,200 Individual Medley,1,Naomi Boegholm,SR,Wellesley,2:07.59,20
 2022,50 Freestyle,1,Alexandra Loo,SO,Wellesley,25.54,20
 2022,100 Butterfly,1,Bonnie Zhao,SR,Brookline,59.84,20
 2022,100 Freestyle,1,Naomi Boegholm,SR,Wellesley,51.80,20
 2022,500 Freestyle,1,Chloe Wukitch,JR,Needham,5:27.89,20
-2022,200 Freestyle Relay,1,Anna McGrew;Naomi Boegholm;Sofia Cozza;Katie Passanisi,,Wellesley,1:39.93,20
+2022,200 Freestyle Relay,1,Anna McGrew;Naomi Boegholm;Sofia Cozza;Katie Passanisi,JR;SR;SR;SR,Wellesley,1:39.93,20
 2022,100 Backstroke,1,Chloe Wukitch,JR,Needham,58.97,20
 2022,100 Breaststroke,1,Hannah Lee,SR,Brookline,1:05.59,20
-2022,400 Freestyle Relay,1,Anna McGrew;Sofia Cozza;Alexandra Loo;Elena Dudkina,,Wellesley,3:43.14,20
+2022,400 Freestyle Relay,1,Anna McGrew;Sofia Cozza;Alexandra Loo;Elena Dudkina,JR;SR;SO;JR,Wellesley,3:43.14,20
 2021,1 Meter Diving,1,Alexa Kalish,,Brookline,266.10,20
 2021,1 Meter Diving,2,Olivia Shih,,Brookline,239.80,17
 2021,1 Meter Diving,3,Jacqui St. Clair,,Brookline,212.55,16
