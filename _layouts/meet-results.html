@@ -1,0 +1,68 @@
+---
+layout: single
+classes: wide
+---
+
+{{ content }}
+
+{% assign events = site.data %}
+{% assign events-path-segments = page.events | split: "." %}
+{% for segment in events-path-segments %}
+  {% assign events = events[segment] %}
+{% endfor %}
+{% assign events = events | map: "name" %}
+
+{% assign results = site.data %}
+{% assign results-path-segments = page.results | split: "." %}
+{% for segment in results-path-segments %}
+  {% assign results = results[segment] %}
+{% endfor %}
+
+{% assign years = results | map: "year" | uniq | sort | reverse %}
+
+{% include filter-event-year.html
+  events = events
+  years = years %}
+
+{% for year in years %}
+
+{% assign results-for-year = results | where: "year", year %}
+
+<div class="filter-section" data-option="year" data-section="{{ year }}">
+
+<h2>{{ year }}</h2>
+
+<table>
+  <thead>
+    <tr>
+      <th>Place</th>
+      <th>Name</th>
+      <th>Grade</th>
+      <th>School</th>
+      <th>Result</th>
+      <th>Points</th>
+    </tr>
+  </thead>
+  <tbody>
+    {% for event in events %}
+      {% assign event-results = results-for-year | where: "event", event %}
+      <tr class="filter-section" data-option="event" data-section="{{ event }}">
+        <th colspan="5" style="text-align: center;">{{ event }}</th>
+      </tr>
+      {% for row in event-results %}
+        <tr class="filter-section" data-option="event" data-section="{{ event }}">
+          <td>{{ row.place | formatcell }}</td>
+          <td>{{ row.name | formatcell }}</td>
+          <td>{{ row.grade | formatcell }}</td>
+          <td>{{ row.school | formatcell }}</td>
+          <td>{{ row.result | formatcell }}</td>
+          <td>{{ row.points | formatcell }}</td>
+        </tr>
+      {% endfor %}
+    {% endfor %}
+  </tbody>
+</table>
+
+</div>
+
+{% endfor %}
