@@ -1,4 +1,43 @@
 year,region,event,place,name,age,school,result,points
+2022,Division 2,1 Meter Diving - 11 Dives,1,Katie Dorey,JR,Natick,421.60,20
+2022,Division 2,1 Meter Diving - 11 Dives,2,Lucy Savarese,JR,Wellesley,417.35,17
+2022,Division 2,1 Meter Diving - 11 Dives,3,Robyn Tonomura-MacDonald,SO,Belmont,398.35,16
+2022,Division 2,1 Meter Diving - 11 Dives,4,Sammy Scampoli,SR,Needham,363.65,15
+2022,Division 2,1 Meter Diving - 11 Dives,5,Neve Knowlton,JR,Natick,355.40,14
+2022,Division 2,1 Meter Diving - 11 Dives,6,Leticia Goncalves,SR,Chelmsford,347.60,13
+2022,Division 2,1 Meter Diving - 11 Dives,7,Narissa Aldayaa,SR,Chelmsford,338.55,12
+2022,Division 2,1 Meter Diving - 11 Dives,8,Lucy Aswad,SO,Needham,323.00,11
+2022,Division 2,1 Meter Diving - 11 Dives,9,Anya Buyea,SO,North Andover,322.45,9
+2022,Division 2,1 Meter Diving - 11 Dives,10,Lily Dunlea,FR,Chelmsford,314.60,7
+2022,Division 2,1 Meter Diving - 11 Dives,11,Eva Siebert,SR,Belmont,309.45,6
+2022,Division 2,1 Meter Diving - 11 Dives,12,Isabelle Lemaire,SO,Needham,301.00,5
+2022,Division 2,1 Meter Diving - 11 Dives,13,Julia Harding,JR,Wellesley,290.60,4
+2022,Division 2,1 Meter Diving - 8 Dives,1,Katie Dorey,JR,Natick,315.55,
+2022,Division 2,1 Meter Diving - 8 Dives,2,Lucy Savarese,JR,Wellesley,291.15,
+2022,Division 2,1 Meter Diving - 8 Dives,3,Robyn Tonomura-MacDonald,SO,Belmont,290.05,
+2022,Division 2,1 Meter Diving - 8 Dives,4,Sammy Scampoli,SR,Needham,265.05,
+2022,Division 2,1 Meter Diving - 8 Dives,5,Leticia Goncalves,SR,Chelmsford,263.30,
+2022,Division 2,1 Meter Diving - 8 Dives,6,Neve Knowlton,JR,Natick,260.25,
+2022,Division 2,1 Meter Diving - 8 Dives,7,Lucy Aswad,SO,Needham,248.00,
+2022,Division 2,1 Meter Diving - 8 Dives,8,Narissa Aldayaa,SR,Chelmsford,244.95,
+2022,Division 2,1 Meter Diving - 8 Dives,9,Anya Buyea,SO,North Andover,237.25,
+2022,Division 2,1 Meter Diving - 8 Dives,10,Lily Dunlea,FR,Chelmsford,230.85,
+2022,Division 2,1 Meter Diving - 8 Dives,11,Eva Siebert,SR,Belmont,226.40,
+2022,Division 2,1 Meter Diving - 8 Dives,12,Julia Harding,JR,Wellesley,223.60,
+2022,Division 2,1 Meter Diving - 8 Dives,13,Isabelle Lemaire,SO,Needham,216.95,
+2022,Division 2,1 Meter Diving - 5 Dives,1,Katie Dorey,JR,Natick,198.45,
+2022,Division 2,1 Meter Diving - 5 Dives,2,Lucy Savarese,JR,Wellesley,187.35,
+2022,Division 2,1 Meter Diving - 5 Dives,3,Robyn Tonomura-MacDonald,SO,Belmont,180.00,
+2022,Division 2,1 Meter Diving - 5 Dives,4,Sammy Scampoli,SR,Needham,172.50,
+2022,Division 2,1 Meter Diving - 5 Dives,5,Leticia Goncalves,SR,Chelmsford,171.60,
+2022,Division 2,1 Meter Diving - 5 Dives,6,Narissa Aldayaa,SR,Chelmsford,164.00,
+2022,Division 2,1 Meter Diving - 5 Dives,7,Lucy Aswad,SO,Needham,163.55,
+2022,Division 2,1 Meter Diving - 5 Dives,8,Neve Knowlton,JR,Natick,155.60,
+2022,Division 2,1 Meter Diving - 5 Dives,9,Anya Buyea,SO,North Andover,152.50,
+2022,Division 2,1 Meter Diving - 5 Dives,10,Lily Dunlea,FR,Chelmsford,145.75,
+2022,Division 2,1 Meter Diving - 5 Dives,11,Eva Siebert,SR,Belmont,137.45,
+2022,Division 2,1 Meter Diving - 5 Dives,12,Isabelle Lemaire,SO,Needham,128.55,
+2022,Division 2,1 Meter Diving - 5 Dives,13,Julia Harding,JR,Wellesley,123.45,
 2022,Division 2,200 Medley Relay,1,Tracey Peng;Alexandra Loo;Naomi Boegholm;Katie Passanisi,SO;SO;SR;SR,Wellesley,1:51.13,40
 2022,Division 2,200 Medley Relay,2,Emma Kawai;Bess Tesluk;Elissa Bennett;Elle Michaud,SO;SR;SO;JR,Winchester,1:52.53,34
 2022,Division 2,200 Medley Relay,3,Emmy Cashin;Laila Paulsen 8;Anna Boemer;Elise Verrier,SR;;SR;SR,Reading,1:53.73,32
@@ -53,6 +92,31 @@ year,region,event,place,name,age,school,result,points
 2022,Division 2,200 Individual Medley,23,Clara Bhagwati,SR,Belmont,2:29.83,
 2022,Division 2,200 Individual Medley,24,Audrey Rice,JR,Chelmsford,2:31.44,
 2022,Division 2,200 Individual Medley,25,Audrey Finelli,SR,Needham,2:33.38,
+2022,Division 2,50 Freestyle,1,Anna Boemer,SR,Reading,23.53,20
+2022,Division 2,50 Freestyle,2,Alexandra Loo,SO,Wellesley,25.23,17
+2022,Division 2,50 Freestyle,3,Alique Stepanian,SR,Belmont,25.27,16
+2022,Division 2,50 Freestyle,4,Catherine Latham,SR,Chelmsford,25.40,15
+2022,Division 2,50 Freestyle,5,Sylvie Racicot,SR,Watertown,25.76,14
+2022,Division 2,50 Freestyle,6,Elaine Cheng,FR,Wellesley,25.78,13
+2022,Division 2,50 Freestyle,7,Julia Shulman,JR,Needham,25.94,12
+2022,Division 2,50 Freestyle,8,Tasha Secan,FR,North Andover,25.98,11
+2022,Division 2,50 Freestyle,9,Katie Passanisi,SR,Wellesley,26.13,9
+2022,Division 2,50 Freestyle,10,Megan Han,SO,Winchester,26.18,7
+2022,Division 2,50 Freestyle,11,Mia Murphy,JR,Belmont,26.21,6
+2022,Division 2,50 Freestyle,12,Alex Bold,SR,Needham,26.25,5
+2022,Division 2,50 Freestyle,13,Soline Fisher,SO,Watertown,26.32,4
+2022,Division 2,50 Freestyle,14,Ella Barker,SR,Watertown,26.37,3
+2022,Division 2,50 Freestyle,15,Ella Fazio,FR,Chelmsford,26.49,2
+2022,Division 2,50 Freestyle,16,Emmy Cashin,SR,Reading,26.56,1
+2022,Division 2,50 Freestyle,17,Ariel Oppenheim,SR,Wellesley,26.58,
+2022,Division 2,50 Freestyle,18,Anna Hsu,SO,Boston Latin School,26.63,
+2022,Division 2,50 Freestyle,19,Alexandra Shea,SR,North Andover,26.74,
+2022,Division 2,50 Freestyle,20,Nell Chmielewski,JR,Winchester,26.82,
+2022,Division 2,50 Freestyle,20,Ohannessian Christiana,SR,Stoneham,26.82,
+2022,Division 2,50 Freestyle,22,Rowan Dargon,JR,Belmont,26.84,
+2022,Division 2,50 Freestyle,23,Gabrielle Coleman,SO,Boston Latin School,26.93,
+2022,Division 2,50 Freestyle,24,Elise Verrier,SR,Reading,27.00,
+2022,Division 2,50 Freestyle,25,Emily Yu,SO,Boston Latin School,27.12,
 2022,Division 2,100 Butterfly,1,Anna Boemer Bennett,SR,Reading,54.29,20
 2022,Division 2,100 Butterfly,2,Elissa Bennett,SO,Winchester,59.23,17
 2022,Division 2,100 Butterfly,3,Sofia Cozza,SR,Wellesley,59.43,16
@@ -99,6 +163,23 @@ year,region,event,place,name,age,school,result,points
 2022,Division 2,100 Freestyle,24,Sophie Barriault,FR,Billerica,59.79,
 2022,Division 2,100 Freestyle,25,Abby Hill,JR,Belmont,1:00.27,
 2022,Division 2,100 Freestyle,26,Alexandra Shea,SR,North Andover,1:00.46,
+2022,Division 2,500 Freestyle,1,Elle Michaud,JR,Winchester,5:13.81,20
+2022,Division 2,500 Freestyle,2,Elena Dudkina,JR,Wellesley,5:22.75,17
+2022,Division 2,500 Freestyle,3,Chloe Wukitch,JR,Needham,5:27.09,16
+2022,Division 2,500 Freestyle,4,Kylie O'Hearn,JR,Needham,5:31.18,15
+2022,Division 2,500 Freestyle,5,Olive Haller,SR,Needham,5:31.57,14
+2022,Division 2,500 Freestyle,6,Amelia Cookson,SR,Wellesley,5:34.22,13
+2022,Division 2,500 Freestyle,7,Lindsey Downer,SR,Chelmsford,5:36.66,12
+2022,Division 2,500 Freestyle,8,Skyler Holland,SR,North Andover,5:39.95,11
+2022,Division 2,500 Freestyle,9,Georgia Spangler,SR,Wellesley,5:40.23,9
+2022,Division 2,500 Freestyle,10,Mila Piatkov,SO,Needham,5:40.36,7
+2022,Division 2,500 Freestyle,11,Sophie Barriault,FR,Billerica,5:43.05,6
+2022,Division 2,500 Freestyle,12,Clara Bhagwati,SR,Belmont,5:43.18,5
+2022,Division 2,500 Freestyle,13,Audrey Rice,JR,Chelmsford,5:44.86,4
+2022,Division 2,500 Freestyle,14,Grace O'Malley,SR,Walpole,5:45.22,3
+2022,Division 2,500 Freestyle,15,Katherine Martin,JR,Boston Latin School,5:45.99,2
+2022,Division 2,500 Freestyle,16,Abigail Mirick,SO,Stoneham,5:53.78,1
+2022,Division 2,500 Freestyle,17,Sophie Kwan,SO,Wellesley,6:00.58,
 2022,Division 2,200 Freestyle Relay,1,Anna McGrew;Alexandra Loo;Sofia Cozza;Vaani Kapoor,JR;SO;SR;SR,Wellesley,1:38.56,40
 2022,Division 2,200 Freestyle Relay,2,Laila Paulsen 8;Emmy Cashin;Elise Verrier;Anna Boemer,;SR;SR;SR,Reading,1:44.27,34
 2022,Division 2,200 Freestyle Relay,3,Ella Fazio;Lindsey Downer;Emma Gray;Catherine Latham,FR;SR;JR;SR,Chelmsford,1:44.32,32
@@ -112,6 +193,47 @@ year,region,event,place,name,age,school,result,points
 2022,Division 2,200 Freestyle Relay,11,Samantha Marshall;Sophie Seidman;Angie Martinez;Mackenzie Grace,SR;SR;FR;JR,Wakefield,1:54.49,12
 2022,Division 2,200 Freestyle Relay,12,Ava Yi;Melis Baloglu;Abigail Mirick;Ohannessian Christiana,JR;JR;SO;SR,Stoneham,1:56.02,10
 2022,Division 2,200 Freestyle Relay,,Jane Bahm;Faith Cullen;Emily Rose;Grace O'Malley,JR;FR;SR;SR,Walpole,DQ,
+2022,Division 2,100 Backstroke,1,Naomi Boegholm,SR,Wellesley,57.83,20
+2022,Division 2,100 Backstroke,2,Chloe Wukitch,JR,Needham,58.72,17
+2022,Division 2,100 Backstroke,3,Ava Wong,JR,Natick,58.81,16
+2022,Division 2,100 Backstroke,4,Emma Kawai,SO,Winchester,59.45,15
+2022,Division 2,100 Backstroke,5,Lucy Mackey,JR,Needham,1:00.42,14
+2022,Division 2,100 Backstroke,6,Elissa Bennett,SO,Winchester,1:01.66,13
+2022,Division 2,100 Backstroke,7,Tracey Peng,SO,Wellesley,1:02.52,12
+2022,Division 2,100 Backstroke,8,Becky Hwang,SO,Needham,1:02.82,11
+2022,Division 2,100 Backstroke,9,Grace Chan,SR,Wellesley,1:02.83,9
+2022,Division 2,100 Backstroke,10,Tasha Secan,FR,North Andover,1:03.42,7
+2022,Division 2,100 Backstroke,11,Emma Gray,JR,Chelmsford,1:04.27,6
+2022,Division 2,100 Backstroke,12,Mackenzie Gibbons,FR,Academy of Notre Dame,1:04.36,5
+2022,Division 2,100 Backstroke,13,Mai Pho,FR,Chelmsford,1:04.37,4
+2022,Division 2,100 Backstroke,14,Charlotte Taieb,SO,Boston Latin School,1:04.75,3
+2022,Division 2,100 Backstroke,15,Ori Fux,JR,Needham,1:04.76,2
+2022,Division 2,100 Backstroke,16,Liv DiSandro,SR,Milton,1:05.10,1
+2022,Division 2,100 Backstroke,17,Laila Atoui,SO,Wakefield,1:05.35,
+2022,Division 2,100 Backstroke,18,Mary Arangio,SR,Winchester,1:05.49,
+2022,Division 2,100 Backstroke,19,Mia Murphy,JR,Belmont,1:06.53,
+2022,Division 2,100 Backstroke,20,Isabael McKay,JR,Wellesley,1:06.54,
+2022,Division 2,100 Backstroke,21,Emily Moh,SO,Winchester,1:06.87,
+2022,Division 2,100 Backstroke,22,Emma Gregory,SO,Watertown,1:07.30,
+2022,Division 2,100 Backstroke,23,Emmy Cashin,SR,Reading,1:08.07,
+2022,Division 2,100 Backstroke,24,Ella Perkins,JR,Watertown,1:08.08,
+2022,Division 2,100 Breaststroke,1,Diya Ackerman-Vallala,SR,North Andover,1:05.84,20
+2022,Division 2,100 Breaststroke,2,Michelle Li,SR,Natick,1:07.84,17
+2022,Division 2,100 Breaststroke,3,Audrey Cook,SO,Wakefield,1:09.88,16
+2022,Division 2,100 Breaststroke,4,Alexandra Loo,SO,Wellesley,1:10.71,14.5
+2022,Division 2,100 Breaststroke,4,Gabrielle Coleman,SO,Boston Latin School,1:10.71,14.5
+2022,Division 2,100 Breaststroke,6,Gabby Kim,SR,Needham,1:11.89,13
+2022,Division 2,100 Breaststroke,7,Laila Paulsen,,Reading,1:12.23,12
+2022,Division 2,100 Breaststroke,8,Kaleigh Boynton,JR,Milton,1:12.39,11
+2022,Division 2,100 Breaststroke,9,Katrina Chan,SO,Belmont,1:12.41,9
+2022,Division 2,100 Breaststroke,10,Bess Tesluk,SR,Winchester,1:12.50,7
+2022,Division 2,100 Breaststroke,11,Mia Taylor,JR,Belmont,1:13.06,6
+2022,Division 2,100 Breaststroke,12,Sofia Dobado,SO,Wellesley,1:14.01,5
+2022,Division 2,100 Breaststroke,13,Lucy Wagner,FR,Wakefield,1:14.45,4
+2022,Division 2,100 Breaststroke,14,Rachel Talcoff,SR,Needham,1:14.62,3
+2022,Division 2,100 Breaststroke,15,Katie Passanisi,SR,Wellesley,1:15.82,2
+2022,Division 2,100 Breaststroke,16,Penny Drolet,JR,Chelmsford,1:16.24,1
+2022,Division 2,100 Breaststroke,17,Sarah Shentu,SR,Natick,1:16.55,
 2022,Division 2,400 Freestyle Relay,1,Sofia Cozza;Vaani Kapoor;Anna McGrew;Naomi Boegholm,SR;SR;JR;SR,Wellesley,3:35.82,40
 2022,Division 2,400 Freestyle Relay,2,Elissa Bennett;Megan Han;Emma Kawai;Elle Michaud,SO;SO;SO;JR,Winchester,3:41.47,34
 2022,Division 2,400 Freestyle Relay,3,Julia Shulman;Alex Bold;Chloe Wukitch;Lucy Mackey,JR;SR;JR;JR,Needham,3:45.59,32
