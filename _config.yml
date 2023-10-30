@@ -95,6 +95,7 @@ atom_feed:
 # Reading Files
 include:
   - .htaccess
+  - _data
   - _pages
 exclude:
   - "*.sublime-project"
