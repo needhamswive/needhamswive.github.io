@@ -1,4 +1,259 @@
 year,division,event,place,name,grade,school,result,points
+2022,Division 1,1 Meter Diving - 11 Dives,1,Jaqui St. Clair,JR,Brookline,417.45,20
+2022,Division 1,1 Meter Diving - 11 Dives,2,Kailyn Aquino,SO,Haverhill,415.80,17
+2022,Division 1,1 Meter Diving - 11 Dives,3,Kaleigh O'Brien,FR,Central Catholic,380.30,16
+2022,Division 1,1 Meter Diving - 11 Dives,4,Kara Leahy,JR,Notre Dame Academy-Hingham,368.05,15
+2022,Division 1,1 Meter Diving - 11 Dives,5,Kelly Folwell,JR,Ursuline Academy,358.80,14
+2022,Division 1,1 Meter Diving - 11 Dives,6,Emily Richardson,JR,Framingham,355.90,13
+2022,Division 1,1 Meter Diving - 11 Dives,7,Zoe Raybould,SR,Brookline,355.05,12
+2022,Division 1,1 Meter Diving - 11 Dives,8,Sophia Lundgren,SR,Haverhill,351.40,11
+2022,Division 1,1 Meter Diving - 11 Dives,9,Meghan Walker,SR,Ursuline Academy,320.80,9
+2022,Division 1,1 Meter Diving - 11 Dives,10,Sophia Sierpina,SO,Central Catholic,319.45,7
+2022,Division 1,1 Meter Diving - 11 Dives,11,Kat Barry,JR,Framingham,315.20,6
+2022,Division 1,1 Meter Diving - 11 Dives,12,Nicole Raguin,SR,Acton-Boxborough,312.95,5
+2022,Division 1,1 Meter Diving - 11 Dives,13,Kelsey DePaolo,JR,Braintree,312.40,4
+2022,Division 1,1 Meter Diving - 11 Dives,14,Julia Scapicchio,,Ursuline Academy,311.90,3
+2022,Division 1,1 Meter Diving - 11 Dives,15,Sophia Ferrara,SO,Methuen,311.40,2
+2022,Division 1,1 Meter Diving - 11 Dives,16,Camille Robbe,SR,Acton-Boxborough,307.25,1
+2022,Division 1,1 Meter Diving - 8 Dives,1,Kailyn Aquino,SO,Haverhill,308.70,
+2022,Division 1,1 Meter Diving - 8 Dives,2,Jaqui St. Clair,JR,Brookline,286.35,
+2022,Division 1,1 Meter Diving - 8 Dives,3,Kaleigh O'Brien,FR,Central Catholic,276.20,
+2022,Division 1,1 Meter Diving - 8 Dives,4,Kelly Folwell,JR,Ursuline Academy,271.40,
+2022,Division 1,1 Meter Diving - 8 Dives,5,Emily Richardson,JR,Framingham,266.70,
+2022,Division 1,1 Meter Diving - 8 Dives,6,Zoe Raybould,SR,Brookline,262.00,
+2022,Division 1,1 Meter Diving - 8 Dives,7,Sophia Lundgren,SR,Haverhill,259.60,
+2022,Division 1,1 Meter Diving - 8 Dives,8,Kara Leahy,JR,Notre Dame Academy-Hingham,256.55,
+2022,Division 1,1 Meter Diving - 8 Dives,9,Meghan Walker,SR,Ursuline Academy,234.85,
+2022,Division 1,1 Meter Diving - 8 Dives,10,Camille Robbe,SR,Acton-Boxborough,232.85,
+2022,Division 1,1 Meter Diving - 8 Dives,11,Sophia Sierpina,SO,Central Catholic,231.80,
+2022,Division 1,1 Meter Diving - 8 Dives,12,Kelsey DePaolo,JR,Braintree,231.10,
+2022,Division 1,1 Meter Diving - 8 Dives,13,Sophia Ferrara,SO,Methuen,230.40,
+2022,Division 1,1 Meter Diving - 8 Dives,14,Nicole Raguin,SR,Acton-Boxborough,229.85,
+2022,Division 1,1 Meter Diving - 8 Dives,15,Julia Scapicchio,,Ursuline Academy,229.25,
+2022,Division 1,1 Meter Diving - 8 Dives,16,Kat Barry,JR,Framingham,225.40,
+2022,Division 1,1 Meter Diving - 8 Dives,17,Jennifer Baum,SR,Acton-Boxborough,224.30,
+2022,Division 1,1 Meter Diving - 8 Dives,18,Deanna Tartaglia,JR,Newton North,194.30,
+2022,Division 1,1 Meter Diving - 5 Dives,1,Kailyn Aquino,SO,Haverhill,196.50,
+2022,Division 1,1 Meter Diving - 5 Dives,2,Jaqui St. Clair,JR,Brookline,179.85,
+2022,Division 1,1 Meter Diving - 5 Dives,3,Kaleigh O'Brien,FR,Central Catholic,177.95,
+2022,Division 1,1 Meter Diving - 5 Dives,4,Kelly Folwell,JR,Ursuline Academy,176.80,
+2022,Division 1,1 Meter Diving - 5 Dives,5,Emily Richardson,JR,Framingham,176.65,
+2022,Division 1,1 Meter Diving - 5 Dives,6,Sophia Lundgren,SR,Haverhill,169.20,
+2022,Division 1,1 Meter Diving - 5 Dives,7,Zoe Raybould,SR,Brookline,168.45,
+2022,Division 1,1 Meter Diving - 5 Dives,8,Kelsey DePaolo,JR,Braintree,157.50,
+2022,Division 1,1 Meter Diving - 5 Dives,9,Kara Leahy,JR,Notre Dame Academy-Hingham,152.05,
+2022,Division 1,1 Meter Diving - 5 Dives,10,Sophia Sierpina,SO,Central Catholic,151.75,
+2022,Division 1,1 Meter Diving - 5 Dives,11,Sophia Ferrara,SO,Methuen,151.40,
+2022,Division 1,1 Meter Diving - 5 Dives,12,Camille Robbe,SR,Acton-Boxborough,150.10,
+2022,Division 1,1 Meter Diving - 5 Dives,13,Nicole Raguin,SR,Acton-Boxborough,148.30,
+2022,Division 1,1 Meter Diving - 5 Dives,14,Julia Scapicchio,,Ursuline Academy,144.85,
+2022,Division 1,1 Meter Diving - 5 Dives,15,Meghan Walker,SR,Ursuline Academy,141.45,
+2022,Division 1,1 Meter Diving - 5 Dives,16,Jennifer Baum,SR,Acton-Boxborough,137.65,
+2022,Division 1,1 Meter Diving - 5 Dives,17,Kat Barry,JR,Framingham,126.65,
+2022,Division 1,1 Meter Diving - 5 Dives,18,Deanna Tartaglia,JR,Newton North,119.10,
+2022,Division 1,200 Medley Relay,1,Bonnie Zhao;Hannah Lee;Katherine Henry;Ellie Eisenhauer,SR;SR;SR;SR,Brookline,1:50.91,40
+2022,Division 1,200 Medley Relay,2,Caroline Tyrrell;Emma Lent;Isabela Teixeira;Katie Baxter,SO;SR;SO;SO,Acton-Boxborough,1:52.07,34
+2022,Division 1,200 Medley Relay,3,Makenzie Hillsgrove;Sophie DeFrank;Jackie Story;Kailyn Aquino,JR;;SR;SO,Haverhill,1:54.95,32
+2022,Division 1,200 Medley Relay,4,Isabella Lombard;Mary Powers;Maya Pereira;Grace Morash,SR;SR;;FR,Ursuline Academy,1:54.98,30
+2022,Division 1,200 Medley Relay,5,Lana Huynh;Rachel Cordio;Amelia Barron;Maya Flatley,FR;SR;SO;SR,Andover,1:55.92,28
+2022,Division 1,200 Medley Relay,6,Emily Rogers;Maeve Foley;Maddison McAloon;Alexandra George,SO;FR;SR;JR,Central Catholic,1:56.59,26
+2022,Division 1,200 Medley Relay,7,Lily Nguyen;Thea Sanzone;Paige Kelly;Leyna Nguyen,SR;JR;FR;SO,Malden Catholic,1:57.99,24
+2022,Division 1,200 Medley Relay,8,Amy DiPasquale;Marie Scanlon;Ashwina Bangari;Emma Angelo,SO;SO;JR;SR,Framingham,1:59.76,22
+2022,Division 1,200 Medley Relay,9,Zoe Dearling;PJ Gruskin;Victoria Zhang;Juliana Hilderbrand,FR;SR;SO;JR,Lexington,1:59.91,18
+2022,Division 1,200 Medley Relay,10,Parker Deveau;Leah Knapp;Claire Holland;Lila Tulimieri,SO;JR;SR;JR,Newton North,2:00.37,14
+2022,Division 1,200 Medley Relay,11,Reagan Bulman;Haily Pham;Elyssa Truong;Meghan Scott-Richmond,JR;JR;SO;SR,Braintree,2:03.40,12
+2022,Division 1,200 Medley Relay,12,Anastasia Virvilis;Alexandra Noble;Elsa Mustin;Emma Iwaoka,SO;;FR;,Weymouth,2:03.45,10
+2022,Division 1,200 Freestyle,1,Anna Zaniolo,SR,Lexington,1:57.13,20
+2022,Division 1,200 Freestyle,2,Reagan Bulman,JR,Braintree,1:59.73,17
+2022,Division 1,200 Freestyle,3,Molly Jordan,FR,Haverhill,2:01.71,16
+2022,Division 1,200 Freestyle,4,Maeve Foley,FR,Central Catholic,2:04.07,15
+2022,Division 1,200 Freestyle,5,Maya Flatley,SR,Andover,2:04.74,14
+2022,Division 1,200 Freestyle,6,Kira Kozhemiakina,FR,Acton-Boxborough,2:06.60,13
+2022,Division 1,200 Freestyle,7,Olivia Sater,JR,Acton-Boxborough,2:06.90,12
+2022,Division 1,200 Freestyle,8,Grace Cingel,SO,Notre Dame Academy-Hingham,2:07.11,11
+2022,Division 1,200 Freestyle,9,Jillian Schneider,FR,Newton North,2:07.40,9
+2022,Division 1,200 Freestyle,10,Emma Kates,SR,Notre Dame Academy-Hingham,2:08.30,7
+2022,Division 1,200 Freestyle,11,Genevieve Lee,FR,Newton North,2:08.35,6
+2022,Division 1,200 Freestyle,12,Mariel Tan,SO,Acton-Boxborough,2:08.61,5
+2022,Division 1,200 Freestyle,13,Mimi Aspi,SO,Brookline,2:09.35,4
+2022,Division 1,200 Freestyle,14,Sarah Wipke,JR,Lexington,2:09.42,3
+2022,Division 1,200 Freestyle,15,Sasha Tsizer,SO,Framingham,2:09.66,2
+2022,Division 1,200 Individual Medley,1,Hannah Lee,SR,Brookline,2:07.62,20
+2022,Division 1,200 Individual Medley,2,Amelia Barron,SO,Andover,2:07.66,17
+2022,Division 1,200 Individual Medley,3,Emma Lent,SR,Acton-Boxborough,2:13.60,16
+2022,Division 1,200 Individual Medley,4,Isabella Lombard,SR,Ursuline Academy,2:13.88,15
+2022,Division 1,200 Individual Medley,5,Jackie Story,SR,Haverhill,2:17.10,14
+2022,Division 1,200 Individual Medley,6,Mary Powers,SR,Ursuline Academy,2:17.95,13
+2022,Division 1,200 Individual Medley,7,Alexandra Noble,,Weymouth,2:19.21,12
+2022,Division 1,200 Individual Medley,8,Alexa Vaillancourt,SR,Newton North,2:19.70,11
+2022,Division 1,200 Individual Medley,9,Caroline Tyrrell,SO,Acton-Boxborough,2:20.20,9
+2022,Division 1,200 Individual Medley,10,Rachel Cordio,SR,Andover,2:24.76,7
+2022,Division 1,200 Individual Medley,11,Katherine Henry,SR,Brookline,2:28.08,6
+2022,Division 1,200 Individual Medley,1,Michaela Chokureva,SR,Andover,23.22$,20
+2022,Division 1,200 Individual Medley,2,Isabela Teixeira,SO,Acton-Boxborough,23.72,17
+2022,Division 1,200 Individual Medley,3,Maddison McAloon,SR,Central Catholic,24.45,16
+2022,Division 1,200 Individual Medley,4,Jaclyn Ambrose,SR,Andover,25.13,15
+2022,Division 1,200 Individual Medley,5,Kate Urdaneta,SO,Newton North,25.25,14
+2022,Division 1,200 Individual Medley,6,Maya Pereira,X,Ursuline Academy,25.35,13
+2022,Division 1,200 Individual Medley,7,Audi Lin,SR,Lexington,25.39,12
+2022,Division 1,200 Individual Medley,8,Sophia Caruso,SO,Haverhill,25.61,11
+2022,Division 1,200 Individual Medley,9,Ellie Eisenhauer,SR,Brookline,25.85,9
+2022,Division 1,200 Individual Medley,10,Thea Sanzone,JR,Malden Catholic,25.97,7
+2022,Division 1,200 Individual Medley,11,Alexandra George,JR,Central Catholic,26.11,6
+2022,Division 1,200 Individual Medley,12,Julia Kammer,SO,Newton North,26.15,5
+2022,Division 1,200 Individual Medley,13,Emma Iwaoka,X,Weymouth,26.69,4
+2022,Division 1,200 Individual Medley,14,Katie Baxter,SO,Acton-Boxborough,26.72,3
+2022,Division 1,200 Individual Medley,15,Zoe Dearling,FR,Lexington,26.73,2
+2022,Division 1,200 Individual Medley,16,Daisy Huang,FR,Brookline,26.83,1
+2022,Division 1,200 Individual Medley,17,Kayleigh McCarthy,FR,,Woburn,
+2022,Division 1,200 Individual Medley,18,Marie Scanlon,SO,,Framingham,
+2022,Division 1,200 Individual Medley,19,Bella Jiang,SR,,Acton-Boxborough,
+2022,Division 1,200 Individual Medley,20,Katie Crowley,JR,,Acton-Boxborough,
+2022,Division 1,200 Individual Medley,21,Juliana Hilderbrand,JR,,Lexington,
+2022,Division 1,200 Individual Medley,22,Jillian Schneider,FR,Newton,North,
+2022,Division 1,200 Individual Medley,23,Madeleine Hodges,JR,,Lexington,
+2022,Division 1,200 Individual Medley,24,Ella Clohisy,SR,,Haverhill,
+2022,Division 1,200 Individual Medley,25,Emma Angelo,SR,,Framingham,
+2022,Division 1,200 Individual Medley,26,Gabriela McDonough,SO,,Andover,
+2022,Division 1,50 Freestyle,1,Michaela Chokureva,SR,Andover,23.22,20
+2022,Division 1,50 Freestyle,2,Isabela Teixeira,SO,Acton-Boxborough,23.72,17
+2022,Division 1,50 Freestyle,3,Maddison McAloon,SR,Central Catholic,24.45,16
+2022,Division 1,50 Freestyle,4,Jaclyn Ambrose,SR,Andover,25.13,15
+2022,Division 1,50 Freestyle,5,Kate Urdaneta,SO,Newton North,25.25,14
+2022,Division 1,50 Freestyle,6,Maya Pereira,,Ursuline Academy,25.35,13
+2022,Division 1,50 Freestyle,7,Audi Lin,SR,Lexington,25.39,12
+2022,Division 1,50 Freestyle,8,Sophia Caruso,SO,Haverhill,25.61,11
+2022,Division 1,50 Freestyle,9,Ellie Eisenhauer,SR,Brookline,25.85,9
+2022,Division 1,50 Freestyle,10,Thea Sanzone,JR,Malden Catholic,25.97,7
+2022,Division 1,50 Freestyle,11,Alexandra George,JR,Central Catholic,26.11,6
+2022,Division 1,50 Freestyle,12,Julia Kammer,SO,Newton North,26.15,5
+2022,Division 1,50 Freestyle,13,Emma Iwaoka,,Weymouth,26.69,4
+2022,Division 1,50 Freestyle,14,Katie Baxter,SO,Acton-Boxborough,26.72,3
+2022,Division 1,50 Freestyle,15,Zoe Dearling,FR,Lexington,26.73,2
+2022,Division 1,50 Freestyle,16,Daisy Huang,FR,Brookline,26.83,1
+2022,Division 1,50 Freestyle,17,Kayleigh McCarthy,FR,Woburn,26.89,
+2022,Division 1,50 Freestyle,18,Marie Scanlon,SO,Framingham,27.04,
+2022,Division 1,50 Freestyle,19,Bella Jiang,SR,Acton-Boxborough,27.10,
+2022,Division 1,50 Freestyle,20,Katie Crowley,JR,Acton-Boxborough,27.14,
+2022,Division 1,50 Freestyle,21,Juliana Hilderbrand,JR,Lexington,27.47,
+2022,Division 1,50 Freestyle,22,Jillian Schneider,FR,Newton North,27.64,
+2022,Division 1,50 Freestyle,23,Madeleine Hodges,JR,Lexington,27.67,
+2022,Division 1,50 Freestyle,24,Ella Clohisy,SR,Haverhill,27.78,
+2022,Division 1,50 Freestyle,24,Emma Angelo,SR,Framingham,27.78,
+2022,Division 1,50 Freestyle,26,Gabriela McDonough,SO,Andover,27.84,
+2022,Division 1,50 Butterfly,1,Lauren Jolley,JR,Lexington,58.60,20
+2022,Division 1,50 Butterfly,2,Bonnie Zhao,SR,Brookline,58.68,17
+2022,Division 1,50 Butterfly,3,Jackie Story,SR,Haverhill,1:00.60,16
+2022,Division 1,50 Butterfly,4,Jaclyn Ambrose,SR,Andover,1:00.72,15
+2022,Division 1,50 Butterfly,5,Makenzie Hillsgrove,JR,Haverhill,1:01.08,14
+2022,Division 1,50 Butterfly,6,Allison Ferrell,SR,Lexington,1:02.14,13
+2022,Division 1,50 Butterfly,7,Ashwina Bangari,JR,Framingham,1:03.42,12
+2022,Division 1,50 Butterfly,8,Elyssa Truong,SO,Braintree,1:03.70,11
+2022,Division 1,50 Butterfly,9,Emily Rogers,SO,Central Catholic,1:04.51,9
+2022,Division 1,50 Butterfly,10,Elsa Mustin,FR,Weymouth,1:05.16,7
+2022,Division 1,50 Butterfly,11,Olivia Sater,JR,Acton-Boxborough,1:05.22,6
+2022,Division 1,50 Butterfly,12,Chelsea Zhou,JR,Acton-Boxborough,1:05.23,5
+2022,Division 1,50 Butterfly,13,Victoria Zhang,SO,Lexington,1:05.37,4
+2022,Division 1,50 Butterfly,14,Aneesa Hazarika,FR,Andover,1:06.82,3
+2022,Division 1,100 Butterfly,1,Lauren Jolley,JR,Lexington,58.60,20
+2022,Division 1,100 Butterfly,2,Bonnie Zhao,SR,Brookline,58.68,17
+2022,Division 1,100 Butterfly,3,Jackie Story,SR,Haverhill,1:00.60,16
+2022,Division 1,100 Butterfly,4,Jaclyn Ambrose,SR,Andover,1:00.72,15
+2022,Division 1,100 Butterfly,5,Makenzie Hillsgrove,JR,Haverhill,1:01.08,14
+2022,Division 1,100 Butterfly,6,Allison Ferrell,SR,Lexington,1:02.14,13
+2022,Division 1,100 Butterfly,7,Ashwina Bangari,JR,Framingham,1:03.42,12
+2022,Division 1,100 Butterfly,8,Elyssa Truong,SO,Braintree,1:03.70,11
+2022,Division 1,100 Butterfly,9,Emily Rogers,SO,Central Catholic,1:04.51,9
+2022,Division 1,100 Butterfly,10,Elsa Mustin,FR,Weymouth,1:05.16,7
+2022,Division 1,100 Butterfly,11,Olivia Sater,JR,Acton-Boxborough,1:05.22,6
+2022,Division 1,100 Butterfly,12,Chelsea Zhou,JR,Acton-Boxborough,1:05.23,5
+2022,Division 1,100 Butterfly,13,Victoria Zhang,SO,Lexington,1:05.37,4
+2022,Division 1,100 Butterfly,14,Aneesa Hazarika,FR,Andover,1:06.82,3
+2022,Division 1,100 Butterfly,,Parker Deveau,SO,Newton North,DQ,
+2022,Division 1,100 Freestyle,1,Michaela Chokureva,SR,Andover,50.27$,20
+2022,Division 1,100 Freestyle,2,Isabela Teixeira,SO,Acton-Boxborough,51.78,17
+2022,Division 1,100 Freestyle,3,Anna Zaniolo,SR,Lexington,53.96,16
+2022,Division 1,100 Freestyle,4,Maddison McAloon,SR,Central Catholic,55.26,15
+2022,Division 1,100 Freestyle,5,Audi Lin,SR,Lexington,55.47,14
+2022,Division 1,100 Freestyle,6,Kate Urdaneta,SO,Newton North,56.03,13
+2022,Division 1,100 Freestyle,7,Lauren Jolley,JR,Lexington,56.29,12
+2022,Division 1,100 Freestyle,8,Maya Pereira,,Ursuline Academy,56.54,11
+2022,Division 1,100 Freestyle,9,Sophia Caruso,SO,Haverhill,56.90,9
+2022,Division 1,100 Freestyle,10,Alexandra George,JR,Central Catholic,57.40,7
+2022,Division 1,100 Freestyle,11,Julia Kammer,SO,Newton North,57.80,6
+2022,Division 1,100 Freestyle,12,Marie Scanlon,SO,Framingham,1:00.09,5
+2022,Division 1,500 Freestyle,1,Kira Kozhemiakina,FR,Acton-Boxborough,5:30.15,20
+2022,Division 1,500 Freestyle,2,Maeve Foley,FR,Central Catholic,5:31.51,17
+2022,Division 1,500 Freestyle,3,Emma Kates,SR,Notre Dame Academy-Hingham,5:31.95,16
+2022,Division 1,500 Freestyle,4,Alexa Vaillancourt,SR,Newton North,5:36.36,15
+2022,Division 1,500 Freestyle,5,Maya Flatley,SR,Andover,5:37.77,14
+2022,Division 1,500 Freestyle,6,Mary Powers,SR,Ursuline Academy,5:38.72,13
+2022,Division 1,500 Freestyle,7,Genevieve Lee,FR,Newton North,5:42.66,12
+2022,Division 1,500 Freestyle,8,Sarah Wipke,JR,Lexington,5:43.98,11
+2022,Division 1,500 Freestyle,9,Mariel Tan,SO,Acton-Boxborough,5:45.35,9
+2022,Division 1,500 Freestyle,10,Grace Cingel,SO,Notre Dame Academy-Hingham,5:47.46,7
+2022,Division 1,500 Freestyle,11,Sasha Tsizer,SO,Framingham,5:50.69,6
+2022,Division 1,500 Freestyle,12,Jill Cavener,JR,Andover,5:53.88,5
+2022,Division 1,200 Freestyle Relay,1,Audi Lin;Lauren Jolley;Allison Ferrell;Anna Zaniolo,SR;JR;SR;SR,Lexington,1:40.93,40
+2022,Division 1,200 Freestyle Relay,2,Jaclyn Ambrose;Gabriela McDonough;Aneesa Hazarika;Michaela Chokureva,SR;SO;FR;SR,Andover,1:41.69,34
+2022,Division 1,200 Freestyle Relay,3,Molly Jordan;Makenzie Hillsgrove;Jackie Story;Sophia Caruso,FR;JR;SR;SO,Haverhill,1:43.87,32
+2022,Division 1,200 Freestyle Relay,4,Olivia Sater;Bella Jiang;Katie Crowley;Katie Baxter,JR;SR;JR;SO,Acton-Boxborough,1:44.63,30
+2022,Division 1,200 Freestyle Relay,5,Jillian Schneider;Julia Kammer;Kate Urdaneta;Alexa Vaillancourt,FR;SO;SO;SR,Newton North,1:45.30,28
+2022,Division 1,200 Freestyle Relay,6,Daisy Huang;Mimi Aspi;Katherine Henry;Ellie Eisenhauer,FR;SO;SR;SR,Brookline,1:45.86,26
+2022,Division 1,200 Freestyle Relay,7,Thea Sanzone;Paige Kelly;Lily Nguyen;Leyna Nguyen,JR;FR;SR;SO,Malden Catholic,1:46.98,24
+2022,Division 1,200 Freestyle Relay,8,Marie Scanlon;Emma Angelo;Bella Bowen;Emma Bowen,SO;SR;SR;JR,Framingham,1:49.43,22
+2022,Division 1,200 Freestyle Relay,9,Sophie Rigaud;Grace Daoust;Emma Kates;Grace Cingel,SO;;SR;SO,Notre Dame Academy-Hingham,1:50.32,18
+2022,Division 1,200 Freestyle Relay,10,Grace Morash;Meagan Keaney;Anna Brown;Ani Fisher,FR;SR;SR;JR,Ursuline Academy,1:50.40,14
+2022,Division 1,200 Freestyle Relay,11,Kayleigh McCarthy;Alex Mahon;Maria Brito;Grace Davison,FR;FR;JR;FR,Woburn,1:51.86,12
+2022,Division 1,200 Freestyle Relay,12,Victoria Viglas;Elsa Mustin;Anastasia Virvilis;Emma Iwaoka,SR;FR;SO;,Weymouth,1:52.79,10
+2022,Division 1,200 Freestyle Relay,13,Rania Elouahi;Callie DeLano;Marissa Connolly;Rebecca MacLeod,SO;SR;SR;JR,Methuen,1:54.80,8
+2022,Division 1,200 Freestyle Relay,14,Meghan Fleming;Meghan Scott-Richmond;Aria Long;Haily Pham,SR;SR;SR;JR,Braintree,1:57.29,6
+2022,Division 1,200 Freestyle Relay,15,Ally Lightburn;Maggie Lightburn;Azul Wilson;Emma Repici,SR;SR;SR;SR,Central Catholic,2:00.94,4
+2022,Division 1,100 Backstroke,1,Isabella Lombard,SR,Ursuline Academy,58.96,20
+2022,Division 1,100 Backstroke,2,Molly Jordan,FR,Haverhill,1:00.83,17
+2022,Division 1,100 Backstroke,3,Makenzie Hillsgrove,JR,Haverhill,1:01.10,16
+2022,Division 1,100 Backstroke,4,Bonnie Zhao,SR,Brookline,1:01.45,15
+2022,Division 1,100 Backstroke,5,Caroline Tyrrell,SO,Acton-Boxborough,1:01.95,14
+2022,Division 1,100 Backstroke,6,Chelsea Zhou,JR,Acton-Boxborough,1:02.98,13
+2022,Division 1,100 Backstroke,7,Ashwina Bangari,JR,Framingham,1:03.06,12
+2022,Division 1,100 Backstroke,8,Reagan Bulman,JR,Braintree,1:03.15,11
+2022,Division 1,100 Backstroke,9,Katie Baxter,SO,Acton-Boxborough,1:03.68,9
+2022,Division 1,100 Backstroke,10,Mirta Ceraj,FR,Brookline,1:04.84,7
+2022,Division 1,100 Backstroke,11,Alice Hui,SO,Acton-Boxborough,1:05.15,6
+2022,Division 1,100 Backstroke,12,Emily Rogers,SO,Central Catholic,1:05.39,5
+2022,Division 1,100 Backstroke,13,Zoe Dearling,FR,Lexington,1:05.73,4
+2022,Division 1,100 Backstroke,14,Parker Deveau,SO,Newton North,1:05.87,3
+2022,Division 1,100 Backstroke,15,Gabriella Miranda Chong,FR,Brookline,1:06.41,2
+2022,Division 1,100 Backstroke,16,Juliana Hilderbrand,JR,Lexington,1:06.51,1
+2022,Division 1,100 Backstroke,17,Lana Huynh,FR,Andover,1:06.79,
+2022,Division 1,100 Backstroke,18,Amy DiPasquale,SO,Framingham,1:07.28,
+2022,Division 1,100 Backstroke,19,Ashley Zhang,SR,Lexington,1:07.45,
+2022,Division 1,100 Breaststroke,1,Hannah Lee,SR,Brookline,1:04.67,20
+2022,Division 1,100 Breaststroke,2,Amelia Barron,SO,Andover,1:07.74,17
+2022,Division 1,100 Breaststroke,3,Emma Lent,SR,Acton-Boxborough,1:09.12,16
+2022,Division 1,100 Breaststroke,4,Allison Ferrell,SR,Lexington,1:10.19,15
+2022,Division 1,100 Breaststroke,5,Alexandra Noble,,Weymouth,1:10.45,14
+2022,Division 1,100 Breaststroke,6,Thea Sanzone,JR,Malden Catholic,1:12.06,13
+2022,Division 1,100 Breaststroke,7,Rachel Cordio,SR,Andover,1:12.79,12
+2022,Division 1,100 Breaststroke,8,Victoria Zhang,SO,Lexington,1:12.86,11
+2022,Division 1,100 Breaststroke,9,Kyla Frey,SR,Brookline,1:13.50,9
+2022,Division 1,100 Breaststroke,10,Katie Crowley,JR,Acton-Boxborough,1:13.82,7
+2022,Division 1,100 Breaststroke,11,Daisy Huang,FR,Brookline,1:14.41,6
+2022,Division 1,100 Breaststroke,12,PJ Gruskin,SR,Lexington,1:14.46,5
+2022,Division 1,100 Breaststroke,13,Aneesa Hazarika,FR,Andover,1:14.52,4
+2022,Division 1,100 Breaststroke,14,Cadence Singleton,JR,Andover,1:15.62,3
+2022,Division 1,400 Freestyle Relay,1,Maya Flatley;Amelia Barron;Jaclyn Ambrose;Michaela Chokureva,SR;SO;SR;SR,Andover,3:35.89,40
+2022,Division 1,400 Freestyle Relay,2,Audi Lin;Lauren Jolley;Allison Ferrell;Anna Zaniolo,SR;JR;SR;SR,Lexington,3:42.45,34
+2022,Division 1,400 Freestyle Relay,3,Olivia Sater;Kira Kozhemiakina;Caroline Tyrrell;Isabela Teixeira,JR;FR;SO;SO,Acton-Boxborough,3:47.88,32
+2022,Division 1,400 Freestyle Relay,4,Mimi Aspi;Bonnie Zhao;Hannah Lee;Ellie Eisenhauer,SO;SR;SR;SR,Brookline,3:48.05,30
+2022,Division 1,400 Freestyle Relay,5,Maddison McAloon;Alexandra George;Emily Rogers;Maeve Foley,SR;JR;SO;FR,Central Catholic,3:51.14,28
+2022,Division 1,400 Freestyle Relay,6,Maya Pereira;Grace Morash;Mary Powers;Isabella Lombard,;FR;SR;SR,Ursuline Academy,3:51.75,26
+2022,Division 1,400 Freestyle Relay,7,Jillian Schneider;Julia Kammer;Kate Urdaneta;Alexa Vaillancourt,FR;SO;SO;SR,Newton North,3:53.12,24
+2022,Division 1,400 Freestyle Relay,8,Molly Jordan;Sophia Caruso;Ella Clohisy;Kailyn Aquino,FR;SO;SR;SO,Haverhill,3:54.92,22
+2022,Division 1,400 Freestyle Relay,9,Elyssa Truong;Haily Pham;Meghan Scott-Richmond;Reagan Bulman,SO;JR;SR;JR,Braintree,3:57.24,18
+2022,Division 1,400 Freestyle Relay,10,Emma Angelo;Emma Bowen;Sasha Tsizer;Ashwina Bangari,SR;JR;SO;JR,Framingham,3:57.41,14
+2022,Division 1,400 Freestyle Relay,11,Sophie Rigaud;Angela Kennedy;Emma Kates;Grace Cingel,SO;JR;SR;SO,Notre Dame Academy-Hingham,4:02.70,12
+2022,Division 1,400 Freestyle Relay,12,Maria Brito;Grace Davison;Ryley McCarthy;Kayleigh McCarthy,JR;FR;FR;FR,Woburn,4:11.43,10
 2022,Division 2,1 Meter Diving - 11 Dives,1,Katie Dorey,JR,Natick,421.60,20
 2022,Division 2,1 Meter Diving - 11 Dives,2,Lucy Savarese,JR,Wellesley,417.35,17
 2022,Division 2,1 Meter Diving - 11 Dives,3,Robyn Tonomura-MacDonald,SO,Belmont,398.35,16
@@ -40,7 +295,7 @@ year,division,event,place,name,grade,school,result,points
 2022,Division 2,1 Meter Diving - 5 Dives,13,Julia Harding,JR,Wellesley,123.45,
 2022,Division 2,200 Medley Relay,1,Tracey Peng;Alexandra Loo;Naomi Boegholm;Katie Passanisi,SO;SO;SR;SR,Wellesley,1:51.13,40
 2022,Division 2,200 Medley Relay,2,Emma Kawai;Bess Tesluk;Elissa Bennett;Elle Michaud,SO;SR;SO;JR,Winchester,1:52.53,34
-2022,Division 2,200 Medley Relay,3,Emmy Cashin;Laila Paulsen 8;Anna Boemer;Elise Verrier,SR;;SR;SR,Reading,1:53.73,32
+2022,Division 2,200 Medley Relay,3,Emmy Cashin;Laila Paulsen;Anna Boemer;Elise Verrier,SR;;SR;SR,Reading,1:53.73,32
 2022,Division 2,200 Medley Relay,4,Tasha Secan;Diya Ackerman-Vallala;Skyler Holland;Alexandra Shea,FR;SR;SR;SR,North Andover,1:55.22,30
 2022,Division 2,200 Medley Relay,5,Chloe Wukitch;Gabby Kim;Sophie Guarrera;Alex Bold,JR;SR;JR;SR,Needham,1:55.50,28
 2022,Division 2,200 Medley Relay,6,Ava Wong;Sarah Shentu;Michelle Li;Abbey Lipoma,JR;SR;SR;JR,Natick,1:56.92,26
@@ -181,7 +436,7 @@ year,division,event,place,name,grade,school,result,points
 2022,Division 2,500 Freestyle,16,Abigail Mirick,SO,Stoneham,5:53.78,1
 2022,Division 2,500 Freestyle,17,Sophie Kwan,SO,Wellesley,6:00.58,
 2022,Division 2,200 Freestyle Relay,1,Anna McGrew;Alexandra Loo;Sofia Cozza;Vaani Kapoor,JR;SO;SR;SR,Wellesley,1:38.56,40
-2022,Division 2,200 Freestyle Relay,2,Laila Paulsen 8;Emmy Cashin;Elise Verrier;Anna Boemer,;SR;SR;SR,Reading,1:44.27,34
+2022,Division 2,200 Freestyle Relay,2,Laila Paulsen;Emmy Cashin;Elise Verrier;Anna Boemer,;SR;SR;SR,Reading,1:44.27,34
 2022,Division 2,200 Freestyle Relay,3,Ella Fazio;Lindsey Downer;Emma Gray;Catherine Latham,FR;SR;JR;SR,Chelmsford,1:44.32,32
 2022,Division 2,200 Freestyle Relay,4,Lucy Mackey;Becky Hwang;Olive Haller;Julia Shulman,JR;SO;SR;JR,Needham,1:44.42,30
 2022,Division 2,200 Freestyle Relay,5,Annie Xing;Morgan Landry;Bess Tesluk;Megan Han,SR;SR;SR;SO,Winchester,1:44.75,28
