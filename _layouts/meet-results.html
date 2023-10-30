@@ -20,9 +20,22 @@ classes: wide
 
 {% assign years = results | map: "year" | uniq | sort | reverse %}
 
-{% include filter-event-year.html
-  events = events
-  years = years %}
+{% assign first-result = results | first %}
+{% assign multiple-divisions = first-result.division %}
+{% if multiple-divisions %}
+  {% assign divisions = results | map: "division" | uniq | sort %}
+{% endif %}
+
+{% if multiple-divisions %}
+  {% include filter-division-event-year.html
+    events = events
+    divisions = divisions
+    years = years %}
+{% else %}
+  {% include filter-event-year.html
+    events = events
+    years = years %}
+{% endif %}
 
 {% for year in years %}
 
@@ -32,36 +45,20 @@ classes: wide
 
 <h2>{{ year }}</h2>
 
-<table>
-  <thead>
-    <tr>
-      <th>Place</th>
-      <th>Name</th>
-      <th>Grade</th>
-      <th>School</th>
-      <th>Result</th>
-      <th>Points</th>
-    </tr>
-  </thead>
-  <tbody>
-    {% for event in events %}
-      {% assign event-results = results-for-year | where: "event", event %}
-      <tr class="filter-section" data-option="event" data-section="{{ event }}">
-        <th colspan="5" style="text-align: center;">{{ event }}</th>
-      </tr>
-      {% for row in event-results %}
-        <tr class="filter-section" data-option="event" data-section="{{ event }}">
-          <td>{{ row.place | formatcell }}</td>
-          <td>{{ row.name | formatcell }}</td>
-          <td>{{ row.grade | formatcell }}</td>
-          <td>{{ row.school | formatcell }}</td>
-          <td>{{ row.result | formatcell }}</td>
-          <td>{{ row.points | formatcell }}</td>
-        </tr>
-      {% endfor %}
-    {% endfor %}
-  </tbody>
-</table>
+{% if multiple-divisions %}
+  {% for division in divisions %}
+    <h3>{{ division }}&nbsp;{{ page.division-suffix }}</h3>
+
+    {% assign results-for-year-and-division = results-for-year | where: "division", division %}
+    {% include event-results.html
+      events = events
+      results = results-for-year-and-division %}
+  {% endfor %}
+{% else %}
+  {% include event-results.html
+    events = events
+    results = results-for-year %}
+{% endif %}
 
 </div>
 

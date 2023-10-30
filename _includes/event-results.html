@@ -1,0 +1,30 @@
+<table>
+  <thead>
+    <tr>
+      <th>Place</th>
+      <th>Name</th>
+      <th>Grade</th>
+      <th>School</th>
+      <th>Result</th>
+      <th>Points</th>
+    </tr>
+  </thead>
+  <tbody>
+    {% for event in include.events %}
+      {% assign event-results = include.results | where: "event", event %}
+      <tr class="filter-section" data-option="event" data-section="{{ event }}">
+        <th colspan="5" style="text-align: center;">{{ event }}</th>
+      </tr>
+      {% for row in event-results %}
+        <tr class="filter-section" data-option="event" data-section="{{ event }}">
+          <td>{{ row.place | formatcell }}</td>
+          <td>{{ row.name | formatcell }}</td>
+          <td>{{ row.grade | formatcell }}</td>
+          <td>{{ row.school | formatcell }}</td>
+          <td>{{ row.result | formatcell }}</td>
+          <td>{{ row.points | formatcell }}</td>
+        </tr>
+      {% endfor %}
+    {% endfor %}
+  </tbody>
+</table>
