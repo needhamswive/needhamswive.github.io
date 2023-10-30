@@ -2,7 +2,7 @@
 title: Qualifying Standards
 ---
 
-{% assign events = site.data.high-school.dual-meet-results-event-order | map: "name" %}
+{% assign events = site.data.high-school.event-order.dual-meet-results | map: "name" %}
 {% assign all-qualifying-standards = site.data.high-school.archives.fall.qualifying-standards %}
 {% assign years = all-qualifying-standards | map: "year" | uniq %}
 
