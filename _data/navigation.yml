@@ -12,6 +12,8 @@ home:
         url: high-school/girls
       - title: High School Boys
         url: high-school/boys
+      - title: Needham Sharks
+        url: needham-sharks
   - title: Archives
     children:
       - title: High School Archives
