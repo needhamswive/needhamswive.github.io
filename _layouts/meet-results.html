@@ -52,14 +52,14 @@ classes: wide
     <h3>{{ division }}&nbsp;{{ page.division-suffix }}</h3>
 
     {% assign results-for-year-and-division = results-for-year | where: "division", division %}
-    {% include event-results.html
+    {% include division-results.html
       events = events
       results = results-for-year-and-division %}
 
     </div>
   {% endfor %}
 {% else %}
-  {% include event-results.html
+  {% include division-results.html
     events = events
     results = results-for-year %}
 {% endif %}
