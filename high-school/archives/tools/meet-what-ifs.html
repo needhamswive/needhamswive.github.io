@@ -1,0 +1,165 @@
+---
+title: Meet What Ifs
+classes: wide
+---
+
+<form>
+  <label for="data-file">Data File</label>
+  <input id="data-file" name="data-file" type="text">
+
+  <input type="submit" value="Load">
+</form>
+
+<br>
+
+<form onsubmit="filterData(event); return false;">
+  <label for="year">Years</label>
+  <input id="year" name="year" type="text">
+
+  <label for="division">Divisions</label>
+  <input id="division" name="division" type="text">
+
+  <label for="school">Schools</label>
+  <input id="school" name="school" type="text">
+
+  <label for="grade">Grades</label>
+  <input id="grade" name="grade" type="text">
+
+  <input id="filter" type="submit" value="Filter">
+</form>
+
+<br>
+
+<table>
+  <thead>
+    <tr>
+      <th>Year</th>
+      <th>Division</th>
+      <th>Event</th>
+      <th>Place</th>
+      <th>Name</th>
+      <th>Grade</th>
+      <th>School</th>
+      <th>Result</th>
+      <th>Points</th>
+    </tr>
+  </thead>
+  <tbody id="data">
+  </tbody>
+</table>
+
+<script>
+  // https://stackoverflow.com/a/59017439
+  function csvToJSON(csv) {
+    const lines = csv.split("\n");
+    const result = [];
+    const headers = lines[0].split(",").map(header => header.trim());
+
+    for (let i = 1; i < lines.length; i++) {
+      const obj = {};
+
+      if(lines[i] === undefined || lines[i].trim() === "") {
+        continue;
+      }
+
+      const words = lines[i].split(",");
+      for(let j = 0; j < words.length; j++) {
+        obj[headers[j]] = words[j];
+      }
+
+      result.push(obj);
+    }
+    return result;
+  }
+
+  function formatCell(data) {
+    data = data.replaceAll(";", "<br>");
+    data = data.replaceAll(" ", "&nbsp;")
+    data = data.replaceAll("-", "&#8209;")
+    return data;
+  }
+
+  function filterData(event) {
+    try {
+      const filters = new FormData(event.target);
+      const searchParams = new URLSearchParams(window.location.search);
+
+      let rows = data.slice(0);
+
+      rows = filterOnField(rows, filters, searchParams, "year");
+      rows = filterOnField(rows, filters, searchParams, "division");
+      rows = filterOnField(rows, filters, searchParams, "school");
+      rows = filterOnField(rows, filters, searchParams, "grade");
+
+      createTable(rows);
+      newRelativePathQuery = window.location.pathname + "?" + searchParams.toString();
+      history.pushState(null, "", newRelativePathQuery);
+    } catch (e) {
+      console.log(e);
+    }
+  }
+
+  function filterOnField(rows, filters, searchParams, key) {
+    const values = filters.get(key).split(",").filter(e => e !== "");
+    if (values.length > 0) {
+      searchParams.set(key, filters.get(key));
+      rows = rows.filter(row => values.includes(row[key]));
+    } else {
+      searchParams.delete(key);
+    }
+    return rows;
+  }
+
+  function processSearchParams(searchParams) {
+    if (searchParams.get("year")) {
+      document.getElementById("year").value = searchParams.get("year");
+    }
+    if (searchParams.get("division")) {
+      document.getElementById("division").value = searchParams.get("division");
+    }
+    if (searchParams.get("school")) {
+      document.getElementById("school").value = searchParams.get("school");
+    }
+    if (searchParams.get("grade")) {
+      document.getElementById("grade").value = searchParams.get("grade");
+    }
+
+    document.getElementById("filter").click();
+  }
+
+  function createTable(rows) {
+    tbody.replaceChildren();
+
+    for (const row of rows) {
+      const tr = document.createElement("tr");
+      for (const col of COLUMNS) {
+        const td = document.createElement("td");
+        td.innerHTML = formatCell(row[col]);
+        tr.appendChild(td);
+      }
+      tbody.appendChild(tr);
+    }
+  }
+
+  const COLUMNS = ["year", "division", "event", "place", "name", "grade", "school", "result", "points"];
+  let tbody;
+  let data;
+
+  window.addEventListener("DOMContentLoaded", async () => {
+    tbody = document.getElementById("data");
+    const searchParams = new URLSearchParams(window.location.search);
+    const dataFilePath = searchParams.get("data-file");
+
+    if (dataFilePath === null) return;
+
+    document.getElementById("data-file").value = dataFilePath;
+
+    const url = window.location.origin + "/_data/" + dataFilePath;
+    const response = await fetch(url);
+
+    if (response.status === 404) return;
+
+    data = csvToJSON(await response.text());
+    processSearchParams(searchParams);
+  });
+</script>
