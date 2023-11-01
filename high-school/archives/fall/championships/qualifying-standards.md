@@ -1,5 +1,5 @@
 ---
-title: Qualifying Standards
+title: MIAA Fall Qualifying Standards
 ---
 
 {% assign events = site.data.high-school.event-order.dual-meet-results | map: "name" %}

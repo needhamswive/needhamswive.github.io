@@ -1,4 +1,4 @@
 ---
-title: High School Fall Archives
+title: MIAA Fall Swim & Dive Archives
 layout: high-school-archives-homepage
 ---

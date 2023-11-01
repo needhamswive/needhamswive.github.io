@@ -1,5 +1,5 @@
 ---
-title: Rule Changes
+title: NFHS Rule Changes
 ---
 
 The list of rule changes to swimming and diving for the 2023-24 season from the National Federation of State High School Associations (NFHS) are as follows: [^1]

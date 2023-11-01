@@ -1,5 +1,5 @@
 ---
-title: Rule Changes
+title: NFHS Rule Changes
 toc: true
 head_scripts: assets/high-school/girls/past-seasons/rule-changes-edit-toc.js
 ---

@@ -1,5 +1,5 @@
 ---
-title: States School Rankings
+title: MIAA Fall Girls States Rankings
 ---
 
 {% assign school-rankings = site.data.high-school.archives.fall.girls.meet-results.championships.states.school-rankings %}

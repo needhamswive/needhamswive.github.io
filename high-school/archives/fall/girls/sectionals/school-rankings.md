@@ -1,5 +1,5 @@
 ---
-title: Sectionals School Rankings
+title: MIAA Fall Girls Sectionals Rankings
 ---
 
 {% assign school-rankings = site.data.high-school.archives.fall.girls.meet-results.championships.sectionals.school-rankings %}

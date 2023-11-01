@@ -1,5 +1,5 @@
 ---
-title: Sectionals Meet Results
+title: MIAA Fall Girls Sectionals Meet Results
 layout: meet-results
 
 division-suffix: Sectional
