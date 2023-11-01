@@ -6,18 +6,6 @@ title: MIAA
 
 {% assign pages = site.data.high-school.archives.sources.miaa-ezstream %}
 
-<table>
-  <tbody>
-    {% for page in pages %}
-      <tr>
-        <td><a href="http://miaa.ezstream.net/index.cfm?itemid={{ page.itemid }}">{{ page.title }}</a></td>
-      </tr>
-    {% endfor %}
-  </tbody>
-</table>
-
----
-
 {% assign years = pages | map: "year" | compact | uniq | sort | reverse %}
 
 {% include filter-year.html
