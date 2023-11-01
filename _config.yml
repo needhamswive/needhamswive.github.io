@@ -150,6 +150,12 @@ kramdown:
   enable_coderay: false
 
 
+# JS
+head_scripts:
+  - /assets/js/break-footnotes.js
+  - /assets/js/process-links.js
+
+
 # Sass/SCSS
 sass:
   sass_dir: _sass
