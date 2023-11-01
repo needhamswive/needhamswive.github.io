@@ -22,12 +22,12 @@
     }
 
     const searchParams = new URLSearchParams(window.location.search);
-    const navTags = searchParams.get("nav-tags")?.split(",").filter(tag => tag !== "") || [];
+    const navTags = searchParams.get("nav")?.split(",").filter(tag => tag !== "") || [];
 
     if (navTags.length > 0) {
       for (const link of document.querySelectorAll(".nav__list a")) {
         const url = new URL(link.href);
-        url.searchParams.set("nav-tags", navTags.join(","));
+        url.searchParams.set("nav", navTags.join(","));
         link.href = url.href;
       }
     }

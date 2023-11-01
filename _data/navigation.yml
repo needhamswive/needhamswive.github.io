@@ -9,9 +9,9 @@ home:
   - title: Teams
     children:
       - title: High School Girls
-        url: high-school/girls
+        url: high-school/girls?nav=girls
       - title: High School Boys
-        url: high-school/boys
+        url: high-school/boys?nav=boys
       - title: Needham Sharks
         url: needham-sharks
   - title: Archives
@@ -24,9 +24,9 @@ high-school:
     no-tags: girls,boys
     children:
       - title: High School Girls
-        url: high-school/girls
+        url: high-school/girls?nav=girls
       - title: High School Boys
-        url: high-school/boys
+        url: high-school/boys?nav=boys
   - title: General Information
     children:
       - title: About The Team
@@ -77,13 +77,13 @@ high-school-girls:
       - title: About The Team
         url: high-school/girls/general-information/about-the-team
       - title: Scoring a Meet
-        url: high-school/general-information/scoring-a-meet?nav-tags=girls
+        url: high-school/general-information/scoring-a-meet?nav=girls
       - title: Introduction to Diving
-        url: high-school/general-information/introduction-to-diving?nav-tags=girls
+        url: high-school/general-information/introduction-to-diving?nav=girls
       - title: Team Records
         url: high-school/girls/general-information/team-records
       - title: Student Handbook
-        url: high-school/general-information/student-handbook?nav-tags=girls
+        url: high-school/general-information/student-handbook?nav=girls
   - title: Current Season
     children:
       - title: Schedule
@@ -93,13 +93,13 @@ high-school-girls:
       - title: Meet Results
         url: high-school/girls/current-season/meet-results
       - title: Rule Changes
-        url: high-school/current-season/rule-changes?nav-tags=girls
+        url: high-school/current-season/rule-changes?nav=girls
   - title: Past Seasons
     children:
       - title: Meet Results
         url: high-school/girls/past-seasons/meet-results
       - title: Rule Changes
-        url: high-school/past-seasons/rule-changes?nav-tags=girls
+        url: high-school/past-seasons/rule-changes?nav=girls
   - title: Archives
     url: high-school/archives
     children:
@@ -110,19 +110,19 @@ high-school-boys:
   - title: General Information
     children:
       - title: Scoring a Meet
-        url: high-school/general-information/scoring-a-meet?nav-tags=boys
+        url: high-school/general-information/scoring-a-meet?nav=boys
       - title: Introduction to Diving
-        url: high-school/general-information/introduction-to-diving?nav-tags=boys
+        url: high-school/general-information/introduction-to-diving?nav=boys
       - title: Student Handbook
-        url: high-school/general-information/student-handbook?nav-tags=boys
+        url: high-school/general-information/student-handbook?nav=boys
   - title: Current Season
     children:
       - title: Rule Changes
-        url: high-school/current-season/rule-changes?nav-tags=boys
+        url: high-school/current-season/rule-changes?nav=boys
   - title: Past Seasons
     children:
       - title: Rule Changes
-        url: high-school/past-seasons/rule-changes?nav-tags=boys
+        url: high-school/past-seasons/rule-changes?nav=boys
   - title: Archives
     url: high-school/archives
     children:
