@@ -20,16 +20,16 @@ window.addEventListener("DOMContentLoaded", () => {
       let head;
       let body;
       if (frontMatter[1].startsWith("---")) {
-        head = `${title}<br/>`;
+        head = title
         body = content.slice(4).join("\n");
       } else {
         const date = frontMatter[1].slice(6);
-        head = `${title}<br/>${date}<br/>`;
+        head = `${title}<br/>${date}`;
         body = content.slice(5).join("\n");
       }
 
       document.getElementById("link").href = `http://miaa.ezstream.net/index.cfm?itemid=${itemid}`;
-      document.getElementById("content").innerHTML = `<pre style="font-size:11px;">` + head + "<br/><br/>" + body + "</pre>";
+      document.getElementById("content").innerHTML = `<pre style="font-size:11px;">` + head + "<br/><br/><br/>" + body + "</pre>";
     });
   });
 });
