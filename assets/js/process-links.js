@@ -1,12 +1,12 @@
 // https://stackoverflow.com/questions/807878/how-to-make-javascript-execute-after-page-load
 window.addEventListener("DOMContentLoaded", () => {
-  // Add `{:target="_blank" rel="noopener noreferrer"}`
+  // Add `{:target="_blank" rel="nofollow noopener noreferrer"}`
   // https://stackoverflow.com/questions/4425198/can-i-create-links-with-target-blank-in-markdown
   const links = document.links;
   for (const link of links) {
     if (link.hostname != window.location.hostname) {
       link.target = "_blank";
-      link.rel = "noopener noreferrer";
+      link.rel = "nofollow noopener noreferrer";
     }
   }
 
