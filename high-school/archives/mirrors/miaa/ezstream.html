@@ -1,0 +1,22 @@
+---
+title: MIAA EZStream Mirror
+---
+
+<script>
+const searchParams = new URLSearchParams(window.location.search);
+const itemid = searchParams.get("itemid") || 462;
+const request = fetch(`https://raw.githubusercontent.com/needhamswive/needhamswive.github.io/master/_mirrors/miaa/ezstream/itemid/${itemid}.html`);
+
+window.addEventListener("DOMContentLoaded", () => {
+  request.then((response) => {
+    if (response.status !== 200) {
+      return;
+    }
+    response.text().then(function(content) {
+      document.getElementById("content").innerHTML = content.split("\n").slice(5).join("\n");
+    });
+  });
+});
+</script>
+
+<div id="content"></div>
