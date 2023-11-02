@@ -19,11 +19,12 @@ title: MIAA
 
 <table>
   <thead>
-    <th>{{year}}</th>
+    <th colspan="2" style="text-align: center;">{{year}}</th>
   </thead>
   <tbody>
     {% for page in pages-for-year %}
       <tr>
+        <td><a href="/high-school/archives/mirrors/miaa/ezstream?itemid={{ page.itemid }}">mirror</a></td>
         <td><a href="http://miaa.ezstream.net/index.cfm?itemid={{ page.itemid }}">{{ page.title }}</a></td>
       </tr>
     {% endfor %}
