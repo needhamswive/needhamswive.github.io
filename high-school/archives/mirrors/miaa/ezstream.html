@@ -16,9 +16,18 @@ window.addEventListener("DOMContentLoaded", () => {
       content = content.split("\n");
       const frontMatter = content.slice(1, 3);
       const title = frontMatter[0].slice(7);
-      const date = frontMatter[1].slice(6);
-      const head = `${title}<br>${date}<br>`;
-      const body = content.slice(5).join("\n");
+
+      let head;
+      let body;
+      if (frontMatter[1].startsWith("---")) {
+        head = `${title}<br/>`;
+        body = content.slice(4).join("\n");
+      } else {
+        const date = frontMatter[1].slice(6);
+        head = `${title}<br/>${date}<br/>`;
+        body = content.slice(5).join("\n");
+      }
+
       document.getElementById("link").href = `http://miaa.ezstream.net/index.cfm?itemid=${itemid}`;
       document.getElementById("content").innerHTML = `<pre style="font-size:11px;">` + head + "<br/><br/>" + body + "</pre>";
     });
