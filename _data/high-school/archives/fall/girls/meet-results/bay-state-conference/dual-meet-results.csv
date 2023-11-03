@@ -389,32 +389,32 @@ year,school-1,school-2,score-1,score-2,school-1-result
 2015,Walpole,Wellesley,,,
 2015,Walpole,Weymouth,,,
 2015,Wellesley,Weymouth,,,
-2014,Braintree,Brookline,,,
+2014,Braintree,Brookline,78,99,L
 2014,Braintree,Dedham,,,
-2014,Braintree,Framingham,,,
+2014,Braintree,Framingham,83,95,L
 2014,Braintree,Natick,,,
 2014,Braintree,Needham,78,103,L
 2014,Braintree,Newton North,,,L
 2014,Braintree,Norwood,,,
 2014,Braintree,Walpole,,,
-2014,Braintree,Wellesley,,,
-2014,Braintree,Weymouth,,,
+2014,Braintree,Wellesley,,,L
+2014,Braintree,Weymouth,90,75,W
 2014,Brookline,Dedham,,,
-2014,Brookline,Framingham,,,
+2014,Brookline,Framingham,83,93,L
 2014,Brookline,Natick,,,
 2014,Brookline,Needham,86,95,L
-2014,Brookline,Newton North,,,L
+2014,Brookline,Newton North,82,96,L
 2014,Brookline,Norwood,,,
-2014,Brookline,Walpole,,,
-2014,Brookline,Wellesley,,,
-2014,Brookline,Weymouth,,,
+2014,Brookline,Walpole,84,100,L
+2014,Brookline,Wellesley,86,98,L
+2014,Brookline,Weymouth,,,W
 2014,Dedham,Framingham,,,
 2014,Dedham,Natick,,,
 2014,Dedham,Needham,,,L
 2014,Dedham,Newton North,,,L
 2014,Dedham,Norwood,,,
 2014,Dedham,Walpole,,,
-2014,Dedham,Wellesley,,,
+2014,Dedham,Wellesley,,,L
 2014,Dedham,Weymouth,,,
 2014,Framingham,Natick,,,
 2014,Framingham,Needham,86,94,L
@@ -439,7 +439,7 @@ year,school-1,school-2,score-1,score-2,school-1-result
 2014,Newton North,Wellesley,102,82,W
 2014,Newton North,Weymouth,,,W
 2014,Norwood,Walpole,,,
-2014,Norwood,Wellesley,,,
+2014,Norwood,Wellesley,74,103,L
 2014,Norwood,Weymouth,,,
 2014,Walpole,Wellesley,,,
 2014,Walpole,Weymouth,,,

@@ -893,7 +893,7 @@ results-by-year:
       - school: Framingham
         score: 94 - 86
         result: W
-        citations: 2014003;BSCWiki;2014001;2014008
+        citations: 2014003;BSCWiki;2014001;2014008;2014010
       - school: Natick
         score: 94 - 87
         result: W
@@ -964,6 +964,8 @@ results-by-year:
         link: https://www.wickedlocal.com/story/needham-times/2014/09/25/rocket-roundup-girls-swimming-team/36325567007/
       - name: 2014009
         link: https://www.wickedlocal.com/story/newton-tab/2014/10/15/newton-north-102-needham-82/36161788007/
+      - name: 2014010
+        link: https://www.wickedlocal.com/story/bulletin-tab/2014/09/24/framingham-97-wellesley-84-flyers/36327716007/
       - name: 2014100
         link: http://miaa.ezstream.com/index.cfm?itemid=7485
       - name: 2014101
