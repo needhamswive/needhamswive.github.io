@@ -13,7 +13,7 @@
 </form>
 
 <script>
-  function change(option, visibleSection) {
+  function change(option, visibleSection, updateHistory) {
     // https://stackoverflow.com/a/41542008
     const searchParams = new URLSearchParams(window.location.search);
     if (visibleSection === "all") {
@@ -28,7 +28,9 @@
     } else {
       newRelativePathQuery = window.location.pathname + "?" + searchParams.toString();
     }
-    history.pushState(null, "", newRelativePathQuery);
+    if (updateHistory) {
+      history.pushState(null, "", newRelativePathQuery);
+    }
 
     const sectionsToUpdate = sections.filter(section => option === section.dataset.option);
 
@@ -54,7 +56,7 @@
 
     Array.from(selects).forEach(select => {
       select.addEventListener("change", (event) => {
-        change(select.name, select.value)
+        change(select.name, select.value, true)
       });
     });
 
@@ -70,7 +72,7 @@
     for (const option of options) {
       const section = searchParams.get(option);
       if (sectionsByOption[option].includes(section)) {
-        change(option, section);
+        change(option, section, false);
 
         Array.from(selects).filter(section => option === section.name)[0].value = section;
       }
