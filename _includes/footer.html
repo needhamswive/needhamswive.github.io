@@ -7,7 +7,9 @@
     {% if page.footer.links %}
       {% for link in page.footer.links %}
         {% if link.label and link.url %}
-          <li><a href="{{ link.url }}" rel="nofollow noopener noreferrer"><i class="{{ link.icon | default: 'fas fa-link' }}" aria-hidden="true"></i> {{ link.label }}</a></li>
+          <li {% if link.tags %} data-nav-tags="{{ link.tags }}" {% endif %} {% if link.no-tags %} data-no-nav-tags="{{ link.no-tags }}" {% endif %}>
+            <a href="{{ link.url }}" rel="nofollow noopener noreferrer"><i class="{{ link.icon | default: 'fas fa-link' }}" aria-hidden="true"></i> {{ link.label }}</a>
+          </li>
         {% endif %}
       {% endfor %}
     {% endif %}

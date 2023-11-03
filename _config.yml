@@ -241,6 +241,24 @@ defaults:
     values:
       sidebar:
         nav: high-school
+      footer:
+        links:
+          - label: "GitHub"
+            icon: "fab fa-fw fa-github"
+            url: https://github.com/needhamswive/needhamswive.github.io
+            no-tags: girls,boys
+          - label: Instagram
+            icon: fab fa-fw fa-instagram
+            url: https://www.instagram.com/needhamgirlsswive
+            tags: girls
+          - label: Twitter
+            icon: fab fa-fw fa-twitter-square
+            url: https://twitter.com/rocketsswimdive
+            tags: girls
+          - label: Instagram
+            icon: fab fa-fw fa-instagram
+            url: https://www.instagram.com/nhsboysswive/
+            tags: boys
   - scope:
       path: high-school/girls
     values:
