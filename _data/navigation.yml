@@ -265,3 +265,39 @@ high-school-winter-boys-archives:
         url: high-school/archives/winter/boys/states/school-rankings
       - title: Meet Results
         url: high-school/archives/winter/boys/states/meet-results
+
+miaa-ezstream-mirror:
+  - title: Swim & Dive
+    children:
+      - title: 2022-23
+        url: high-school/archives/sources/miaa/?year=2022-2023#ezstream
+      - title: 2021-22
+        url: high-school/archives/sources/miaa/?year=2021-2022#ezstream
+      - title: 2019-20
+        url: high-school/archives/sources/miaa/?year=2019-2020#ezstream
+      - title: 2018-19
+        url: high-school/archives/sources/miaa/?year=2018-2019#ezstream
+      - title: 2017-18
+        url: high-school/archives/sources/miaa/?year=2017-2018#ezstream
+      - title: 2016-17
+        url: high-school/archives/sources/miaa/?year=2016-2017#ezstream
+      - title: 2015-16
+        url: high-school/archives/sources/miaa/?year=2015-2016#ezstream
+      - title: 2014-15
+        url: high-school/archives/sources/miaa/?year=2014-2015#ezstream
+      - title: 2013-14
+        url: high-school/archives/sources/miaa/?year=2013-2014#ezstream
+      - title: 2012-13
+        url: high-school/archives/sources/miaa/?year=2012-2013#ezstream
+      - title: 2011-12
+        url: high-school/archives/sources/miaa/?year=2011-2012#ezstream
+      - title: 2010-11
+        url: high-school/archives/sources/miaa/?year=2010-2011#ezstream
+      - title: 2009-10
+        url: high-school/archives/sources/miaa/?year=2009-2010#ezstream
+      - title: 2008-09
+        url: high-school/archives/sources/miaa/?year=2008-2009#ezstream
+      - title: 2007-08
+        url: high-school/archives/sources/miaa/?year=2007-2008#ezstream
+      - title: 2006-07
+        url: high-school/archives/sources/miaa/?year=2006-2007#ezstream

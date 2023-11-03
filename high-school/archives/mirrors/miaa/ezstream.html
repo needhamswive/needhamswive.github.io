@@ -2,8 +2,14 @@
 title: MIAA EZStream Mirror
 breadcrumbs: false
 sidebar:
-  nav: none
+  nav: miaa-ezstream-mirror
 ---
+
+<style>
+  .nav__list .nav__items ul li {
+    font-family: Verdana, Arial, Helvetica, sans-serif
+  }
+</style>
 
 <script>
 const searchParams = new URLSearchParams(window.location.search);
@@ -31,14 +37,19 @@ window.addEventListener("DOMContentLoaded", () => {
         body = content.slice(5).join("\n");
       }
 
-      document.getElementById("link").href = `http://miaa.ezstream.net/index.cfm?itemid=${itemid}`;
+      document.getElementById("source").href = `http://miaa.ezstream.net/index.cfm?itemid=${itemid}`;
+      document.getElementById("mirror").href = `https://raw.githubusercontent.com/needhamswive/needhamswive.github.io/master/_mirrors/miaa/ezstream/itemid/${itemid}.html`;
       document.getElementById("content").innerHTML = `<pre style="font-size:11px;">` + head + "<br/><br/><br/>" + body + "</pre>";
     });
   });
 });
 </script>
 
-<a id="link" target="_blank" rel="nofollow noopener noreferrer">Link to source</a>
+<a id="source" target="_blank" rel="nofollow noopener noreferrer">Link to source</a>
+
+<br>
+
+<a id="mirror" target="_blank" rel="nofollow noopener noreferrer">Link to mirror</a>
 
 <br><br>
 
