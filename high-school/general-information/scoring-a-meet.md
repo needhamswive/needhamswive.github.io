@@ -41,7 +41,10 @@ The point distribution is as follows:
 ## Bay State Conference, Sections, States
 
 These meets use 16 place scoring.
-For Bay State Conference, C relays are exhibition and do not score points.
+Each school is allowed 4 athletes per individual event.
+All athletes in individual events may score points.
+For Bay State Conference, each school is allowed 3 relays per relay event, but C relays are exhibition and do not score points.
+For Sectionals and States, each school is allowed 1 relay per relay event.
 
 | Relays                |           | Individual Events     |           |
 |-----------------------|-----------|-----------------------|-----------|
