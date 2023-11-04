@@ -6,18 +6,25 @@ toc: true
 - [Google Drive &mdash; Championships](https://drive.google.com/drive/folders/1Yvc2cuFhiRp0icxetim74FQdanshrdXL)
 - [Google Drive &mdash; Documents](https://drive.google.com/drive/folders/1ajhF4o7OlnOp7vwN4NNbpAxM7h_AcU-Y)
 
-## EZStream
+{% assign ezstream-pages = site.data.high-school.archives.sources.miaa-ezstream %}
+{% assign ezstream-years = ezstream-pages | map: "year" | compact | uniq | sort | reverse %}
 
-{% assign pages = site.data.high-school.archives.sources.miaa-ezstream %}
+{% assign meetresults-pages = site.data.high-school.archives.sources.miaa-meetresults %}
+{% assign meetresults-years = meetresults-pages | map: "year" | compact | uniq | sort | reverse %}
 
-{% assign years = pages | map: "year" | compact | uniq | sort | reverse %}
+{% assign swimmingworld-pages = site.data.high-school.archives.sources.miaa-swimmingworld %}
+{% assign swimmingworld-years = swimmingworld-pages | map: "year" | compact | uniq | sort | reverse %}
+
+{% assign years = ezstream-years | concat: meetresults-years | concat: swimmingworld-years %}
 
 {% include filter-year.html
   years = years %}
 
-{% for year in years %}
+## EZStream
 
-{% assign pages-for-year = pages | where: "year", year %}
+{% for year in ezstream-years %}
+
+{% assign pages-for-year = ezstream-pages | where: "year", year %}
 
 <div class="filter-section" data-option="year" data-section="{{ year }}">
 
@@ -41,13 +48,11 @@ toc: true
 
 ## MeetResults
 
-{% assign pages = site.data.high-school.archives.sources.miaa-meetresults %}
+{% for year in meetresults-years %}
 
-{% assign years = pages | map: "year" | compact | uniq | sort | reverse %}
+{% assign pages-for-year = meetresults-pages | where: "year", year %}
 
-{% for year in years %}
-
-{% assign pages-for-year = pages | where: "year", year %}
+<div class="filter-section" data-option="year" data-section="{{ year }}">
 
 <table>
   <thead>
@@ -63,17 +68,17 @@ toc: true
   </tbody>
 </table>
 
+</div>
+
 {% endfor %}
 
 ## Swimming World
 
-{% assign pages = site.data.high-school.archives.sources.miaa-swimmingworld %}
+{% for year in swimmingworld-years %}
 
-{% assign years = pages | map: "year" | compact | uniq | sort | reverse %}
+{% assign pages-for-year = swimmingworld-pages | where: "year", year %}
 
-{% for year in years %}
-
-{% assign pages-for-year = pages | where: "year", year %}
+<div class="filter-section" data-option="year" data-section="{{ year }}">
 
 <table>
   <thead>
@@ -88,5 +93,7 @@ toc: true
     {% endfor %}
   </tbody>
 </table>
+
+</div>
 
 {% endfor %}
