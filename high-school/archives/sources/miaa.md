@@ -82,7 +82,7 @@ toc: true
   <tbody>
     {% for page in pages-for-year %}
       <tr>
-        <td><a href="/high-school/archives/mirrors/miaa/swimmingworldmagazine?path={{ page.path }}">mirror</a></td>
+        <td><a href="/high-school/archives/mirrors/miaa/swimmingworld?path={{ page.path }}">mirror</a></td>
         <td><a href="http://www.swimmingworldmagazine.com/{{ page.path }}">{{ page.title }}</a></td>
       </tr>
     {% endfor %}
