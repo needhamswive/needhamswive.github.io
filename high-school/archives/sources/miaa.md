@@ -67,7 +67,7 @@ toc: true
 
 ## Swimming World
 
-{% assign pages = site.data.high-school.archives.sources.miaa-swimworld %}
+{% assign pages = site.data.high-school.archives.sources.miaa-swimmingworld %}
 
 {% assign years = pages | map: "year" | compact | uniq | sort | reverse %}
 
