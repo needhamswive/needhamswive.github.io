@@ -1,8 +1,8 @@
 ---
-title: MIAA MeetResults Mirror
+title: MIAA Swim World Mirror
 breadcrumbs: false
 sidebar:
-  nav: miaa-meetresults-mirror
+  nav: miaa-swimworld-mirror
 ---
 
 <style>
@@ -15,8 +15,8 @@ sidebar:
   const searchParams = new URLSearchParams(window.location.search);
   const path = searchParams.get("path");
 
-  const sourceUrl = `http://www.meetresults.com/${path}`;
-  const mirrorUrl = `https://raw.githubusercontent.com/needhamswive/needhamswive.github.io/master/_mirrors/miaa/meetresults/${path}`
+  const sourceUrl = `http://www.swimmingworldmagazine.com/${path}`;
+  const mirrorUrl = `https://raw.githubusercontent.com/needhamswive/needhamswive.github.io/master/_mirrors/miaa/swimworld/${path}`
 
   const request = fetch(mirrorUrl);
 

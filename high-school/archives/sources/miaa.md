@@ -39,7 +39,7 @@ toc: true
 
 {% endfor %}
 
-## meetresults
+## MeetResults
 
 {% assign pages = site.data.high-school.archives.sources.miaa-meetresults %}
 
@@ -58,6 +58,32 @@ toc: true
       <tr>
         <td><a href="/high-school/archives/mirrors/miaa/meetresults?path={{ page.path }}">mirror</a></td>
         <td><a href="http://www.meetresults.com/{{ page.path }}">{{ page.title }}</a></td>
+      </tr>
+    {% endfor %}
+  </tbody>
+</table>
+
+{% endfor %}
+
+## Swimming World
+
+{% assign pages = site.data.high-school.archives.sources.miaa-swimworld %}
+
+{% assign years = pages | map: "year" | compact | uniq | sort | reverse %}
+
+{% for year in years %}
+
+{% assign pages-for-year = pages | where: "year", year %}
+
+<table>
+  <thead>
+    <th colspan="2" style="text-align: center;">{{year}}</th>
+  </thead>
+  <tbody>
+    {% for page in pages-for-year %}
+      <tr>
+        <td><a href="/high-school/archives/mirrors/miaa/swimmingworldmagazine?path={{ page.path }}">mirror</a></td>
+        <td><a href="http://www.swimmingworldmagazine.com/{{ page.path }}">{{ page.title }}</a></td>
       </tr>
     {% endfor %}
   </tbody>
