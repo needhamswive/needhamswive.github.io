@@ -12,37 +12,42 @@ sidebar:
 </style>
 
 <script>
-const searchParams = new URLSearchParams(window.location.search);
-const itemid = searchParams.get("itemid") || 462;
-const request = fetch(`https://raw.githubusercontent.com/needhamswive/needhamswive.github.io/master/_mirrors/miaa/ezstream/itemid/${itemid}.html`);
+  const searchParams = new URLSearchParams(window.location.search);
+  const itemid = searchParams.get("itemid");
 
-window.addEventListener("DOMContentLoaded", () => {
-  request.then((response) => {
-    if (response.status !== 200) {
-      return;
-    }
-    response.text().then(content => {
-      content = content.split("\n");
-      const frontMatter = content.slice(1, 3);
-      const title = frontMatter[0].slice(7);
+  const sourceUrl = `http://miaa.ezstream.net/index.cfm?itemid=${itemid}`;
+  const mirrorUrl = `https://raw.githubusercontent.com/needhamswive/needhamswive.github.io/master/_mirrors/miaa/ezstream/itemid/${itemid}.html`;
 
-      let head;
-      let body;
-      if (frontMatter[1].startsWith("---")) {
-        head = title
-        body = content.slice(4).join("\n");
-      } else {
-        const date = frontMatter[1].slice(6);
-        head = `${title}<br/>${date}`;
-        body = content.slice(5).join("\n");
+  const request = fetch(mirrorUrl);
+
+  window.addEventListener("DOMContentLoaded", () => {
+    request.then((response) => {
+      if (response.status !== 200) {
+        document.getElementById("content").innerHTML = "File not found"
+        return;
       }
+      response.text().then(content => {
+        content = content.split("\n");
+        const frontMatter = content.slice(1, 3);
+        const title = frontMatter[0].slice(7);
 
-      document.getElementById("source").href = `http://miaa.ezstream.net/index.cfm?itemid=${itemid}`;
-      document.getElementById("mirror").href = `https://raw.githubusercontent.com/needhamswive/needhamswive.github.io/master/_mirrors/miaa/ezstream/itemid/${itemid}.html`;
-      document.getElementById("content").innerHTML = `<pre style="font-size:11px;">` + head + "<br/><br/><br/>" + body + "</pre>";
+        let head;
+        let body;
+        if (frontMatter[1].startsWith("---")) {
+          head = title
+          body = content.slice(4).join("\n");
+        } else {
+          const date = frontMatter[1].slice(6);
+          head = `${title}<br/>${date}`;
+          body = content.slice(5).join("\n");
+        }
+
+        document.getElementById("source").href = sourceUrl;
+        document.getElementById("mirror").href = mirrorUrl;
+        document.getElementById("content").innerHTML = `<pre style="font-size:11px;">` + head + "<br/><br/><br/>" + body + "</pre>";
+      });
     });
   });
-});
 </script>
 
 <a id="source" target="_blank" rel="nofollow noopener noreferrer">Link to source</a>
