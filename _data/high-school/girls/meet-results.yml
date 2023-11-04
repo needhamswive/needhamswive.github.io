@@ -52,8 +52,8 @@ results-by-year:
     championships:
       - name: Bay State Conference
         place: 1
-      - name: South Sectionals
-      - name: Division 2 States
+      - name: South Sectional
+      - name: Division 2 State
     citations:
       - name: 2023000
         link: https://twitter.com/NHSRockets/status/1701783011547648330
@@ -135,10 +135,10 @@ results-by-year:
       - name: Bay State Conference
         place: 2
         citations: BSCRankings
-      - name: South Sectionals
+      - name: South Sectional
         place: 2
         citations: 2022100
-      - name: Division 2 States
+      - name: Division 2 State
         place: 2
         citations: 2022101
     psych-sheets-and-results:
@@ -217,10 +217,10 @@ results-by-year:
       - name: Bay State Conference
         place: 2
         citations: 2021104;BSCRankings
-      - name: South Sectionals
+      - name: South Sectional
         place: 2
         citations: 2021100;2021103
-      - name: Division 2 States
+      - name: Division 2 State
         place: 2
         citations: 2021101;2021102
     psych-sheets-and-results:
@@ -329,9 +329,9 @@ results-by-year:
     championships:
       - name: Bay State Conference
         citations: 2019100;2019104;BSCRankings
-      - name: South Sectionals
+      - name: South Sectional
         citations: 2019101;2019105
-      - name: Division 1 States
+      - name: Division 1 State
         citations: 2019102;2019103
     psych-sheets-and-results:
       - name: Bay State Conference Needham Results
@@ -447,10 +447,10 @@ results-by-year:
       - name: Bay State Conference
         place: 2
         citations: 2018103;BSCRankings
-      - name: South Sectionals
+      - name: South Sectional
         place: 3
         citations: 2018100;2018104
-      - name: Division 1 States
+      - name: Division 1 State
         place: 4
         citations: 2018101;2018102
     psych-sheets-and-results:
@@ -565,10 +565,10 @@ results-by-year:
       - name: Bay State Conference
         place: 5
         citations: 2017104;2017103;BSCRankings
-      - name: South Sectionals
+      - name: South Sectional
         place: 7
         citations: 2017100;2017102
-      - name: Division 1 States
+      - name: Division 1 State
         place: 7
         citations: 2017101
     psych-sheets-and-results:
@@ -675,10 +675,10 @@ results-by-year:
       - name: Bay State Conference
         place: 3
         citations: 2016103;2016016;2016102;BSCRankings
-      - name: South Sectionals
+      - name: South Sectional
         place: 8
         citations: 2016100
-      - name: Division 1 States
+      - name: Division 1 State
         place: 9
         citations: 2016101
     psych-sheets-and-results:
@@ -797,10 +797,10 @@ results-by-year:
       - name: Bay State Conference
         place: 4
         citations: 2015102;2015103;2015106;BSCRankings
-      - name: South Sectionals
+      - name: South Sectional
         place: 6
         citations: 2015100;2015104
-      - name: Division 1 States
+      - name: Division 1 State
         place: 8
         citations: 2015101;2015105;2015107
     psych-sheets-and-results:
@@ -918,10 +918,10 @@ results-by-year:
       - name: Bay State Conference
         place: 3
         citations: 2014103;2014102;BSCRankings
-      - name: South Sectionals
+      - name: South Sectional
         place: 4
         citations: 2014100
-      - name: Division 1 States
+      - name: Division 1 State
         place: 6
         citations: 2014101;2014104
     psych-sheets-and-results:
@@ -1027,10 +1027,10 @@ results-by-year:
       - name: Bay State Conference
         place: 2
         citations: 2013105;2013104;2013107;BSCRankings
-      - name: South Sectionals
+      - name: South Sectional
         place: 4
         citations: 2013100;2013103;2013106
-      - name: Division 1 States
+      - name: Division 1 State
         place: 7
         citations: 2013101;2013102;2013108
     psych-sheets-and-results:
@@ -1132,10 +1132,10 @@ results-by-year:
         result: W
         citations: 2012000;2012002
     championships:
-      - name: South Sectionals
+      - name: South Sectional
         place: 3
         citations: 2012100;2012102;2012104;BSCRankings
-      - name: Division 1 States
+      - name: Division 1 State
         place: 5
         citations: 2012101;2012103
     psych-sheets-and-results:
@@ -1206,10 +1206,10 @@ results-by-year:
       - name: Bay State Conference
         place: 3
         citations: 2011105;BSCRankings
-      - name: South Sectionals
+      - name: South Sectional
         place: 4
         citations: 2011100;2011102
-      - name: Division 1 States
+      - name: Division 1 State
         place: 4
         citations: 2011101;2011103;2011104
     psych-sheets-and-results:
@@ -1287,10 +1287,10 @@ results-by-year:
       - name: Bay State Conference
         place: 2
         citations: 2010102;BSCRankings
-      - name: South Sectionals
+      - name: South Sectional
         place: 4
         citations: 2010100;2010103;2010104
-      - name: Division 2 States
+      - name: Division 2 State
         place: 8
         citations: 2010101;2010104
     psych-sheets-and-results:
@@ -1362,10 +1362,10 @@ results-by-year:
       - name: Bay State Conference
         place: 3
         citations: 2009102;BSCRankings
-      - name: South Sectionals
+      - name: South Sectional
         place: 15
         citations: 2009100
-      - name: Division 1 States
+      - name: Division 1 State
         place: 14
         citations: 2009101;2010104
     psych-sheets-and-results:
@@ -1438,10 +1438,10 @@ results-by-year:
       - name: Bay State Conference
         place: 4
         citations: 2008102;BSCRankings
-      - name: South Sectionals
+      - name: South Sectional
         place: no place
         citations: 2008100
-      - name: Division 1 States
+      - name: Division 1 State
         place: no place
         citations: 2008101
     psych-sheets-and-results:
@@ -1515,10 +1515,10 @@ results-by-year:
       - name: Bay State Conference
         place: 7
         citations: 2007102;2007103;BSCRankings
-      - name: South Sectionals
+      - name: South Sectional
         place: 19
         citations: 2007100
-      - name: Division 1 States
+      - name: Division 1 State
         place: 16
         citations: 2007101
     psych-sheets-and-results:
@@ -1556,10 +1556,10 @@ results-by-year:
       - name: Bay State Conference
         place: 2
         citations: BSCRankings
-      - name: South Sectionals
+      - name: South Sectional
         place: 22
         citations: 2006100
-      - name: Division 1 States
+      - name: Division 1 State
         place: 13
         citations: 2006101
     psych-sheets-and-results:
@@ -1581,11 +1581,25 @@ results-by-year:
       - name: Bay State Conference
         place: 2
         citations: BSCRankings
+  - year: 2004
+    championships:
+      - name: South Sectional
+        place: 18
+        citations: 2004101
+    citations:
+      - name: 2004101
+        link: http://www.meetresults.com/meets/2004/sectionals/south/scores.html
   - year: 2003
     championships:
       - name: Bay State Conference
         place: 1
         citations: BSCRankings
+      - name: States
+        place: 7
+        citations: 2003101
+    citations:
+      - name: 2003101
+        link: http://www.meetresults.com/meets/2003/miaa-fall/scores.html
   - year: 2002
     championships:
       - name: Bay State Conference
