@@ -27,7 +27,7 @@ title: MIAA Fall Girls Sectionals Rankings
 
 <div class="filter-section" data-option="division" data-section="{{ division }}" markdown="1">
 
-### {{ division }} Sectional
+### {{ division }}
 
 {% assign school-rankings-for-year-by-division = school-rankings-for-year | where: "division", division %}
 

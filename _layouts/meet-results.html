@@ -51,7 +51,7 @@ classes: wide
   {% for division in divisions %}
     <div class="filter-section" data-option="division" data-section="{{ division }}">
 
-    <h3>{{ division }}&nbsp;{{ page.division-suffix }}</h3>
+    <h3>{{ division }}</h3>
 
     {% assign results-for-year-and-division = results-for-year | where: "division", division %}
     {% include division-results.html
