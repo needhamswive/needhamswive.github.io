@@ -5,6 +5,8 @@ general-citations:
     link: https://en.wikipedia.org/wiki/Bay_State_Conference
   - name: BSCRankings
     link: https://needhamswive.com/high-school/archives/fall/girls/bay-state-conference/school-rankings/
+  - name: 2022FallSouthSectionalProgram
+    link: https://miaa.net/wp-content/uploads/2022/11/Fall-2022-South-Sectional-Swim-ProgramA.pdf
 
 results-by-year:
   - year: 2023
@@ -219,7 +221,7 @@ results-by-year:
         citations: 2021104;BSCRankings
       - name: South Sectional
         place: 2
-        citations: 2021100;2021103
+        citations: 2021100;2021103;2022FallSouthSectionalProgram
       - name: Division 2 State
         place: 2
         citations: 2021101;2021102
@@ -1605,11 +1607,17 @@ results-by-year:
       - name: Bay State Conference
         place: 1
         citations: BSCRankings
+      - name: South Sectional
+        place: 2
+        citations: 2022FallSouthSectionalProgram
   - year: 2001
     championships:
       - name: Bay State Conference
         place: 1
         citations: BSCRankings
+      - name: South Sectional
+        place: 1
+        citations: 2022FallSouthSectionalProgram
   - year: 2000
     championships:
       - name: Bay State Conference
@@ -1671,3 +1679,8 @@ results-by-year:
       - name: Bay State Conference
         place: 2
         citations: BSCRankings
+  - year: 1987
+    championships:
+      - name: South Sectional
+        place: 2
+        citations: 2022FallSouthSectionalProgram
