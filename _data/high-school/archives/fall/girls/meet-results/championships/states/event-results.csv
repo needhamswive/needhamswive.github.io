@@ -2,7 +2,7 @@ year,division,event,place,name,grade,school,result,points
 2022,Division 1 State,1 Meter Diving - 11 Dives,1,Jaqui St. Clair,JR,Brookline,417.45,20
 2022,Division 1 State,1 Meter Diving - 11 Dives,2,Kailyn Aquino,SO,Haverhill,415.80,17
 2022,Division 1 State,1 Meter Diving - 11 Dives,3,Kaleigh O'Brien,FR,Central Catholic,380.30,16
-2022,Division 1 State,1 Meter Diving - 11 Dives,4,Kara Leahy,JR,Notre Dame Academy-Hingham,368.05,15
+2022,Division 1 State,1 Meter Diving - 11 Dives,4,Kara Leahy,JR,Notre Dame Academy - Hingham,368.05,15
 2022,Division 1 State,1 Meter Diving - 11 Dives,5,Kelly Folwell,JR,Ursuline Academy,358.80,14
 2022,Division 1 State,1 Meter Diving - 11 Dives,6,Emily Richardson,JR,Framingham,355.90,13
 2022,Division 1 State,1 Meter Diving - 11 Dives,7,Zoe Raybould,SR,Brookline,355.05,12
@@ -22,7 +22,7 @@ year,division,event,place,name,grade,school,result,points
 2022,Division 1 State,1 Meter Diving - 8 Dives,5,Emily Richardson,JR,Framingham,266.70,
 2022,Division 1 State,1 Meter Diving - 8 Dives,6,Zoe Raybould,SR,Brookline,262.00,
 2022,Division 1 State,1 Meter Diving - 8 Dives,7,Sophia Lundgren,SR,Haverhill,259.60,
-2022,Division 1 State,1 Meter Diving - 8 Dives,8,Kara Leahy,JR,Notre Dame Academy-Hingham,256.55,
+2022,Division 1 State,1 Meter Diving - 8 Dives,8,Kara Leahy,JR,Notre Dame Academy - Hingham,256.55,
 2022,Division 1 State,1 Meter Diving - 8 Dives,9,Meghan Walker,SR,Ursuline Academy,234.85,
 2022,Division 1 State,1 Meter Diving - 8 Dives,10,Camille Robbe,SR,Acton-Boxborough,232.85,
 2022,Division 1 State,1 Meter Diving - 8 Dives,11,Sophia Sierpina,SO,Central Catholic,231.80,
@@ -41,7 +41,7 @@ year,division,event,place,name,grade,school,result,points
 2022,Division 1 State,1 Meter Diving - 5 Dives,6,Sophia Lundgren,SR,Haverhill,169.20,
 2022,Division 1 State,1 Meter Diving - 5 Dives,7,Zoe Raybould,SR,Brookline,168.45,
 2022,Division 1 State,1 Meter Diving - 5 Dives,8,Kelsey DePaolo,JR,Braintree,157.50,
-2022,Division 1 State,1 Meter Diving - 5 Dives,9,Kara Leahy,JR,Notre Dame Academy-Hingham,152.05,
+2022,Division 1 State,1 Meter Diving - 5 Dives,9,Kara Leahy,JR,Notre Dame Academy - Hingham,152.05,
 2022,Division 1 State,1 Meter Diving - 5 Dives,10,Sophia Sierpina,SO,Central Catholic,151.75,
 2022,Division 1 State,1 Meter Diving - 5 Dives,11,Sophia Ferrara,SO,Methuen,151.40,
 2022,Division 1 State,1 Meter Diving - 5 Dives,12,Camille Robbe,SR,Acton-Boxborough,150.10,
@@ -70,9 +70,9 @@ year,division,event,place,name,grade,school,result,points
 2022,Division 1 State,200 Freestyle,5,Maya Flatley,SR,Andover,2:04.74,14
 2022,Division 1 State,200 Freestyle,6,Kira Kozhemiakina,FR,Acton-Boxborough,2:06.60,13
 2022,Division 1 State,200 Freestyle,7,Olivia Sater,JR,Acton-Boxborough,2:06.90,12
-2022,Division 1 State,200 Freestyle,8,Grace Cingel,SO,Notre Dame Academy-Hingham,2:07.11,11
+2022,Division 1 State,200 Freestyle,8,Grace Cingel,SO,Notre Dame Academy - Hingham,2:07.11,11
 2022,Division 1 State,200 Freestyle,9,Jillian Schneider,FR,Newton North,2:07.40,9
-2022,Division 1 State,200 Freestyle,10,Emma Kates,SR,Notre Dame Academy-Hingham,2:08.30,7
+2022,Division 1 State,200 Freestyle,10,Emma Kates,SR,Notre Dame Academy - Hingham,2:08.30,7
 2022,Division 1 State,200 Freestyle,11,Genevieve Lee,FR,Newton North,2:08.35,6
 2022,Division 1 State,200 Freestyle,12,Mariel Tan,SO,Acton-Boxborough,2:08.61,5
 2022,Division 1 State,200 Freestyle,13,Mimi Aspi,SO,Brookline,2:09.35,4
@@ -144,14 +144,14 @@ year,division,event,place,name,grade,school,result,points
 2022,Division 1 State,100 Freestyle,12,Marie Scanlon,SO,Framingham,1:00.09,5
 2022,Division 1 State,500 Freestyle,1,Kira Kozhemiakina,FR,Acton-Boxborough,5:30.15,20
 2022,Division 1 State,500 Freestyle,2,Maeve Foley,FR,Central Catholic,5:31.51,17
-2022,Division 1 State,500 Freestyle,3,Emma Kates,SR,Notre Dame Academy-Hingham,5:31.95,16
+2022,Division 1 State,500 Freestyle,3,Emma Kates,SR,Notre Dame Academy - Hingham,5:31.95,16
 2022,Division 1 State,500 Freestyle,4,Alexa Vaillancourt,SR,Newton North,5:36.36,15
 2022,Division 1 State,500 Freestyle,5,Maya Flatley,SR,Andover,5:37.77,14
 2022,Division 1 State,500 Freestyle,6,Mary Powers,SR,Ursuline Academy,5:38.72,13
 2022,Division 1 State,500 Freestyle,7,Genevieve Lee,FR,Newton North,5:42.66,12
 2022,Division 1 State,500 Freestyle,8,Sarah Wipke,JR,Lexington,5:43.98,11
 2022,Division 1 State,500 Freestyle,9,Mariel Tan,SO,Acton-Boxborough,5:45.35,9
-2022,Division 1 State,500 Freestyle,10,Grace Cingel,SO,Notre Dame Academy-Hingham,5:47.46,7
+2022,Division 1 State,500 Freestyle,10,Grace Cingel,SO,Notre Dame Academy - Hingham,5:47.46,7
 2022,Division 1 State,500 Freestyle,11,Sasha Tsizer,SO,Framingham,5:50.69,6
 2022,Division 1 State,500 Freestyle,12,Jill Cavener,JR,Andover,5:53.88,5
 2022,Division 1 State,200 Freestyle Relay,1,Audi Lin;Lauren Jolley;Allison Ferrell;Anna Zaniolo,SR;JR;SR;SR,Lexington,1:40.93,40
@@ -162,7 +162,7 @@ year,division,event,place,name,grade,school,result,points
 2022,Division 1 State,200 Freestyle Relay,6,Daisy Huang;Mimi Aspi;Katherine Henry;Ellie Eisenhauer,FR;SO;SR;SR,Brookline,1:45.86,26
 2022,Division 1 State,200 Freestyle Relay,7,Thea Sanzone;Paige Kelly;Lily Nguyen;Leyna Nguyen,JR;FR;SR;SO,Malden Catholic,1:46.98,24
 2022,Division 1 State,200 Freestyle Relay,8,Marie Scanlon;Emma Angelo;Bella Bowen;Emma Bowen,SO;SR;SR;JR,Framingham,1:49.43,22
-2022,Division 1 State,200 Freestyle Relay,9,Sophie Rigaud;Grace Daoust;Emma Kates;Grace Cingel,SO;;SR;SO,Notre Dame Academy-Hingham,1:50.32,18
+2022,Division 1 State,200 Freestyle Relay,9,Sophie Rigaud;Grace Daoust;Emma Kates;Grace Cingel,SO;;SR;SO,Notre Dame Academy - Hingham,1:50.32,18
 2022,Division 1 State,200 Freestyle Relay,10,Grace Morash;Meagan Keaney;Anna Brown;Ani Fisher,FR;SR;SR;JR,Ursuline Academy,1:50.40,14
 2022,Division 1 State,200 Freestyle Relay,11,Kayleigh McCarthy;Alex Mahon;Maria Brito;Grace Davison,FR;FR;JR;FR,Woburn,1:51.86,12
 2022,Division 1 State,200 Freestyle Relay,12,Victoria Viglas;Elsa Mustin;Anastasia Virvilis;Emma Iwaoka,SR;FR;SO;,Weymouth,1:52.79,10
@@ -212,7 +212,7 @@ year,division,event,place,name,grade,school,result,points
 2022,Division 1 State,400 Freestyle Relay,8,Molly Jordan;Sophia Caruso;Ella Clohisy;Kailyn Aquino,FR;SO;SR;SO,Haverhill,3:54.92,22
 2022,Division 1 State,400 Freestyle Relay,9,Elyssa Truong;Haily Pham;Meghan Scott-Richmond;Reagan Bulman,SO;JR;SR;JR,Braintree,3:57.24,18
 2022,Division 1 State,400 Freestyle Relay,10,Emma Angelo;Emma Bowen;Sasha Tsizer;Ashwina Bangari,SR;JR;SO;JR,Framingham,3:57.41,14
-2022,Division 1 State,400 Freestyle Relay,11,Sophie Rigaud;Angela Kennedy;Emma Kates;Grace Cingel,SO;JR;SR;SO,Notre Dame Academy-Hingham,4:02.70,12
+2022,Division 1 State,400 Freestyle Relay,11,Sophie Rigaud;Angela Kennedy;Emma Kates;Grace Cingel,SO;JR;SR;SO,Notre Dame Academy - Hingham,4:02.70,12
 2022,Division 1 State,400 Freestyle Relay,12,Maria Brito;Grace Davison;Ryley McCarthy;Kayleigh McCarthy,JR;FR;FR;FR,Woburn,4:11.43,10
 2022,Division 2 State,1 Meter Diving - 11 Dives,1,Katie Dorey,JR,Natick,421.60,20
 2022,Division 2 State,1 Meter Diving - 11 Dives,2,Lucy Savarese,JR,Wellesley,417.35,17

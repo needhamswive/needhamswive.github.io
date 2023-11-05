@@ -8,7 +8,7 @@ year,division,place,school,score
 2022,Division 1 State,7,Central Catholic,171
 2022,Division 1 State,8,Newton North,160
 2022,Division 1 State,9,Framingham,114
-2022,Division 1 State,10,Notre Dame Academy-Hingham,86
+2022,Division 1 State,10,Notre Dame Academy - Hingham,86
 2022,Division 1 State,11,Braintree,79
 2022,Division 1 State,12,Malden Catholic,68
 2022,Division 1 State,13,Weymouth,57
@@ -39,7 +39,7 @@ year,division,place,school,score
 2021,Division 1 State,6,Newton North,209
 2021,Division 1 State,8,Haverhill,207
 2021,Division 1 State,9,Lexington,104
-2021,Division 1 State,10,Notre Dame Academy-Hingham,77
+2021,Division 1 State,10,Notre Dame Academy - Hingham,77
 2021,Division 1 State,11,Malden Catholic,51
 2021,Division 1 State,12,Methuen,34
 2021,Division 1 State,13,Weymouth,5
@@ -83,7 +83,7 @@ year,division,place,school,score
 2019,Division 2 State,5,Milton,186
 2019,Division 2 State,6,Wakefield,155
 2019,Division 2 State,7,Winchester,136
-2019,Division 2 State,7,Notre Dame Academy-Hingham,136
+2019,Division 2 State,7,Notre Dame Academy - Hingham,136
 2019,Division 2 State,9,Natick,128
 2019,Division 2 State,10,Marshfield,116
 2019,Division 2 State,11,Belmont,97
@@ -116,7 +116,7 @@ year,division,place,school,score
 2018,Division 2 State,6,Marshfield,161.5
 2018,Division 2 State,7,Belmont,153
 2018,Division 2 State,8,Wakefield,136
-2018,Division 2 State,9,Notre Dame Academy-Hingham,127
+2018,Division 2 State,9,Notre Dame Academy - Hingham,127
 2018,Division 2 State,10,Natick,121
 2018,Division 2 State,11,Winchester,99
 2018,Division 2 State,12,Walpole,81.5
@@ -148,7 +148,7 @@ year,division,place,school,score
 2017,Division 2 State,7,Melrose,160
 2017,Division 2 State,8,Winchester,143
 2017,Division 2 State,9,Marshfield,127
-2017,Division 2 State,10,Notre Dame Academy-Hingham,122
+2017,Division 2 State,10,Notre Dame Academy - Hingham,122
 2017,Division 2 State,11,Stoneham,84
 2017,Division 2 State,12,Wakefield,55.5
 2017,Division 2 State,13,Milton,36
@@ -174,7 +174,7 @@ year,division,place,school,score
 2016,Division 2 State,1,Reading,287
 2016,Division 2 State,2,Central Catholic,261
 2016,Division 2 State,3,Wellesley,239.5
-2016,Division 2 State,4,Notre Dame Academy-Hingham,238
+2016,Division 2 State,4,Notre Dame Academy - Hingham,238
 2016,Division 2 State,5,Belmont,226.5
 2016,Division 2 State,6,Natick,219
 2016,Division 2 State,7,Ursuline Academy,185
@@ -216,7 +216,7 @@ year,division,place,school,score
 2015,Division 2 State,5,Central Catholic,173.5
 2015,Division 2 State,6,Ursuline Academy,162
 2015,Division 2 State,7,Melrose,159
-2015,Division 2 State,8,Notre Dame Academy-Hingham,136.5
+2015,Division 2 State,8,Notre Dame Academy - Hingham,136.5
 2015,Division 2 State,9,Marshfield,113
 2015,Division 2 State,10,Winchester,112
 2015,Division 2 State,11,Natick,107
@@ -260,7 +260,7 @@ year,division,place,school,score
 2014,Division 2 State,12,Reading,78
 2014,Division 2 State,13,Walpole,75
 2014,Division 2 State,14,Marshfield,67
-2014,Division 2 State,15,Notre Dame Academy (H),61
+2014,Division 2 State,15,Notre Dame Academy - Hingham,61
 2014,Division 2 State,16,Wakefield,59
 2014,Division 2 State,17,North Andover,53
 2014,Division 2 State,18,Woburn,41
@@ -295,9 +295,9 @@ year,division,place,school,score
 2013,Division 2 State,8,North Andover,119.5
 2013,Division 2 State,9,Ursuline Academy,108
 2013,Division 2 State,10,Bishop Stang,105
-2013,Division 2 State,11,Notre Dame Academy-Worcester,85
+2013,Division 2 State,11,Notre Dame Academy - Worcester,85
 2013,Division 2 State,12,Seekonk,70
-2013,Division 2 State,13,Notre Dame Academy-Hingham,68
+2013,Division 2 State,13,Notre Dame Academy - Hingham,68
 2013,Division 2 State,14,Walpole,67
 2013,Division 2 State,15,Wakefield,60
 2013,Division 2 State,16,Apponequet,59.5
@@ -336,7 +336,7 @@ year,division,place,school,score
 2012,Division 2 State,1,Bishop Feehan,336.5
 2012,Division 2 State,2,Reading,313
 2012,Division 2 State,3,Belmont,232
-2012,Division 2 State,4,Notre Dame Academy-Hingham,208
+2012,Division 2 State,4,Notre Dame Academy - Hingham,208
 2012,Division 2 State,5,Bishop Stang,195
 2012,Division 2 State,6,Westwood,167.5
 2012,Division 2 State,7,Seekonk,115
@@ -377,7 +377,7 @@ year,division,place,school,score
 2011,Division 2 State,1,Bishop Feehan,363.5
 2011,Division 2 State,2,Reading,319
 2011,Division 2 State,3,Bishop Stang,255.5
-2011,Division 2 State,4,Notre Dame Academy-Hingham,193
+2011,Division 2 State,4,Notre Dame Academy - Hingham,193
 2011,Division 2 State,5,Westwood,170
 2011,Division 2 State,6,Sandwich,156
 2011,Division 2 State,7,Belmont,136
@@ -388,7 +388,7 @@ year,division,place,school,score
 2011,Division 2 State,12,Ursuline Academy,81
 2011,Division 2 State,13,Stoneham,64
 2011,Division 2 State,14,Mount Alvernia,54
-2011,Division 2 State,15,Notre Dame Academy-Worcester,44
+2011,Division 2 State,15,Notre Dame Academy - Worcester,44
 2011,Division 2 State,16,Winchester,26
 2011,Division 2 State,17,Melrose,22
 2011,Division 2 State,18,Burlington,14
@@ -416,7 +416,7 @@ year,division,place,school,score
 2010,Division 2 State,1,Reading,279
 2010,Division 2 State,2,Bishop Feehan,241
 2010,Division 2 State,3,Bishop Stang,150
-2010,Division 2 State,4,Notre Dame Academy-Hingham,137
+2010,Division 2 State,4,Notre Dame Academy - Hingham,137
 2010,Division 2 State,5,Seekonk,97
 2010,Division 2 State,6,Ursuline Academy,84
 2010,Division 2 State,7,Walpole,75
@@ -425,7 +425,7 @@ year,division,place,school,score
 2010,Division 2 State,10,Sandwich,70
 2010,Division 2 State,11,Belmont,26
 2010,Division 2 State,12,Mount Alvernia,25
-2010,Division 2 State,12,Notre Dame Academy-Worcester,25
+2010,Division 2 State,12,Notre Dame Academy - Worcester,25
 2010,Division 2 State,14,Winchester,14
 2010,Division 2 State,14,Milford,14
 2010,Division 2 State,16,Wakefield,9
@@ -451,7 +451,7 @@ year,division,place,school,score
 2009,Division 1 State,20,Boston Latin,6
 2009,Division 2 State,1,Bishop Feehan,264
 2009,Division 2 State,2,Bishop Stang,175
-2009,Division 2 State,3,Notre Dame Academy-Hingham,154
+2009,Division 2 State,3,Notre Dame Academy - Hingham,154
 2009,Division 2 State,4,Winchester,148
 2009,Division 2 State,5,Reading,140
 2009,Division 2 State,6,Seekonk,99
@@ -485,7 +485,7 @@ year,division,place,school,score
 2008,Division 1 State,17,Newton North,4
 2008,Division 1 State,17,Boston Latin,4
 2008,Division 1 State,19,Weymouth,2
-2008,Division 2 State,1,Notre Dame Academy-Hingham,238
+2008,Division 2 State,1,Notre Dame Academy - Hingham,238
 2008,Division 2 State,2,Bishop Feehan,183.5
 2008,Division 2 State,3,Bishop Stang,180.5
 2008,Division 2 State,4,Winchester,152
@@ -501,7 +501,7 @@ year,division,place,school,score
 2008,Division 2 State,13,Burlington,31
 2008,Division 2 State,15,Apponequet Regional,24
 2008,Division 2 State,16,Milford,22
-2008,Division 2 State,17,Notre Dame Academy-Worcester,17
+2008,Division 2 State,17,Notre Dame Academy - Worcester,17
 2008,Division 2 State,18,Dedham,12
 2008,Division 2 State,19,Stoneham,9
 2008,Division 2 State,20,Natick,5
@@ -524,7 +524,7 @@ year,division,place,school,score
 2007,Division 1 State,15,Braintree,12
 2007,Division 1 State,16,Needham,2
 2007,Division 1 State,17,Weymouth,1
-2007,Division 2 State,1,Notre Dame Academy-Hingham,233.5
+2007,Division 2 State,1,Notre Dame Academy - Hingham,233.5
 2007,Division 2 State,2,Bishop Stang,195
 2007,Division 2 State,3,Bishop Feehan,186
 2007,Division 2 State,4,Winchester,112
@@ -542,7 +542,7 @@ year,division,place,school,score
 2007,Division 2 State,16,Seekonk,21
 2007,Division 2 State,17,Apponequet Regional,16
 2007,Division 2 State,17,Academy Notre Dame-Tyngsboro,16
-2007,Division 2 State,19,Notre Dame Academy-Worcester,14
+2007,Division 2 State,19,Notre Dame Academy - Worcester,14
 2007,Division 2 State,20,Ursuline Academy,11
 2007,Division 2 State,21,Walpole,8
 2006,Division 1 State,1,Andover,301
@@ -563,7 +563,7 @@ year,division,place,school,score
 2006,Division 1 State,16,Fontbonne Academy,6
 2006,Division 1 State,17,Boston Latin,4
 2006,Division 1 State,18,Braintree,3
-2006,Division 2 State,1,Notre Dame Academy-Hingham,233
+2006,Division 2 State,1,Notre Dame Academy - Hingham,233
 2006,Division 2 State,2,Bishop Stang,156.5
 2006,Division 2 State,3,Bishop Feehan,143
 2006,Division 2 State,4,Winchester,124
@@ -584,7 +584,7 @@ year,division,place,school,score
 2006,Division 2 State,18,Westwood,16
 2006,Division 2 State,20,Seekonk,15
 2006,Division 2 State,21,Canton,14
-2006,Division 2 State,22,Notre Dame Academy-Worcester,4
+2006,Division 2 State,22,Notre Dame Academy - Worcester,4
 2005,Division 1 State,1,Andover
 2005,Division 1 State,2,Chelsford
 2005,Division 2 State,1,Notre Dame Hingham
@@ -595,7 +595,7 @@ year,division,place,school,score
 2004,Division 2 State,2,Bishop Stang
 2003,State,1,Andover,244
 2003,State,2,Acton-Boxborough,127
-2003,State,3,Notre Dame Academy Hingham,125.50
+2003,State,3,Notre Dame Academy - Hingham,125.50
 2003,State,4,Seekonk,107
 2003,State,5,Belmont,106
 2003,State,6,Chelmsford,94
@@ -612,7 +612,7 @@ year,division,place,school,score
 2003,State,16,Brockton,22
 2003,State,18,Duxbury,19
 2003,State,18,Haverhill,19
-2003,State,20,Notre Dame Academy Worcester,14
+2003,State,20,Notre Dame Academy - Worcester,14
 2003,State,21,Burlington,13
 2003,State,22,Ursuline,11
 2003,State,23,Reading,10

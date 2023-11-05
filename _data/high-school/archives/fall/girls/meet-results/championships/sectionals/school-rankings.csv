@@ -45,7 +45,7 @@ year,division,place,school,score
 2021,South Sectional,8,Natick,110
 2021,South Sectional,9,Braintree,81
 2021,South Sectional,10,Boston Latin School,69
-2021,South Sectional,11,Notre Dame Academy-Hingham,60
+2021,South Sectional,11,Notre Dame Academy - Hingham,60
 2021,South Sectional,12,Walpole,51.5
 2021,South Sectional,13,Notre Dame Hingham,32
 2021,South Sectional,14,Weymouth,16
@@ -75,7 +75,7 @@ year,division,place,school,score
 2019,South Sectional,7,Framingham,179.5
 2019,South Sectional,8,Marshfield,160
 2019,South Sectional,9,Boston Latin School,139
-2019,South Sectional,10,Notre Dame Academy-Hingham,138
+2019,South Sectional,10,Notre Dame Academy - Hingham,138
 2019,South Sectional,11,Milton,88
 2019,South Sectional,12,Walpole,85
 2019,South Sectional,13,Braintree,24
@@ -108,7 +108,7 @@ year,division,place,school,score
 2018,South Sectional,7,Framingham,179.5
 2018,South Sectional,8,Marshfield,160
 2018,South Sectional,9,Boston Latin School,139
-2018,South Sectional,10,Notre Dame Academy-Hingham,138
+2018,South Sectional,10,Notre Dame Academy - Hingham,138
 2018,South Sectional,11,Milton,88
 2018,South Sectional,12,Walpole,85
 2018,South Sectional,13,Braintree,24
@@ -142,7 +142,7 @@ year,division,place,school,score
 2017,South Sectional,7,Needham,168
 2017,South Sectional,8,Boston Latin School,157
 2017,South Sectional,9,Marshfield,144
-2017,South Sectional,10,Notre Dame Academy-Hingham,119
+2017,South Sectional,10,Notre Dame Academy - Hingham,119
 2017,South Sectional,11,Braintree,46
 2017,South Sectional,12,Walpole,35
 2017,South Sectional,13,Norwood,32
@@ -170,7 +170,7 @@ year,division,place,school,score
 2016,South Sectional,1,Framingham,300
 2016,South Sectional,2,Newton North,292
 2016,South Sectional,3,Brookline,263
-2016,South Sectional,4,Notre Dame Academy-Hingham,251
+2016,South Sectional,4,Notre Dame Academy - Hingham,251
 2016,South Sectional,5,Natick,242
 2016,South Sectional,6,Wellesley,240
 2016,South Sectional,7,Ursuline Academy,205
@@ -199,7 +199,7 @@ year,division,place,school,score
 2015,North Sectional,17,Methuen,18.5
 2015,North Sectional,18,Stoneham,12
 2015,North Sectional,19,Billerica,9
-2015,North Sectional,20,Notre Dame Academy-Worcester,4
+2015,North Sectional,20,Notre Dame Academy - Worcester,4
 2015,South Sectional,1,Bishop Feehan,350
 2015,South Sectional,2,Brookline,267.5
 2015,South Sectional,3,Newton North,235.5
@@ -208,7 +208,7 @@ year,division,place,school,score
 2015,South Sectional,6,Needham,202
 2015,South Sectional,7,Ursuline Academy,172.5
 2015,South Sectional,8,Natick,144
-2015,South Sectional,9,Notre Dame Academy-Hingham,133.5
+2015,South Sectional,9,Notre Dame Academy - Hingham,133.5
 2015,South Sectional,10,Marshfield,90
 2015,South Sectional,11,New Bedford,71
 2015,South Sectional,12,Braintree,53
@@ -292,7 +292,7 @@ year,division,place,school,score
 2013,South Sectional,9,Apponequet,91
 2013,South Sectional,10,Seekonk,83
 2013,South Sectional,11,Bishop Stang Spartans,73
-2013,South Sectional,12,Notre Dame Academy (H),71
+2013,South Sectional,12,Notre Dame Academy - Hingham,71
 2013,South Sectional,13,Walpole,65
 2013,South Sectional,14,Brockton,64
 2013,South Sectional,15,Dedham,41
@@ -330,7 +330,7 @@ year,division,place,school,score
 2012,South Sectional,4,Natick,147.5
 2012,South Sectional,5,Bishop Stang,138
 2012,South Sectional,6,Wellesley,121
-2012,South Sectional,6,Notre Dame Academy (H),121
+2012,South Sectional,6,Notre Dame Academy - Hingham,121
 2012,South Sectional,8,Westwood,119
 2012,South Sectional,9,Seekonk,114
 2012,South Sectional,10,Newton North,103
@@ -372,7 +372,7 @@ year,division,place,school,score
 2011,South Sectional,3,Walpole,254
 2011,South Sectional,4,Needham,202.5
 2011,South Sectional,5,Bishop Stang,164.5
-2011,South Sectional,6,Notre Dame Academy (H),140.5
+2011,South Sectional,6,Notre Dame Academy - Hingham,140.5
 2011,South Sectional,7,Seekonk,114
 2011,South Sectional,8,Norwood,100
 2011,South Sectional,9,Marshfield,96
@@ -412,7 +412,7 @@ year,division,place,school,score
 2010,South Sectional,2,Framingham,182
 2010,South Sectional,3,Bishop Stang,129
 2010,South Sectional,4,Needham,113
-2010,South Sectional,5,Notre Dame Academy (H),111
+2010,South Sectional,5,Notre Dame Academy - Hingham,111
 2010,South Sectional,6,Seekonk,77.5
 2010,South Sectional,7,Walpole,77
 2010,South Sectional,8,Sandwich,69
@@ -445,7 +445,7 @@ year,division,place,school,score
 2009,North Sectional,15,Burlington,4
 2009,North Sectional,15,Saint Peter-Marian,4
 2009,South Sectional,1,Bishop Feehan,251
-2009,South Sectional,2,Notre Dame Academy-Hingham,159
+2009,South Sectional,2,Notre Dame Academy - Hingham,159
 2009,South Sectional,3,Bishop Stang,154
 2009,South Sectional,4,Framingham,110
 2009,South Sectional,6,Seekonk,83
@@ -603,7 +603,7 @@ year,division,place,school,score
 2004,North Sectional,10,Burlington High School,42
 2004,North Sectional,11,Winchester High School,30
 2004,North Sectional,12,Lowell High School,27
-2004,North Sectional,13,Notre Dame Academy Worcester,17
+2004,North Sectional,13,Notre Dame Academy - Worcester,17
 2004,North Sectional,14,Stoneham High School,12
 2004,North Sectional,15,Cambridge High School,7
 2004,North Sectional,16,Dracut High School,6
