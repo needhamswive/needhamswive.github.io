@@ -12,6 +12,9 @@
   <tbody>
     {% for event in include.events %}
       {% assign event-results = include.results | where: "event", event %}
+      {% if event-results.size == 0 %}
+        {% continue %}
+      {% endif %}
       <tr class="filter-section" data-option="event" data-section="{{ event }}">
         <th colspan="5" style="text-align: center;">{{ event }}</th>
       </tr>

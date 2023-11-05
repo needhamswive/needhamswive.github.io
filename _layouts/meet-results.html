@@ -46,6 +46,8 @@ classes: wide
 <h2>{{ year }}</h2>
 
 {% if multiple-divisions %}
+  {% assign divisions = results-for-year | map: "division" | uniq | sort %}
+
   {% for division in divisions %}
     <div class="filter-section" data-option="division" data-section="{{ division }}">
 
