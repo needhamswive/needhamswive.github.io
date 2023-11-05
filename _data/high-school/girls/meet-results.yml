@@ -1615,6 +1615,12 @@ results-by-year:
       - name: Bay State Conference
         place: 1
         citations: BSCRankings
+      - name: State
+        place: 15
+        citations: 2000101
+    citations:
+      - name: 2000101
+        link: https://www.swimmingworldmagazine.com/results/massachusetts-girls-state-high-school-swimming-and-diving-championships/high-school/2000/November/19
   - year: 1999
     championships:
       - name: Bay State Conference
