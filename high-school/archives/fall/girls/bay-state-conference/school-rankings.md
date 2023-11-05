@@ -32,7 +32,8 @@ years-boys-scored-with-girls:
 <tbody>
 
 {% for year in years %}
-{% assign top-3-school-rankings-for-year = school-rankings | where: "year", year | sort: "rank" | slice: 0, 4 %}
+{% comment %} Assume the ranks are already in order {% endcomment %}
+{% assign top-3-school-rankings-for-year = school-rankings | where: "year", year | slice: 0, 4 %}
 <tr>
   <td markdown="1">
   {{ year }}{% if years-boys-scored-with-girls contains year %}[^comment-on-scoring]{% endif %}
