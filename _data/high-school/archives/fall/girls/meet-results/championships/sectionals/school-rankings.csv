@@ -468,7 +468,7 @@ year,division,place,school,score
 2009,South Sectional,22,Mount Alvernia,1
 2009,South Sectional,22,Sandwich,1
 2008,North Sectional,1,Reading,205
-2008,North Sectional,2,Acton Boxborough,199
+2008,North Sectional,2,Acton-Boxborough,199
 2008,North Sectional,3,Chelmsford,182
 2008,North Sectional,4,Andover,167
 2008,North Sectional,5,Winchester,146
@@ -485,7 +485,7 @@ year,division,place,school,score
 2008,North Sectional,16,Wakefield,4
 2008,North Sectional,17,Stoneham,2
 2008,North Sectional,17,Melrose,2
-2008,South Sectional,1,Notre Dame Academy,239
+2008,South Sectional,1,Notre Dame Academy - Hingham,239
 2008,South Sectional,2,Bishop Feehan,215.5
 2008,South Sectional,3,Bishop Stang,162.5
 2008,South Sectional,4,Framingham,115.5
@@ -508,7 +508,7 @@ year,division,place,school,score
 2008,South Sectional,21,Marshfield,8
 2008,South Sectional,22,Weymouth,2
 2007,North Sectional,1,Andover,228
-2007,North Sectional,2,Acton Boxborough,221
+2007,North Sectional,2,Acton-Boxborough,221
 2007,North Sectional,3,Chelmsford,161
 2007,North Sectional,4,Reading,152
 2007,North Sectional,5,Lexington,105
@@ -525,7 +525,7 @@ year,division,place,school,score
 2007,North Sectional,16,Academy of Notre Dame,12
 2007,North Sectional,17,Notre Dame Academy,10
 2007,North Sectional,18,Billerica,4
-2007,South Sectional,1,Notre Dame Academy,255
+2007,South Sectional,1,Notre Dame Academy - Hingham,255
 2007,South Sectional,2,Bishop Feehan,201.5
 2007,South Sectional,3,Bishop Stang,186
 2007,South Sectional,4,Framingham,119
@@ -550,7 +550,7 @@ year,division,place,school,score
 2007,South Sectional,22,Marshfield,1
 2007,South Sectional,24,Newton North,0.5
 2006,North Sectional,1,Andover,320
-2006,North Sectional,2,Acton Boxborough,210.5
+2006,North Sectional,2,Acton-Boxborough,210.5
 2006,North Sectional,3,Chelmsford,192
 2006,North Sectional,4,Reading,95
 2006,North Sectional,5,Methuen,79
@@ -568,7 +568,7 @@ year,division,place,school,score
 2006,North Sectional,17,Boston Latin School,11
 2006,North Sectional,18,Billerica,7
 2006,North Sectional,19,Notre Dame Academy,2
-2006,South Sectional,1,Notre Dame Academy,244
+2006,South Sectional,1,Notre Dame Academy - Hingham,244
 2006,South Sectional,2,Bishop Stang,188.5
 2006,South Sectional,3,Framingham,141
 2006,South Sectional,4,Bishop Feehan,129
@@ -591,47 +591,164 @@ year,division,place,school,score
 2006,South Sectional,21,Canton,9
 2006,South Sectional,22,Needham,7
 2006,South Sectional,23,New Bedford,3
-2004,North Sectional,1,Andover High School,336
-2004,North Sectional,2,Acton Boxborough High School,252
-2004,North Sectional,3,Chelmsford High School,167
-2004,North Sectional,4,Belmont High School,112
+2005,North Sectional,1,Andover,
+2005,North Sectional,2,Acton-Boxbourgh,
+2005,South Sectional,1,Notre Dame Academy - Hingham,
+2005,South Sectional,2,Bishop Stang,
+2004,North Sectional,1,Andover,336
+2004,North Sectional,2,Acton-Boxborough,252
+2004,North Sectional,3,Chelmsford,167
+2004,North Sectional,4,Belmont,112
 2004,North Sectional,5,Central Catholic High Schol,93
-2004,North Sectional,5,Reading High School,93
-2004,North Sectional,7,Haverhill High School,77
-2004,North Sectional,8,Framingham High School,71
-2004,North Sectional,9,Methuen High School,47
-2004,North Sectional,10,Burlington High School,42
-2004,North Sectional,11,Winchester High School,30
-2004,North Sectional,12,Lowell High School,27
+2004,North Sectional,5,Reading,93
+2004,North Sectional,7,Haverhill,77
+2004,North Sectional,8,Framingham,71
+2004,North Sectional,9,Methuen,47
+2004,North Sectional,10,Burlington,42
+2004,North Sectional,11,Winchester,30
+2004,North Sectional,12,Lowell,27
 2004,North Sectional,13,Notre Dame Academy - Worcester,17
-2004,North Sectional,14,Stoneham High School,12
-2004,North Sectional,15,Cambridge High School,7
-2004,North Sectional,16,Dracut High School,6
+2004,North Sectional,14,Stoneham,12
+2004,North Sectional,15,Cambridge,7
+2004,North Sectional,16,Dracut,6
 2004,North Sectional,17,St. Peter Mariian,4
-2004,North Sectional,18,Billerica High School,2
-2004,South Sectional,1,Bishop Stang High School,195.50
+2004,North Sectional,18,Billerica,2
+2004,South Sectional,1,Bishop Stang,195.50
 2004,South Sectional,2,Notre Dame Academy - Hingham,189
-2004,South Sectional,3,Bishop Feehan High School,184.50
-2004,South Sectional,4,Seekonk High School,130
-2004,South Sectional,5,Brockton High School,123
-2004,South Sectional,6,Walpole High School,88
-2004,South Sectional,7,Milford High School,84
-2004,South Sectional,8,Natick High School,57
-2004,South Sectional,9,Brookline High School,55
-2004,South Sectional,10,Marshfield High School,39
-2004,South Sectional,11,Wellesley High School,35
-2004,South Sectional,12,Norwood High School,33
-2004,South Sectional,13,Duxbury High School,32
+2004,South Sectional,3,Bishop Feehan,184.50
+2004,South Sectional,4,Seekonk,130
+2004,South Sectional,5,Brockton,123
+2004,South Sectional,6,Walpole,88
+2004,South Sectional,7,Milford,84
+2004,South Sectional,8,Natick,57
+2004,South Sectional,9,Brookline,55
+2004,South Sectional,10,Marshfield,39
+2004,South Sectional,11,Wellesley,35
+2004,South Sectional,12,Norwood,33
+2004,South Sectional,13,Duxbury,32
 2004,South Sectional,14,Ursuline Academy,28
-2004,South Sectional,14,New Bedford High School,28
-2004,South Sectional,16,Dedham High School,27
+2004,South Sectional,14,New Bedford,28
+2004,South Sectional,16,Dedham,27
 2004,South Sectional,17,Boston Latin,16
-2004,South Sectional,18,Needham High School,15
-2004,South Sectional,19,Stoughton High School,11
-2004,South Sectional,19,Apponequet Reg High School,11
+2004,South Sectional,18,Needham,15
+2004,South Sectional,19,Stoughton,11
+2004,South Sectional,19,Apponequet Reg,11
 2004,South Sectional,21,Quincy North Quincy High Schoo,10
-2004,South Sectional,22,Durfee High School,9
+2004,South Sectional,22,Durfee,9
 2004,South Sectional,23,Newton North,6
-2004,South Sectional,23,Canton High School,6
-2004,South Sectional,25,Sandwich High School,1
+2004,South Sectional,23,Canton,6
+2004,South Sectional,25,Sandwich,1
+2003,North Sectional,1,Andover,
+2003,North Sectional,2,Acton-Boxbourgh,
+2003,South Sectional,1,Seekonk,
+2003,South Sectional,2,Notre Dame Academy - Hingham,
+2002,North Sectional,1,Andover,
+2002,North Sectional,2,Acton-Boxbourgh,
+2002,South Sectional,1,Seekonk,
+2002,South Sectional,2,Needham,
+2001,North Sectional,1,Andover,
+2001,North Sectional,2,Acton-Boxbourgh,
 2001,South Sectional,1,Needham,
+2001,South Sectional,2,Duxbury,
+2000,North Sectional,1,Andover,
+2000,North Sectional,2,Acton-Boxbourgh,
+2000,South Sectional,1,Duxbury,
+2000,South Sectional,2,Bishop Feehan,
+1999,North Sectional,1,Andover,
+1999,North Sectional,2,Chelmsford,
+1999,South Sectional,1,Duxbury,
+1999,South Sectional,2,Notre Dame Academy - Hingham,
+1998,North Sectional,1,Acton-Boxborough,
+1998,North Sectional,2,Chelmsford,
+1998,South Sectional,1,Duxbury,
+1998,South Sectional,2,Seekonk,
+1997,North Sectional,1,Acton-Boxborough,
+1997,North Sectional,2,Chelmsford,
+1997,South Sectional,1,Bishop Feehan,
+1997,South Sectional,2,Seekonk,
+1996,North Sectional,1,Acton-Boxborough,
+1996,North Sectional,2,Chelmsford,
+1996,South Sectional,1,Bishop Feehan,
+1996,South Sectional,2,Seekonk,
+1995,North Sectional,1,Acton-Boxborough,
+1995,North Sectional,2,Chelmsford,
+1995,South Sectional,1,Bishop Feehan,
+1995,South Sectional,2,Natick,
+1994,North Sectional,1,Acton-Boxborough,
+1994,North Sectional,2,Haverhill,
+1994,South Sectional,1,Natick,
+1994,South Sectional,2,Bishop Feehan,
+1993,North Sectional,1,Acton-Boxborough,
+1993,North Sectional,2,Chelmsford,
+1993,South Sectional,1,Westwood,
+1993,South Sectional,2,Duxbury,
+1992,North Sectional,1,Acton-Boxborough,
+1992,North Sectional,2,Chelmsford,
+1992,South Sectional,1,Westwood,
+1992,South Sectional,2,Wellesley,
+1991,North Sectional,1,Acton-Boxborough,
+1991,North Sectional,2,Lowell,
+1991,South Sectional,1,Ursuline Academy,
+1991,South Sectional,2,Wellesley,
+1990,North Sectional,1,Acton-Boxborough,
+1990,North Sectional,2,Lowell,
+1990,South Sectional,1,Wellesley,
+1990,South Sectional,2,Ursuline Academy,
+1989,North Sectional,1,Lowell,
+1989,North Sectional,2,Acton-Boxborough,
+1989,South Sectional,1,Wellesley,
+1989,South Sectional,2,Ursuline Academy,
+1988,North Sectional,1,Acton-Boxborough,
+1988,North Sectional,2,Lowell,
+1988,South Sectional,1,Wellesley,
+1988,South Sectional,2,New Bedford,
+1987,North Sectional,1,Acton-Boxborough,
+1987,North Sectional,2,Andover,
+1987,South Sectional,1,Wellesley,
+1987,South Sectional,2,Needham,
+1986,North Sectional,1,Acton-Boxborough,
+1986,North Sectional,2,Belmont,
+1986,South Sectional,1,Wellesley,
+1986,South Sectional,2,Brockton,
+1985,North Sectional,1,Acton-Boxborough,
+1985,North Sectional,2,Belmont,
+1985,South Sectional,1,Wellesley,
+1985,South Sectional,2,Brockton,
+1984,North Sectional,1,Acton-Boxborough,
+1984,North Sectional,2,Westford Academy,
+1984,South Sectional,1,Canton,
+1984,South Sectional,2,Brockton,
+1983,North Sectional,1,Acton-Boxborough,
+1983,North Sectional,2,Westford Academy,
+1983,South Sectional,1,Wellesley,
+1983,South Sectional,2,Brockton,
+1982,North Sectional,1,Acton-Boxborough,
+1982,North Sectional,2,Framingham North,
+1982,South Sectional,1,Seekonk,
+1982,South Sectional,2,Brockton,
+1981,North Sectional,1,Acton-Boxborough,
+1981,North Sectional,2,Hamilton Wenham,
+1981,South Sectional,1,Durfee,
+1981,South Sectional,2,Seekonk,
+1980,North Sectional,1,Acton-Boxborough,
+1980,North Sectional,2,Lexington,
+1980,South Sectional,1,Durfee,
+1980,South Sectional,2,Dover Sherborn,
+1979,North Sectional,1,Framingham North,
+1979,North Sectional,2,Lexington,
+1979,South Sectional,1,Durfee,
+1979,South Sectional,2,Brockton,
+1978,North Sectional,1,Framingham North,
+1978,North Sectional,2,Acton-Boxborough,
+1978,South Sectional,1,Durfee,
+1978,South Sectional,2,Dover Sherborn,
+1977,Eastern Mass Sectional,1,Acton-Boxbourgh,
+1977,Eastern Mass Sectional,2,Framingham North,
+1976,Eastern Mass Sectional,1,Acton-Boxbourgh,
+1976,Eastern Mass Sectional,2,Marblehead,
+1975,Eastern Mass Sectional,1,Bedford,
+1975,Eastern Mass Sectional,2,Wayland,
+1974,Eastern Mass Sectional,1,Bedford,
+1974,Eastern Mass Sectional,2,Wayland,
+1973,Eastern Mass Sectional,1,Wayland,
+1972,Eastern Mass Sectional,2,Acton-Boxborough,
