@@ -1,100 +1,362 @@
 year,division,event,place,name,grade,school,result,points
+2023,North Sectional,200 Medley Relay,1,Caroline Tyrrell;Katie Crowley;Isabela Teixeira;Katherine Baxter,11;12;11;11,Acton-Boxborough,1:51.74,40
+2023,North Sectional,200 Medley Relay,2,Emma Santoro;Audrey Cook;Grace McHugh;Allie DeGray,09;11;12;09,Wakefield Memorial,1:52.91,34
+2023,North Sectional,200 Medley Relay,3,Leyna Nguyen;Therese Sanzone;Julia Lembo;Amira Aboudou,11;12;09;12,Malden Catholic,1:53.48,32
+2023,North Sectional,200 Medley Relay,4,Emily Moh;Julia Valcourt;Elissa Bennett;Elle Michaud,11;12;11;12,Winchester,1:54.84,30
+2023,North Sectional,200 Medley Relay,5,Molly Jordan;Sophia DeFrank;Makenzie Hillsgrove;Sophia Caruso,10;10;12;11,Haverhill,1:55.82,28
+2023,North Sectional,200 Medley Relay,6,Mia Murphy;Katrina Chan;Mia Taylor;Rowan Dargon,12;11;12;12,Belmont,1:56.63,26
+2023,North Sectional,200 Medley Relay,7,Lana Huynh;Aneesa Hazarika;Emilia Hukkanen;Grace Merenda,10;10;09;10,Andover,1:58.58,24
+2023,North Sectional,200 Medley Relay,8,Mai Pho;Julia Perez;Penny Drolet;Anna Florence,10;09;12;09,Chelmsford,2:01.45,22
+2023,North Sectional,200 Medley Relay,9,Haley Musumarra;Maeve Foley;Emily Rogers;Adairis Guido,09;10;12;12,Central Catholic,2:02.29,18
+2023,North Sectional,200 Medley Relay,10,Ella Perkins;Caroline LeClair;Soline Fisher;Nora Vartanian,12;11;11;12,Arlington,2:02.98,14
+2023,North Sectional,200 Medley Relay,11,Mikayla Cheung;Alice Ma;Mia Lin;Micaela Gebrael,09;10;12;11,Lexington,2:03.69,12
+2023,North Sectional,200 Medley Relay,12,Kaelyn Kerr;Kiera Harvey;Claire O'Connor;Sophie Barriault,08;09;11;10,Billerica Memorial,2:04.12,10
+2023,North Sectional,200 Medley Relay,13,Ryley McCarthy;Grace Davison;Ava Eldridge;Kayleigh McCarthy,10;10;09;10,Woburn Memorial,2:04.30,8
+2023,North Sectional,200 Medley Relay,14,Sabrina Sweat;Laila Paulsen;Grabrielle Hames;Lindsay Walker,10;09;09;11,Reading Memorial,2:06.82,6
+2023,North Sectional,200 Medley Relay,15,Lia Sharon;Sophia Kon;Andrea Kim;Allie Roberts,12;12;09;,North Andover,2:08.71,4
+2023,North Sectional,200 Medley Relay,16,Mackenzie Gibbons;Grace Emanuele;Theresa Nguyen;Libby Johnson,10;;;,Academy of Notre Dame,2:15.65,2
+2023,North Sectional,200 Medley Relay,17,Melis Baloglu;Ava Yi;Abigail Mirick;Kara Sacco,12;12;11;11,Stoneham,2:16.58,
 2023,North Sectional,200 Freestyle,1,Hannah Wieczorek,12,North Andover,1:53.46,20
 2023,North Sectional,200 Freestyle,2,Amelia Barron,11,Andover,1:56.02,17
 2023,North Sectional,200 Freestyle,3,Elle Michaud,12,Winchester,1:57.96,16
 2023,North Sectional,200 Freestyle,4,Caroline Tyrrell,11,Acton-Boxborough,2:03.02,15
 2023,North Sectional,200 Freestyle,5,Olivia Landers,09,Andover,2:03.42,14
-2023,North Sectional,200 Freestyle,6,Audrey Cook,11,Wakefield,2:04.11,13
-2023,North Sectional,200 Individual Medley,1,Julia Lembo,09,Malden,2:13.66,20
-2023,North Sectional,200 Individual Medley,2,Laila Paulsen,09,Reading,2:13.88,17
+2023,North Sectional,200 Freestyle,6,Audrey Cook,11,Wakefield Memorial,2:04.11,13
+2023,North Sectional,200 Freestyle,7,Emma Gray,12,Chelmsford,2:04.58,12
+2023,North Sectional,200 Freestyle,8,Sarah Wipke,12,Lexington,2:05.05,11
+2023,North Sectional,200 Freestyle,9,Valeria Prete,09,Arlington,2:05.89,9
+2023,North Sectional,200 Freestyle,10,Isabella Tanguay,09,Haverhill,2:06.07,7
+2023,North Sectional,200 Freestyle,11,Olivia Sater,12,Acton-Boxborough,2:06.12,6
+2023,North Sectional,200 Freestyle,12,Sofia Bufano,09,Belmont,2:08.14,5
+2023,North Sectional,200 Freestyle,13,Mariel Tan,11,Acton-Boxborough,2:08.56,4
+2023,North Sectional,200 Freestyle,14,Sarah Herbst,12,Woburn Memorial,2:08.77,3
+2023,North Sectional,200 Freestyle,15,Audrey Rice,12,Chelmsford,2:11.28,2
+2023,North Sectional,200 Individual Medley,1,Julia Lembo,09,Malden Catholic,2:13.66,20
+2023,North Sectional,200 Individual Medley,2,Laila Paulsen,09,Reading Memorial,2:13.88,17
 2023,North Sectional,200 Individual Medley,3,Emilia Hukkanen,09,Andover,2:16.07,16
 2023,North Sectional,200 Individual Medley,4,Sophia Tang,11,Lexington,2:17.79,15
-2023,North Sectional,200 Individual Medley,5,Emma Santoro,09,Wakefield,2:18.17,14
+2023,North Sectional,200 Individual Medley,5,Emma Santoro,09,Wakefield Memorial,2:18.17,14
 2023,North Sectional,200 Individual Medley,6,Makenzie Hillsgrove,12,Haverhill,2:19.11,13
+2023,North Sectional,200 Individual Medley,7,Grace McHugh,12,Wakefield Memorial,2:21.74,12
+2023,North Sectional,200 Individual Medley,8,Maeve Foley,10,Central Catholic,2:21.93,11
+2023,North Sectional,200 Individual Medley,9,Katherine Baxter,11,Acton-Boxborough,2:22.34,9
+2023,North Sectional,200 Individual Medley,10,Mia Taylor,12,Belmont,2:22.35,7
+2023,North Sectional,200 Individual Medley,11,Victoria Zhang,11,Lexington,2:23.07,6
+2023,North Sectional,200 Individual Medley,12,Julia Valcourt,12,Winchester,2:23.91,5
+2023,North Sectional,200 Individual Medley,13,Ella Perkins,12,Arlington,2:24.32,4
+2023,North Sectional,200 Individual Medley,14,Leah Aquino,09,Haverhill,2:24.98,3
+2023,North Sectional,200 Individual Medley,15,Sophia Venetiou,10,Andover,2:25.74,2
+2023,North Sectional,200 Individual Medley,16,Sophie Barriault,10,Billerica Memorial,2:26.87,1
+2023,North Sectional,200 Individual Medley,17,Kira Kozhemiakina,10,Acton-Boxborough,2:28.22,
+2023,North Sectional,200 Individual Medley,18,Julia Perez,09,Chelmsford,2:28.81,
+2023,North Sectional,200 Individual Medley,19,Sophia DeFrank,10,Haverhill,2:29.54,
+2023,North Sectional,200 Individual Medley,20,Karen Tao,08,Belmont,2:29.73,
+2023,North Sectional,200 Individual Medley,21,Kyla Estrella,12,Arlington,2:30.95,
+2023,North Sectional,200 Individual Medley,22,Gabriela McDonough,11,Andover,2:31.84,
+2023,North Sectional,200 Individual Medley,23,Amira Aboudou,12,Malden Catholic,2:32.22,
+2023,North Sectional,200 Individual Medley,24,Lia Sharon,12,North Andover,2:39.19,
 2023,North Sectional,50 Freestyle,1,Isabela Teixeira,11,Acton-Boxborough,23.61,20
-2023,North Sectional,50 Freestyle,2,Allie DeGray,09,Wakefield,25.04,17
+2023,North Sectional,50 Freestyle,2,Allie DeGray,09,Wakefield Memorial,25.04,17
 2023,North Sectional,50 Freestyle,3,Nora Williamson,09,Chelmsford,25.48,16
 2023,North Sectional,50 Freestyle,4,Sophia Caruso,11,Haverhill,25.49,15
 2023,North Sectional,50 Freestyle,5,Soline Fisher,11,Arlington,25.89,14
 2023,North Sectional,50 Freestyle,6,Mia Murphy,12,Belmont,26.04,13
+2023,North Sectional,50 Freestyle,7,Rowan Dargon,12,Belmont,26.09,12
+2023,North Sectional,50 Freestyle,8,Megan Han,11,Winchester,26.46,11
+2023,North Sectional,50 Freestyle,9,Madeleine Hodges,12,Lexington,26.68,9
+2023,North Sectional,50 Freestyle,10,Abigail Hill,12,Belmont,26.77,7
+2023,North Sectional,50 Freestyle,11,Leyna Nguyen,11,Malden Catholic,26.97,6
+2023,North Sectional,50 Freestyle,12,Grace Merenda,10,Andover,27.15,5
+2023,North Sectional,50 Freestyle,13,Elizabeth Kelly,10,Malden Catholic,27.56,4
 2023,North Sectional,100 Butterfly,1,Amelia Barron,11,Andover,58.28,20
 2023,North Sectional,100 Butterfly,2,Elissa Bennett,11,Winchester,58.96,17
 2023,North Sectional,100 Butterfly,3,Mackenzie Gibbons,10,Academy of Notre Dame,1:00.19,16
-2023,North Sectional,100 Butterfly,4,Julia Lembo,09,Malden,1:00.69,15
+2023,North Sectional,100 Butterfly,4,Julia Lembo,09,Malden Catholic,1:00.69,15
 2023,North Sectional,100 Butterfly,5,Isla Amuan,09,North Andover,1:01.09,14
-2023,North Sectional,100 Butterfly,6,Molly Jorday,10,Haverhill,1:03.07,13
+2023,North Sectional,100 Butterfly,6,Molly Jordan,10,Haverhill,1:03.07,13
+2023,North Sectional,100 Butterfly,7,Emily Rogers,12,Central Catholic,1:03.45,12
+2023,North Sectional,100 Butterfly,8,Grace McHugh,12,Wakefield Memorial,1:03.87,11
+2023,North Sectional,100 Butterfly,9,Soline Fisher,11,Arlington,1:04.43,9
+2023,North Sectional,100 Butterfly,10,Chelsea Zhou,12,Acton-Boxborough,1:04.73,7
+2023,North Sectional,100 Butterfly,11,Amira Aboudou,12,Malden Catholic,1:05.01,6
+2023,North Sectional,100 Butterfly,12,Abigail Hill,12,Belmont,1:05.27,5
+2023,North Sectional,100 Butterfly,13,Katrina Chan,11,Belmont,1:06.19,4
+2023,North Sectional,100 Butterfly,14,Olivia Sater,12,Acton-Boxborough,1:06.33,3
+2023,North Sectional,100 Butterfly,15,Emily Zhou,11,Acton-Boxborough,1:07.33,2
+2023,North Sectional,100 Butterfly,16,Penny Drolet,12,Chelmsford,1:07.66,1
+2023,North Sectional,100 Butterfly,17,Elizabeth Kelly,10,Malden Catholic,1:07.85,
+2023,North Sectional,100 Butterfly,18,Aneesa Hazarika,10,Andover,1:08.14,
 2023,North Sectional,100 Freestyle,1,Isabela Teixeira,11,Acton-Boxborough,51.25,20
-2023,North Sectional,100 Freestyle,2,Allie DeGray,09,Wakefield,55.36,17
-2023,North Sectional,100 Freestyle,3,Therese Sanzone,12,Malden,55.74,16
+2023,North Sectional,100 Freestyle,2,Allie DeGray,09,Wakefield Memorial,55.36,17
+2023,North Sectional,100 Freestyle,3,Therese Sanzone,12,Malden Catholic,55.74,16
 2023,North Sectional,100 Freestyle,4,Elissa Bennett,11,Winchester,55.77,15
 2023,North Sectional,100 Freestyle,5,Natasha Secan,10,North Andover,56.31,14
 2023,North Sectional,100 Freestyle,6,Nora Williamson,09,Chelmsford,56.44,13
+2023,North Sectional,100 Freestyle,7,Sophia Caruso,11,Haverhill,56.48,12
+2023,North Sectional,100 Freestyle,8,Megan Han,11,Winchester,57.24,11
+2023,North Sectional,100 Freestyle,9,Mia Murphy,12,Belmont,57.54,9
+2023,North Sectional,100 Freestyle,10,Emma Gray,12,Chelmsford,58.24,7
+2023,North Sectional,100 Freestyle,11,Sophie Barriault,10,Billerica Memorial,58.54,6
+2023,North Sectional,100 Freestyle,12,Kayleigh McCarthy,10,Woburn Memorial,58.56,5
+2023,North Sectional,100 Freestyle,13,Katie Crowley,12,Acton-Boxborough,58.85,4
+2023,North Sectional,100 Freestyle,14,Courtney Collins,10,Malden Catholic,1:01.09,3
 2023,North Sectional,500 Freestyle,1,Elle Michaud,12,Winchester,5:17.39,20
 2023,North Sectional,500 Freestyle,2,Emilia Hukkanen,09,Andover,5:23.44,17
 2023,North Sectional,500 Freestyle,3,Sophia Tang,11,Lexington,5:26.83,16
 2023,North Sectional,500 Freestyle,4,Olivia Landers,09,Andover,5:28.76,15
 2023,North Sectional,500 Freestyle,5,Kira Kozhemiakina,10,Acton-Boxborough,5:35.64,14
 2023,North Sectional,500 Freestyle,6,Valeria Prete,09,Arlington,5:35.82,13
-2023,North Sectional,100 Backstroke,1,Hannah Wieczorek,12,North Andover,56.83,20
+2023,North Sectional,500 Freestyle,7,Maeve Foley,10,Central Catholic,5:35.85,12
+2023,North Sectional,500 Freestyle,8,Audrey Rice,12,Chelmsford,5:36.53,11
+2023,North Sectional,500 Freestyle,9,Sarah Wipke,12,Lexington,5:38.18,9
+2023,North Sectional,500 Freestyle,10,Mai Pho,10,Chelmsford,5:43.60,7
+2023,North Sectional,500 Freestyle,11,Ryley McCarthy,10,Woburn Memorial,5:47.76,6
+2023,North Sectional,500 Freestyle,12,Mariel Tan,11,Acton-Boxborough,5:48.15,5
+2023,North Sectional,500 Freestyle,13,Abigail Mirick,11,Stoneham,5:54.01,4
+2023,North Sectional,500 Freestyle,14,Jill Cavener,12,Andover,5:54.06,3
+2023,North Sectional,500 Freestyle,15,Anna Florence,09,Chelmsford,5:56.98,2
+2023,North Sectional,500 Freestyle,16,Anna White,09,Malden Catholic,5:59.93,1
+2023,North Sectional,500 Freestyle,17,Lindsay Walker,11,Reading Memorial,6:05.32,
+2023,North Sectional,200 Freestyle Relay,1,Sophia Kon;Isla Amuan;Natasha Secan;Hannah Wieczorek,12;09;10;12,North Andover,1:42.58,40
+2023,North Sectional,200 Freestyle Relay,2,Katrina Chan;Abigail Hill;Rowan Dargon;Sofia Bufano,11;12;12;09,Belmont,1:46.07,34
+2023,North Sectional,200 Freestyle Relay,3,Katie Crowley;Kira Kozhemiakina;Mariel Tan;Olivia Sater,12;10;11;12,Acton-Boxborough,1:46.23,32
+2023,North Sectional,200 Freestyle Relay,4,Nella Chmielewski;Anammaria Andronesi;Julia Valcourt;Megan Han,12;10;12;11,Winchester,1:46.90,30
+2023,North Sectional,200 Freestyle Relay,5,Grace Merenda;Gabriela McDonough;Olivia Landers;Amelia Barron,10;11;09;11,Andover,1:47.04,28
+2023,North Sectional,200 Freestyle Relay,6,Aliya Aboudou;Leyna Nguyen;Elizabeth Kelly;Therese Sanzone,12;11;10;12,Malden Catholic,1:47.21,26
+2023,North Sectional,200 Freestyle Relay,7,Kimaya Bhangle;Mikayla Cheung;Madeleine Hodges;Sophia Tang,11;09;12;11,Lexington,1:47.76,24
+2023,North Sectional,200 Freestyle Relay,8,Kayleigh McCarthy;Sadie Floyd;Alex Mahon;Sarah Herbst,10;09;10;12,Woburn Memorial,1:48.91,22
+2023,North Sectional,200 Freestyle Relay,9,Emily Miller;Leah Aquino;Isabella Tanguay;Kailyn Aquino,12;09;09;11,Haverhill,1:50.17,18
+2023,North Sectional,200 Freestyle Relay,10,Sophie Barriault;Claire O'Connor;Kiera Harvey;Kaelyn Kerr,10;11;09;08,Billerica Memorial,1:51.22,14
+2023,North Sectional,200 Freestyle Relay,11,Laila Atoui;Samantha Bordonaro;Mackenzie Grace;Lucy Wagner,11;11;12;10,Wakefield Memorial,1:51.99,12
+2023,North Sectional,200 Freestyle Relay,12,Sophia Donnelly;Erin Cashin;Grabrielle Hames;Madeline Walsh,11;08;09;11,Reading Memorial,1:52.54,10
+2023,North Sectional,200 Freestyle Relay,13,Ella Schoen;Monica Wicks;Valeria Prete;Nora Vartanian,09;10;09;12,Arlington,1:52.84,8
+2023,North Sectional,200 Freestyle Relay,14,Galen Goulette;Julia Barnas;Madeleine Meuse;Alyssa Wagner,12;11;10;11,Central Catholic,2:00.37,6
+2023,North Sectional,200 Freestyle Relay,,Anna Florence;Emma Gray;Audrey Rice;Nora Williamson,09;12;12;09,Chelmsford,DQ,
 2023,North Sectional,100 Backstroke,2,Isla Amuan,09,North Andover,59.85,17
-2023,North Sectional,100 Backstroke,3,Caroline Tyrell,11,Acton-Boxborough,1:00.37,16
+2023,North Sectional,100 Backstroke,3,Caroline Tyrrell,11,Acton-Boxborough,1:00.37,16
 2023,North Sectional,100 Backstroke,4,Molly Jordan,10,Haverhill,1:00.84,15
 2023,North Sectional,100 Backstroke,5,Makenzie Hillsgrove,12,Haverhill,1:01.12,14
-2023,North Sectional,100 Backstroke,6,Emma Santoro,09,Wakefield,1:01.73,13
-2023,North Sectional,100 Breaststroke,1,Therese Sanzone,12,Malden,1:07.13,20
-2023,North Sectional,100 Breaststroke,2,Audrey Cook,11,Wakefield,1:08.98,17
+2023,North Sectional,100 Backstroke,6,Emma Santoro,09,Wakefield Memorial,1:01.73,13
+2023,North Sectional,100 Backstroke,7,Mackenzie Gibbons,10,Academy of Notre Dame,1:02.22,12
+2023,North Sectional,100 Backstroke,8,Katherine Baxter,11,Acton-Boxborough,1:03.14,11
+2023,North Sectional,100 Backstroke,9,Chelsea Zhou,12,Acton-Boxborough,1:03.48,9
+2023,North Sectional,100 Backstroke,10,Isabella Tanguay,09,Haverhill,1:03.81,7
+2023,North Sectional,100 Backstroke,11,Mai Pho,10,Chelmsford,1:04.08,6
+2023,North Sectional,100 Backstroke,12,Natasha Secan,10,North Andover,1:04.61,5
+2023,North Sectional,100 Backstroke,13,Emily Rogers,12,Central Catholic,1:05.63,4
+2023,North Sectional,100 Backstroke,14,Summing Chan,09,Belmont,1:05.95,3
+2023,North Sectional,100 Backstroke,15,Emily Moh,11,Winchester,1:06.22,2
+2023,North Sectional,100 Backstroke,16,Sarah Herbst,12,Woburn Memorial,1:06.43,1
+2023,North Sectional,100 Backstroke,17,Mikayla Cheung,09,Lexington,1:06.60,
+2023,North Sectional,100 Backstroke,18,Ella Perkins,12,Arlington,1:06.91,
+2023,North Sectional,100 Backstroke,19,Kyla Estrella,12,Arlington,1:07.01,
+2023,North Sectional,100 Backstroke,20,Ryley McCarthy,10,Woburn Memorial,1:07.57,
+2023,North Sectional,100 Backstroke,21,Laila Atoui,11,Wakefield Memorial,1:08.10,
+2023,North Sectional,100 Backstroke,22,Leyna Nguyen,11,Malden Catholic,1:08.37,
+2023,North Sectional,100 Backstroke,23,Karen Tao,08,Belmont,1:08.81,
+2023,North Sectional,100 Breaststroke,1,Therese Sanzone,12,Malden Catholic,1:07.13,20
+2023,North Sectional,100 Breaststroke,2,Audrey Cook,11,Wakefield Memorial,1:08.98,17
 2023,North Sectional,100 Breaststroke,3,Mia Taylor,12,Belmont,1:10.76,16
-2023,North Sectional,100 Breaststroke,4,Laila Paulsen,09,Reading,1:10.78,15
-2023,North Sectional,100 Breaststroke,5,Katrina Chen,11,Belmont,1:11.14,14
+2023,North Sectional,100 Breaststroke,4,Laila Paulsen,09,Reading Memorial,1:10.78,15
+2023,North Sectional,100 Breaststroke,5,Katrina Chan,11,Belmont,1:11.14,14
 2023,North Sectional,100 Breaststroke,6,Victoria Zhang,11,Lexington,1:12.86,13
+2023,North Sectional,100 Breaststroke,7,Cadence Singleton,12,Andover,1:13.46,12
+2023,North Sectional,100 Breaststroke,8,Katie Crowley,12,Acton-Boxborough,1:13.75,11
+2023,North Sectional,100 Breaststroke,9,Aneesa Hazarika,10,Andover,1:13.97,9
+2023,North Sectional,100 Breaststroke,10,Aliya Aboudou,12,Malden Catholic,1:14.86,7
+2023,North Sectional,100 Breaststroke,11,Penny Drolet,12,Chelmsford,1:15.51,6
+2023,North Sectional,100 Breaststroke,12,Sofia Bufano,09,Belmont,1:15.60,5
+2023,North Sectional,100 Breaststroke,13,Leah Aquino,09,Haverhill,1:15.61,4
+2023,North Sectional,100 Breaststroke,14,Lucy Wagner,10,Wakefield Memorial,1:15.69,3
+2023,North Sectional,100 Breaststroke,15,Sophia DeFrank,10,Haverhill,1:16.07,2
+2023,North Sectional,100 Breaststroke,16,Julia Valcourt,12,Winchester,1:16.65,1
+2023,North Sectional,400 Freestyle Relay,1,Elissa Bennett;Emily Moh;Megan Han;Elle Michaud,11;11;11;12,Winchester,3:41.88,40
+2023,North Sectional,400 Freestyle Relay,2,Caroline Tyrrell;Katherine Baxter;Olivia Sater;Isabela Teixeira,11;11;12;11,Acton-Boxborough,3:43.11,34
+2023,North Sectional,400 Freestyle Relay,3,Olivia Landers;Aneesa Hazarika;Emilia Hukkanen;Amelia Barron,09;10;09;11,Andover,3:46.21,32
+2023,North Sectional,400 Freestyle Relay,4,Emma Santoro;Grace McHugh;Audrey Cook;Allie DeGray,09;12;11;09,Wakefield Memorial,3:46.56,30
+2023,North Sectional,400 Freestyle Relay,5,Sophia Caruso;Molly Jordan;Makenzie Hillsgrove;Isabella Tanguay,11;10;12;09,Haverhill,3:49.30,28
+2023,North Sectional,400 Freestyle Relay,6,Mai Pho;Emma Gray;Penny Drolet;Nora Williamson,10;12;12;09,Chelmsford,3:51.53,26
+2023,North Sectional,400 Freestyle Relay,7,Sophia Kon;Natasha Secan;Isla Amuan;Hannah Wieczorek,12;10;09;12,North Andover,3:51.91,24
+2023,North Sectional,400 Freestyle Relay,8,Abigail Hill;Rowan Dargon;Mia Murphy;Mia Taylor,12;12;12;12,Belmont,3:51.97,22
+2023,North Sectional,400 Freestyle Relay,9,Micaela Gebrael;Sarah Wipke;Victoria Zhang;Sophia Tang,11;12;11;11,Lexington,3:52.72,18
+2023,North Sectional,400 Freestyle Relay,10,Amira Aboudou;Elizabeth Kelly;Courtney Collins;Julia Lembo,12;10;10;09,Malden Catholic,3:58.00,14
+2023,North Sectional,400 Freestyle Relay,11,Valeria Prete;Piper Siegel;Ella Perkins;Soline Fisher,09;11;12;11,Arlington,3:59.60,12
+2023,North Sectional,400 Freestyle Relay,12,Kayleigh McCarthy;Ryley McCarthy;Alex Mahon;Sarah Herbst,10;10;10;12,Woburn Memorial,4:02.07,10
+2023,North Sectional,400 Freestyle Relay,13,Natalie Taylor;Luana Saldanha;Emily Rogers;Maeve Foley,11;11;12;10,Central Catholic,4:03.36,8
+2023,North Sectional,400 Freestyle Relay,14,Sophia Donnelly;Erin Cashin;Lindsay Walker;Laila Paulsen,11;08;11;09,Reading Memorial,4:03.87,6
+2023,South Sectional,200 Medley Relay,1,Tracey Peng;Alexandra Loo;Elena Dudkina;Elaine Cheng,11;11;12;10,Wellesley,1:51.96,40
+2023,South Sectional,200 Medley Relay,2,Chloe Wukitch;Rebecca Hwang;Sophie Guarrera;Lucy Mackey,12;11;12;12,Needham,1:53.32,34
+2023,South Sectional,200 Medley Relay,3,Mirta Ceraj;Daisy Huang;Claudia Rothman;Sophie Kelly,10;10;10;09,Brookline,1:55.50,32
+2023,South Sectional,200 Medley Relay,4,Parker DeVeau;Evin Otero;Sana Takamatsu;Julia Kammer,11;10;11;11,Newton North,1:57.76,30
+2023,South Sectional,200 Medley Relay,5,Charlotte Taieb;Gabrielle Coleman;Victoria Garity;Anna Hsu,11;11;12;11,Boston Latin,1:57.88,28
+2023,South Sectional,200 Medley Relay,6,Ksenia Fiorentino;Emma Iwaoka;Colbi Krause;Angela Kennedy,09;09;07;12,Notre Dame Academy - Hingham,2:01.72,26
+2023,South Sectional,200 Medley Relay,7,Amy DiPasquale;Jamie Dixon;Bella Edwards;Emma Bowen,11;09;09;12,Framingham,2:02.47,24
+2023,South Sectional,200 Medley Relay,8,Julie Greene;Keira Pham;Kaleigh Boynton;Allison Boynton,09;11;12;09,Milton,2:06.06,22
+2023,South Sectional,200 Medley Relay,9,Eliza Gange;Aila Lee;Katie Dorey;Abigail Lipoma,09;10;12;12,Natick,2:06.65,18
+2023,South Sectional,200 Medley Relay,10,Elizabeth Porcella;Chelsea Trombetta;James Long;Melissa Federico,08;12;09;10,Ursuline Academy,2:07.91,14
+2023,South Sectional,200 Medley Relay,11,Anastasia Virvilis;Olivia Valleau;Elsa Mustin;Emma Sheehan,11;11;10;10,Weymouth,2:11.31,12
+2023,South Sectional,200 Medley Relay,12,Madison Shea;Jane Bahm;Faith Cullen;Caisa Byerly,09;12;10;10,Walpole,2:11.44,10
+2023,South Sectional,200 Medley Relay,13,Mackenzie Pham;Emily Caldwell;Julia Le;Lexi Curtis,11;10;12;12,Braintree,2:13.67,8
 2023,South Sectional,200 Freestyle,1,Chloe Wukitch,12,Needham,1:58.23,20
 2023,South Sectional,200 Freestyle,2,Alessandra Woo,11,Newton North,2:00.42,17
 2023,South Sectional,200 Freestyle,3,Allison Boynton,09,Milton,2:00.56,16
 2023,South Sectional,200 Freestyle,4,Kylie O'Hearn,12,Needham,2:01.63,15
 2023,South Sectional,200 Freestyle,5,Jill Schneider,10,Newton North,2:01.70,14
 2023,South Sectional,200 Freestyle,6,Reagan Bulman,12,Braintree,2:04.16,13
+2023,South Sectional,200 Freestyle,7,Nevie Lee,10,Newton North,2:05.18,12
+2023,South Sectional,200 Freestyle,8,Katie Sandock,09,Natick,2:05.72,11
+2023,South Sectional,200 Freestyle,9,Sonja Tellander,09,Wellesley,2:06.89,9
+2023,South Sectional,200 Freestyle,10,Elaine Cheng,10,Wellesley,2:07.17,7
+2023,South Sectional,200 Freestyle,11,Mimi Aspi,11,Brookline,2:07.53,6
+2023,South Sectional,200 Freestyle,12,Sasha Tsizer,11,Framingham,2:08.68,5
+2023,South Sectional,200 Freestyle,13,Lyudmila Piatkov,11,Needham,2:09.13,4
+2023,South Sectional,200 Freestyle,14,Sydney Baugh,11,Wellesley,2:09.22,3
+2023,South Sectional,200 Freestyle,15,Grace Pistorino,12,Notre Dame Academy - Hingham,2:14.20,2
+2023,South Sectional,200 Freestyle,16,Maggie Li,09,Wellesley,2:15.79,1
 2023,South Sectional,200 Individual Medley,1,Isabela Bobocea,12,Needham,2:11.99,20
 2023,South Sectional,200 Individual Medley,2,Elena Dudkina,12,Wellesley,2:14.09,17
 2023,South Sectional,200 Individual Medley,3,Evin Otero,10,Newton North,2:17.38,16
 2023,South Sectional,200 Individual Medley,4,Claudia Rothman,10,Brookline,2:17.97,15
 2023,South Sectional,200 Individual Medley,5,Charlotte Taieb,11,Boston Latin,2:18.21,14
 2023,South Sectional,200 Individual Medley,6,Julia Shulman,12,Needham,2:18.66,13
+2023,South Sectional,200 Individual Medley,7,Rebecca Hwang,11,Needham,2:19.32,12
+2023,South Sectional,200 Individual Medley,8,Ori Fux,12,Needham,2:23.21,11
+2023,South Sectional,200 Individual Medley,9,Kaleigh Boynton,12,Milton,2:23.34,9
+2023,South Sectional,200 Individual Medley,10,Hanna Shimbori,09,Brookline,2:25.21,7
+2023,South Sectional,200 Individual Medley,11,Colbi Krause,07,Notre Dame Academy - Hingham,2:26.02,6
+2023,South Sectional,200 Individual Medley,12,Lindsay Youngren,12,Wellesley,2:27.94,5
+2023,South Sectional,200 Individual Medley,13,Haily Pham,12,Braintree,2:28.26,4
+2023,South Sectional,200 Individual Medley,14,Bella Edwards,09,Framingham,2:28.47,3
+2023,South Sectional,200 Individual Medley,15,Emily Yu,11,Boston Latin,2:28.75,2
+2023,South Sectional,200 Individual Medley,16,Yolanda Yan,09,Newton North,2:29.31,1
+2023,South Sectional,200 Individual Medley,17,Jolie Keung,10,Braintree,2:30.14,
+2023,South Sectional,200 Individual Medley,18,Amelia Castillo,09,Notre Dame Academy - Hingham,2:30.22,
 2023,South Sectional,50 Freestyle,1,Anna McGrew,12,Wellesley,23.83,20
 2023,South Sectional,50 Freestyle,2,Lucy Mackey,12,Needham,24.57,17
 2023,South Sectional,50 Freestyle,3,Kate Urdaneta,11,Newton North,24.69,16
 2023,South Sectional,50 Freestyle,4,Alexandra Loo,11,Wellesley,24.88,15
 2023,South Sectional,50 Freestyle,5,Tracey Peng,11,Wellesley,25.36,14
 2023,South Sectional,50 Freestyle,6,Ksenia Fiorentino,09,Notre Dame Academy - Hingham,25.59,13
+2023,South Sectional,50 Freestyle,7,Anna Hsu,11,Boston Latin,25.98,12
+2023,South Sectional,50 Freestyle,8,Erin MacDonald,07,Ursuline Academy,26.36,11
+2023,South Sectional,50 Freestyle,9,Julia Kammer,11,Newton North,26.38,9
+2023,South Sectional,50 Freestyle,10,Margaret Urdaneta,09,Newton North,26.48,7
+2023,South Sectional,50 Freestyle,11,Sophie Guarrera,12,Needham,26.70,6
+2023,South Sectional,50 Freestyle,12,Jamie Dixon,09,Framingham,26.77,5
+2023,South Sectional,50 Freestyle,13,Emma Iwaoka,09,Notre Dame Academy - Hingham,26.85,4
+2023,South Sectional,50 Freestyle,14,Gabrielle Coleman,11,Boston Latin,27.02,3
+2023,South Sectional,50 Freestyle,15,Abigail Lipoma,12,Natick,27.03,2
+2023,South Sectional,50 Freestyle,16,Lila Tulimieri,12,Newton North,27.15,1
+2023,South Sectional,50 Freestyle,17,Grace Morash,10,Ursuline Academy,27.22,
+2023,South Sectional,50 Freestyle,18,Sophie Kelly,09,Brookline,27.41,
+2023,South Sectional,50 Freestyle,19,Elyssa Truong,11,Braintree,27.43,
 2023,South Sectional,100 Butterfly,1,Allison Boynton,09,Milton,1:01.12,20
 2023,South Sectional,100 Butterfly,2,Alessandra Woo,11,Newton North,1:01.87,17
 2023,South Sectional,100 Butterfly,3,Julia Shulman,12,Needham,1:01.91,16
 2023,South Sectional,100 Butterfly,4,Claudia Rothman,10,Brookline,1:01.95,15
 2023,South Sectional,100 Butterfly,5,Audrey Sau,11,Wellesley,1:02.15,14
 2023,South Sectional,100 Butterfly,6,Sophie Guarrera,12,Needham,1:02.51,13
+2023,South Sectional,100 Butterfly,7,Parker DeVeau,11,Newton North,1:03.58,12
+2023,South Sectional,100 Butterfly,8,Elsa Mustin,10,Weymouth,1:04.12,11
+2023,South Sectional,100 Butterfly,9,Yolanda Yan,09,Newton North,1:04.85,9
+2023,South Sectional,100 Butterfly,10,Hanna Shimbori,09,Brookline,1:04.97,7
+2023,South Sectional,100 Butterfly,11,Natalie Guarrera,10,Needham,1:05.18,6
+2023,South Sectional,100 Butterfly,12,Colbi Krause,07,Notre Dame Academy - Hingham,1:05.58,5
+2023,South Sectional,100 Butterfly,13,Faith Cullen,10,Walpole,1:05.63,4
+2023,South Sectional,100 Butterfly,14,Izzy McKay,12,Wellesley,1:05.73,3
+2023,South Sectional,100 Butterfly,15,Mirta Ceraj,10,Brookline,1:05.79,2
+2023,South Sectional,100 Butterfly,16,Julia Rowe,11,Needham,1:07.59,1
+2023,South Sectional,100 Butterfly,17,Victoria Garity,12,Boston Latin,1:07.78,
+2023,South Sectional,100 Butterfly,,Elyssa Truong,11,Braintree,DFS,
 2023,South Sectional,100 Freestyle,1,Anna McGrew,12,Wellesley,51.90,20
 2023,South Sectional,100 Freestyle,2,Isabela Bobocea,12,Needham,53.70,17
 2023,South Sectional,100 Freestyle,3,Kate Urdaneta,11,Newton North,55.62,16
 2023,South Sectional,100 Freestyle,4,Ksenia Fiorentino,09,Notre Dame Academy - Hingham,55.70,15
 2023,South Sectional,100 Freestyle,5,Elaine Cheng,10,Wellesley,55.99,14
 2023,South Sectional,100 Freestyle,6,Jill Schneider,10,Newton North,56.16,13
+2023,South Sectional,100 Freestyle,7,Daisy Huang,10,Brookline,56.91,12
+2023,South Sectional,100 Freestyle,8,Margaret Urdaneta,09,Newton North,57.79,11
+2023,South Sectional,100 Freestyle,9,Erin MacDonald*,07,Ursuline Academy,58.09,8
+2023,South Sectional,100 Freestyle,9,Julia Kammer*,11,Newton North,58.09,8
+2023,South Sectional,100 Freestyle,11,Anna Hsu,11,Boston Latin,58.83,6
+2023,South Sectional,100 Freestyle,12,Maya Rubenstein,11,Brookline,58.95,5
+2023,South Sectional,100 Freestyle,13,Sonja Tellander,09,Wellesley,59.01,4
+2023,South Sectional,100 Freestyle,14,Haily Pham,12,Braintree,59.67,3
+2023,South Sectional,100 Freestyle,15,Grace Morash,10,Ursuline Academy,59.85,2
+2023,South Sectional,100 Freestyle,16,Isabella Tzouros,09,Needham,1:00.20,1
+2023,South Sectional,100 Freestyle,17,Abigail Lipoma,12,Natick,1:00.39,
+2023,South Sectional,100 Freestyle,18,Emma Bowen,12,Framingham,1:00.58,
+2023,South Sectional,100 Freestyle,19,Emma Manning,10,Needham,1:00.66,
+2023,South Sectional,100 Freestyle,20,Sophie Kelly,09,Brookline,1:01.17,
 2023,South Sectional,500 Freestyle,1,Chloe Wukitch,12,Needham,5:19.58,20
 2023,South Sectional,500 Freestyle,2,Kylie O'Hearn,12,Needham,5:30.90,17
 2023,South Sectional,500 Freestyle,3,Nevie Lee,10,Newton North,5:34.21,16
 2023,South Sectional,500 Freestyle,4,Madison Shea,09,Walpole,5:38.00,15
 2023,South Sectional,500 Freestyle,5,Bella Edwards,09,Framingham,5:38.19,14
 2023,South Sectional,500 Freestyle,6,Katie Sandock,09,Natick,5:39.21,13
+2023,South Sectional,500 Freestyle,7,Sasha Tsizer,11,Framingham,5:40.13,12
+2023,South Sectional,500 Freestyle,8,Katie Martin,12,Boston Latin,5:48.88,11
+2023,South Sectional,500 Freestyle,9,Sophie Kwan,11,Wellesley,5:49.03,9
+2023,South Sectional,500 Freestyle,10,Lyudmila Piatkov,11,Needham,5:49.19,7
+2023,South Sectional,500 Freestyle,11,Sydney Baugh,11,Wellesley,5:53.41,6
+2023,South Sectional,500 Freestyle,12,Mimi Aspi,11,Brookline,5:56.94,5
+2023,South Sectional,500 Freestyle,13,Olivia Frank,12,Wellesley,5:57.43,4
+2023,South Sectional,500 Freestyle,14,Grace Pistorino,12,Notre Dame Academy - Hingham,6:04.73,3
+2023,South Sectional,500 Freestyle,15,Maggie Li,09,Wellesley,6:09.44,2
+2023,South Sectional,200 Freestyle Relay,1,Alexandra Loo;Elaine Cheng;Audrey Sau;Anna McGrew,11;10;11;12,Wellesley,1:39.74,40
+2023,South Sectional,200 Freestyle Relay,2,Alessandra Woo;Julia Kammer;Margaret Urdaneta;Kate Urdaneta,11;11;09;11,Newton North,1:42.68,34
+2023,South Sectional,200 Freestyle Relay,3,Rebecca Hwang;Kylie O'Hearn;Julia Shulman;Isabela Bobocea,11;12;12;12,Needham,1:42.85,32
+2023,South Sectional,200 Freestyle Relay,4,Emily Yu;Alexis Dakin;Victoria Garity;Anna Hsu,11;09;12;11,Boston Latin,1:47.89,30
+2023,South Sectional,200 Freestyle Relay,5,Angela Kennedy;Amelia Castillo;Sophie Rigaud;Emma Iwaoka,12;09;11;09,Notre Dame Academy - Hingham,1:49.46,28
+2023,South Sectional,200 Freestyle Relay,6,Emma Bowen;Elliott Moens;Sasha Tsizer;Bella Edwards,12;09;11;09,Framingham,1:49.52,26
+2023,South Sectional,200 Freestyle Relay,7,Ani Fisher;Lauren Helm;Grace Morash;Erin MacDonald,12;09;10;07,Ursuline Academy,1:49.92,24
+2023,South Sectional,200 Freestyle Relay,8,Haily Pham;Michelle Pham;Fiona Reilly;Reagan Bulman,12;12;12;12,Braintree,1:50.44,22
+2023,South Sectional,200 Freestyle Relay,9,Olivia Piteria-Chen;Katie Dorey;Eliza Gange;Katie Sandock,11;12;09;09,Natick,1:52.20,18
+2023,South Sectional,200 Freestyle Relay,10,Julie Greene;Keira Pham;Louise Odonoghue;Sydney Burns,09;11;12;11,Milton,1:53.97,14
+2023,South Sectional,200 Freestyle Relay,11,Caisa Byerly;Faith Cullen;Jane Bahm;Madison Shea,10;10;12;09,Walpole,1:57.11,12
+2023,South Sectional,200 Freestyle Relay,,Mirta Ceraj;Jing Shi;Claudia Rothman;Hanna Shimbori,10;09;10;09,Brookline,DQ,
 2023,South Sectional,100 Backstroke,1,Elena Dudkina,12,Wellesley,59.17,20
 2023,South Sectional,100 Backstroke,2,Lucy Mackey,12,Needham,59.78,17
 2023,South Sectional,100 Backstroke,3,Charlotte Taieb,11,Boston Latin,1:01.86,16
 2023,South Sectional,100 Backstroke,4,Tracey Peng,11,Wellesley,1:02.91,15
 2023,South Sectional,100 Backstroke,5,Evin Otero,10,Newton North,1:03.38,14
 2023,South Sectional,100 Backstroke,6,Elsa Mustin,10,Weymouth,1:03.58,13
+2023,South Sectional,100 Backstroke,7,Ori Fux,12,Needham,1:04.09,12
+2023,South Sectional,100 Backstroke,8,Parker DeVeau,11,Newton North,1:04.65,11
+2023,South Sectional,100 Backstroke,9,Niamh Mosley,12,Wellesley,1:05.31,9
+2023,South Sectional,100 Backstroke,10,Elizabeth Porcella,08,Ursuline Academy,1:05.51,7
+2023,South Sectional,100 Backstroke,11,Amy DiPasquale,11,Framingham,1:05.96,6
+2023,South Sectional,100 Backstroke,12,Jamie Dixon,09,Framingham,1:06.68,5
+2023,South Sectional,100 Backstroke,13,Reagan Bulman,12,Braintree,1:06.76,4
+2023,South Sectional,100 Backstroke,14,Natalie Guarrera,10,Needham,1:07.15,3
+2023,South Sectional,100 Backstroke,15,Sophie Doucet,09,Framingham,1:07.82,2
+2023,South Sectional,100 Backstroke,16,Izzy McKay,12,Wellesley,1:08.21,1
+2023,South Sectional,100 Backstroke,17,Sana Takamatsu,11,Newton North,1:08.44,
 2023,South Sectional,100 Breaststroke,1,Alexandra Loo,11,Wellesley,1:09.51,20
 2023,South Sectional,100 Breaststroke,2,Daisy Huang,10,Brookline,1:11.07,17
 2023,South Sectional,100 Breaststroke,3,Kaleigh Boynton,12,Milton,1:11.50,16
 2023,South Sectional,100 Breaststroke,4,Rebecca Hwang,11,Needham,1:13.31,15
 2023,South Sectional,100 Breaststroke,5,Sofia Dobado,11,Wellesley,1:14.46,14
 2023,South Sectional,100 Breaststroke,6,Mirta Ceraj,10,Brookline,1:15.50,13
+2023,South Sectional,100 Breaststroke,7,Gabrielle Coleman,11,Boston Latin,1:15.92,12
+2023,South Sectional,100 Breaststroke,8,Paige Ingrando,10,Needham,1:17.41,11
+2023,South Sectional,100 Breaststroke,9,Emma Iwaoka,09,Notre Dame Academy - Hingham,1:17.55,9
+2023,South Sectional,100 Breaststroke,10,Angelica Miranda-Chong,11,Brookline,1:17.65,7
+2023,South Sectional,100 Breaststroke,11,Lindsay Youngren,12,Wellesley,1:18.25,6
+2023,South Sectional,100 Breaststroke,12,Isabella Tzouros,09,Needham,1:19.47,5
+2023,South Sectional,100 Breaststroke,,Sarah Manor,09,Brookline,DQ,
+2023,South Sectional,400 Freestyle Relay,1,Julia Shulman;Chloe Wukitch;Lucy Mackey;Isabela Bobocea,12;12;12;12,Needham,3:37.22,40
+2023,South Sectional,400 Freestyle Relay,2,Elena Dudkina;Sonja Tellander;Tracey Peng;Anna McGrew,12;09;11;12,Wellesley,3:42.33,34
+2023,South Sectional,400 Freestyle Relay,3,Alessandra Woo;Kate Urdaneta;Evin Otero;Jill Schneider,11;11;10;10,Newton North,3:44.04,32
+2023,South Sectional,400 Freestyle Relay,4,Hanna Shimbori;Gabriella El-Chemaly;Maya Rubenstein;Daisy Huang,09;10;11;10,Brookline,3:56.03,30
+2023,South Sectional,400 Freestyle Relay,5,Amelia Castillo;Sophie Rigaud;Grace Pistorino;Ksenia Fiorentino,09;11;12;09,Notre Dame Academy - Hingham,3:58.44,28
+2023,South Sectional,400 Freestyle Relay,6,Emily Yu;Victoria Garity;Katherine Wilson;Charlotte Taieb,11;12;;11,Boston Latin,4:00.13,26
+2023,South Sectional,400 Freestyle Relay,7,Abigail Lipoma;Aila Lee;Eliza Gange;Katie Sandock,12;10;09;09,Natick,4:01.24,24
+2023,South Sectional,400 Freestyle Relay,8,Jamie Dixon;Amy DiPasquale;Sasha Tsizer;Emma Bowen,09;11;11;12,Framingham,4:01.46,22
+2023,South Sectional,400 Freestyle Relay,9,Allison Boynton;Sydney Burns;Julie Greene;Kaleigh Boynton,09;11;09;12,Milton,4:01.74,18
+2023,South Sectional,400 Freestyle Relay,10,Grace Morash;Lauren Helm;Ani Fisher;Erin MacDonald,10;09;12;07,Ursuline Academy,4:04.66,14
+2023,South Sectional,400 Freestyle Relay,11,Haily Pham;Fiona Reilly;Jolie Keung;Reagan Bulman,12;12;10;12,Braintree,4:05.71,12
+2023,South Sectional,400 Freestyle Relay,12,Anastasia Virvilis;Emma Sheehan;Georgianna Howard;Elsa Mustin,11;10;09;10,Weymouth,4:17.34,10
 2022,South Sectional,1 Meter Diving - 11 Dives,1,Jaqui St Clair,11,Brookline,409.20,20
 2022,South Sectional,1 Meter Diving - 11 Dives,2,Lucy Savarese,11,Wellesley,395.20,17
 2022,South Sectional,1 Meter Diving - 11 Dives,3,Katie Dorey,,Natick,392.85,16
