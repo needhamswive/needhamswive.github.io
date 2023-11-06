@@ -55,7 +55,8 @@ results-by-year:
       - name: Bay State Conference
         place: 1
       - name: South Sectional
-      - name: Division 2 State
+        place: 2
+      - name: Division 1 State
     citations:
       - name: 2023000
         link: https://twitter.com/NHSRockets/status/1701783011547648330
