@@ -154,7 +154,7 @@ classes: wide
 
     document.getElementById("data-file").value = dataFilePath;
 
-    const url = window.location.origin + "/_data/" + dataFilePath;
+    const url = "https://raw.githubusercontent.com/needhamswive/needhamswive.github.io/master/_data/" + dataFilePath;
     const response = await fetch(url);
 
     if (response.status === 404) return;
