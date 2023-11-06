@@ -48,6 +48,10 @@ classes: wide
     "100 Breaststroke",
     "400 Freestyle Relay",
   ];
+  const NON_SCORING_EVENTS = [
+    "1 Meter Diving - 8 Dives",
+    "1 Meter Diving - 6 Dives"
+  ]
   const COLUMNS = ["year", "place", "name", "grade", "school", "result"];
   const POINTS = [20, 17, 16, 15, 14, 13, 12, 11, 9, 7, 6, 5, 4, 3, 2, 1];
 
@@ -157,7 +161,7 @@ classes: wide
           scores[row.school] = 0;
         }
 
-        if (index < POINTS.length){
+        if (index < POINTS.length && !NON_SCORING_EVENTS.includes(row.event)){
           let points = POINTS[index];
           if (row.event.includes("Relay")) {
             points *= 2;
