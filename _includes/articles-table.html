@@ -1,0 +1,20 @@
+<style>
+  .articles thead th:nth-child(2) {
+    width: 99%;
+  }
+</style>
+
+<table class="articles">
+  <thead>
+    <th>Date</th>
+    <th>Title</th>
+  </thead>
+  <tbody>
+    {% for article in include.articles %}
+      <tr>
+        <td>{{ article.date }}</td>
+        <td><a href="{{ article.url }}">{{ article.title }}</a></td>
+      </tr>
+    {% endfor %}
+  </tbody>
+</table>
