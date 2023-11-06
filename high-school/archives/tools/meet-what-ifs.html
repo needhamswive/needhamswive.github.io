@@ -58,7 +58,7 @@ classes: wide
     "1 Meter Diving - 6 Dives",
     "1 Meter Diving",
   ];
-  const COLUMNS = ["year", "place", "name", "grade", "school", "result"];
+  const COLUMNS = ["year", "place", "name", "grade", "school", "result", "points"];
   const POINTS = [20, 17, 16, 15, 14, 13, 12, 11, 9, 7, 6, 5, 4, 3, 2, 1];
 
   // https://stackoverflow.com/a/59017439
@@ -85,6 +85,7 @@ classes: wide
   }
 
   function formatCell(data) {
+    data = data.toString();
     data = data.replaceAll(";", "<br>");
     data = data.replaceAll(" ", "&nbsp;")
     data = data.replaceAll("-", "&#8209;")
@@ -168,12 +169,13 @@ classes: wide
           scores[row.school] = 0;
         }
 
+        row.points = "";
         if (index < POINTS.length && !NON_SCORING_EVENTS.includes(row.event)){
-          let points = POINTS[index];
+          row.points = POINTS[index];
           if (row.event.includes("Relay")) {
-            points *= 2;
+            row.points *= 2;
           }
-          scores[row.school] += points;
+          scores[row.school] += row.points;
         }
 
         row.place = (index + 1).toString();
@@ -261,6 +263,7 @@ classes: wide
       <th>Grade</th>
       <th>School</th>
       <th>Result</th>
+      <th>Points</th>
     </tr>
   </thead>
   <tbody id="event-results">
