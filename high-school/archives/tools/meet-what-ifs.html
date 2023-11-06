@@ -128,6 +128,8 @@ classes: wide
   }
 
   function createTable(rows) {
+    rows.forEach(row => console.log(row));
+    rows.sort((a, b) => buildRowKey(a).localeCompare(buildRowKey(b)));
     tbody.replaceChildren();
 
     for (const row of rows) {
@@ -139,6 +141,33 @@ classes: wide
       }
       tbody.appendChild(tr);
     }
+  }
+
+  EVENT_ORDER = [
+    "1 Meter Diving - 11 Dives",
+    "1 Meter Diving - 8 Dives",
+    "1 Meter Diving - 6 Dives",
+    "200 Medley Relay",
+    "200 Freestyle Relay",
+    "200 Individual Medley",
+    "100 Butterfly",
+    "100 Freestyle",
+    "500 Freestyle",
+    "200 Freestyle Relay",
+    "100 Backstroke",
+    "100 Breaststroke",
+    "400 Freestyle Relay",
+  ];
+
+  function buildRowKey(row) {
+    let result;
+    if (row.result.includes(":")) {
+        const [minutes, seconds] = row.result.split(":");
+        result = 60 * parseInt(minutes) + parseFloat(seconds);
+    } else {
+        result = row.result;
+    }
+    return `${EVENT_ORDER.indexOf(row.event)} ${result}`;
   }
 
   const COLUMNS = ["year", "division", "event", "place", "name", "grade", "school", "result", "points"];
