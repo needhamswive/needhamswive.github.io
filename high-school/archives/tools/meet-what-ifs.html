@@ -30,24 +30,6 @@ classes: wide
 
 <br>
 
-<table>
-  <thead>
-    <tr>
-      <th>Year</th>
-      <th>Division</th>
-      <th>Event</th>
-      <th>Place</th>
-      <th>Name</th>
-      <th>Grade</th>
-      <th>School</th>
-      <th>Result</th>
-      <th>Points</th>
-    </tr>
-  </thead>
-  <tbody id="data">
-  </tbody>
-</table>
-
 <script>
   // https://stackoverflow.com/a/59017439
   function csvToJSON(csv) {
@@ -127,19 +109,38 @@ classes: wide
     document.getElementById("filter").click();
   }
 
+  const COLUMNS = ["year", "place", "name", "grade", "school", "result"];
+
   function createTable(rows) {
-    rows.forEach(row => console.log(row));
     rows.sort((a, b) => buildRowKey(a).localeCompare(buildRowKey(b)));
     tbody.replaceChildren();
 
-    for (const row of rows) {
-      const tr = document.createElement("tr");
-      for (const col of COLUMNS) {
-        const td = document.createElement("td");
-        td.innerHTML = formatCell(row[col]);
-        tr.appendChild(td);
+    const events = new Set(rows.map(row => row.event));
+
+    for (const event of EVENT_ORDER) {
+      if (!events.has(event)) {
+        continue;
       }
+
+      const tr = document.createElement("tr");
+      const th = document.createElement("th");
+      th.colSpan = COLUMNS.length;
+      th.style.setProperty("text-align", "center");
+      th.innerHTML = event;
+      tr.appendChild(th);
       tbody.appendChild(tr);
+
+      const rowsForEvent = rows.filter(row => row.event === event);
+      for (const [index, row] of rowsForEvent.entries()) {
+        row.place = (index + 1).toString();
+        const tr = document.createElement("tr");
+        for (const col of COLUMNS) {
+          const td = document.createElement("td");
+          td.innerHTML = formatCell(row[col]);
+          tr.appendChild(td);
+        }
+        tbody.appendChild(tr);
+      }
     }
   }
 
@@ -170,7 +171,6 @@ classes: wide
     return `${EVENT_ORDER.indexOf(row.event)} ${result}`;
   }
 
-  const COLUMNS = ["year", "division", "event", "place", "name", "grade", "school", "result", "points"];
   let tbody;
   let data;
 
@@ -192,3 +192,18 @@ classes: wide
     processSearchParams(searchParams);
   });
 </script>
+
+<table>
+    <thead>
+      <tr>
+        <th>Year</th>
+        <th>Place</th>
+        <th>Name</th>
+        <th>Grade</th>
+        <th>School</th>
+        <th>Result</th>
+      </tr>
+    </thead>
+    <tbody id="data">
+    </tbody>
+  </table>
