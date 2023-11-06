@@ -1,4 +1,40 @@
 year,division,event,place,name,grade,school,result,points
+2023,North Sectional,1 Meter Diving - 11 Dives,1,Robyn Tonomura-MacDonald,11,Belmont,463.55,20
+2023,North Sectional,1 Meter Diving - 11 Dives,2,Kailyn Aquino,11,Haverhill,433.45,17
+2023,North Sectional,1 Meter Diving - 11 Dives,3,Emily Moh,11,Winchester,415.20,16
+2023,North Sectional,1 Meter Diving - 11 Dives,4,Kira Davidson,12,Belmont,352.50,15
+2023,North Sectional,1 Meter Diving - 11 Dives,5,Lily Dunlea,10,Chelmsford,344.45,14
+2023,North Sectional,1 Meter Diving - 11 Dives,6,Sophia Ferrara,11,Methuen,342.50,13
+2023,North Sectional,1 Meter Diving - 11 Dives,7,Anya Buyea,11,North Andover,328.50,12
+2023,North Sectional,1 Meter Diving - 11 Dives,8,Darcy Lillie,09,Acton-Boxborough,321.90,11
+2023,North Sectional,1 Meter Diving - 11 Dives,9,Lauren Ilsley,12,Andover,319.30,9
+2023,North Sectional,1 Meter Diving - 11 Dives,10,Sophia Sierpina,11,Central Catholic,311.85,7
+2023,North Sectional,1 Meter Diving - 11 Dives,11,Sadie Mazzeo-Ghirarda,12,Methuen,305.25,6
+2023,North Sectional,1 Meter Diving - 11 Dives,12,Victoria Morin,12,Andover,290.20,5
+2023,North Sectional,1 Meter Diving - 8 Dives,1,Robyn Tonomura-MacDonald,11,Belmont,335.45,
+2023,North Sectional,1 Meter Diving - 8 Dives,2,Kailyn Aquino,11,Haverhill,303.95,
+2023,North Sectional,1 Meter Diving - 8 Dives,3,Emily Moh,11,Winchester,300.30,
+2023,North Sectional,1 Meter Diving - 8 Dives,4,Kira Davidson,12,Belmont,256.50,
+2023,North Sectional,1 Meter Diving - 8 Dives,5,Anya Buyea,11,North Andover,249.25,
+2023,North Sectional,1 Meter Diving - 8 Dives,6,Lily Dunlea,10,Chelmsford,246.70,
+2023,North Sectional,1 Meter Diving - 8 Dives,7,Sophia Ferrara,11,Methuen,243.70,
+2023,North Sectional,1 Meter Diving - 8 Dives,8,Darcy Lillie,09,Acton-Boxborough,241.50,
+2023,North Sectional,1 Meter Diving - 8 Dives,9,Lauren Ilsley,12,Andover,235.80,
+2023,North Sectional,1 Meter Diving - 8 Dives,10,Sadie Mazzeo-Ghirarda,12,Methuen,229.85,
+2023,North Sectional,1 Meter Diving - 8 Dives,11,Sophia Sierpina,11,Central Catholic,228.95,
+2023,North Sectional,1 Meter Diving - 8 Dives,12,Victoria Morin,12,Andover,217.35,
+2023,North Sectional,1 Meter Diving - 6 Dives,1,Robyn Tonomura-MacDonald,11,Belmont,213.90,
+2023,North Sectional,1 Meter Diving - 6 Dives,2,Kailyn Aquino,11,Haverhill,191.65,
+2023,North Sectional,1 Meter Diving - 6 Dives,3,Emily Moh,11,Winchester,186.20,
+2023,North Sectional,1 Meter Diving - 6 Dives,4,Sophia Ferrara,11,Methuen,160.30,
+2023,North Sectional,1 Meter Diving - 6 Dives,5,Kira Davidson,12,Belmont,159.50,
+2023,North Sectional,1 Meter Diving - 6 Dives,6,Darcy Lillie,09,Acton-Boxborough,151.30,
+2023,North Sectional,1 Meter Diving - 6 Dives,7,Anya Buyea,11,North Andover,150.00,
+2023,North Sectional,1 Meter Diving - 6 Dives,8,Lily Dunlea,10,Chelmsford,149.55,
+2023,North Sectional,1 Meter Diving - 6 Dives,9,Sadie Mazzeo-Ghirarda,12,Methuen,149.20,
+2023,North Sectional,1 Meter Diving - 6 Dives,10,Lauren Ilsley,12,Andover,147.10,
+2023,North Sectional,1 Meter Diving - 6 Dives,11,Sophia Sierpina,11,Central Catholic,144.80,
+2023,North Sectional,1 Meter Diving - 6 Dives,12,Victoria Morin,12,Andover,142.70,
 2023,North Sectional,200 Medley Relay,1,Caroline Tyrrell;Katie Crowley;Isabela Teixeira;Katherine Baxter,11;12;11;11,Acton-Boxborough,1:51.74,40
 2023,North Sectional,200 Medley Relay,2,Emma Santoro;Audrey Cook;Grace McHugh;Allie DeGray,09;11;12;09,Wakefield Memorial,1:52.91,34
 2023,North Sectional,200 Medley Relay,3,Leyna Nguyen;Therese Sanzone;Julia Lembo;Amira Aboudou,11;12;09;12,Malden Catholic,1:53.48,32
@@ -184,6 +220,61 @@ year,division,event,place,name,grade,school,result,points
 2023,North Sectional,400 Freestyle Relay,12,Kayleigh McCarthy;Ryley McCarthy;Alex Mahon;Sarah Herbst,10;10;10;12,Woburn Memorial,4:02.07,10
 2023,North Sectional,400 Freestyle Relay,13,Natalie Taylor;Luana Saldanha;Emily Rogers;Maeve Foley,11;11;12;10,Central Catholic,4:03.36,8
 2023,North Sectional,400 Freestyle Relay,14,Sophia Donnelly;Erin Cashin;Lindsay Walker;Laila Paulsen,11;08;11;09,Reading Memorial,4:03.87,6
+2023,South Sectional,1 Meter Diving - 11 Dives,1,Lucy Savarese,12,Wellesley,432.35,20
+2023,South Sectional,1 Meter Diving - 11 Dives,2,Kara Leahy,12,Notre Dame Academy - Hingham,424.60,17
+2023,South Sectional,1 Meter Diving - 11 Dives,3,Katie Dorey,12,Natick,398.55,16
+2023,South Sectional,1 Meter Diving - 11 Dives,4,Jacqui St-Clair,12,Brookline,381.40,15
+2023,South Sectional,1 Meter Diving - 11 Dives,5,Hailey Ligibel,10,Wellesley,354.90,14
+2023,South Sectional,1 Meter Diving - 11 Dives,6,Neve Knowlton,12,Natick,348.70,13
+2023,South Sectional,1 Meter Diving - 11 Dives,7,Lucy Aswad,11,Needham,345.85,12
+2023,South Sectional,1 Meter Diving - 11 Dives,8,Kelsey DePaolo,12,Braintree,344.90,11
+2023,South Sectional,1 Meter Diving - 11 Dives,9,Emily Richardson,12,Framingham,342.55,9
+2023,South Sectional,1 Meter Diving - 11 Dives,10,Anusha Chakravarthy,09,Newton North,336.90,7
+2023,South Sectional,1 Meter Diving - 11 Dives,11,Julia Scapicchio,09,Ursuline Academy,335.95,6
+2023,South Sectional,1 Meter Diving - 11 Dives,12,Sarah Ginsberg,10,Wellesley,332.60,5
+2023,South Sectional,1 Meter Diving - 11 Dives,13,Kat Barry,12,Framingham,320.95,4
+2023,South Sectional,1 Meter Diving - 11 Dives,14,Kelly Folwell,12,Ursuline Academy,319.40,3
+2023,South Sectional,1 Meter Diving - 11 Dives,15,Caisa Byerly,10,Walpole,307.10,2
+2023,South Sectional,1 Meter Diving - 11 Dives,16,Lilah Magee,11,Notre Dame Academy - Hingham,305.80,1
+2023,South Sectional,1 Meter Diving - 8 Dives,1,Lucy Savarese,12,Wellesley,309.40,
+2023,South Sectional,1 Meter Diving - 8 Dives,2,Kara Leahy,12,Notre Dame Academy - Hingham,299.45,
+2023,South Sectional,1 Meter Diving - 8 Dives,3,Katie Dorey,12,Natick,283.75,
+2023,South Sectional,1 Meter Diving - 8 Dives,4,Hailey Ligibel,10,Wellesley,271.45,
+2023,South Sectional,1 Meter Diving - 8 Dives,5,Jacqui St-Clair,12,Brookline,262.95,
+2023,South Sectional,1 Meter Diving - 8 Dives,6,Lucy Aswad,11,Needham,260.30,
+2023,South Sectional,1 Meter Diving - 8 Dives,7,Sarah Ginsberg,10,Wellesley,259.20,
+2023,South Sectional,1 Meter Diving - 8 Dives,8,Neve Knowlton,12,Natick,257.90,
+2023,South Sectional,1 Meter Diving - 8 Dives,9,Kelsey DePaolo,12,Braintree,249.15,
+2023,South Sectional,1 Meter Diving - 8 Dives,10,Julia Scapicchio,09,Ursuline Academy,243.80,
+2023,South Sectional,1 Meter Diving - 8 Dives,11,Anusha Chakravarthy,09,Newton North,241.15,
+2023,South Sectional,1 Meter Diving - 8 Dives,12,Kat Barry,12,Framingham,234.05,
+2023,South Sectional,1 Meter Diving - 8 Dives,13,Kelly Folwell,12,Ursuline Academy,234.00,
+2023,South Sectional,1 Meter Diving - 8 Dives,14,Lilah Magee,11,Notre Dame Academy - Hingham,231.60,
+2023,South Sectional,1 Meter Diving - 8 Dives,15,Emily Richardson,12,Framingham,226.40,
+2023,South Sectional,1 Meter Diving - 8 Dives,16,Caisa Byerly,10,Walpole,224.00,
+2023,South Sectional,1 Meter Diving - 8 Dives,17,Lila Tulimieri,12,Newton North,220.80,
+2023,South Sectional,1 Meter Diving - 8 Dives,18,Isabelle Lemaire,11,Needham,216.35,
+2023,South Sectional,1 Meter Diving - 8 Dives,19,Julia Harding,12,Wellesley,210.35,
+2023,South Sectional,1 Meter Diving - 8 Dives,20,Molly Whitestone,12,Walpole,190.70,
+2023,South Sectional,1 Meter Diving - 6 Dives,1,Lucy Savarese,12,Wellesley,195.55,
+2023,South Sectional,1 Meter Diving - 6 Dives,2,Kara Leahy,12,Notre Dame Academy - Hingham,181.15,
+2023,South Sectional,1 Meter Diving - 6 Dives,3,Katie Dorey,12,Natick,178.35,
+2023,South Sectional,1 Meter Diving - 6 Dives,4,Hailey Ligibel,10,Wellesley,176.25,
+2023,South Sectional,1 Meter Diving - 6 Dives,5,Sarah Ginsberg,10,Wellesley,175.00,
+2023,South Sectional,1 Meter Diving - 6 Dives,6,Lucy Aswad,11,Needham,173.20,
+2023,South Sectional,1 Meter Diving - 6 Dives,7,Jacqui St-Clair,12,Brookline,167.20,
+2023,South Sectional,1 Meter Diving - 6 Dives,8,Neve Knowlton,12,Natick,165.85,
+2023,South Sectional,1 Meter Diving - 6 Dives,9,Kelsey DePaolo,12,Braintree,164.00,
+2023,South Sectional,1 Meter Diving - 6 Dives,10,Kelly Folwell,12,Ursuline Academy,161.00,
+2023,South Sectional,1 Meter Diving - 6 Dives,11,Julia Scapicchio,09,Ursuline Academy,153.15,
+2023,South Sectional,1 Meter Diving - 6 Dives,12,Lilah Magee,11,Notre Dame Academy - Hingham,152.25,
+2023,South Sectional,1 Meter Diving - 6 Dives,13,Caisa Byerly,10,Walpole,149.75,
+2023,South Sectional,1 Meter Diving - 6 Dives,14,Kat Barry,12,Framingham,147.60,
+2023,South Sectional,1 Meter Diving - 6 Dives,15,Emily Richardson,12,Framingham,145.30,
+2023,South Sectional,1 Meter Diving - 6 Dives,16,Lila Tulimieri,12,Newton North,143.80,
+2023,South Sectional,1 Meter Diving - 6 Dives,17,Anusha Chakravarthy,09,Newton North,140.25,
+2023,South Sectional,1 Meter Diving - 6 Dives,18,Isabelle Lemaire,11,Needham,137.20,
+2023,South Sectional,1 Meter Diving - 6 Dives,19,Julia Harding,12,Wellesley,134.30,
 2023,South Sectional,200 Medley Relay,1,Tracey Peng;Alexandra Loo;Elena Dudkina;Elaine Cheng,11;11;12;10,Wellesley,1:51.96,40
 2023,South Sectional,200 Medley Relay,2,Chloe Wukitch;Rebecca Hwang;Sophie Guarrera;Lucy Mackey,12;11;12;12,Needham,1:53.32,34
 2023,South Sectional,200 Medley Relay,3,Mirta Ceraj;Daisy Huang;Claudia Rothman;Sophie Kelly,10;10;10;09,Brookline,1:55.50,32
