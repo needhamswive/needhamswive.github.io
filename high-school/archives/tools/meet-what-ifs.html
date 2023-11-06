@@ -51,7 +51,13 @@ classes: wide
   const NON_SCORING_EVENTS = [
     "1 Meter Diving - 8 Dives",
     "1 Meter Diving - 6 Dives"
-  ]
+  ];
+  const REVERSE_ORDER_EVENTS = [
+    "1 Meter Diving - 11 Dives",
+    "1 Meter Diving - 8 Dives",
+    "1 Meter Diving - 6 Dives",
+    "1 Meter Diving",
+  ];
   const COLUMNS = ["year", "place", "name", "grade", "school", "result"];
   const POINTS = [20, 17, 16, 15, 14, 13, 12, 11, 9, 7, 6, 5, 4, 3, 2, 1];
 
@@ -134,8 +140,6 @@ classes: wide
   }
 
   function createTable(rows) {
-    rows.sort((a, b) => buildRowKey(a).localeCompare(buildRowKey(b)));
-
     eventResultsTbody.replaceChildren();
     teamScoresTbody.replaceChildren();
 
@@ -156,6 +160,9 @@ classes: wide
       eventResultsTbody.appendChild(tr);
 
       const rowsForEvent = rows.filter(row => row.event === event);
+      const multiplier = REVERSE_ORDER_EVENTS.includes(event) ? -1 : 1;
+      rowsForEvent.sort((a, b) => multiplier * buildRowKey(a).localeCompare(buildRowKey(b)));
+
       for (const [index, row] of rowsForEvent.entries()) {
         if (!(row.school in scores)) {
           scores[row.school] = 0;
