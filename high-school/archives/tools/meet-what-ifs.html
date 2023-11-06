@@ -31,6 +31,25 @@ classes: wide
 <br>
 
 <script>
+  EVENT_ORDER = [
+    "1 Meter Diving - 11 Dives",
+    "1 Meter Diving - 8 Dives",
+    "1 Meter Diving - 6 Dives",
+    "1 Meter Diving",
+    "200 Medley Relay",
+    "200 Freestyle Relay",
+    "200 Individual Medley",
+    "100 Butterfly",
+    "100 Freestyle",
+    "500 Freestyle",
+    "200 Freestyle Relay",
+    "100 Backstroke",
+    "100 Breaststroke",
+    "400 Freestyle Relay",
+  ];
+  const COLUMNS = ["year", "place", "name", "grade", "school", "result"];
+  const POINTS = [20, 17, 16, 15, 14, 13, 12, 11, 9, 7, 6, 5, 4, 3, 2, 1];
+
   // https://stackoverflow.com/a/59017439
   function csvToJSON(csv) {
     const lines = csv.split("\n");
@@ -109,9 +128,6 @@ classes: wide
     document.getElementById("filter").click();
   }
 
-  const COLUMNS = ["year", "place", "name", "grade", "school", "result"];
-  const POINTS = [20, 17, 16, 15, 14, 13, 12, 11, 9, 7, 6, 5, 4, 3, 2, 1];
-
   function createTable(rows) {
     rows.sort((a, b) => buildRowKey(a).localeCompare(buildRowKey(b)));
 
@@ -141,7 +157,11 @@ classes: wide
         }
 
         if (index < POINTS.length){
-          scores[row.school] += POINTS[index];
+          let points = POINTS[index];
+          if (row.event.includes("Relay")) {
+            points *= 2;
+          }
+          scores[row.school] += points;
         }
 
         row.place = (index + 1).toString();
@@ -172,23 +192,6 @@ classes: wide
       teamScoresTbody.appendChild(tr);
     }
   }
-
-  EVENT_ORDER = [
-    "1 Meter Diving - 11 Dives",
-    "1 Meter Diving - 8 Dives",
-    "1 Meter Diving - 6 Dives",
-    "1 Meter Diving",
-    "200 Medley Relay",
-    "200 Freestyle Relay",
-    "200 Individual Medley",
-    "100 Butterfly",
-    "100 Freestyle",
-    "500 Freestyle",
-    "200 Freestyle Relay",
-    "100 Backstroke",
-    "100 Breaststroke",
-    "400 Freestyle Relay",
-  ];
 
   function buildRowKey(row) {
     let result;
