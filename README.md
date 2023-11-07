@@ -25,3 +25,7 @@ $ bundle exec jekyll build --verbose
 $ lsof -i tcp:4000
 $ kill -9 <PID>
 ```
+
+## TODO
+
+- [ ] Add grades for middle school athletes for results already recorded
