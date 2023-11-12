@@ -23,7 +23,6 @@ A history of the records can be found [here](/high-school/girls/general-informat
 {% endfor %}
 
 Bay State Conference Champions
-
 : {{ years }}
 
 {% assign years = "" %}
@@ -33,6 +32,15 @@ Bay State Conference Champions
 {% endfor %}
 
 South Sectional Champions
+: {{ years }}
+
+{% assign years = "" %}
+{% for year in site.data.high-school.girls.records.division-1-state-champions.years %}
+  {% assign shortened_year = year | slice: 2, 4 %}
+  {% assign years = years | append: " '" | append: shortened_year %}
+{% endfor %}
+
+Division 1 State Champions
 : {{ years }}
 
 ## Bay State Conference Records
