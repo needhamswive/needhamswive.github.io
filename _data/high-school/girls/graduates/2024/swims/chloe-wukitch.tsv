@@ -78,8 +78,8 @@ event	time	splits	place	points	date	meet	dq	sectionals-qualifier	states-qualifie
 200 Freestyle	126.15	28.62/31.92/32.72/32.85			10/18/2022	Natick	FALSE	TRUE	TRUE
 200 Freestyle	128.16		2	4	09/28/2022	Brookline	FALSE	TRUE	TRUE
 200 Freestyle	131.17	29.25/33.25/34.39/34.07	3	3	09/15/2022	Acton-Boxborough	FALSE	TRUE	FALSE
-200 medley	142.33				10/08/2021	Walpole	FALSE	TRUE	TRUE
-200 medley	146.59	31.62/36.40/43.57/34.85	1	6	09/13/2022	Weymouth	FALSE	TRUE	TRUE
+200 Individual Medley	142.33				10/08/2021	Walpole	FALSE	TRUE	TRUE
+200 Individual Medley	146.59	31.62/36.40/43.57/34.85	1	6	09/13/2022	Weymouth	FALSE	TRUE	TRUE
 50 Backstroke Split	28.11		5	7	11/13/2022	States	FALSE	FALSE	FALSE
 50 Backstroke Split	28.24		2	8.5	11/05/2023	Sectionals	FALSE	FALSE	FALSE
 50 Backstroke Split	28.28		3	8	11/06/2022	Sectionals	FALSE	FALSE	FALSE
