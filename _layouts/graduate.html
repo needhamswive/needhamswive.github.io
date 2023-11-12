@@ -14,7 +14,7 @@ layout: single
 
 {% assign general-information = site.data.high-school.girls.graduates[page.class-of].general-information %}
 
-{% assign file-name = page.athlete | downcase | replace: " ", "-" %}
+{% assign file-name = page.athlete | downcase | replace: " ", "-" | replace: "'", "" %}
 {% assign athlete-information = site.data.high-school.girls.graduates[page.class-of].information[file-name] %}
 {% assign swims = site.data.high-school.girls.graduates[page.class-of].swims[file-name] %}
 
