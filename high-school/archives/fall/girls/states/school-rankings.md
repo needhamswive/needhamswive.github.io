@@ -31,7 +31,7 @@ title: MIAA Fall Girls States Rankings
 
 {% assign school-rankings-for-year-by-division = school-rankings-for-year | where: "division", division %}
 
-{% include rankings.md
+{% include rankings.html
     rankings = school-rankings-for-year-by-division %}
 
 </div>

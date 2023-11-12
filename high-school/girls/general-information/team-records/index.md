@@ -12,7 +12,7 @@ A history of the records can be found [here](/high-school/girls/general-informat
 
 ## Team Records
 
-{% include records.md
+{% include records.html
   events = championship-events
   records = team-records %}
 
@@ -45,7 +45,7 @@ Division 1 State Champions
 
 ## Bay State Conference Records
 
-{% include records.md
+{% include records.html
   events = championship-events
   records = conference-records %}
 
@@ -53,6 +53,6 @@ Division 1 State Champions
 
 These records are from results since 1990.
 
-{% include records.md
+{% include records.html
   events = dual-meet-events
   records = conference-meet-records %}

@@ -59,7 +59,7 @@ years-boys-scored-with-girls:
 
 ### {{ year }}{% if years-boys-scored-with-girls contains year %}[^comment-on-scoring]{% endif %}
 
-{% include rankings.md
+{% include rankings.html
   rankings = school-rankings-for-year %}
 
 </div>

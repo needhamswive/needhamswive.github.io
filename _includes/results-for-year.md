@@ -25,7 +25,8 @@
 {% endif %}
 
 {% if include.results-for-year.championships %}
-### Championships
+
+<h3>Championships</h3>
 
 <table>
 <thead>
@@ -47,12 +48,15 @@
 {% endfor %}
 </tbody>
 </table>
+
 {% endif %}
 
 {% if include.results-for-year.psych-sheets-and-results %}
-### Psych Sheets and Results
+
+<h3>Psych Sheets and Results</h3>
 
 {% for href in include.results-for-year.psych-sheets-and-results %}
 - [{{ href.name }}]({{ href.link }})
 {% endfor %}
+
 {% endif %}

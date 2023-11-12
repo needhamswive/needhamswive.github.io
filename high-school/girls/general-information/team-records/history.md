@@ -10,13 +10,13 @@ title: Records History
 
 ## Team Records
 
-{% include records-history.md
+{% include records-history.html
   events = championship-events
   records = team-records %}
 
 ## Bay State Conference Records
 
-{% include records-history.md
+{% include records-history.html
   events = championship-events
   records = conference-records %}
 
@@ -24,6 +24,6 @@ title: Records History
 
 This record history is from results since 1990.
 
-{% include records-history.md
+{% include records-history.html
   events = dual-meet-events
   records = conference-meet-records %}
