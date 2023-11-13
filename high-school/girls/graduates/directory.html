@@ -1,0 +1,35 @@
+---
+title: NHS Girls Swive Grads Directory
+
+graduates:
+  - year: 2024
+    athletes:
+      - Isabela Bobocea
+      - Ori Fux
+      - Sophie Guarrera
+      - Lucy Mackey
+      - Kylie O'Hearn
+      - Julia Shulman
+      - Chloe Wukitch
+---
+
+<table>
+  <thead>
+    <tr>
+      <th>Year</th>
+      <th>Name</th>
+    </tr>
+  </thead>
+  <tbody>
+    {% for graduates-by-year in page.graduates %}
+      {% assign year = graduates-by-year.year %}
+      {% assign athletes = graduates-by-year.athletes %}
+      {% for athlete in athletes %}
+        <tr>
+          <td>{{ year }}</td>
+          <td><a href="/high-school/girls/graduates/{{ year }}/{{ athlete | downcase | replace: " ", "-" | replace: "'", "" }}">{{ athlete }}</a></td>
+        </tr>
+      {% endfor %}
+    {% endfor %}
+  </tbody>
+</table>
