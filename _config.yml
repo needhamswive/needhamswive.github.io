@@ -293,6 +293,11 @@ defaults:
     values:
       sidebar:
         nav: high-school-archives
+      footer:
+        links:
+          - label: "GitHub"
+            icon: "fab fa-fw fa-github"
+            url: https://github.com/needhamswive/needhamswive.github.io
   - scope:
       path: high-school/archives/fall
     values:
