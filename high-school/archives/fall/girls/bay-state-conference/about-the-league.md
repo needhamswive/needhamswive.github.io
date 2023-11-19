@@ -28,6 +28,8 @@ All athletes in individual events may score points, but only the top two placing
 
 ## History
 
+Beginning in 2010, there have been boys in the fall Bay State Conference. Boys were scored with girls for the 2010 and 2011 fall seasons.
+
 In 2017, Carey division member Dedham High School left the Bay State Conference for the Tri-Valley League.[^1]
 Milton moved their swimming program from the winter to the fall, joining the fall Bay State Conference.
 
