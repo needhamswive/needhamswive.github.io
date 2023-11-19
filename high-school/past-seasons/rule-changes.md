@@ -79,7 +79,7 @@ __9-1-3__: The rule was updated to comply with current industry standards.
 <br>
 __Rationale__: Aligns with current diving board manufacturers installation directions.
 
-9-4-Table: The degree of difficulty for back and reverse double somersaults was lowered to be consistent with back and reverse 1½ somersaults degrees of difficulty.
+__9-4-Table__: The degree of difficulty for back and reverse double somersaults was lowered to be consistent with back and reverse 1½ somersaults degrees of difficulty.
 <br>
 __Rationale__: Provides consistency of degree of difficulties assessed to back and reverse dives versus back and reverse somersaults.
 
@@ -177,7 +177,7 @@ __8-2-4c__: The final leg of the individual medley and the medley relay requires
 <br>
 __Rationale__: This language clarifies the required body position during the final leg of the individual medley and the medley relay.
 
-9-4 Table: The Flying Back 1 SS (212) and the Flying Reverse 1 SS (312) have been removed from the NFHS Diving Table, while new dive (5142) has been added.
+__9-4 Table__: The Flying Back 1 SS (212) and the Flying Reverse 1 SS (312) have been removed from the NFHS Diving Table, while new dive (5142) has been added.
 <br>
 __Rationale__: The added dive is an intermediate step to performing more difficult dives listed on the diving table.
 
