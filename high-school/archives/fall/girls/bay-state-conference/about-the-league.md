@@ -6,9 +6,9 @@ The 10 members of the Bay State conference consists of Brookline, Framingham, Na
 
 Braintree, Milton, Walpole, and Weymouth do not have a boys team, and as a result allow boys to swim on their girls team.
 At dual meets, each team is allowed to have up to one boy in each individual event, and two boys per relay team.
-Girls and boys compete separately for championship meets.
+Girls and boys compete separately at championship meets.
 
-At Bay State Conference Championships, each school may have up to four athletes per individual event and three relays per relay event.
+At the Bay State Conference Championships, each school may have up to four athletes per individual event and three relays per relay event.
 All athletes in individual events may score points, but only the top two placing relays from each school may score points.
 
 ## Table of Schools
@@ -36,4 +36,4 @@ In 2018, Carey division member Norwood High School left the Bay State Conference
 In 2019, after the departure of Dedham and Norwood, the divisions were realigned with Newton North High School moving from the Herget division to the Carey division.[^1]
 
 [^1]: <https://en.wikipedia.org/wiki/Bay_State_Conference>
-[^2]: Formerly the Rebels.
+[^2]: [Formerly the Rebels](https://en.wikipedia.org/wiki/Walpole_High_School)
