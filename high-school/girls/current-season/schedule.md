@@ -22,4 +22,4 @@ For a diver to compete officially, their first dive must be in the specified gro
 | 11/5  -- 11/11 |  twist  |
 | 11/12 -- 11/18 | reverse |
 
-[^VoluntaryDiveWeeks]: [Voluntary Dive Weeks](https://miaa.net/wp-content/uploads/2023/09/Voluntary-Dive-Weeks-2023-2024.pdf)
+[^VoluntaryDiveWeeks]: [Voluntary dive weeks](https://miaa.net/wp-content/uploads/2023/09/Voluntary-Dive-Weeks-2023-2024.pdf)

@@ -226,7 +226,7 @@ Each dive is identified by a dive number which describes how it should be perfor
 Non-twisting dives have a three digit number followed by a letter, such as 201B.
 The first digit is the group (which indicates the direction of spin), the second digit is typically 0 (unless the dive is a "flying" dive, and then the digit will be 1)[^note-on-flying-dives], the third digit is the number of half-somersaults, and the final letter is the position.
 
-[^note-on-flying-dives]: no flying dive has been competed at the high school level in years
+[^note-on-flying-dives]: No flying dive has been competed at the high school level in years
 
 Twisting dives have a four digit number followed by a letter, such as 5223D.
 The first digit is 5 (for the twister group), the second digit is the direction of spin, the third digit is the number of half-somersault, the fourth digit is the number of half-twists, and the final letter is the position.
