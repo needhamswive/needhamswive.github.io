@@ -147,6 +147,10 @@ high-school-fall-archives:
   - title: Bay State Conference
     tags: girls
     children:
+      - title: About The League
+        url: high-school/archives/fall/girls/bay-state-conference/about-the-league
+      - title: Records
+        url: high-school/archives/fall/girls/bay-state-conference/records
       - title: School Rankings
         url: high-school/archives/fall/girls/bay-state-conference/school-rankings
       - title: Dual Meet Results
@@ -177,6 +181,10 @@ high-school-fall-archives:
 high-school-fall-girls-archives:
   - title: Bay State Conference
     children:
+      - title: About The Teams
+        url: high-school/archives/fall/girls/bay-state-conference/about-the-league
+      - title: Records
+        url: high-school/archives/fall/girls/bay-state-conference/records
       - title: School Rankings
         url: high-school/archives/fall/girls/bay-state-conference/school-rankings
       - title: Dual Meet Results
