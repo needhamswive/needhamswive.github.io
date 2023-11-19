@@ -1,4 +1,35 @@
 year,division,place,school,score
+2023,Division 1 State,1,Needham High School,335
+2023,Division 1 State,2,Acton-Boxborough High School,277.5
+2023,Division 1 State,3,Newton North High School,268
+2023,Division 1 State,4,Haverhill High School,208
+2023,Division 1 State,5,Winchester High School,199
+2023,Division 1 State,6,Andover High School,194
+2023,Division 1 State,7,Malden Catholic High School,159
+2023,Division 1 State,8,Brookline High School,134
+2023,Division 1 State,9,Lexington High School,115
+2023,Division 1 State,10,Ursuline Academy High School,99
+2023,Division 1 State,11,Notre Dame Academy High School,88.5
+2023,Division 1 State,12,Framingham High School,79
+2023,Division 1 State,13,Central Catholic High School,64
+2023,Division 1 State,14,Arlington High School,44
+2023,Division 1 State,15,Methuen High School,12
+2023,Division 2 State,1,Wellesley High School,426
+2023,Division 2 State,2,Chelmsford High School,229.5
+2023,Division 2 State,3,Wakefield Memorial High School,219
+2023,Division 2 State,4,Belmont High School,195
+2023,Division 2 State,5,North Andover High School,184
+2023,Division 2 State,6,Boston Latin High School,146
+2023,Division 2 State,7,Natick High School,129
+2023,Division 2 State,8,Woburn Memorial High School,121.5
+2023,Division 2 State,9,Braintree High School,119
+2023,Division 2 State,10,Milton High School,108
+2023,Division 2 State,11,Reading Memorial High School,77
+2023,Division 2 State,12,Billerica Memorial High School,45
+2023,Division 2 State,13,Weymouth High School,37
+2023,Division 2 State,14,Academy of Notre Dame High Sch,33
+2023,Division 2 State,15,Walpole High School,31
+2023,Division 2 State,16,Stoneham High School,12
 2022,Division 1 State,1,Acton-Boxborough,299
 2022,Division 1 State,2,Andover,268
 2022,Division 1 State,3,Lexington,255
@@ -283,7 +314,7 @@ year,division,place,school,score
 2013,Division 1 State,11,Boston Latin,45
 2013,Division 1 State,11,Brookline,45
 2013,Division 1 State,13,Lowell,37
-2013,Division 1 State,14,Durfee, Fall River,30
+2013,Division 1 State,14,"Durfee, Fall River",30
 2013,Division 1 State,15,Braintree,7
 2013,Division 2 State,1,Bishop Feehan,317.5
 2013,Division 2 State,2,Belmont,287.5
@@ -326,7 +357,7 @@ year,division,place,school,score
 2012,Division 1 State,13,Central Catholic-Lawrence,47
 2012,Division 1 State,14,Braintree,39.5
 2012,Division 1 State,15,Boston Latin,31
-2012,Division 1 State,16,Durfee, Fall River,30
+2012,Division 1 State,16,"Durfee, Fall River",30
 2012,Division 1 State,17,Marshfield,20
 2012,Division 1 State,18,Lowell,19
 2012,Division 1 State,19,Billerica Memorial,17
@@ -348,7 +379,7 @@ year,division,place,school,score
 2012,Division 2 State,13,Notre Dame Academy-Worcester,68
 2012,Division 2 State,14,Stoneham,52
 2012,Division 2 State,15,Winchester,51
-2012,Division 2 State,16,Mount Alvernia, Newton,49
+2012,Division 2 State,16,"Mount Alvernia, Newton",49
 2012,Division 2 State,17,Melrose,47
 2012,Division 2 State,18,Academy Notre Dame-Tyngsboro,5
 2011,Division 1 State,1,Andover,481
