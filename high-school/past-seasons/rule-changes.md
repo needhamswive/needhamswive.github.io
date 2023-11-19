@@ -1,32 +1,33 @@
 ---
 title: NFHS Rule Changes
 toc: true
-head_scripts: assets/high-school/girls/past-seasons/rule-changes-edit-toc.js
 ---
 
-[^20222023]: https://www.nfhs.org/sports-resource-content/swimming-and-diving-rules-changes-2022-23/
-[^20212022]: https://www.nfhs.org/sports-resource-content/swimming-and-diving-rules-changes-2021-22/
-[^20192020]: https://www.nfhs.org/sports-resource-content/swimming-and-diving-rules-changes-2019-20/
-[^20182019]: https://www.nfhs.org/sports-resource-content/swimming-and-diving-rules-changes-2018-19/
-[^20172018]: https://www.nfhs.org/sports-resource-content/swimming-and-diving-rules-changes-2017-18/
-[^20162017]: https://www.nfhs.org/sports-resource-content/swimming-and-diving-rules-changes-2016-17/
-[^20152016]: https://www.nfhs.org/sports-resource-content/swimming-and-diving-rules-changes-2015-16/
-[^20142015]: https://www.nfhs.org/sports-resource-content/swimming-and-diving-rules-changes-2014-15/
+[^20222023]: <https://www.nfhs.org/sports-resource-content/swimming-and-diving-rules-changes-2022-23/>
+[^20212022]: <https://www.nfhs.org/sports-resource-content/swimming-and-diving-rules-changes-2021-22/>
+[^20192020]: <https://www.nfhs.org/sports-resource-content/swimming-and-diving-rules-changes-2019-20/>
+[^20182019]: <https://www.nfhs.org/sports-resource-content/swimming-and-diving-rules-changes-2018-19/>
+[^20172018]: <https://www.nfhs.org/sports-resource-content/swimming-and-diving-rules-changes-2017-18/>
+[^20162017]: <https://www.nfhs.org/sports-resource-content/swimming-and-diving-rules-changes-2016-17/>
+[^20152016]: <https://www.nfhs.org/sports-resource-content/swimming-and-diving-rules-changes-2015-16/>
+[^20142015]: <https://www.nfhs.org/sports-resource-content/swimming-and-diving-rules-changes-2014-15/>
 
 The list of rule changes to swimming and diving from the National Federation of State High School Associations (NFHS) are as follows:
 
-## 2022 – 2023 [^20222023]
+## 2022 – 2023
 
+[^20222023]\
 __2-3-1, 2-4-4__: Moves all language from referencing end wall height Rule 2-3-1 and establishes new nationally recognized standards for newly constructed or renovated facilities after January 1, 2023.
 <br>
 __Rationale__: The new specifications provide consistency for high school swimming and adheres to national trends.
 
 __2-4 Table__: Establishes new nationally recognized standards for newly constructed or renovated facilities after January 1, 2023.
 <br>
-__Rationale__: The new specifications provide consistency for high school swimming and adheres to national trends.
+__Rationale__: The new specifications provide consistency for high school swimming and adheres to national trends.[^20222023]
 
-## 2021 – 2022 [^20212022]
+## 2021 – 2022
 
+[^20212022]\
 __3-2-5__: Changes protocol for declaration of the lead-off swimmer in a relay to be submitted prior to the start of the event.
 <br>
 __Rationale__: The lead-off swimmer must be declared at the specified time and place prior to the start of the event, which is consistent with entry procedures for identification of all relay participants.
@@ -62,8 +63,9 @@ __9-6-4__: Defines process to rectify announcing errors that occur during diving
 __Rationale__: Language establishes protocol when an announcer error occurs.
 The diver should not be penalized for the error of meet personnel; the referee retains broad discretion to resolve such problems in the most equitable and efficient way possible.
 
-## 2019 – 2020 [^20192020]
+## 2019 – 2020
 
+[^20192020]\
 __3-3-1, 3-3-2, 3-3-2 PENALTIES, 3-3-3, 3-3-4 PENALTIES__: Rule 3-3 was reorganized to identify penalty protocol for specific uniform violations.
 <br>
 __Rationale__: All current language addressing suit coverage was moved to Rule 3-3-2.
@@ -89,9 +91,10 @@ __9-7-4 NOTE (NEW)__: The diving referee may confer with a member of the diving 
 <br>
 __Rationale__: Consistent with the diving referee’s capability of consulting with a designated member of the judging panel concerning a possible fail dive.
 
-## 2018 – 2019 [^20182019]
+## 2018 – 2019
 
-Rule 1: Rule 1 has been reorganized to more accurately reflect and define meet specifications and organization.
+[^20182019]\
+__Rule 1__: Rule 1 has been reorganized to more accurately reflect and define meet specifications and organization.
 <br>
 __Rationale__: Clarifies and consolidates terminology and reorganizes sections to reflect the order in which rules appear in the rules book.
 
@@ -131,8 +134,9 @@ __9-4-6 NOTE 2 (NEW)__: The NOTE clarifies that it is permissible to conduct ele
 <br>
 __Rationale__: Provides for additional options for competitors to prepare for tournament series events.
 
-## 2017 – 2018 [^20172018]
+## 2017 – 2018
 
+[^20172018]\
 __1-3-12__: (Definitions) State associations may determine meets that shall be considered as culminating meets, which utilize the championship meet format.
 The championship meet format prescribes specific rules associated with team and individual entries, dual confirmation, declared false starts, and applicable penalties for violation of these rules.
 Non-championship meets may also be conducted under championship meet format and are subject to all rules for a championship meet.
@@ -155,8 +159,9 @@ The responsibility to observe this aspect of this takeoff falls under the relay 
 
 __9-5-2__: (Form of the Dives) The word “additional” was removed from the description of the forward approach and the hurdle, clarifying the intent for hops, leaps and/or jumps to count toward the three-step requirement.
 
-## 2016 – 2017 [^20162017]
+## 2016 – 2017
 
+[^20162017]\
 __1-5-2, 3-6-1d__: Deck changing has been defined as changing into or out of a swimsuit when wearing just one suit in an area other than a permanent or temporary locker room, bathroom, changing room or other space designated for changing purposes.
 Incidents of deck changing will result in the assessment of an unsporting behavior penalty.
 <br>
@@ -185,8 +190,9 @@ __9-7-5q__: When using the forward approach, a dive is failed if, in the diving 
 __Rationale__: The forward approach shall begin with not less than three steps and finish with a hurdle, defined as a jump off one foot to a landing on both feet at the end of the board.
 The diver should not be permitted to do an additional bounce prior to the take-off.
 
-## 2015 – 2016 [^20152016]
+## 2015 – 2016
 
+[^20152016]\
 __3-3-5, 6__: The prohibition of wearing jewelry has been removed from the rules for swimming and diving competition.
 As in previous years, the wearing of a medical alert with the alert visible continues and is encouraged for the purposes of risk minimization.
 <br>
@@ -208,8 +214,9 @@ __9-6-1__: The judging panel in diving may or may not include the diving referee
 <br>
 __Rationale__: Clarifies the diving referee may be one of the judges on the panel or a separate official.
 
-## 2014 – 2015 [^20142015]
+## 2014 – 2015
 
+[^20142015]\
 __3-3-4__: Reorganize to list the items a competitor may wear/use and clarifies that adhesives are not allowed for swimmers and/or divers.
 Divers may wear tape or wraps for support and no longer limited to the wrist.
 <br>
