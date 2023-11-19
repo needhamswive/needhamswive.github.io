@@ -5,7 +5,7 @@ title: About The League
 The 10 members of the Bay State conference consists of Brookline, Framingham, Natick, Newton North and Wellesley in the Carey Division, along with Braintree, Milton, Needham, Walpole and Weymouth in the Herget division.[^1]
 
 Braintree, Milton, Walpole, and Weymouth do not have a boys team, and as a result allow boys to swim on their girls team.
-Each town is allowed to have up to one boy in each individual event, and two boys per relay team.
+At dual meets, each team is allowed to have up to one boy in each individual event, and two boys per relay team.
 Girls and boys compete separately for championship meets.
 
 At Bay State Conference Championships, each school may have up to four athletes per individual event and three relays per relay event.
