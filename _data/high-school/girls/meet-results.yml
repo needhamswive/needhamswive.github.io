@@ -3,10 +3,12 @@ general-citations:
     link: https://www.arbiterlive.com/Teams/Schedule/5772348
   - name: BSCWiki
     link: https://en.wikipedia.org/wiki/Bay_State_Conference
-  - name: BSCRankings
-    link: https://needhamswive.com/high-school/archives/fall/girls/bay-state-conference/school-rankings/
+  - name: BSCDualMeetResults
+    link: https://needhamswive.com/high-school/archives/fall/girls/bay-state-conference/dual-meet-results/
   - name: 2022FallSouthSectionalProgram
     link: https://miaa.net/wp-content/uploads/2022/11/Fall-2022-South-Sectional-Swim-ProgramA.pdf
+  - name: RachelWaldstein
+    display: Head Coach Rachel Waldstein
 
 results-by-year:
   - year: 2023
@@ -138,7 +140,7 @@ results-by-year:
     championships:
       - name: Bay State Conference
         place: 2
-        citations: BSCRankings
+        citations: BSCDualMeetResults
       - name: South Sectional
         place: 2
         citations: 2022100
@@ -220,7 +222,7 @@ results-by-year:
     championships:
       - name: Bay State Conference
         place: 2
-        citations: 2021104;BSCRankings
+        citations: 2021104;BSCDualMeetResults
       - name: South Sectional
         place: 2
         citations: 2021100;2021103;2022FallSouthSectionalProgram
@@ -332,7 +334,7 @@ results-by-year:
         citations: 2019001;2019012
     championships:
       - name: Bay State Conference
-        citations: 2019100;2019104;BSCRankings
+        citations: 2019100;2019104;BSCDualMeetResults
       - name: South Sectional
         citations: 2019101;2019105
       - name: Division 1 State
@@ -450,7 +452,7 @@ results-by-year:
     championships:
       - name: Bay State Conference
         place: 2
-        citations: 2018103;BSCRankings
+        citations: 2018103;BSCDualMeetResults
       - name: South Sectional
         place: 3
         citations: 2018100;2018104
@@ -568,7 +570,7 @@ results-by-year:
     championships:
       - name: Bay State Conference
         place: 5
-        citations: 2017104;2017103;BSCRankings
+        citations: 2017104;2017103;BSCDualMeetResults
       - name: South Sectional
         place: 7
         citations: 2017100;2017102
@@ -678,7 +680,7 @@ results-by-year:
     championships:
       - name: Bay State Conference
         place: 3
-        citations: 2016103;2016016;2016102;BSCRankings
+        citations: 2016103;2016016;2016102;BSCDualMeetResults
       - name: South Sectional
         place: 8
         citations: 2016100
@@ -764,7 +766,7 @@ results-by-year:
         result: W
         citations: 2015006;2015003
       - school: Brookline
-        citations: BSCRankings
+        citations: BSCDualMeetResults
       - school: Dedham
         score: 95 - 76
         result: W
@@ -800,7 +802,7 @@ results-by-year:
     championships:
       - name: Bay State Conference
         place: 4
-        citations: 2015102;2015103;2015106;BSCRankings
+        citations: 2015102;2015103;2015106;BSCDualMeetResults
       - name: South Sectional
         place: 6
         citations: 2015100;2015104
@@ -889,7 +891,7 @@ results-by-year:
       - school: Brookline
         score: 95 - 86
         result: W
-        citations: 2014000
+        citations: 2014000;2014012
       - school: Dedham
         score:
         result: W
@@ -905,7 +907,7 @@ results-by-year:
       - school: Newton North
         score: 82 - 102
         result: L
-        citations: 2014001;2014009
+        citations: 2014001;2014009;2014011
       - school: Norwood
         score: 97 - 81
         result: W
@@ -915,13 +917,13 @@ results-by-year:
         result: W
         citations: 2014004
       - school: Wellesley
-        citations: BSCRankings
+        citations: BSCDualMeetResults
       - school: Weymouth
-        citations: BSCRankings
+        citations: BSCDualMeetResults
     championships:
       - name: Bay State Conference
         place: 3
-        citations: 2014103;2014102;BSCRankings
+        citations: 2014103;2014102;BSCDualMeetResults
       - name: South Sectional
         place: 4
         citations: 2014100
@@ -970,6 +972,10 @@ results-by-year:
         link: https://www.wickedlocal.com/story/newton-tab/2014/10/15/newton-north-102-needham-82/36161788007/
       - name: 2014010
         link: https://www.wickedlocal.com/story/bulletin-tab/2014/09/24/framingham-97-wellesley-84-flyers/36327716007/
+      - name: 2014011
+        link: https://www.wickedlocal.com/story/newton-tab/2014/10/21/newton-north-swimmers-divers-rule/36108750007/
+      - name: 2014012
+        link: https://www.wickedlocal.com/story/brookline-tab/2014/10/23/swimmers-gearing-up-for-postseason/36098760007/
       - name: 2014100
         link: http://miaa.ezstream.com/index.cfm?itemid=7485
       - name: 2014101
@@ -1009,13 +1015,13 @@ results-by-year:
       - school: Newton North
         score: 102 - 84
         result: W
-        citations: 2013002;2013007;2013013;2013014
+        citations: 2013002;2013007;2013013;2013014;2014011
       - school: Norwood
         score: 100 - 55
         result: W
         citations: 2013010;2013011
       - school: Walpole
-        citations: BSCRankings
+        citations: BSCDualMeetResults
       - school: Wellesley
         score: 100 - 84
         result: W
@@ -1030,7 +1036,7 @@ results-by-year:
         citations: 2013012
       - name: Bay State Conference
         place: 2
-        citations: 2013105;2013104;2013107;BSCRankings
+        citations: 2013105;2013104;2013107;BSCDualMeetResults
       - name: South Sectional
         place: 4
         citations: 2013100;2013103;2013106
@@ -1120,7 +1126,8 @@ results-by-year:
       - school: Natick
         citations: 2012002
       - school: Newton North
-        citations: 2012003
+        result: W
+        citations: 2012003;2012004
       - school: Norwood
         score: 100 - 84
         result: W
@@ -1136,9 +1143,12 @@ results-by-year:
         result: W
         citations: 2012000;2012002
     championships:
+      - name: Bay State Conference
+        place: 1
+        citations: 2012105
       - name: South Sectional
         place: 3
-        citations: 2012100;2012102;2012104;BSCRankings
+        citations: 2012100;2012102;2012104;BSCDualMeetResults
       - name: Division 1 State
         place: 5
         citations: 2012101;2012103
@@ -1160,6 +1170,8 @@ results-by-year:
         link: https://www.wickedlocal.com/story/needham-times/2012/10/11/needham-high-girls-swimming-team/39653395007/
       - name: 2012003
         link: https://www.wickedlocal.com/story/needham-times/2012/10/31/needham-high-girls-swim-team/39729025007/
+      - name: 2012004
+        link: https://www.wickedlocal.com/story/newton-tab/2013/10/17/newton-north-99-dedham-75/37254555007/
       - name: 2012100
         link: http://miaa.ezstream.com/index.cfm?itemid=7025
       - name: 2012101
@@ -1170,6 +1182,8 @@ results-by-year:
         link: https://www.wickedlocal.com/story/needham-times/2012/11/21/needham-high-sports-roundup-swimmers/39849512007/
       - name: 2012104
         link: https://www.wickedlocal.com/story/brookline-tab/2012/11/14/brookline-swimmers-make-strong-showing/40368339007/
+      - name: 2012105
+        link: https://www.wickedlocal.com/story/brookline-tab/2012/02/08/brookline-swim-team-takes-third/39951602007/
   - year: 2011
     dual-meets:
       - school: Braintree
@@ -1177,7 +1191,7 @@ results-by-year:
         result: W
         citations: 2011001
       - school: Brookline
-        citations: BSCRankings
+        citations: BSCDualMeetResults
       - school: Dedham
         score: 105 - 67
         result: W
@@ -1193,9 +1207,9 @@ results-by-year:
       - school: Newton North
         score: 97 - 89
         result: W
-        citations: 2011000
+        citations: 2011000;2012004
       - school: Norwood
-        citations: BSCRankings
+        citations: BSCDualMeetResults
       - school: Walpole
         score: 88 - 96
         result: L
@@ -1205,11 +1219,11 @@ results-by-year:
         result: W
         citations: 2011000
       - school: Weymouth
-        citations: BSCRankings
+        citations: BSCDualMeetResults
     championships:
       - name: Bay State Conference
         place: 3
-        citations: 2011105;BSCRankings
+        citations: 2011105;BSCDualMeetResults
       - name: South Sectional
         place: 4
         citations: 2011100;2011102
@@ -1269,7 +1283,7 @@ results-by-year:
       - school: Newton North
         score: 97 - 87
         result: W
-        citations: 2010002
+        citations: 2010002;2012004
       - school: Norwood
         score: 100 - 80
         result: W
@@ -1290,7 +1304,7 @@ results-by-year:
         citations: 2010001
       - name: Bay State Conference
         place: 2
-        citations: 2010102;BSCRankings
+        citations: 2010102;BSCDualMeetResults
       - name: South Sectional
         place: 4
         citations: 2010100;2010103;2010104
@@ -1334,12 +1348,12 @@ results-by-year:
   - year: 2009
     dual-meets:
       - school: Braintree
-        citations: BSCRankings
+        citations: BSCDualMeetResults
       - school: Brookline
         result: W
         citations: 2009002;2009001
       - school: Dedham
-        citations: BSCRankings
+        citations: BSCDualMeetResults
       - school: Framingham
         score: 100 - 83
         result: W
@@ -1348,9 +1362,10 @@ results-by-year:
         result: L
         citations: 2010000;2010006
       - school: Newton North
-        citations: BSCRankings
+        result: W
+        citations: 2012004
       - school: Norwood
-        citations: BSCRankings
+        citations: BSCDualMeetResults
       - school: Walpole
         score: 93 - 93
         result: T
@@ -1365,7 +1380,7 @@ results-by-year:
     championships:
       - name: Bay State Conference
         place: 3
-        citations: 2009102;BSCRankings
+        citations: 2009102;BSCDualMeetResults
       - name: South Sectional
         place: 15
         citations: 2009100
@@ -1407,7 +1422,7 @@ results-by-year:
       - school: Brookline
         score: 83 - 101
         result: L
-        citations: 2008000
+        citations: 2008000;2008006
       - school: Dedham
         score: 93 - 82
         result: W
@@ -1415,7 +1430,7 @@ results-by-year:
       - school: Framingham
         score: 81 - 97
         result: L
-        citations: 2008002;2009001;2008001
+        citations: 2008002;2009001;2008001;2009004
       - school: Natick
         score: 95 - 86
         result: W
@@ -1423,7 +1438,7 @@ results-by-year:
       - school: Newton North
         score: 103 - 84
         result: W
-        citations: 2008004;2008003
+        citations: 2008004;2008003;2012004
       - school: Norwood
         result: W
         citations: 2008002;2008004
@@ -1441,7 +1456,7 @@ results-by-year:
     championships:
       - name: Bay State Conference
         place: 4
-        citations: 2008102;BSCRankings
+        citations: 2008102;BSCDualMeetResults
       - name: South Sectional
         place: no place
         citations: 2008100
@@ -1470,6 +1485,8 @@ results-by-year:
         link: https://www.wickedlocal.com/story/needham-times/2008/11/12/swimmers-edge-rival-wellesley/40436394007/
       - name: 2008005
         link: https://www.wickedlocal.com/story/wellesley-townsman/2008/11/06/swimmers-edged-by-rival-rockets/40688329007/
+      - name: 2008006
+        link: https://www.wickedlocal.com/story/brookline-tab/2008/09/19/brookline-swimmer-adds-another-record/40738661007/
       - name: 2008100
         link: http://miaa.ezstream.com/index.cfm?itemid=4047
       - name: 2008101
@@ -1480,7 +1497,7 @@ results-by-year:
     dual-meets:
       - school: Braintree
         result: W
-        citations: 2007002;2007003
+        citations: 2007002;2007003;2007006
       - school: Brookline
         score: 78 - 105
         result: L
@@ -1490,14 +1507,15 @@ results-by-year:
         result: W
         citations: 2007002;2007001
       - school: Framingham
-        citations: 2007002
+        result: L
+        citations: 2007002;2009001;2009004
       - school: Natick
         result: L
         citations: 2007003
       - school: Newton North
         score: 96 - 85
         result: W
-        citations: 2007001;2007000
+        citations: 2007001;2007000;2012004
       - school: Norwood
         score: 94 - 89
         result: W
@@ -1518,7 +1536,7 @@ results-by-year:
     championships:
       - name: Bay State Conference
         place: 7
-        citations: 2007102;2007103;BSCRankings
+        citations: 2007102;2007103;BSCDualMeetResults
       - name: South Sectional
         place: 19
         citations: 2007100
@@ -1547,6 +1565,8 @@ results-by-year:
         link: https://www.wickedlocal.com/story/times-advocate/2007/10/26/dive-talking-excites-walpole-high/40700560007/
       - name: 2007005
         link: https://www.wickedlocal.com/story/wellesley-townsman/2008/09/04/swimmers-hope-to-make-splash/40555362007/
+      - name: 2007006
+        link: https://www.wickedlocal.com/story/braintree-forum/2008/10/30/swimmers-finish-on-top/39737340007/
       - name: 2007100
         link: http://miaa.ezstream.com/index.cfm?itemid=1761
       - name: 2007101
@@ -1556,10 +1576,34 @@ results-by-year:
       - name: 2007103
         link: https://www.wickedlocal.com/story/needham-times/2007/11/07/swimmers-take-7th-at-bay/40537688007/
   - year: 2006
+    dual-meets:
+      - school: Braintree
+        result: W
+        citations: BSCDualMeetResults;2007006
+      - school: Brookline
+        citations: BSCDualMeetResults
+      - school: Dedham
+        citations: BSCDualMeetResults
+      - school: Framingham
+        result: L
+        citations: 2009001;2009004
+      - school: Natick
+        citations: BSCDualMeetResults
+      - school: Newton North
+        result: W
+        citations: 2012004
+      - school: Norwood
+        citations: BSCDualMeetResults
+      - school: Walpole
+        citations: BSCDualMeetResults
+      - school: Wellesley
+        citations: BSCDualMeetResults
+      - school: Weymouth
+        citations: BSCDualMeetResults
     championships:
       - name: Bay State Conference
         place: 2
-        citations: BSCRankings
+        citations: BSCDualMeetResults
       - name: South Sectional
         place: 22
         citations: 2006100
@@ -1581,11 +1625,58 @@ results-by-year:
       - name: 2006101
         link: http://miaa.ezstream.com/index.cfm?itemid=525
   - year: 2005
+    dual-meets:
+      - school: Braintree
+        result: W
+        citations: BSCDualMeetResults;2007006
+      - school: Brookline
+        citations: BSCDualMeetResults
+      - school: Dedham
+        citations: BSCDualMeetResults
+      - school: Framingham
+        result: L
+        citations: 2009001;2009004
+      - school: Natick
+        citations: BSCDualMeetResults
+      - school: Newton North
+        result: W
+        citations: 2012004
+      - school: Norwood
+        citations: BSCDualMeetResults
+      - school: Walpole
+        citations: BSCDualMeetResults
+      - school: Wellesley
+        citations: BSCDualMeetResults
+      - school: Weymouth
+        citations: BSCDualMeetResults
     championships:
       - name: Bay State Conference
         place: 2
-        citations: BSCRankings
+        citations: BSCDualMeetResults
   - year: 2004
+    dual-meets:
+      - school: Braintree
+        citations: BSCDualMeetResults
+      - school: Brookline
+        citations: BSCDualMeetResults
+      - school: Dedham
+        citations: BSCDualMeetResults
+      - school: Framingham
+        result: L
+        citations: 2009001;2009004
+      - school: Natick
+        citations: BSCDualMeetResults
+      - school: Newton North
+        result: W
+        citations: 2012004
+      - school: Norwood
+        citations: BSCDualMeetResults
+      - school: Walpole
+        citations: BSCDualMeetResults
+      - school: Wellesley
+        citations: BSCDualMeetResults
+      - school: Weymouth
+        citations: BSCDualMeetResults
     championships:
       - name: South Sectional
         place: 18
@@ -1594,10 +1685,41 @@ results-by-year:
       - name: 2004101
         link: http://www.meetresults.com/meets/2004/sectionals/south/scores.html
   - year: 2003
+    dual-meets:
+      - school: Braintree
+        result: W
+        citations: BSCDualMeetResults;RachelWaldstein
+      - school: Brookline
+        result: W
+        citations: BSCDualMeetResults;RachelWaldstein
+      - school: Dedham
+        result: W
+        citations: BSCDualMeetResults;RachelWaldstein
+      - school: Framingham
+        result: W
+        citations: BSCDualMeetResults;RachelWaldstein
+      - school: Natick
+        result: W
+        citations: BSCDualMeetResults;RachelWaldstein
+      - school: Newton North
+        result: W
+        citations: 2012004;RachelWaldstein
+      - school: Norwood
+        result: W
+        citations: BSCDualMeetResults;RachelWaldstein
+      - school: Walpole
+        result: W
+        citations: BSCDualMeetResults;RachelWaldstein
+      - school: Wellesley
+        result: W
+        citations: BSCDualMeetResults;RachelWaldstein
+      - school: Weymouth
+        result: W
+        citations: BSCDualMeetResults;RachelWaldstein
     championships:
       - name: Bay State Conference
         place: 1
-        citations: BSCRankings
+        citations: BSCDualMeetResults
       - name: States
         place: 7
         citations: 2003101
@@ -1605,26 +1727,119 @@ results-by-year:
       - name: 2003101
         link: http://www.meetresults.com/meets/2003/miaa-fall/scores.html
   - year: 2002
+    dual-meets:
+      - school: Braintree
+        result: W
+        citations: BSCDualMeetResults;RachelWaldstein
+      - school: Brookline
+        result: W
+        citations: BSCDualMeetResults;RachelWaldstein
+      - school: Dedham
+        result: W
+        citations: BSCDualMeetResults;RachelWaldstein
+      - school: Framingham
+        result: W
+        citations: BSCDualMeetResults;RachelWaldstein
+      - school: Natick
+        result: W
+        citations: BSCDualMeetResults;RachelWaldstein
+      - school: Newton North
+        result: W
+        citations: 2012004;RachelWaldstein
+      - school: Norwood
+        result: W
+        citations: BSCDualMeetResults;RachelWaldstein
+      - school: Walpole
+        result: W
+        citations: BSCDualMeetResults;RachelWaldstein
+      - school: Wellesley
+        result: W
+        citations: BSCDualMeetResults;RachelWaldstein
+      - school: Weymouth
+        result: W
+        citations: BSCDualMeetResults;RachelWaldstein
     championships:
       - name: Bay State Conference
         place: 1
-        citations: BSCRankings
+        citations: BSCDualMeetResults
       - name: South Sectional
         place: 2
         citations: 2022FallSouthSectionalProgram
   - year: 2001
+    dual-meets:
+      - school: Braintree
+        result: W
+        citations: BSCDualMeetResults;RachelWaldstein
+      - school: Brookline
+        result: W
+        citations: BSCDualMeetResults;RachelWaldstein
+      - school: Dedham
+        result: W
+        citations: BSCDualMeetResults;RachelWaldstein
+      - school: Framingham
+        result: W
+        citations: BSCDualMeetResults;RachelWaldstein
+      - school: Natick
+        result: W
+        citations: BSCDualMeetResults;RachelWaldstein
+      - school: Newton North
+        result: W
+        citations: 2012004;RachelWaldstein
+      - school: Norwood
+        result: W
+        citations: BSCDualMeetResults;RachelWaldstein
+      - school: Walpole
+        result: W
+        citations: BSCDualMeetResults;RachelWaldstein
+      - school: Wellesley
+        result: W
+        citations: BSCDualMeetResults;RachelWaldstein
+      - school: Weymouth
+        result: W
+        citations: BSCDualMeetResults;RachelWaldstein
     championships:
       - name: Bay State Conference
         place: 1
-        citations: BSCRankings
+        citations: BSCDualMeetResults
       - name: South Sectional
         place: 1
         citations: 2022FallSouthSectionalProgram
   - year: 2000
+    dual-meets:
+      - school: Braintree
+        result: W
+        citations: BSCDualMeetResults;RachelWaldstein
+      - school: Brookline
+        result: W
+        citations: BSCDualMeetResults;RachelWaldstein
+      - school: Dedham
+        result: W
+        citations: BSCDualMeetResults;RachelWaldstein
+      - school: Framingham
+        result: W
+        citations: BSCDualMeetResults;RachelWaldstein
+      - school: Natick
+        result: W
+        citations: BSCDualMeetResults;RachelWaldstein
+      - school: Newton North
+        result: W
+        citations: 2012004;RachelWaldstein
+      - school: Norwood
+        result: W
+        citations: BSCDualMeetResults;RachelWaldstein
+      - school: Walpole
+        result: W
+        citations: BSCDualMeetResults;RachelWaldstein
+      - school: Wellesley
+        result: W
+        citations: BSCDualMeetResults;RachelWaldstein
+      - school: Weymouth
+        result: W
+        citations: BSCDualMeetResults;RachelWaldstein
     championships:
       - name: Bay State Conference
         place: 1
-        citations: BSCRankings
+        citations: BSCDualMeetResults
       - name: State
         place: 15
         citations: 2000101
@@ -1632,55 +1847,179 @@ results-by-year:
       - name: 2000101
         link: https://www.swimmingworldmagazine.com/results/massachusetts-girls-state-high-school-swimming-and-diving-championships/high-school/2000/November/19
   - year: 1999
+    dual-meets:
+      - school: Braintree
+        result: W
+        citations: BSCDualMeetResults;RachelWaldstein
+      - school: Brookline
+        result: W
+        citations: BSCDualMeetResults;RachelWaldstein
+      - school: Dedham
+        result: W
+        citations: BSCDualMeetResults;RachelWaldstein
+      - school: Framingham
+        result: W
+        citations: BSCDualMeetResults;RachelWaldstein
+      - school: Natick
+        result: W
+        citations: BSCDualMeetResults;RachelWaldstein
+      - school: Newton North
+        result: W
+        citations: 2012004;RachelWaldstein
+      - school: Norwood
+        result: W
+        citations: BSCDualMeetResults;RachelWaldstein
+      - school: Walpole
+        result: W
+        citations: BSCDualMeetResults;RachelWaldstein
+      - school: Wellesley
+        result: W
+        citations: BSCDualMeetResults;RachelWaldstein
+      - school: Weymouth
+        result: W
+        citations: BSCDualMeetResults;RachelWaldstein
     championships:
       - name: Bay State Conference
         place: 1
-        citations: BSCRankings
+        citations: BSCDualMeetResults
   - year: 1998
+    dual-meets:
+      - school: Braintree
+        result: W
+        citations: BSCDualMeetResults;RachelWaldstein
+      - school: Brookline
+        result: W
+        citations: BSCDualMeetResults;RachelWaldstein
+      - school: Dedham
+        result: W
+        citations: BSCDualMeetResults;RachelWaldstein
+      - school: Framingham
+        result: W
+        citations: BSCDualMeetResults;RachelWaldstein
+      - school: Natick
+        result: W
+        citations: BSCDualMeetResults;RachelWaldstein
+      - school: Newton North
+        result: W
+        citations: 2012004;RachelWaldstein
+      - school: Norwood
+        result: W
+        citations: BSCDualMeetResults;RachelWaldstein
+      - school: Walpole
+        result: W
+        citations: BSCDualMeetResults;RachelWaldstein
+      - school: Wellesley
+        result: W
+        citations: BSCDualMeetResults;RachelWaldstein
+      - school: Weymouth
+        result: W
+        citations: BSCDualMeetResults;RachelWaldstein
     championships:
       - name: Bay State Conference
         place: 1
-        citations: BSCRankings
+        citations: BSCDualMeetResults
   - year: 1997
+    dual-meets:
+      - school: Braintree
+        result: W
+        citations: BSCDualMeetResults;RachelWaldstein
+      - school: Brookline
+        result: W
+        citations: BSCDualMeetResults;RachelWaldstein
+      - school: Dedham
+        result: W
+        citations: BSCDualMeetResults;RachelWaldstein
+      - school: Framingham
+        result: W
+        citations: BSCDualMeetResults;RachelWaldstein
+      - school: Natick
+        result: W
+        citations: BSCDualMeetResults;RachelWaldstein
+      - school: Newton North
+        result: W
+        citations: 2012004;RachelWaldstein
+      - school: Norwood
+        result: W
+        citations: BSCDualMeetResults;RachelWaldstein
+      - school: Walpole
+        result: W
+        citations: BSCDualMeetResults;RachelWaldstein
+      - school: Wellesley
+        result: W
+        citations: BSCDualMeetResults;RachelWaldstein
+      - school: Weymouth
+        result: W
+        citations: BSCDualMeetResults;RachelWaldstein
     championships:
       - name: Bay State Conference
         place: 2
-        citations: BSCRankings
+        citations: BSCDualMeetResults
   - year: 1996
+    dual-meets:
+      - school: Braintree
+        result: W
+        citations: BSCDualMeetResults;RachelWaldstein
+      - school: Brookline
+        result: W
+        citations: BSCDualMeetResults;RachelWaldstein
+      - school: Dedham
+        result: W
+        citations: BSCDualMeetResults;RachelWaldstein
+      - school: Framingham
+        result: W
+        citations: BSCDualMeetResults;RachelWaldstein
+      - school: Natick
+        result: W
+        citations: BSCDualMeetResults;RachelWaldstein
+      - school: Newton North
+        result: W
+        citations: 2012004;RachelWaldstein
+      - school: Norwood
+        result: W
+        citations: BSCDualMeetResults;RachelWaldstein
+      - school: Walpole
+        result: W
+        citations: BSCDualMeetResults;RachelWaldstein
+      - school: Wellesley
+        result: W
+        citations: BSCDualMeetResults;RachelWaldstein
+      - school: Weymouth
+        result: W
+        citations: BSCDualMeetResults;RachelWaldstein
     championships:
       - name: Bay State Conference
         place: 1
-        citations: BSCRankings
+        citations: BSCDualMeetResults
   - year: 1995
     championships:
       - name: Bay State Conference
         place: 3
-        citations: BSCRankings
+        citations: BSCDualMeetResults
   - year: 1994
     championships:
       - name: Bay State Conference
         place: 2
-        citations: BSCRankings
+        citations: BSCDualMeetResults
   - year: 1993
     championships:
       - name: Bay State Conference
         place: 2
-        citations: BSCRankings
+        citations: BSCDualMeetResults
   - year: 1992
     championships:
       - name: Bay State Conference
         place: 2
-        citations: BSCRankings
+        citations: BSCDualMeetResults
   - year: 1991
     championships:
       - name: Bay State Conference
         place: 2
-        citations: BSCRankings
+        citations: BSCDualMeetResults
   - year: 1990
     championships:
       - name: Bay State Conference
         place: 2
-        citations: BSCRankings
+        citations: BSCDualMeetResults
   - year: 1987
     championships:
       - name: South Sectional

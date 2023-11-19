@@ -8,6 +8,10 @@ classes: wide
     overflow: visible;
   }
 
+  tbody tr:first-child th {
+    height: 100px;
+  }
+
   td {
     border: 1px solid #b6b6b6;
     text-align: center;
@@ -16,7 +20,7 @@ classes: wide
   }
 
   .school-name {
-    transform: rotate(-90deg) translateX(15px);
+    transform: rotate(-90deg);
     max-width: 50px;
     width: 50px;
   }

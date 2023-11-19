@@ -116,10 +116,11 @@ year,place,school,score
 2009,1,Framingham,
 2009,2,Walpole,
 2009,3,Needham,
-2008,1,Framingham,
-2008,2,Walpole,
-2008,3,Brookline,
-2008,4,Needham,
+2008,1,Framingham,353
+2008,2,Walpole,196
+2008,3,Brookline,187
+2008,4?,Needham,
+2008,4?,Wellesley,
 2007,1,Framingham,
 2007,2,Brookline,
 2007,3,Wellesley,
