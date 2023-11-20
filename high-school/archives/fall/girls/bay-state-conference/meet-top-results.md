@@ -8,7 +8,7 @@ missing-years:
 ---
 
 {% assign events = site.data.high-school.event-order.dual-meet-results | map: "name" %}
-{% assign all-event-results = site.data.high-school.archives.fall.girls.meet-results.bay-state-conference.event-results %}
+{% assign all-event-results = site.data.high-school.archives.fall.girls.bay-state-conference.event-results %}
 {% assign years = all-event-results | map: "year" %}
 {% assign missing-years = page.missing-years | join: "," | split: "," %}
 {% assign years = years | concat: missing-years %}

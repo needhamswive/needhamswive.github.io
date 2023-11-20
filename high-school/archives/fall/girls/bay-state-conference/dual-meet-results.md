@@ -42,8 +42,8 @@ classes: wide
   }
 </style>
 
-{% assign dual-meet-results = site.data.high-school.archives.fall.girls.meet-results.bay-state-conference.dual-meet-results %}
-{% assign dual-meet-results-citations = site.data.high-school.archives.fall.girls.meet-results.bay-state-conference.dual-meet-results-citations %}
+{% assign dual-meet-results = site.data.high-school.archives.fall.girls.bay-state-conference.dual-meet-results %}
+{% assign dual-meet-results-citations = site.data.high-school.archives.fall.girls.bay-state-conference.dual-meet-results-citations %}
 {% assign years = dual-meet-results | map: "year" | uniq %}
 
 {% include filter-year.html
