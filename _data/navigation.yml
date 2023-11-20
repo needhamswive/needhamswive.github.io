@@ -49,6 +49,9 @@ high-school:
       - title: Qualifying Standards
         url: high-school/girls/current-season/qualifying-standards
         tags: girls
+      - title: Roster
+        url: high-school/girls/current-season/roster
+        tags: girls
       - title: Meet Results
         url: high-school/girls/current-season/meet-results
         tags: girls
@@ -56,6 +59,9 @@ high-school:
         url: high-school/current-season/rule-changes
   - title: Past Seasons
     children:
+      - title: Rosters
+        url: high-school/girls/past-seasons/rosters
+        tags: girls
       - title: Meet Results
         url: high-school/girls/past-seasons/meet-results
         tags: girls
@@ -90,12 +96,16 @@ high-school-girls:
         url: high-school/girls/current-season/schedule
       - title: Qualifying Standards
         url: high-school/girls/current-season/qualifying-standards
+      - title: Roster
+        url: high-school/girls/current-season/roster
       - title: Meet Results
         url: high-school/girls/current-season/meet-results
       - title: Rule Changes
         url: high-school/current-season/rule-changes?nav=girls
   - title: Past Seasons
     children:
+      - title: Rosters
+        url: high-school/girls/past-seasons/rosters
       - title: Meet Results
         url: high-school/girls/past-seasons/meet-results
       - title: Rule Changes
