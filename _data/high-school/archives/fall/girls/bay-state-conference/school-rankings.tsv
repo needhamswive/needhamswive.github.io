@@ -1,178 +1,178 @@
-year,place,school,score
-2023,1,Needham,516
-2023,2,Wellesley,489
-2023,3,Newton North,443
-2023,4,Brookline,272
-2023,5,Framingham,175
-2023,6,Milton,109
-2023,7,Natick,103
-2023,8,Braintree,99
-2023,9,Weymouth,47
-2023,10,Walpole,42
-2022,1,Wellesley,618
-2022,2,Needham,502.5
-2022,3,Brookline,336.5
-2022,4,Newton North,239
-2022,5,Framingham,164
-2022,6,Natick,133
-2022,7,Braintree,96
-2022,8,Weymouth,82
-2022,9,Walpole,76
-2022,10,Milton,48
-2021,1,Wellesley,488
-2021,2,Needham,484
-2021,3,Brookline,370.5
-2021,4,Newton North,271.5
-2021,5,Framingham,255
-2021,6,Milton,214
-2021,7,Natick,91
-2021,8,Braintree,75
-2021,9,Walpole,66
-2021,10,Weymouth,10
-2019,1,Wellesley,524.5
-2019,2,Needham,481.5
-2019,3,Brookline,327.5
-2019,4,Framingham,309.5
-2019,5,Newton North,286
-2019,6,Milton,168
-2019,7,Natick,124.5
-2019,8,Braintree,78
-2019,9,Walpole,20.5
-2019,10,Weymouth,5
-2018,1,Wellesley,422.5
-2018,2,Needham,398
-2018,3,Framingham,357
-2018,4,Newton North,325.5
-2018,5,Brookline,299.5
-2018,6,Milton,197
-2018,7,Natick,195.5
-2018,8,Walpole,80
-2018,9,Braintree,22
-2018,10,Weymouth,8
-2017,1,Newton North,507
-2017,2,Wellesley,465.5
-2017,3,Brookline,378.5
-2017,4,Natick,324.5
-2017,5,Needham,267.5
-2017,6,Framingham,260.5
-2017,7,Braintree,43.5
-2017,8,Milton,40
-2017,9,Walpole,20
-2017,10,Norwood,18
-2017,11,Weymouth,0
-2016,1,Framingham,511
-2016,2,Newton North,451
-2016,3,Needham,370
-2016,4,Wellesley,314
-2016,5,Brookline,307
-2016,6,Natick,264
-2016,7,Dedham,34
-2016,8,Braintree,26
-2016,9,Norwood,24
-2016,10,Walpole,20
-2016,11,Weymouth,4
-2015,1,Framingham,491
-2015,2,Newton North,438
-2015,3,Brookline,415
-2015,4,Needham,383
-2015,5,Wellesley,277
-2015,6,Natick,210
-2015,7,Braintree,58
-2015,8,Walpole,33
-2015,9,Norwood,18
-2015,10,Weymouth,2
-2015,11,Dedham,0
-2014,1,Framingham,553
-2014,2,Newton North,487
-2014,3,Needham,387.5
-2014,4,Wellesley,272
-2014,5,Natick,243
-2014,6,Brookline,168
-2014,7,Walpole,119
-2014,8,Dedham,38.5
-2014,9,Braintree,35
-2014,10,Norwood,20
-2014,11,Weymouth,2
-2013,1,Framingham,571
-2013,2,Needham,473
-2013,3,Newton North,446.5
-2013,4,Natick,255
-2013,5,Wellesley,213
-2013,6,Walpole,157
-2013,7,Brookline,97
-2013,8,Dedham,68.5
-2013,9,Norwood,29
-2013,10,Braintree,13
-2013,11,Weymouth,2
-2012,1,Framingham,
-2012,2,Natick,
-2012,3,Needham,
-2011,1,Framingham,
-2011,2,Walpole,
-2011,3,Needham,
-2010,1,Framingham,
-2010,2,Needham,
-2010,3,Walpole,
-2009,1,Framingham,
-2009,2,Walpole,
-2009,3,Needham,
-2008,1,Framingham,353
-2008,2,Walpole,196
-2008,3,Brookline,187
-2008,4?,Needham,
-2008,4?,Wellesley,
-2007,1,Framingham,
-2007,2,Brookline,
-2007,3,Wellesley,
-2007,7,Needham,
-2006,1,Framingham,
-2006,2,Needham,
-2006,3,Natick,
-2005,1,Framingham,
-2005,2,Needham,
-2005,3,Dedham,
-2004,1,Framingham,
-2004,2,Walpole,
-2004,3,Natick,
-2003,1,Needham,
-2003,2,Framingham,
-2003,3,Wellesley,
-2002,1,Needham,
-2002,2,Brookline,
-2002,3,Wellesley,
-2001,1,Needham,
-2001,2,Brookline,
-2001,3,Dedham,
-2000,1,Needham,
-2000,2,Brookline,
-2000,3,Newton North,
-1999,1,Needham,
-1999,2,Wellesley,
-1999,3,Brookline,
-1998,1,Needham,
-1998,2,Framingham,
-1998,3,Brookline,
-1997,1,Natick,
-1997,2,Needham,
-1997,3,Framingham,
-1996,1,Needham,
-1996,2,Natick,
-1996,3,Framingham,
-1995,1,Natick,
-1995,2,Newton North,
-1995,3,Needham,
-1994,1,Natick,
-1994,2,Needham,
-1994,3,Newton North,
-1993,1,Natick,
-1993,2,Needham,
-1993,3,Wellesley,
-1992,1,Wellesley,
-1992,2,Needham,
-1992,3,Newton North,
-1991,1,Wellesley,
-1991,2,Needham,
-1991,3,Newton North,
-1990,1,Wellesley,
-1990,2,Needham,
-1990,3,Brookline,
+year	place	school	score
+2023	1	Needham	516
+2023	2	Wellesley	489
+2023	3	Newton North	443
+2023	4	Brookline	272
+2023	5	Framingham	175
+2023	6	Milton	109
+2023	7	Natick	103
+2023	8	Braintree	99
+2023	9	Weymouth	47
+2023	10	Walpole	42
+2022	1	Wellesley	618
+2022	2	Needham	502.5
+2022	3	Brookline	336.5
+2022	4	Newton North	239
+2022	5	Framingham	164
+2022	6	Natick	133
+2022	7	Braintree	96
+2022	8	Weymouth	82
+2022	9	Walpole	76
+2022	10	Milton	48
+2021	1	Wellesley	488
+2021	2	Needham	484
+2021	3	Brookline	370.5
+2021	4	Newton North	271.5
+2021	5	Framingham	255
+2021	6	Milton	214
+2021	7	Natick	91
+2021	8	Braintree	75
+2021	9	Walpole	66
+2021	10	Weymouth	10
+2019	1	Wellesley	524.5
+2019	2	Needham	481.5
+2019	3	Brookline	327.5
+2019	4	Framingham	309.5
+2019	5	Newton North	286
+2019	6	Milton	168
+2019	7	Natick	124.5
+2019	8	Braintree	78
+2019	9	Walpole	20.5
+2019	10	Weymouth	5
+2018	1	Wellesley	422.5
+2018	2	Needham	398
+2018	3	Framingham	357
+2018	4	Newton North	325.5
+2018	5	Brookline	299.5
+2018	6	Milton	197
+2018	7	Natick	195.5
+2018	8	Walpole	80
+2018	9	Braintree	22
+2018	10	Weymouth	8
+2017	1	Newton North	507
+2017	2	Wellesley	465.5
+2017	3	Brookline	378.5
+2017	4	Natick	324.5
+2017	5	Needham	267.5
+2017	6	Framingham	260.5
+2017	7	Braintree	43.5
+2017	8	Milton	40
+2017	9	Walpole	20
+2017	10	Norwood	18
+2017	11	Weymouth	0
+2016	1	Framingham	511
+2016	2	Newton North	451
+2016	3	Needham	370
+2016	4	Wellesley	314
+2016	5	Brookline	307
+2016	6	Natick	264
+2016	7	Dedham	34
+2016	8	Braintree	26
+2016	9	Norwood	24
+2016	10	Walpole	20
+2016	11	Weymouth	4
+2015	1	Framingham	491
+2015	2	Newton North	438
+2015	3	Brookline	415
+2015	4	Needham	383
+2015	5	Wellesley	277
+2015	6	Natick	210
+2015	7	Braintree	58
+2015	8	Walpole	33
+2015	9	Norwood	18
+2015	10	Weymouth	2
+2015	11	Dedham	0
+2014	1	Framingham	553
+2014	2	Newton North	487
+2014	3	Needham	387.5
+2014	4	Wellesley	272
+2014	5	Natick	243
+2014	6	Brookline	168
+2014	7	Walpole	119
+2014	8	Dedham	38.5
+2014	9	Braintree	35
+2014	10	Norwood	20
+2014	11	Weymouth	2
+2013	1	Framingham	571
+2013	2	Needham	473
+2013	3	Newton North	446.5
+2013	4	Natick	255
+2013	5	Wellesley	213
+2013	6	Walpole	157
+2013	7	Brookline	97
+2013	8	Dedham	68.5
+2013	9	Norwood	29
+2013	10	Braintree	13
+2013	11	Weymouth	2
+2012	1	Framingham
+2012	2	Natick
+2012	3	Needham
+2011	1	Framingham
+2011	2	Walpole
+2011	3	Needham
+2010	1	Framingham
+2010	2	Needham
+2010	3	Walpole
+2009	1	Framingham
+2009	2	Walpole
+2009	3	Needham
+2008	1	Framingham	353
+2008	2	Walpole	196
+2008	3	Brookline	187
+2008	4?	Needham
+2008	4?	Wellesley
+2007	1	Framingham
+2007	2	Brookline
+2007	3	Wellesley
+2007	7	Needham
+2006	1	Framingham
+2006	2	Needham
+2006	3	Natick
+2005	1	Framingham
+2005	2	Needham
+2005	3	Dedham
+2004	1	Framingham
+2004	2	Walpole
+2004	3	Natick
+2003	1	Needham
+2003	2	Framingham
+2003	3	Wellesley
+2002	1	Needham
+2002	2	Brookline
+2002	3	Wellesley
+2001	1	Needham
+2001	2	Brookline
+2001	3	Dedham
+2000	1	Needham
+2000	2	Brookline
+2000	3	Newton North
+1999	1	Needham
+1999	2	Wellesley
+1999	3	Brookline
+1998	1	Needham
+1998	2	Framingham
+1998	3	Brookline
+1997	1	Natick
+1997	2	Needham
+1997	3	Framingham
+1996	1	Needham
+1996	2	Natick
+1996	3	Framingham
+1995	1	Natick
+1995	2	Newton North
+1995	3	Needham
+1994	1	Natick
+1994	2	Needham
+1994	3	Newton North
+1993	1	Natick
+1993	2	Needham
+1993	3	Wellesley
+1992	1	Wellesley
+1992	2	Needham
+1992	3	Newton North
+1991	1	Wellesley
+1991	2	Needham
+1991	3	Newton North
+1990	1	Wellesley
+1990	2	Needham
+1990	3	Brookline
