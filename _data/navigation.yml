@@ -43,30 +43,35 @@ high-school:
         url: high-school/general-information/student-handbook
   - title: Current Season
     children:
+      - title: Rule Changes
+        url: high-school/current-season/rule-changes
       - title: Schedule
         url: high-school/girls/current-season/schedule
         tags: girls
       - title: Qualifying Standards
         url: high-school/girls/current-season/qualifying-standards
         tags: girls
-      - title: Roster
-        url: high-school/girls/current-season/roster
+      - title: Team Roster
+        url: high-school/girls/current-season/team-roster
         tags: girls
       - title: Meet Results
         url: high-school/girls/current-season/meet-results
         tags: girls
-      - title: Rule Changes
-        url: high-school/current-season/rule-changes
+      # - title: All Stars
+      #   url: high-school/girls/current-season/all-stars
   - title: Past Seasons
     children:
-      - title: Rosters
-        url: high-school/girls/past-seasons/rosters
+      - title: Rule Changes
+        url: high-school/past-seasons/rule-changes
+      - title: Team Rosters
+        url: high-school/girls/past-seasons/team-rosters
         tags: girls
       - title: Meet Results
         url: high-school/girls/past-seasons/meet-results
         tags: girls
-      - title: Rule Changes
-        url: high-school/past-seasons/rule-changes
+      - title: All Stars
+        url: high-school/girls/past-seasons/all-stars
+        tags: girls
   - title: Archives
     url: high-school/archives
     children:
@@ -92,24 +97,28 @@ high-school-girls:
         url: high-school/general-information/student-handbook?nav=girls
   - title: Current Season
     children:
+      - title: Rule Changes
+        url: high-school/current-season/rule-changes?nav=girls
       - title: Schedule
         url: high-school/girls/current-season/schedule
       - title: Qualifying Standards
         url: high-school/girls/current-season/qualifying-standards
-      - title: Roster
-        url: high-school/girls/current-season/roster
+      - title: Team Roster
+        url: high-school/girls/current-season/team-roster
       - title: Meet Results
         url: high-school/girls/current-season/meet-results
-      - title: Rule Changes
-        url: high-school/current-season/rule-changes?nav=girls
+      # - title: All Stars
+      #   url: high-school/girls/current-season/all-stars
   - title: Past Seasons
     children:
-      - title: Rosters
-        url: high-school/girls/past-seasons/rosters
-      - title: Meet Results
-        url: high-school/girls/past-seasons/meet-results
       - title: Rule Changes
         url: high-school/past-seasons/rule-changes?nav=girls
+      - title: Team Rosters
+        url: high-school/girls/past-seasons/team-rosters
+      - title: Meet Results
+        url: high-school/girls/past-seasons/meet-results
+      - title: All Stars
+        url: high-school/girls/past-seasons/all-stars
   - title: Archives
     url: high-school/archives
     children:
