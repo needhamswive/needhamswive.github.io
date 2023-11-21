@@ -10,7 +10,6 @@ classes: wide
 {% for segment in events-path-segments %}
   {% assign events = events[segment] %}
 {% endfor %}
-{% assign events = events | map: "name" %}
 
 {% assign results = site.data %}
 {% assign results-path-segments = page.results | split: "." %}

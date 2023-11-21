@@ -1,0 +1,70 @@
+championship-meet-results:
+  - 1 Meter Diving - 11 Dives
+  - 1 Meter Diving - 8 Dives
+  - 1 Meter Diving - 6 Dives
+  - 200 Medley Relay
+  - 200 Freestyle
+  - 200 Individual Medley
+  - 50 Freestyle
+  - 100 Butterfly
+  - 100 Freestyle
+  - 500 Freestyle
+  - 200 Freestyle Relay
+  - 100 Backstroke
+  - 100 Breaststroke
+  - 400 Freestyle Relay
+championship-records:
+  - 200 Medley Relay
+  - 200 Freestyle
+  - 200 Individual Medley
+  - 50 Freestyle
+  - 1 Meter - 6 Dives
+  - 1 Meter - 11 Dives
+  - 100 Butterfly
+  - 100 Freestyle
+  - 500 Freestyle
+  - 200 Freestyle Relay
+  - 100 Backstroke
+  - 100 Breaststroke
+  - 400 Freestyle Relay
+dual-meet-records:
+  - 200 Medley Relay
+  - 200 Freestyle
+  - 200 Individual Medley
+  - 50 Freestyle
+  - 1 Meter - 6 Dives
+  - 100 Butterfly
+  - 100 Freestyle
+  - 500 Freestyle
+  - 200 Freestyle Relay
+  - 100 Backstroke
+  - 100 Breaststroke
+  - 400 Freestyle Relay
+dual-meet-results:
+  - 1 Meter Diving
+  - 200 Medley Relay
+  - 200 Freestyle
+  - 200 Individual Medley
+  - 50 Freestyle
+  - 100 Butterfly
+  - 100 Freestyle
+  - 500 Freestyle
+  - 200 Freestyle Relay
+  - 100 Backstroke
+  - 100 Breaststroke
+  - 400 Freestyle Relay
+individual-results:
+  - 1 Meter Diving
+  - 200 Individual Medley
+  - 200 Freestyle
+  - 50 Freestyle
+  - 100 Butterfly
+  - 100 Freestyle
+  - 500 Freestyle
+  - 100 Backstroke
+  - 100 Breaststroke
+  - 50 Backstroke Split
+  - 50 Breaststroke Split
+  - 50 Butterfly Split
+  - 50 Freestyle Split
+  - 100 Freestyle Split

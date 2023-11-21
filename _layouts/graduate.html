@@ -10,7 +10,7 @@ layout: single
 
 <h1>{{ page.athlete }}</h1>
 
-{% assign events = site.data.high-school.event-order.individual-results | map: "name" %}
+{% assign events = site.data.high-school.event-order.individual-results %}
 
 {% assign general-information = site.data.high-school.girls.graduates[page.class-of].general-information %}
 

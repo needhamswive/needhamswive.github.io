@@ -7,7 +7,7 @@ missing-years:
   - 2001
 ---
 
-{% assign events = site.data.high-school.event-order.dual-meet-results | map: "name" %}
+{% assign events = site.data.high-school.event-order.dual-meet-results %}
 {% assign all-event-results = site.data.high-school.archives.fall.girls.bay-state-conference.event-results %}
 {% assign years = all-event-results | map: "year" %}
 {% assign missing-years = page.missing-years | join: "," | split: "," %}

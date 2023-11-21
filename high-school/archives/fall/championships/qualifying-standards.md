@@ -2,7 +2,7 @@
 title: MIAA Fall Qualifying Standards
 ---
 
-{% assign events = site.data.high-school.event-order.dual-meet-results | map: "name" %}
+{% assign events = site.data.high-school.event-order.dual-meet-results %}
 {% assign all-qualifying-standards = site.data.high-school.archives.fall.qualifying-standards %}
 {% assign years = all-qualifying-standards | map: "year" | uniq %}
 
