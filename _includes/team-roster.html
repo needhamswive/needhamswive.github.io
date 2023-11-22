@@ -4,13 +4,58 @@
   {% endfor %}
 {% endif %}
 
+{% assign seniors = include.team-roster.athletes | where: "grade", 12 %}
+{% assign juniors = include.team-roster.athletes | where: "grade", 11 %}
+{% assign sophomores = include.team-roster.athletes | where: "grade", 10 %}
+{% assign freshman = include.team-roster.athletes | where: "grade", 9 %}
+{% assign rest = include.team-roster.athletes | not_where: "grade" %}
+
+
+{% assign seniors-size = seniors | size %}
+{% assign juniors-size = juniors | size %}
+{% assign sophomores-size = sophomores | size %}
+{% assign freshman-size = freshman | size %}
+
+{% if seniors-size > juniors-size %}
+  {% assign len-1 = seniors-size | minus: 1 %}
+{% else %}
+  {% assign len-1 = juniors-size | minus: 1 %}
+{% endif %}
+{% if sophomores-size > freshman-size %}
+  {% assign len-2 = sophomores-size | minus: 1 %}
+{% else %}
+  {% assign len-2 = freshman-size | minus: 1 %}
+{% endif %}
+
 <table>
   <thead>
     <th>Name</th>
     <th>Grade</th>
+    <th>Name</th>
+    <th>Grade</th>
   </thead>
   <tbody>
-    {% for athlete in include.team-roster.athletes %}
+    {% for i in (0..len-1) %}
+      <tr>
+        {% assign athlete = seniors[i] %}
+        <td>{{ athlete.name | format_cell }}{% if athlete.swimmer %}*{% endif %}{% if athlete.diver %}&dagger;{% endif %}{% if athlete.captain %}&ddagger;{% endif %}</td>
+        <td>{{ athlete.grade }}</td>
+        {% assign athlete = juniors[i] %}
+        <td>{{ athlete.name | format_cell }}{% if athlete.swimmer %}*{% endif %}{% if athlete.diver %}&dagger;{% endif %}{% if athlete.captain %}&ddagger;{% endif %}</td>
+        <td>{{ athlete.grade }}</td>
+      </tr>
+    {% endfor %}
+    {% for i in (0..len-2) %}
+      <tr>
+        {% assign athlete = sophomores[i] %}
+        <td>{{ athlete.name | format_cell }}{% if athlete.swimmer %}*{% endif %}{% if athlete.diver %}&dagger;{% endif %}{% if athlete.captain %}&ddagger;{% endif %}</td>
+        <td>{{ athlete.grade }}</td>
+        {% assign athlete = freshman[i] %}
+        <td>{{ athlete.name | format_cell }}{% if athlete.swimmer %}*{% endif %}{% if athlete.diver %}&dagger;{% endif %}{% if athlete.captain %}&ddagger;{% endif %}</td>
+        <td>{{ athlete.grade }}</td>
+      </tr>
+    {% endfor %}
+    {% for athlete in rest %}
       <tr>
         <td>{{ athlete.name }}{% if athlete.swimmer %}*{% endif %}{% if athlete.diver %}&dagger;{% endif %}{% if athlete.captain %}&ddagger;{% endif %}</td>
         <td>{{ athlete.grade }}</td>
