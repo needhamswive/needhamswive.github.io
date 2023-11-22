@@ -1,0 +1,900 @@
+- year: 2023
+  coaches:
+    - title: Head Coach
+      name: Kate Curtin
+    - title: Assistant Swim Coach
+      name: Zibing Zhang
+    - title: Assistant Dive Coach
+      name: Elisabeth McQuaid
+  athletes:
+    - name: Isabela Bobocea
+      grade: 12
+      swimmer: true
+    - name: Ori Fux
+      grade: 12
+      captain: true
+      swimmer: true
+    - name: Sophie Guarrera
+      grade: 12
+      captain: true
+      swimmer: true
+    - name: Lucy Mackey
+      grade: 12
+      captain: true
+      swimmer: true
+    - name: Kylie O'Hearn
+      grade: 12
+      swimmer: true
+    - name: Julia Shulman
+      grade: 12
+      swimmer: true
+    - name: Chloe Wukitch
+      grade: 12
+      swimmer: true
+    - name: Lucy Aswad
+      grade: 11
+      diver: true
+    - name: Rebecca Hwang
+      grade: 11
+      swimmer: true
+    - name: Isabelle Lemaire
+      grade: 11
+      diver: true
+    - name: Kelly McFarland
+      grade: 11
+      diver: true
+      swimmer: true
+    - name: Norah Mullen
+      grade: 11
+      swimmer: true
+    - name: Lyudmila Piatkov
+      grade: 11
+      swimmer: true
+    - name: Julia Rowe
+      grade: 11
+      swimmer: true
+    - name: Riley Serlenga
+      grade: 11
+      swimmer: true
+    - name: Courtney Tobin
+      grade: 11
+      diver: true
+    - name: Emma Zhang
+      grade: 11
+      swimmer: true
+    - name: Natalie Guarrera
+      grade: 10
+      swimmer: true
+    - name: Paige Ingrando
+      grade: 10
+      swimmer: true
+    - name: Haley Larson
+      grade: 10
+      diver: true
+    - name: Emma Manning
+      grade: 10
+      swimmer: true
+    - name: Talia Muzikant
+      grade: 10
+      diver: true
+    - name: Genevieve Smith
+      grade: 10
+      swimmer: true
+    - name: Sophia Belenkiy
+      grade: 9
+      swimmer: true
+    - name: Lara Bobocea
+      grade: 9
+      swimmer: true
+    - name: Emmeline Fritz
+      grade: 9
+      swimmer: true
+    - name: Nora Horton
+      grade: 9
+      swimmer: true
+    - name: Tessa Jones
+      grade: 9
+      swimmer: true
+    - name: Isabella Tzouros
+      grade: 9
+      swimmer: true
+    - name: Madeline Weirup
+      grade: 9
+      swimmer: true
+- year: 2022
+  athletes:
+    - name: Alexandra Bold
+      grade: 12
+      captain: true
+      swimmer: true
+    - name: Amanda Ferriera
+      grade: 12
+      swimmer: true
+    - name: Audrey Finelli
+      grade: 12
+      captain: true
+      swimmer: true
+    - name: Sera Finizio
+      grade: 12
+      diver: true
+    - name: Sarah Francis
+      grade: 12
+      swimmer: true
+    - name: Olive Haller
+      grade: 12
+      captain: true
+      swimmer: true
+    - name: Gabriella Kim
+      grade: 12
+      swimmer: true
+    - name: Samantha Scampoli
+      grade: 12
+      diver: true
+    - name: Rachel Talcoff
+      grade: 12
+      captain: true
+      swimmer: true
+    - name: Ori Fux
+      grade: 11
+      swimmer: true
+    - name: Sophie Guarrera
+      grade: 11
+      swimmer: true
+    - name: Lucy Mackey
+      grade: 11
+      swimmer: true
+    - name: Kylie O'Hearn
+      grade: 11
+      swimmer: true
+    - name: Julia Shulman
+      grade: 11
+      swimmer: true
+    - name: Chloe Wukitch
+      grade: 11
+      swimmer: true
+    - name: Lucy Aswad
+      grade: 10
+      diver: true
+    - name: Rebecca Hwang
+      grade: 10
+      swimmer: true
+    - name: Isabelle Lemaire
+      grade: 10
+      diver: true
+    - name: Kelly McFarland
+      grade: 10
+      swimmer: true
+    - name: Norah Mullen
+      grade: 10
+      swimmer: true
+    - name: Lyudmila Piatkov
+      grade: 10
+      swimmer: true
+    - name: Julia Rowe
+      grade: 10
+      swimmer: true
+    - name: Riley Serlenga
+      grade: 10
+      swimmer: true
+    - name: Courtney Tobin
+      grade: 10
+      diver: true
+    - name: Emma Zhang
+      grade: 10
+      swimmer: true
+    - name: Natalie Guarrera
+      grade: 9
+      swimmer: true
+    - name: Paige Ingrando
+      grade: 9
+      swimmer: true
+    - name: Emma Manning
+      grade: 9
+      swimmer: true
+    - name: Talia Muzikant
+      grade: 9
+      diver: true
+    - name: Genevieve Smith
+      grade: 9
+      swimmer: true
+- year: 2021
+  athletes:
+    - name: Chloe Berg
+      grade: 12
+      captain: true
+      diver: true
+    - name: Arina Collin
+      grade: 12
+      captain: true
+      swimmer: true
+    - name: Ula Haller
+      grade: 12
+      swimmer: true
+    - name: Tatum Jones
+      grade: 12
+      swimmer: true
+    - name: Emma Jorgensen
+      grade: 12
+      swimmer: true
+    - name: Abigail Krivopal
+      grade: 12
+      captain: true
+      swimmer: true
+    - name: James Mahoney
+      grade: 12
+      swimmer: true
+    - name: Rory Paterniti
+      grade: 12
+      captain: true
+      swimmer: true
+    - name: Peyton Whirley
+      grade: 12
+      diver: true
+    - name: Alexandra Bold
+      grade: 11
+      swimmer: true
+    - name: Amanda Ferriera
+      grade: 11
+      swimmer: true
+    - name: Audrey Finelli
+      grade: 11
+      swimmer: true
+    - name: Sera Finizio
+      grade: 11
+      diver: true
+    - name: Sarah Francis
+      grade: 11
+      swimmer: true
+    - name: Olive Haller
+      grade: 11
+      swimmer: true
+    - name: Gabriella Kim
+      grade: 11
+      swimmer: true
+    - name: Samantha Scampoli
+      grade: 11
+      diver: true
+    - name: Rachel Talcoff
+      grade: 11
+      swimmer: true
+    - name: Veronica Burdman
+      grade: 10
+      swimmer: true
+    - name: Ori Fux
+      grade: 10
+      swimmer: true
+    - name: Sophie Guarrera
+      grade: 10
+      swimmer: true
+    - name: Lucy Mackey
+      grade: 10
+      swimmer: true
+    - name: Kylie O'Hearn
+      grade: 10
+      swimmer: true
+    - name: Julia Shulman
+      grade: 10
+      swimmer: true
+    - name: Mikayla Tow
+      grade: 10
+      swimmer: true
+    - name: Chloe Wukitch
+      grade: 10
+      swimmer: true
+    - name: Lucy Aswad
+      grade: 9
+      diver: true
+    - name: Shiran Hanono
+      grade: 9
+      swimmer: true
+    - name: Rebecca Hwang
+      grade: 9
+      swimmer: true
+    - name: Isabelle Lemaire
+      grade: 9
+      diver: true
+    - name: Kelly McFarland
+      grade: 9
+      swimmer: true
+    - name: Norah Mullen
+      grade: 9
+      swimmer: true
+    - name: Lyudmila Piatkov
+      grade: 9
+      swimmer: true
+    - name: Julia Rowe
+      grade: 9
+      swimmer: true
+    - name: Sydney Rubin
+      grade: 9
+      swimmer: true
+    - name: Riley Serlenga
+      grade: 9
+      swimmer: true
+    - name: Mia Shaffer
+      grade: 9
+      diver: true
+    - name: Courtney Tobin
+      grade: 9
+      diver: true
+    - name: Sophie Weingarten
+      grade: 9
+      swimmer: true
+    - name: Emma Zhang
+      grade: 9
+      swimmer: true
+- year: 2019
+  athletes:
+    - name: Adriana Cosentino
+      grade: 12
+    - name: Emilia Higgins
+      captain: true
+      grade: 12
+    - name: Lily Krivopal
+      captain: true
+      grade: 12
+    - name: Lucy Maremont
+      grade: 12
+    - name: Avery Mathias
+      grade: 12
+    - name: Kelsey Rondini
+      captain: true
+      grade: 12
+    - name: Hannah Ross
+      grade: 12
+    - name: Kayla Talcoff
+      grade: 12
+    - name: Abigail Thress
+      captain: true
+      grade: 12
+    - name: Annie Tomosivitch
+      grade: 12
+    - name: Vicki Yang
+      grade: 12
+    - name: Ellie Ofer
+      grade: 11
+    - name: Olivia Finelli
+      grade: 11
+    - name: Hannah Goldstein
+      grade: 11
+    - name: Zoei Howard
+      grade: 11
+    - name: Allison Jiang
+      grade: 11
+    - name: Eleanor Mackey
+      grade: 11
+    - name: Kate O'Brien
+      grade: 11
+    - name: Jasmine Palli
+      grade: 11
+    - name: Ava Sirignano
+      grade: 11
+    - name: Gabi Spengler
+      grade: 11
+    - name: Madison Talcoff
+      grade: 11
+    - name: Claire Tzouros
+      grade: 11
+    - name: Elinor Wilson
+      grade: 11
+    - name: Chloe Berg
+      grade: 10
+    - name: Arina Collin
+      grade: 10
+    - name: Ula Haller
+      grade: 10
+    - name: Tatum Jones
+      grade: 10
+    - name: Abigail Krivopal
+      grade: 10
+    - name: James Mahoney
+      grade: 10
+    - name: Rory Paterniti
+      grade: 10
+    - name: Maggie Rosenberg
+      grade: 10
+    - name: Peyton Whirley
+      grade: 10
+    - name: Victoria Barbera
+      grade: 9
+    - name: Alexandra Bold
+      grade: 9
+    - name: Katherine Dunbar
+      grade: 9
+    - name: Amanda Ferriera
+      grade: 9
+    - name: Audrey Finelli
+      grade: 9
+    - name: Sera Finizio
+      grade: 9
+    - name: Sarah Francis
+      grade: 9
+    - name: Olive Haller
+      grade: 9
+    - name: Gabriella Kim
+      grade: 9
+    - name: Rachel Talcoff
+      grade: 9
+- year: 2018
+  athletes:
+    - name: Hannah Garand
+      grade: 12
+    - name: Julia Hebert
+      grade: 12
+    - name: Alexandra Hwang
+      captain: true
+      grade: 12
+    - name: Allison Mahoney
+      grade: 12
+    - name: Katherine Shannon
+      grade: 12
+    - name: Francesca Sirignano
+      captain: true
+      grade: 12
+    - name: Nina Yee
+      captain: true
+      grade: 12
+    - name: Amanda Cohen
+      grade: 11
+    - name: Adriana Cosentino
+      grade: 11
+    - name: Emilia Higgins
+      grade: 11
+    - name: Lily Krivopal
+      grade: 11
+    - name: Lucy Maremont
+      grade: 11
+    - name: Avery Mathias
+      grade: 11
+    - name: Moriah Mersky
+      grade: 11
+    - name: Kelsey Rondini
+      grade: 11
+    - name: Hannah Ross
+      grade: 11
+    - name: Kayla Talcoff
+      grade: 11
+    - name: Abigail Thress
+      grade: 11
+    - name: Annie Tomosivitch
+      grade: 11
+    - name: Arianna Williams
+      grade: 11
+    - name: Vicki Yang
+      grade: 11
+    - name: Olivia Finelli
+      grade: 10
+    - name: Hannah Goldstein
+      grade: 10
+    - name: Zoei Howard
+      grade: 10
+    - name: Allison Jiang
+      grade: 10
+    - name: Eleanor Mackey
+      grade: 10
+    - name: Kate O'Brien
+      grade: 10
+    - name: Ellie Ofer
+      grade: 10
+    - name: Jasmine Palli
+      grade: 10
+    - name: Ava Sirignano
+      grade: 10
+    - name: Gabi Spengler
+      grade: 10
+    - name: Madison Talcoff
+      grade: 10
+    - name: Elinor Wilson
+      grade: 10
+    - name: Chloe Berg
+      grade: 9
+    - name: Autumn Berke
+      grade: 9
+    - name: Arina Collin
+      grade: 9
+    - name: Hailey Espinola
+      grade: 9
+    - name: Hannah Goldberg
+      grade: 9
+    - name: Ula Haller
+      grade: 9
+    - name: Lindsay Hess
+      grade: 9
+    - name: Tatum Jones
+      grade: 9
+    - name: Emma Jorgensen
+      grade: 9
+    - name: Abigail Krivopal
+      grade: 9
+    - name: Aria Lehri
+      grade: 9
+    - name: Jaclyn Liebman
+      grade: 9
+    - name: James Mahoney
+      grade: 9
+    - name: Madison Mathias
+      grade: 9
+    - name: Rory Paterniti
+      grade: 9
+- year: 2017
+  athletes:
+    - name: Caroline Beacham
+      captain: true
+      grade: 12
+    - name: Lucy Campbell
+      grade: 12
+    - name: Zoe Greiff
+      grade: 12
+    - name: EmmaJane Hasenfus
+      grade: 12
+    - name: Abigail Hughes
+      captain: true
+      grade: 12
+    - name: Molly McLeod
+      grade: 12
+    - name: Emma McPherson
+      grade: 12
+    - name: Kelly O'Neil
+      captain: true
+      grade: 12
+    - name: Sima Okunas
+      grade: 12
+    - name: Mollie Petrie
+      grade: 12
+    - name: Shreya Yadav
+      grade: 12
+    - name: Hannah Garand
+      grade: 11
+    - name: Alexandra Hwang
+      grade: 11
+    - name: Allison Mahoney
+      grade: 11
+    - name: Katherine Shannon
+      grade: 11
+    - name: Francesca Sirignano
+      grade: 11
+    - name: Nina Yee
+      grade: 11
+    - name: Amanda Cohen
+      grade: 10
+    - name: Adriana Cosentino
+      grade: 10
+    - name: Emilia Higgins
+      grade: 10
+    - name: Lily Krivopal
+      grade: 10
+    - name: Lucy Maremont
+      grade: 10
+    - name: Avery Mathias
+      grade: 10
+    - name: Moriah Mersky
+      grade: 10
+    - name: Kelsey Rondini
+      grade: 10
+    - name: Kayla Talcoff
+      grade: 10
+    - name: Abigail Thress
+      grade: 10
+    - name: Arianna Williams
+      grade: 10
+    - name: Olivia Finelli
+      grade: 9
+    - name: Hannah Goldstein
+      grade: 9
+    - name: Allison Jiang
+      grade: 9
+    - name: Eleanor Mackey
+      grade: 9
+    - name: Kate O'Brien
+      grade: 9
+    - name: Ellie Ofer
+      grade: 9
+    - name: Jasmine Palli
+      grade: 9
+    - name: Ava Sirignano
+      grade: 9
+    - name: Gabi Spengler
+      grade: 9
+    - name: Madison Talcoff
+      grade: 9
+    - name: Claire Tzouros
+      grade: 9
+    - name: Elinor Wilson
+      grade: 9
+- year: 2016
+  athletes:
+    - name: Elizabeth Bonvoulior
+      captain: true
+      grade: 12
+    - name: Victoria Budreau
+      grade: 12
+    - name: Olivia Curran
+      grade: 12
+    - name: Shira Farbman
+      grade: 12
+    - name: Megan Gilman
+      grade: 12
+    - name: Beth Gordon
+      captain: true
+      grade: 12
+    - name: Monika Hedman
+      captain: true
+      grade: 12
+    - name: Elizabeth Lively
+      grade: 12
+    - name: Lucy McNatt
+      grade: 12
+    - name: Gwendolyn Mecsas
+      grade: 12
+    - name: Diana Nascimben
+      grade: 12
+    - name: Tracey Sexton
+      grade: 12
+    - name: Grace Ward
+      captain: true
+      grade: 12
+    - name: Caroline Beacham
+      grade: 11
+    - name: Lucy Campbell
+      grade: 11
+    - name: Zoe Greiff
+      grade: 11
+    - name: EmmaJane Hasenfus
+      grade: 11
+    - name: Abigail Hughes
+      grade: 11
+    - name: Molly McLeod
+      grade: 11
+    - name: Emma McPherson
+      grade: 11
+    - name: Anisha Mishra
+      grade: 11
+    - name: Kelly O'Neil
+      grade: 11
+    - name: Mollie Petrie
+      grade: 11
+    - name: Shreya Yadav
+      grade: 11
+    - name: Hannah Garand
+      grade: 10
+    - name: Julia Hebert
+      grade: 10
+    - name: Alexandra Hwang
+      grade: 10
+    - name: Allison Mahoney
+      grade: 10
+    - name: Katherine Shannon
+      grade: 10
+    - name: Francesca Sirignano
+      grade: 10
+    - name: Nina Yee
+      grade: 10
+    - name: Amanda Cohen
+      grade: 9
+    - name: Adriana Cosentino
+      grade: 9
+    - name: Jayce Grant
+      grade: 9
+    - name: Emilia Higgins
+      grade: 9
+    - name: Lily Krivopal
+      grade: 9
+    - name: Lucy Maremont
+      grade: 9
+    - name: Avery Mathias
+      grade: 9
+    - name: Kelsey Rondini
+      grade: 9
+    - name: Hannah Ross
+      grade: 9
+    - name: Kayla Talcoff
+      grade: 9
+    - name: Abigail Thress
+      grade: 9
+    - name: Annie Tomosivitch
+      grade: 9
+    - name: Arianna Williams
+      grade: 9
+- year: 2015
+  athletes:
+    - name: Claire Hadelman
+      captain: true
+      grade: 12
+    - name: Ellen Ingwerson
+      captain: true
+      grade: 12
+    - name: Elizabeth Kuhlman
+      grade: 12
+    - name: Sonia Raja
+      captain: true
+      grade: 12
+    - name: Celia Stern
+      captain: true
+      grade: 12
+    - name: Elizabeth Bonvoulior
+      grade: 11
+    - name: Victoria Budreau
+      grade: 11
+    - name: Olivia Curran
+      grade: 11
+    - name: Shira Farbman
+      grade: 11
+    - name: Megan Gilman
+      grade: 11
+    - name: Beth Gordon
+      grade: 11
+    - name: Monika Hedman
+      grade: 11
+    - name: Elizabeth Lively
+      grade: 11
+    - name: Lucy McNatt
+      grade: 11
+    - name: Gwendolyn Mecsas
+      grade: 11
+    - name: Diana Nascimben
+      grade: 11
+    - name: Tracey Sexton
+      grade: 11
+    - name: Grace Ward
+      grade: 11
+    - name: Caroline Beacham
+      grade: 10
+    - name: Lucy Campbell
+      grade: 10
+    - name: Zoe Greiff
+      grade: 10
+    - name: Abigail Hughes
+      grade: 10
+    - name: Molly McLeod
+      grade: 10
+    - name: Emma McPherson
+      grade: 10
+    - name: Anisha Mishra
+      grade: 10
+    - name: Kelly O'Neil
+      grade: 10
+    - name: Sima Okunas
+      grade: 10
+    - name: Mollie Petrie
+      grade: 10
+    - name: Zoe Tsavdarides
+      grade: 10
+    - name: Shreya Yadav
+      grade: 10
+    - name: Alexandria Boutin
+      grade: 9
+    - name: Abigail Dateo
+      grade: 9
+    - name: Hannah Garand
+      grade: 9
+    - name: Stephanie Godes
+      grade: 9
+    - name: Julia Hebert
+      grade: 9
+    - name: Alexandra Hwang
+      grade: 9
+    - name: Ana Keene
+      grade: 9
+    - name: Michaela Leslie
+      grade: 9
+    - name: Grace Li
+      grade: 9
+    - name: Iris Li
+      grade: 9
+    - name: Allison Mahoney
+      grade: 9
+    - name: Stephanie Mittaz
+      grade: 9
+    - name: Caroline O
+      grade: 9
+    - name: Katherine Shannon
+      grade: 9
+    - name: Francesca Sirignano
+      grade: 9
+    - name: Nina Yee
+      grade: 9
+- year: 2014
+  athletes:
+    - name: Emilie Despres
+      captain: true
+      grade: 12
+    - name: Julia Gaitley
+      grade: 12
+    - name: Rachel Grebber
+      grade: 12
+    - name: Isabel Libby
+      grade: 12
+    - name: Julia Nascimben
+      captain: true
+      grade: 12
+    - name: Thalia Ramos
+      grade: 12
+    - name: Evelyn Atkinson
+      grade: 11
+    - name: Claire Hadelman
+      grade: 11
+    - name: Ellen Ingwerson
+      grade: 11
+    - name: Sydney Kornbleuth
+      grade: 11
+    - name: Elizabeth Kuhlman
+      grade: 11
+    - name: Haley Mueller
+      grade: 11
+    - name: Sonia Raja
+      grade: 11
+    - name: Celia Stern
+      grade: 11
+    - name: Elizabeth Bonvoulior
+      grade: 10
+    - name: Victoria Budreau
+      grade: 10
+    - name: Olivia Curran
+      grade: 10
+    - name: Shira Farbman
+      grade: 10
+    - name: Megan Gilman
+      grade: 10
+    - name: Beth Gordon
+      grade: 10
+    - name: Monika Hedman
+      grade: 10
+    - name: Patricia Kenney
+      grade: 10
+    - name: Elizabeth Lively
+      grade: 10
+    - name: Lucy McNatt
+      grade: 10
+    - name: Gwendolyn Mecsas
+      grade: 10
+    - name: Diana Nascimben
+      grade: 10
+    - name: Kimberly Olarte
+      grade: 10
+    - name: Mary Rockett
+      grade: 10
+    - name: Tracey Sexton
+      grade: 10
+    - name: Caroline Beacham
+      grade: 9
+    - name: Gloria Bond
+      grade: 9
+    - name: Lucy Campbell
+      grade: 9
+    - name: Natalie Fetzer
+      grade: 9
+    - name: Zoe Greiff
+      grade: 9
+    - name: Abigail Hughes
+      grade: 9
+    - name: Jessica Kohl
+      grade: 9
+    - name: Molly McLeod
+      grade: 9
+    - name: Emma McPherson
+      grade: 9
+    - name: Anisha Mishra
+      grade: 9
+    - name: Kelly O'Neil
+      grade: 9
+    - name: Mollie Petrie
+      grade: 9
+    - name: Zoe Tsavdarides
+      grade: 9
+- year: 2011
+  athletes:
+    - name: Emilie Despres
+      grade: 9
+    - name: Sarah Hooper
+    - name: Jessica Murphy
+    - name: Kathryn Santaniello
+- year: 2001
+  athletes:
+    - name: Meghan Healey
+- year: 1997
+  athletes:
+    - name: Caitlin Healey
+- year: 1995
+  athletes:
+    - name: Michelle Jackson
+    - name: Lynn Kelly

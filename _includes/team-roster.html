@@ -1,0 +1,20 @@
+{% if include.team-roster.coaches %}
+  {% for coach in include.team-roster.coaches -%}
+    <b>{{ coach.title }}</b>: {{ coach.name }} <br>
+  {% endfor %}
+{% endif %}
+
+<table>
+  <thead>
+    <th>Name</th>
+    <th>Grade</th>
+  </thead>
+  <tbody>
+    {% for athlete in include.team-roster.athletes %}
+      <tr>
+        <td>{{ athlete.name }}{% if athlete.swimmer %}*{% endif %}{% if athlete.diver %}&dagger;{% endif %}{% if athlete.captain %}&ddagger;{% endif %}</td>
+        <td>{{ athlete.grade }}</td>
+      </tr>
+    {% endfor %}
+  </tbody>
+</table>
