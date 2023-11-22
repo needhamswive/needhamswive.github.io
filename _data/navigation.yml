@@ -168,8 +168,8 @@ high-school-fall-archives:
     children:
       - title: About The League
         url: high-school/archives/fall/girls/bay-state-conference/about-the-league
-      - title: Records
-        url: high-school/archives/fall/girls/bay-state-conference/records
+      - title: Conference Records
+        url: high-school/archives/fall/girls/bay-state-conference/conference-records
       - title: School Rankings
         url: high-school/archives/fall/girls/bay-state-conference/school-rankings
       - title: Dual Meet Results
@@ -178,6 +178,8 @@ high-school-fall-archives:
         url: high-school/archives/fall/girls/bay-state-conference/meet-results
       - title: Meet Top Results
         url: high-school/archives/fall/girls/bay-state-conference/meet-top-results
+      - title: All Stars
+        url: high-school/archives/fall/girls/bay-state-conference/all-stars
   - title: Championships
     children:
       - title: Qualifying Standards
@@ -202,8 +204,8 @@ high-school-fall-girls-archives:
     children:
       - title: About The Teams
         url: high-school/archives/fall/girls/bay-state-conference/about-the-league
-      - title: Records
-        url: high-school/archives/fall/girls/bay-state-conference/records
+      - title: Conference Records
+        url: high-school/archives/fall/girls/bay-state-conference/conference-records
       - title: School Rankings
         url: high-school/archives/fall/girls/bay-state-conference/school-rankings
       - title: Dual Meet Results
@@ -212,6 +214,8 @@ high-school-fall-girls-archives:
         url: high-school/archives/fall/girls/bay-state-conference/meet-results
       - title: Meet Top Results
         url: high-school/archives/fall/girls/bay-state-conference/meet-top-results
+      - title: All Stars
+        url: high-school/archives/fall/girls/bay-state-conference/all-stars
   - title: Championships
     children:
       - title: Qualifying Standards
