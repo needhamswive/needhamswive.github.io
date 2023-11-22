@@ -32,13 +32,16 @@ high-school:
       - title: About The Team
         url: high-school/girls/general-information/about-the-team
         tags: girls
+      - title: Team Records
+        url: high-school/girls/general-information/team-records
+        tags: girls
+      - title: Team Records
+        url: high-school/boys/general-information/team-records
+        tags: boys
       - title: Scoring a Meet
         url: high-school/general-information/scoring-a-meet
       - title: Introduction to Diving
         url: high-school/general-information/introduction-to-diving
-      - title: Team Records
-        url: high-school/girls/general-information/team-records
-        tags: girls
       - title: Student Handbook
         url: high-school/general-information/student-handbook
   - title: Current Season
@@ -87,12 +90,12 @@ high-school-girls:
     children:
       - title: About The Team
         url: high-school/girls/general-information/about-the-team
+      - title: Team Records
+        url: high-school/girls/general-information/team-records
       - title: Scoring a Meet
         url: high-school/general-information/scoring-a-meet?nav=girls
       - title: Introduction to Diving
         url: high-school/general-information/introduction-to-diving?nav=girls
-      - title: Team Records
-        url: high-school/girls/general-information/team-records
       - title: Student Handbook
         url: high-school/general-information/student-handbook?nav=girls
   - title: Current Season
@@ -128,6 +131,8 @@ high-school-girls:
 high-school-boys:
   - title: General Information
     children:
+      - title: Team Records
+        url: high-school/boys/general-information/team-records
       - title: Scoring a Meet
         url: high-school/general-information/scoring-a-meet?nav=boys
       - title: Introduction to Diving
