@@ -57,7 +57,7 @@
     {% endfor %}
     {% for athlete in rest %}
       <tr>
-        <td>{{ athlete.name }}{% if athlete.swimmer %}*{% endif %}{% if athlete.diver %}&dagger;{% endif %}{% if athlete.captain %}&ddagger;{% endif %}</td>
+        <td>{{ athlete.name | format_cell }}{% if athlete.swimmer %}*{% endif %}{% if athlete.diver %}&dagger;{% endif %}{% if athlete.captain %}&ddagger;{% endif %}</td>
         <td>{{ athlete.grade }}</td>
       </tr>
     {% endfor %}
