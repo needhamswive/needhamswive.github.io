@@ -4,7 +4,7 @@ toc: true
 ---
 
 The [NHS Student Handbook 2023-24](https://docs.google.com/document/d/1tUuUsATfyptbm2ODc0HXYVAq43oJnt4ltwC4X0FcgcU/edit) includes information about high school athletics.
-Some of the important information is quoted below, but it is a good idea to read through section _XI. Select Information on Interscholastic and Club Athletic Programs_.
+Select information is quoted below, but all athletes should read section _XI. Select Information on Interscholastic and Club Athletic Programs_.
 
 ## XI. Select Information on Interscholastic and Club Athletic Programs
 
