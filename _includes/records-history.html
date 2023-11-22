@@ -14,17 +14,17 @@
   <tbody>
     {% for event in include.events %}
       <tr>
-        <td colspan="4" style="font-weight: bold; text-align: center;">{{ event | formatcell }}</td>
+        <td colspan="4" style="font-weight: bold; text-align: center;">{{ event | format_cell }}</td>
       </tr>
       {% assign records-for-event = include.records | where: "event", event %}
       {% for record in records-for-event %}
         <tr>
-          <td style="text-align: center;">{{ record.date | formatcell }}</td>
+          <td style="text-align: center;">{{ record.date | format_cell }}</td>
           {% if record.school %}
-            <td>{{ record.school | formatcell }}</td>
+            <td>{{ record.school | format_cell }}</td>
           {% endif %}
-          <td>{{ record.name | formatcell }}</td>
-          <td style="text-align: center;">{{ record.result | formatcell }}</td>
+          <td>{{ record.name | format_cell }}</td>
+          <td style="text-align: center;">{{ record.result | format_cell }}</td>
         </tr>
       {% endfor %}
     {% endfor %}

@@ -118,7 +118,7 @@ layout: single
         {% assign top-time = swims-for-event | first %}
         <tr>
           <td>{{ event }}</td>
-          <td>{{ top-time | formattime }}</td>
+          <td>{{ top-time | format_time }}</td>
         </tr>
       {% endif %}
     {% endfor %}
@@ -142,10 +142,10 @@ layout: single
       {% assign swims-for-event = swims | where: "event", event %}
       {% for swim in swims-for-event %}
         <tr>
-          <td>{{ swim.event | formatcell }}</td>
-          <td>{{ swim.time | formattime }}</td>
+          <td>{{ swim.event | format_cell }}</td>
+          <td>{{ swim.time | format_time }}</td>
           <td>{{ swim.date }}</td>
-          <td>{{ swim.meet | formatcell }}</td>
+          <td>{{ swim.meet | format_cell }}</td>
           <td>{{ swim.splits | replace: "/", "&nbsp;" }}</td>
         </tr>
       {% endfor %}

@@ -20,12 +20,12 @@
       </tr>
       {% for row in event-results %}
         <tr class="filter-section" data-option="event" data-section="{{ event }}">
-          <td>{{ row.place | formatcell }}</td>
-          <td>{{ row.name | formatcell }}</td>
-          <td>{{ row.grade | formatcell }}</td>
-          <td>{{ row.school | formatcell }}</td>
-          <td>{{ row.result | formatcell }}</td>
-          <td>{{ row.points | formatcell }}</td>
+          <td>{{ row.place | format_cell }}</td>
+          <td>{{ row.name | format_cell }}</td>
+          <td>{{ row.grade | format_cell }}</td>
+          <td>{{ row.school | format_cell }}</td>
+          <td>{{ row.result | format_cell }}</td>
+          <td>{{ row.points | format_cell }}</td>
         </tr>
       {% endfor %}
     {% endfor %}

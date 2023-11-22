@@ -1,6 +1,6 @@
 module Jekyll
   module FormatTimeFilter
-    def formattime(input)
+    def format_time(input)
       if input.nil?
         return input
       elsif input.is_a? String

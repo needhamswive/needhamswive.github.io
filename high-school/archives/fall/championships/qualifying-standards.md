@@ -25,10 +25,10 @@ title: MIAA Fall Qualifying Standards
   <tbody>
     {% for event in events %}
       <tr>
-        <td>{{ event | formatcell }}</td>
+        <td>{{ event | format_cell }}</td>
         {% for group in groups %}
           {% assign qualifying-standard = qualifying-standards-for-year | where: "event", event | where: "group", group %}
-          <td>{{ qualifying-standard.first.cutoff | formatcell }}</td>
+          <td>{{ qualifying-standard.first.cutoff | format_cell }}</td>
         {% endfor %}
       </tr>
     {% endfor %}

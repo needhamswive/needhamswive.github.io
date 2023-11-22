@@ -77,7 +77,7 @@ classes: wide
 </tr>
 {% for school-1 in schools %}
 <tr>
-  <th style="width: min-content;">{{ school-1 | formatcell }}</th>
+  <th style="width: min-content;">{{ school-1 | format_cell }}</th>
   {% for school-2 in schools %}
     {% if school-1 == school-2 %}
       <td class="neutral"></td>

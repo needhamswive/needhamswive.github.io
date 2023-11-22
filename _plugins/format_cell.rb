@@ -1,6 +1,6 @@
 module Jekyll
   module FormatCellFilter
-    def formatcell(input)
+    def format_cell(input)
       if input.nil?
         return input
       end
