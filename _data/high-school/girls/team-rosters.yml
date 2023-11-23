@@ -1,4 +1,4 @@
-- year: 2023
+- school-year: 2023-2024
   coaches:
     - title: Head Coach
       name: Kate Curtin
@@ -101,7 +101,7 @@
     - name: Madeline Weirup
       grade: 9
       swimmer: true
-- year: 2022
+- school-year: 2022-2023
   athletes:
     - name: Alexandra Bold
       grade: 12
@@ -197,7 +197,7 @@
     - name: Genevieve Smith
       grade: 9
       swimmer: true
-- year: 2021
+- school-year: 2021-2022
   athletes:
     - name: Chloe Berg
       grade: 12
@@ -323,7 +323,7 @@
     - name: Emma Zhang
       grade: 9
       swimmer: true
-- year: 2019
+- school-year: 2019-2020
   athletes:
     - name: Adriana Cosentino
       grade: 12
@@ -415,7 +415,7 @@
       grade: 9
     - name: Rachel Talcoff
       grade: 9
-- year: 2018
+- school-year: 2018-2019
   athletes:
     - name: Hannah Garand
       grade: 12
@@ -516,7 +516,7 @@
       grade: 9
     - name: Rory Paterniti
       grade: 9
-- year: 2017
+- school-year: 2017-2018
   athletes:
     - name: Caroline Beacham
       captain: true
@@ -601,7 +601,7 @@
       grade: 9
     - name: Elinor Wilson
       grade: 9
-- year: 2016
+- school-year: 2016-2017
   athletes:
     - name: Elizabeth Bonvoulior
       captain: true
@@ -695,7 +695,7 @@
       grade: 9
     - name: Arianna Williams
       grade: 9
-- year: 2015
+- school-year: 2015-2016
   athletes:
     - name: Claire Hadelman
       captain: true
@@ -793,7 +793,7 @@
       grade: 9
     - name: Nina Yee
       grade: 9
-- year: 2014
+- school-year: 2014-2015
   athletes:
     - name: Emilie Despres
       captain: true
@@ -881,20 +881,20 @@
       grade: 9
     - name: Zoe Tsavdarides
       grade: 9
-- year: 2011
+- school-year: 2011-2012
   athletes:
     - name: Emilie Despres
       grade: 9
     - name: Sarah Hooper
     - name: Jessica Murphy
     - name: Kathryn Santaniello
-- year: 2001
+- school-year: 2001-2002
   athletes:
     - name: Meghan Healey
-- year: 1997
+- school-year: 1997-1998
   athletes:
     - name: Caitlin Healey
-- year: 1995
+- school-year: 1995-1996
   athletes:
     - name: Michelle Jackson
     - name: Lynn Kelly

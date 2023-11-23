@@ -6,8 +6,8 @@ title: Team Roster
 
 ---
 
-{% assign current-year = site.data.high-school.girls.variables.current-year %}
-{% assign team-roster = site.data.high-school.girls.team-rosters | where: "year", current-year | first %}
+{% assign current-school-year = site.data.high-school.variables.current-school-year %}
+{% assign team-roster-for-school-year = site.data.high-school.girls.team-rosters | where: "school-year", current-school-year | first %}
 
 {% include team-roster.html
-  team-roster = team-roster %}
+  team-roster = team-roster-for-school-year %}

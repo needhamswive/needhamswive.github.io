@@ -10,8 +10,8 @@ general-citations:
   - name: RachelWaldstein
     display: Head Coach Rachel Waldstein
 
-results-by-year:
-  - year: 2023
+results-by-school-year:
+  - school-year: 2023-2024
     dual-meets:
       - school: Acton-Boxborough
         score: 105.5 - 78.5
@@ -95,7 +95,7 @@ results-by-year:
         link: https://www.instagram.com/p/CypMv-ssIuK/
       - name: 2023016
         link: https://twitter.com/NHSRockets/status/1715530332303491459
-  - year: 2022
+  - school-year: 2022-2023
     dual-meets:
       - school: Acton-Boxborough
         score: 97 - 89
@@ -177,7 +177,7 @@ results-by-year:
         link: http://miaa.ezstream.com/index.cfm?itemid=8579
       - name: 2022101
         link: https://miaa.net/wp-content/uploads/2022/11/D2-Results.pdf
-  - year: 2021
+  - school-year: 2021-2022
     dual-meets:
       - school: Acton-Boxborough
         score: 90 - 94
@@ -277,7 +277,7 @@ results-by-year:
         link: https://www.bostonherald.com/2021/11/07/wellesley-captures-fourth-straight-south-sectional-swim-title/
       - name: 2021104
         link: https://www.teamunify.com/rechfhfhslma/__doc__/2021%20BSC%20Team%20Scores%20Girls.pdf
-  - year: 2020
+  - school-year: 2020-2021
     dual-meets:
       - school: Dana Hall
         score: 111 - 64
@@ -286,7 +286,7 @@ results-by-year:
     citations:
       - name: 2020000
         link: https://twitter.com/NHSRockets/status/1340466491054026753
-  - year: 2019
+  - school-year: 2019-2020
     dual-meets:
       - school: Acton-Boxborough
         score: 98 - 83
@@ -407,7 +407,7 @@ results-by-year:
         link: https://twitter.com/NHSRockets/status/1191101284599914496
       - name: 2019105
         link: https://www.bostonherald.com/2019/11/10/wellesley-swimming-holds-off-needham-in-south-central-sectional/
-  - year: 2018
+  - school-year: 2018-2019
     dual-meets:
       - school: Acton-Boxborough
         score: 86 - 100
@@ -521,7 +521,7 @@ results-by-year:
         link: https://www.teamunify.com/rechfhfhslma/__doc__/2018%20final%20scores.pdf
       - name: 2018104
         link: https://www.wickedlocal.com/story/newton-tab/2018/11/13/newton-north-swimmers-divers-show/8384565007/
-  - year: 2017
+  - school-year: 2017-2018
     dual-meets:
       - school: Acton-Boxborough
         result: L
@@ -627,7 +627,7 @@ results-by-year:
         link: https://twitter.com/NHSRockets/status/927285436900429834
       - name: 2017104
         link: https://www.teamunify.com/rechfhfhslma/__doc__/2017%20final%20scores.pdf
-  - year: 2016
+  - school-year: 2016-2017
     dual-meets:
       - school: Acton-Boxborough
         score: 82 - 98
@@ -755,7 +755,7 @@ results-by-year:
         link: https://twitter.com/NHSRockets/status/792824105653395456
       - name: 2016103
         link: https://www.teamunify.com/rechfhfhslma/__doc__/2016%20final%20scores%20women.pdf
-  - year: 2015
+  - school-year: 2015-2016
     dual-meets:
       - school: Acton-Boxborough
         score: 87 - 91
@@ -877,7 +877,7 @@ results-by-year:
         link: https://www.wickedlocal.com/story/needham-times/2015/11/11/swimmers-fourth-at-bsc-championships/64712563007/
       - name: 2015107
         link: https://www.wickedlocal.com/story/needham-times/2015/11/24/needham-high-roundup-swimmers-eighth/32960453007/
-  - year: 2014
+  - school-year: 2014-2015
     dual-meets:
       - school: Acton-Boxborough
         citations: 2014008
@@ -986,7 +986,7 @@ results-by-year:
         link: https://www.gomotionapp.com/rechfhfhslma/__doc__/283637_2_girlsscores.html
       - name: 2014104
         link: https://www.wickedlocal.com/story/needham-times/2014/11/20/rocket-roundup-girls-swimming-team/64841261007/
-  - year: 2013
+  - school-year: 2013-2014
     dual-meets:
       - school: Acton-Boxborough
         score: 84 - 94
@@ -1105,7 +1105,7 @@ results-by-year:
         link: https://www.wickedlocal.com/story/needham-times/2013/11/06/needham-girls-swim-team-places/39773034007/
       - name: 2013108
         link: https://www.wickedlocal.com/story/needham-times/2013/11/20/needham-high-sports-roundup-swimmers/39772810007/
-  - year: 2012
+  - school-year: 2012-2013
     dual-meets:
       - school: Acton-Boxborough
         result: L
@@ -1184,7 +1184,7 @@ results-by-year:
         link: https://www.wickedlocal.com/story/brookline-tab/2012/11/14/brookline-swimmers-make-strong-showing/40368339007/
       - name: 2012105
         link: https://www.wickedlocal.com/story/brookline-tab/2012/02/08/brookline-swim-team-takes-third/39951602007/
-  - year: 2011
+  - school-year: 2011-2012
     dual-meets:
       - school: Braintree
         score: 94 - 87
@@ -1258,7 +1258,7 @@ results-by-year:
         link: https://patch.com/massachusetts/needham/swimming-diving-team-places-fourth-at-states
       - name: 2011105
         link: https://patch.com/massachusetts/needham/rockets-review-needham-postseasons-underway
-  - year: 2010
+  - school-year: 2010-2011
     dual-meets:
       - school: Braintree
         score: 92 - 85
@@ -1345,7 +1345,7 @@ results-by-year:
         link: https://www.wickedlocal.com/story/needham-times/2010/11/17/needham-high-girls-swimming-takes/40312013007/
       - name: 2010104
         link: https://www.wickedlocal.com/story/needham-times/2010/11/23/needham-high-roundup-swimmers-finish/40385638007/
-  - year: 2009
+  - school-year: 2009-2010
     dual-meets:
       - school: Braintree
         citations: BSCDualMeetResults
@@ -1413,7 +1413,7 @@ results-by-year:
         link: http://miaa.ezstream.com/index.cfm?itemid=6088
       - name: 2009102
         link: https://www.wickedlocal.com/story/needham-times/2009/11/12/needham-roundup-swimmers-take-3rd/39923096007/
-  - year: 2008
+  - school-year: 2008-2009
     dual-meets:
       - school: Braintree
         score: 96 - 76
@@ -1493,7 +1493,7 @@ results-by-year:
         link: http://miaa.ezstream.com/index.cfm?itemid=4122
       - name: 2008102
         link: https://www.wickedlocal.com/story/needham-times/2008/11/19/needham-swimmers-4th-at-bsc/40434548007/
-  - year: 2007
+  - school-year: 2007-2008
     dual-meets:
       - school: Braintree
         result: W
@@ -1575,7 +1575,7 @@ results-by-year:
         link: https://www.wickedlocal.com/story/needham-times/2008/09/03/rocket-swimmers-looking-to-make/40310485007/
       - name: 2007103
         link: https://www.wickedlocal.com/story/needham-times/2007/11/07/swimmers-take-7th-at-bay/40537688007/
-  - year: 2006
+  - school-year: 2006-2007
     dual-meets:
       - school: Braintree
         result: W
@@ -1624,7 +1624,7 @@ results-by-year:
         link: http://miaa.ezstream.com/index.cfm?itemid=487
       - name: 2006101
         link: http://miaa.ezstream.com/index.cfm?itemid=525
-  - year: 2005
+  - school-year: 2005-2006
     dual-meets:
       - school: Braintree
         result: W
@@ -1653,7 +1653,7 @@ results-by-year:
       - name: Bay State Conference
         place: 2
         citations: BSCDualMeetResults
-  - year: 2004
+  - school-year: 2004-2005
     dual-meets:
       - school: Braintree
         citations: BSCDualMeetResults
@@ -1684,7 +1684,7 @@ results-by-year:
     citations:
       - name: 2004101
         link: http://www.meetresults.com/meets/2004/sectionals/south/scores.html
-  - year: 2003
+  - school-year: 2003-2004
     dual-meets:
       - school: Braintree
         result: W
@@ -1726,7 +1726,7 @@ results-by-year:
     citations:
       - name: 2003101
         link: http://www.meetresults.com/meets/2003/miaa-fall/scores.html
-  - year: 2002
+  - school-year: 2002-2003
     dual-meets:
       - school: Braintree
         result: W
@@ -1765,7 +1765,7 @@ results-by-year:
       - name: South Sectional
         place: 2
         citations: 2022FallSouthSectionalProgram
-  - year: 2001
+  - school-year: 2001-2002
     dual-meets:
       - school: Braintree
         result: W
@@ -1804,7 +1804,7 @@ results-by-year:
       - name: South Sectional
         place: 1
         citations: 2022FallSouthSectionalProgram
-  - year: 2000
+  - school-year: 2000-2001
     dual-meets:
       - school: Braintree
         result: W
@@ -1846,7 +1846,7 @@ results-by-year:
     citations:
       - name: 2000101
         link: https://www.swimmingworldmagazine.com/results/massachusetts-girls-state-high-school-swimming-and-diving-championships/high-school/2000/November/19
-  - year: 1999
+  - school-year: 1999-2000
     dual-meets:
       - school: Braintree
         result: W
@@ -1882,7 +1882,7 @@ results-by-year:
       - name: Bay State Conference
         place: 1
         citations: BSCDualMeetResults
-  - year: 1998
+  - school-year: 1998-1999
     dual-meets:
       - school: Braintree
         result: W
@@ -1918,7 +1918,7 @@ results-by-year:
       - name: Bay State Conference
         place: 1
         citations: BSCDualMeetResults
-  - year: 1997
+  - school-year: 1997-1998
     dual-meets:
       - school: Braintree
         result: W
@@ -1954,7 +1954,7 @@ results-by-year:
       - name: Bay State Conference
         place: 2
         citations: BSCDualMeetResults
-  - year: 1996
+  - school-year: 1996-1997
     dual-meets:
       - school: Braintree
         result: W
@@ -1990,37 +1990,37 @@ results-by-year:
       - name: Bay State Conference
         place: 1
         citations: BSCDualMeetResults
-  - year: 1995
+  - school-year: 1995-1996
     championships:
       - name: Bay State Conference
         place: 3
         citations: BSCDualMeetResults
-  - year: 1994
+  - school-year: 1994-1995
     championships:
       - name: Bay State Conference
         place: 2
         citations: BSCDualMeetResults
-  - year: 1993
+  - school-year: 1993-1994
     championships:
       - name: Bay State Conference
         place: 2
         citations: BSCDualMeetResults
-  - year: 1992
+  - school-year: 1992-1993
     championships:
       - name: Bay State Conference
         place: 2
         citations: BSCDualMeetResults
-  - year: 1991
+  - school-year: 1991-1992
     championships:
       - name: Bay State Conference
         place: 2
         citations: BSCDualMeetResults
-  - year: 1990
+  - school-year: 1990-1991
     championships:
       - name: Bay State Conference
         place: 2
         citations: BSCDualMeetResults
-  - year: 1987
+  - school-year: 1987-1988
     championships:
       - name: South Sectional
         place: 2

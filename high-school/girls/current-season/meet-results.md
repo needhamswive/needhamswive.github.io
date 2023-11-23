@@ -8,10 +8,11 @@ title: Meet Results
   }
 </style>
 
-{% assign results-for-year = site.data.high-school.girls.meet-results.results-by-year | where: "year", 2023 | first %}
+{% assign current-school-year = site.data.high-school.variables.current-school-year %}
+{% assign results-for-school-year = site.data.high-school.girls.meet-results.results-by-school-year | where: "school-year", current-school-year | first %}
 
-{% include results-for-year.md
-  results-for-year = results-for-year %}
+{% include results-for-school-year.md
+  results-for-school-year = results-for-school-year %}
 
 ---
 
@@ -20,6 +21,6 @@ __Sources__
 {% for citation in site.data.high-school.girls.meet-results.general-citations %}
   {% include citation.md %}
 {% endfor %}
-{% for citation in results-for-year.citations %}
+{% for citation in results-for-school-year.citations %}
   {% include citation.md %}
 {% endfor %}
