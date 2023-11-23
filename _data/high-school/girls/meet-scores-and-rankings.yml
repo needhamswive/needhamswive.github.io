@@ -60,6 +60,15 @@ by-school-year:
         place: 2
       - name: Division 1 State
         place: 1
+    psych-sheets-and-results:
+      - name: South Sectional Psych Sheet
+        link: https://miaa.net/wp-content/uploads/2023/10/south-sectional-psych-sheet.pdf
+      - name: South Sectional Results
+        link: https://miaa.net/wp-content/uploads/2023/11/2023-fall-south-sectional-results.pdf
+      - name: Division 1 State Psych Sheet
+        link: https://miaa.net/wp-content/uploads/2023/11/2023-Fall-Swimming-Division-1-state-psych-sheet-v2.pdf
+      - name: Division 1 State Results
+        link: https://miaa.net/wp-content/uploads/2023/11/2023-fall-d1-state-finals-results.pdf
     citations:
       - name: 2023000
         link: https://twitter.com/NHSRockets/status/1701783011547648330
