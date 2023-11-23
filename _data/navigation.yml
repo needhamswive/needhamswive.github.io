@@ -44,6 +44,8 @@ high-school:
         url: high-school/general-information/introduction-to-diving
       - title: Student Handbook
         url: high-school/general-information/student-handbook
+      - title: Rule Changes
+        url: high-school/general-information/rule-changes
   - title: Current Season
     children:
       - title: Schedule
@@ -60,8 +62,6 @@ high-school:
         tags: girls
       # - title: All Stars
       #   url: high-school/girls/current-season/all-stars
-      - title: Rule Changes
-        url: high-school/current-season/rule-changes
   - title: Past Seasons
     children:
       - title: Team Rosters
@@ -73,8 +73,6 @@ high-school:
       - title: All Stars
         url: high-school/girls/past-seasons/all-stars
         tags: girls
-      - title: Rule Changes
-        url: high-school/past-seasons/rule-changes
   - title: Archives
     url: high-school/archives
     children:
@@ -98,6 +96,8 @@ high-school-girls:
         url: high-school/general-information/introduction-to-diving?nav=girls
       - title: Student Handbook
         url: high-school/general-information/student-handbook?nav=girls
+      - title: Rule Changes
+        url: high-school/general-information/rule-changes?nav=girls
   - title: Current Season
     children:
       - title: Schedule
@@ -110,8 +110,6 @@ high-school-girls:
         url: high-school/girls/current-season/meet-results
       # - title: All Stars
       #   url: high-school/girls/current-season/all-stars
-      - title: Rule Changes
-        url: high-school/current-season/rule-changes?nav=girls
   - title: Past Seasons
     children:
       - title: Team Rosters
@@ -120,8 +118,6 @@ high-school-girls:
         url: high-school/girls/past-seasons/meet-results
       - title: All Stars
         url: high-school/girls/past-seasons/all-stars
-      - title: Rule Changes
-        url: high-school/past-seasons/rule-changes?nav=girls
   - title: Archives
     url: high-school/archives
     children:
