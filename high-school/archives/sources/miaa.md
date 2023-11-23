@@ -7,93 +7,39 @@ toc: true
 - [Google Drive &mdash; Documents](https://drive.google.com/drive/folders/1ajhF4o7OlnOp7vwN4NNbpAxM7h_AcU-Y)
 
 {% assign ezstream-pages = site.data.high-school.archives.sources.miaa-ezstream %}
-{% assign ezstream-years = ezstream-pages | map: "year" | compact | uniq | sort | reverse %}
+{% assign ezstream-school-years = ezstream-pages | map: "school-year" | compact | uniq | sort | reverse %}
 
 {% assign meetresults-pages = site.data.high-school.archives.sources.miaa-meetresults %}
-{% assign meetresults-years = meetresults-pages | map: "year" | compact | uniq | sort | reverse %}
+{% assign meetresults-school-years = meetresults-pages | map: "school-year" | compact | uniq | sort | reverse %}
 
 {% assign swimmingworld-pages = site.data.high-school.archives.sources.miaa-swimmingworld %}
-{% assign swimmingworld-years = swimmingworld-pages | map: "year" | compact | uniq | sort | reverse %}
+{% assign swimmingworld-school-years = swimmingworld-pages | map: "school-year" | compact | uniq | sort | reverse %}
 
-{% assign years = ezstream-years | concat: meetresults-years | concat: swimmingworld-years %}
+{% assign school-years = ezstream-school-years | concat: meetresults-school-years | concat: swimmingworld-school-years %}
 
 {% include filter-year.html
-  years = years %}
+  years = school-years %}
 
 ## EZStream
 
-{% for year in ezstream-years %}
-
-{% assign pages-for-year = ezstream-pages | where: "year", year %}
-
-<div class="filter-section" data-option="year" data-section="{{ year }}">
-
-<table>
-  <thead>
-    <th colspan="2" style="text-align: center;">{{year}}</th>
-  </thead>
-  <tbody>
-    {% for page in pages-for-year %}
-      <tr>
-        <td><a href="/high-school/archives/mirrors/miaa/ezstream?itemid={{ page.itemid }}">mirror</a></td>
-        <td><a href="http://miaa.ezstream.net/index.cfm?itemid={{ page.itemid }}">{{ page.title }}</a></td>
-      </tr>
-    {% endfor %}
-  </tbody>
-</table>
-
-</div>
-
-{% endfor %}
+{% include mirror-tables.html
+  school-years = ezstream-school-years
+  pages = ezstream-pages
+  mirror-root = "/high-school/archives/mirrors/miaa/ezstream?itemid="
+  source-root = "https://miaa.ezstream.net/index.cfm?itemid=" %}
 
 ## MeetResults
 
-{% for year in meetresults-years %}
-
-{% assign pages-for-year = meetresults-pages | where: "year", year %}
-
-<div class="filter-section" data-option="year" data-section="{{ year }}">
-
-<table>
-  <thead>
-    <th colspan="2" style="text-align: center;">{{year}}</th>
-  </thead>
-  <tbody>
-    {% for page in pages-for-year %}
-      <tr>
-        <td><a href="/high-school/archives/mirrors/miaa/meetresults?path={{ page.path }}">mirror</a></td>
-        <td><a href="http://www.meetresults.com/{{ page.path }}">{{ page.title }}</a></td>
-      </tr>
-    {% endfor %}
-  </tbody>
-</table>
-
-</div>
-
-{% endfor %}
+{% include mirror-tables.html
+  school-years = meetresults-school-years
+  pages = meetresults-pages
+  mirror-root = "/high-school/archives/mirrors/miaa/meetresults?path="
+  source-root = "http://www.meetresults.com/" %}
 
 ## Swimming World
 
-{% for year in swimmingworld-years %}
-
-{% assign pages-for-year = swimmingworld-pages | where: "year", year %}
-
-<div class="filter-section" data-option="year" data-section="{{ year }}">
-
-<table>
-  <thead>
-    <th colspan="2" style="text-align: center;">{{year}}</th>
-  </thead>
-  <tbody>
-    {% for page in pages-for-year %}
-      <tr>
-        <td><a href="/high-school/archives/mirrors/miaa/swimmingworld?path={{ page.path }}">mirror</a></td>
-        <td><a href="http://www.swimmingworldmagazine.com/{{ page.path }}">{{ page.title }}</a></td>
-      </tr>
-    {% endfor %}
-  </tbody>
-</table>
-
-</div>
-
-{% endfor %}
+{% include mirror-tables.html
+  school-years = swimmingworld-school-years
+  pages = swimmingworld-pages
+  mirror-root = "/high-school/archives/mirrors/miaa/swimmingworld?path="
+  source-root = "http://www.swimmingworldmagazine.com/" %}

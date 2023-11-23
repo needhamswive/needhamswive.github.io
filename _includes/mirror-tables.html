@@ -1,0 +1,23 @@
+{% for school-year in include.school-years %}
+
+{% assign pages-for-school-year = include.pages | where: "school-year", school-year %}
+
+<div class="filter-section" data-option="year" data-section="{{ school-year }}">
+
+<table>
+  <thead>
+    <th colspan="2" style="text-align: center;">{{ school-year }}</th>
+  </thead>
+  <tbody>
+    {% for page in pages-for-school-year %}
+      <tr>
+        <td><a href="{{ include.mirror-root }}{{ page.path }}">mirror</a></td>
+        <td><a href="{{ include.source-root }}{{ page.path }}">{{ page.title }}</a></td>
+      </tr>
+    {% endfor %}
+  </tbody>
+</table>
+
+</div>
+
+{% endfor %}
