@@ -1,10 +1,10 @@
-year	path	title
-2004-2005	meets/2004/sectionals/north/psych.html	2004 Fall Girls North Sectional Psych Sheet
-2004-2005	meets/2004/sectionals/north/results.html	2004 Fall Girls North Sectional Results
-2004-2005	meets/2004/sectionals/north/scores.html	2004 Fall Girls North Sectional Team Scores
-2004-2005	meets/2004/sectionals/south/psych.html	2004 Fall Girls South Sectional Psych Sheet
-2004-2005	meets/2004/sectionals/south/results.html	2004 Fall Girls South Sectional Results
-2004-2005	meets/2004/sectionals/south/scores.html	2004 Fall Girls South Sectional Team Scores
-2003-2004	meets/2003/miaa-fall/psych.html	2003 Fall Girls State Psych Sheet
-2003-2004	meets/2003/miaa-fall/results.html	2023 Fall Girls State Results
-2003-2004	meets/2003/miaa-fall/scores.html	2023 Fall Girls State Team Scores
+year	title	path
+2004-2005	2004 Fall Girls North Sectional Psych Sheet	meets/2004/sectionals/north/psych.html
+2004-2005	2004 Fall Girls North Sectional Results	meets/2004/sectionals/north/results.html
+2004-2005	2004 Fall Girls North Sectional Team Scores	meets/2004/sectionals/north/scores.html
+2004-2005	2004 Fall Girls South Sectional Psych Sheet	meets/2004/sectionals/south/psych.html
+2004-2005	2004 Fall Girls South Sectional Results	meets/2004/sectionals/south/results.html
+2004-2005	2004 Fall Girls South Sectional Team Scores	meets/2004/sectionals/south/scores.html
+2003-2004	2003 Fall Girls State Psych Sheet	meets/2003/miaa-fall/psych.html
+2003-2004	2023 Fall Girls State Results	meets/2003/miaa-fall/results.html
+2003-2004	2023 Fall Girls State Team Scores	meets/2003/miaa-fall/scores.html
