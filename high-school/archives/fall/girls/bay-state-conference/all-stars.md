@@ -8,14 +8,14 @@ title: Bay State Conference All Stars
 
 {% for school-year in school-years %}
 
-{% assign all-stars-for-year = all-stars | where: "year", year %}
-{% assign schools-for-year = all-stars | map: "school" | uniq | sort %}
+{% assign all-stars-for-school-year = all-stars | where: "school-year", school-year %}
+{% assign schools-for-year = all-stars-for-school-year | map: "school" | uniq | sort %}
 
 ## {{ school-year | format_school_year }}
 
 {% for school in schools-for-year %}
 
-{% assign all-stars-for-school-year-for-school = all-stars-for-year | where: "school", school %}
+{% assign all-stars-for-school-year-for-school = all-stars-for-school-year | where: "school", school %}
 
 ### {{ school }}
 
