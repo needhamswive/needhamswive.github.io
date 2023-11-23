@@ -26,7 +26,7 @@ toc: true
   school-years = ezstream-school-years
   pages = ezstream-pages
   mirror-root = "/high-school/archives/mirrors/miaa/ezstream?itemid="
-  source-root = "https://miaa.ezstream.net/index.cfm?itemid=" %}
+  source-root = "http://miaa.ezstream.net/index.cfm?itemid=" %}
 
 ## MeetResults
 
