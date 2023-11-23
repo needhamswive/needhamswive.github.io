@@ -1,0 +1,39 @@
+general-citations:
+  - name: ArbiterSports
+    link: https://www.arbiterlive.com/Teams/Schedule/5772347
+  - name: BSCWiki
+    link: https://en.wikipedia.org/wiki/Bay_State_Conference
+
+by-school-year:
+  - school-year: 2023-2024
+    dual-meets:
+      - school: Brookline
+      - school: Catholic Memorial
+      - school: Framingham
+      - school: Natick
+      - school: Newton North
+      - school: St. John's Prep
+      - school: Wellesley
+      - school: Xaverian
+    championships:
+      - name: Bay State Conference
+      - name: South Sectional
+      - name: Division 1 State
+  - school-year: 2022-2023
+    dual-meets:
+      - school: Brookline High School
+        score: 108 - 77
+        result: W
+        citations: ArbiterSports
+      - school: Reading Memorial High School
+        score: 100 - 68
+        result: W
+        citations: ArbiterSports
+      - school: Westford Academy
+        score: 71 - 114
+        result: L
+        citations: ArbiterSports
+      - school: Weston High School
+        score: 90 - 96
+        result: L
+        citations: ArbiterSports

@@ -1,0 +1,64 @@
+
+<style type="text/css">
+  .page__content table p, .page__content ul p {
+    margin-bottom: 0em;
+  }
+</style>
+
+{% assign current-school-year = site.data.high-school.variables.current-school-year %}
+
+{% if include.current-season %}
+
+{% assign meet-scores-and-rankings-for-current-school-year = include.meet-scores-and-rankings.by-school-year | where: "school-year", current-school-year | first %}
+
+{% include meet-scores-and-rankings-for-school-year.md
+  meet-scores-and-rankings-for-school-year = meet-scores-and-rankings-for-current-school-year %}
+
+---
+
+__Sources__
+
+{% for citation in include.meet-scores-and-rankings.general-citations %}
+  {% include citation.md %}
+{% endfor %}
+{% for citation in meet-scores-and-rankings-for-current-school-year.citations %}
+  {% include citation.md %}
+{% endfor %}
+
+{% endif %}
+
+{% if include.past-seasons %}
+
+{% assign meet-scores-and-rankings-by-school-year = include.meet-scores-and-rankings.by-school-year | not_where: "school-year", current-school-year %}
+{% assign school-years = meet-scores-and-rankings-by-school-year | map: "school-year" %}
+
+{% include filter-year.html
+  years = school-years %}
+
+{% for meet-scores-and-rankings-for-school-year in meet-scores-and-rankings-by-school-year %}
+
+<div class="filter-section" data-option="year" data-section="{{ meet-scores-and-rankings-for-school-year.school-year }}" markdown="1">
+
+## {{ meet-scores-and-rankings-for-school-year.school-year | format_school_year }}
+
+{% include meet-scores-and-rankings-for-school-year.md
+  meet-scores-and-rankings-for-school-year = meet-scores-and-rankings-for-school-year %}
+
+</div>
+
+{%- endfor %}
+
+---
+
+__Sources__
+
+{% for citation in include.meet-scores-and-rankings.general-citations %}
+  {% include citation.md %}
+{% endfor %}
+{% for meet-scores-and-rankings-for-school-year in include.meet-scores-and-rankings.by-school-year %}
+  {% for citation in meet-scores-and-rankings-for-school-year.citations %}
+    {% include citation.md %}
+  {% endfor %}
+{% endfor %}
+
+{% endif %}

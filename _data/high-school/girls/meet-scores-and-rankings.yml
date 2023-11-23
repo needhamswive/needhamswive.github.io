@@ -10,7 +10,7 @@ general-citations:
   - name: RachelWaldstein
     display: Head Coach Rachel Waldstein
 
-results-by-school-year:
+by-school-year:
   - school-year: 2023-2024
     dual-meets:
       - school: Acton-Boxborough
