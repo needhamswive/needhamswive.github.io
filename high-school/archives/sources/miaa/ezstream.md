@@ -3,12 +3,10 @@ title: EZStream
 ---
 
 {% assign pages = site.data.high-school.archives.sources.miaa-ezstream %}
-{% assign school-years = pages | map: "school-year" | compact | uniq | sort | reverse %}
+{% assign school-years = pages | map: "school-year" | uniq | sort | reverse %}
 
 {% include filter-year.html
   years = school-years %}
-
-## EZStream
 
 {% include tables-mirrors.html
   school-years = school-years

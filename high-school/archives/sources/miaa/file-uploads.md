@@ -2,14 +2,26 @@
 title: File Uploads
 ---
 
-{% assign pages = site.data.high-school.archives.sources.miaa-file-uploads %}
-{% assign school-years = pages | map: "school-year" | compact | uniq | sort | reverse %}
+{% assign htm-pages = site.data.high-school.archives.sources.miaa-file-uploads-htm %}
+{% assign htm-school-years = htm-pages | map: "school-year" | uniq | sort | reverse %}
+{% assign pdf-pages = site.data.high-school.archives.sources.miaa-file-uploads-pdf %}
+{% assign pdf-school-years = pdf-pages | map: "school-year" | uniq | sort | reverse %}
+
+{% assign school-years = htm-school-years | concat: pdf-school-years | uniq | sort | reverse %}
 
 {% include filter-year.html
   years = school-years %}
 
-## EZStream
+## HTM Files
 
-{% include tables-files.html
-  school-years = school-years
-  pages = pages %}
+{% include tables-mirrors.html
+  school-years = htm-school-years
+  pages = htm-pages
+  mirror-root = "/high-school/archives/mirrors/miaa/file-uploads?path="
+  source-root = "https://miaa.net/wp-content/uploads/" %}
+
+## PDF Files
+
+{% include tables-archives.html
+  school-years = pdf-school-years
+  pages = pdf-pages %}

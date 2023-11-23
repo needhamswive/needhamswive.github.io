@@ -1,46 +1,7 @@
 ---
 title: MIAA MeetResults Mirror
-breadcrumbs: false
-sidebar:
-  nav: miaa-meetresults-mirror
+layout: mirror
+
+source-root: http://www.meetresults.com
+mirror-extn: miaa/meetresults
 ---
-
-<style>
-  .nav__list .nav__items ul li {
-    font-family: Verdana, Arial, Helvetica, sans-serif
-  }
-</style>
-
-<script>
-  const searchParams = new URLSearchParams(window.location.search);
-  const path = searchParams.get("path");
-
-  const sourceUrl = `http://www.meetresults.com/${path}`;
-  const mirrorUrl = `https://raw.githubusercontent.com/needhamswive/needhamswive.github.io/master/_mirrors/miaa/meetresults/${path}`
-
-  const request = fetch(mirrorUrl);
-
-  window.addEventListener("DOMContentLoaded", () => {
-    request.then((response) => {
-      if (response.status !== 200) {
-        document.getElementById("content").innerHTML = "File not found"
-        return;
-      }
-      response.text().then(content => {
-        document.getElementById("source").href = sourceUrl;
-        document.getElementById("mirror").href = mirrorUrl;
-        document.getElementById("content").innerHTML = '<pre style="font-size:11px;">' + content + "</pre>";
-      });
-    });
-  });
-</script>
-
-<a id="source" target="_blank" rel="nofollow noopener noreferrer">Link to source</a>
-
-<br>
-
-<a id="mirror" target="_blank" rel="nofollow noopener noreferrer">Link to mirror</a>
-
-<br><br>
-
-<div id="content"></div>

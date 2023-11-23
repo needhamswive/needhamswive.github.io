@@ -299,6 +299,12 @@ defaults:
             icon: "fab fa-fw fa-github"
             url: https://github.com/needhamswive/needhamswive.github.io
   - scope:
+      path: high-school/archives/mirrors
+    values:
+      breadcrumbs: false
+      sidebar:
+        nav: none
+  - scope:
       path: high-school/archives/fall
     values:
       sidebar:

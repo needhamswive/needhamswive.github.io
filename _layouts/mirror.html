@@ -1,22 +1,15 @@
 ---
-title: MIAA Swim World Mirror
-breadcrumbs: false
-sidebar:
-  nav: miaa-swimworld-mirror
+layout: single
 ---
 
-<style>
-  .nav__list .nav__items ul li {
-    font-family: Verdana, Arial, Helvetica, sans-serif
-  }
-</style>
+{{ content }}
 
 <script>
   const searchParams = new URLSearchParams(window.location.search);
   const path = searchParams.get("path");
 
-  const sourceUrl = `http://www.swimmingworldmagazine.com/${path}`;
-  const mirrorUrl = `https://raw.githubusercontent.com/needhamswive/needhamswive.github.io/master/_mirrors/miaa/swimmingworld/${path}`
+  const sourceUrl = `{{ page.source-root }}/${path}`;
+  const mirrorUrl = `https://raw.githubusercontent.com/needhamswive/needhamswive.github.io/master/_mirrors/{{ page.mirror-extn }}/${path}`
 
   const request = fetch(mirrorUrl);
 
