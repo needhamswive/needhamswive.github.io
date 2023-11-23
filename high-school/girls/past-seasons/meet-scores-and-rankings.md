@@ -1,5 +1,5 @@
 ---
-title: Past Seasons Meet Results
+title: Meet Scores and Rankings
 ---
 
 <style type="text/css">
@@ -14,7 +14,7 @@ title: Past Seasons Meet Results
 - [MIAA Swim and Dive Feed](http://miaa.ezstream.com/index.cfm?ChnID=328)
 
 {% assign current-school-year = site.data.high-school.variables.current-school-year %}
-{% assign results-by-school-year = site.data.high-school.girls.meet-results.results-by-school-year | not_where: "school-year", current-school-year %}
+{% assign results-by-school-year = site.data.high-school.girls.meet-scores-and-rankings.results-by-school-year | not_where: "school-year", current-school-year %}
 {% assign school-years = results-by-school-year | map: "school-year" %}
 
 {% include filter-year.html
@@ -37,10 +37,10 @@ title: Past Seasons Meet Results
 
 __Sources__
 
-{% for citation in site.data.high-school.girls.meet-results.general-citations %}
+{% for citation in site.data.high-school.girls.meet-scores-and-rankings.general-citations %}
   {% include citation.md %}
 {% endfor %}
-{% for results-for-school-year in site.data.high-school.girls.meet-results.results-by-school-year %}
+{% for results-for-school-year in site.data.high-school.girls.meet-scores-and-rankings.results-by-school-year %}
   {% for citation in results-for-school-year.citations %}
     {% include citation.md %}
   {% endfor %}

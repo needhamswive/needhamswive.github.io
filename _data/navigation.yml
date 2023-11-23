@@ -57,8 +57,8 @@ high-school:
       - title: Team Roster
         url: high-school/girls/current-season/team-roster
         tags: girls
-      - title: Meet Results
-        url: high-school/girls/current-season/meet-results
+      - title: Meet Scores & Rankings
+        url: high-school/girls/current-season/meet-scores-and-rankings
         tags: girls
       # - title: All Stars
       #   url: high-school/girls/current-season/all-stars
@@ -67,8 +67,8 @@ high-school:
       - title: Team Rosters
         url: high-school/girls/past-seasons/team-rosters
         tags: girls
-      - title: Meet Results
-        url: high-school/girls/past-seasons/meet-results
+      - title: Meet Scores & Rankings
+        url: high-school/girls/past-seasons/meet-scores-and-rankings
         tags: girls
       - title: All Stars
         url: high-school/girls/past-seasons/all-stars
@@ -106,16 +106,16 @@ high-school-girls:
         url: high-school/girls/current-season/qualifying-standards
       - title: Team Roster
         url: high-school/girls/current-season/team-roster
-      - title: Meet Results
-        url: high-school/girls/current-season/meet-results
+      - title: Meet Scores & Rankings
+        url: high-school/girls/current-season/meet-scores-and-rankings
       # - title: All Stars
       #   url: high-school/girls/current-season/all-stars
   - title: Past Seasons
     children:
       - title: Team Rosters
         url: high-school/girls/past-seasons/team-rosters
-      - title: Meet Results
-        url: high-school/girls/past-seasons/meet-results
+      - title: Meet Scores & Rankings
+        url: high-school/girls/past-seasons/meet-scores-and-rankings
       - title: All Stars
         url: high-school/girls/past-seasons/all-stars
   - title: Archives
