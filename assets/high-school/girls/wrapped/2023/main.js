@@ -34,11 +34,21 @@ const hexDesignDefinitions = [
   },
   {
     "slideNames": ["practice-summary"],
-    "colors": ["white", "white", "gold", "gold", "gold"],
+    "colors": ["blue", "blue", "gold", "gold", "gold"],
     "corners": {
-      "top left": [4, 2, 1, 1],
+      "top left": [4, 2, 1],
       "top right": [2, 1],
       "bottom left": [7, 3, 1],
+    },
+  },
+  {
+    "slideNames": ["swims-summary"],
+    "colors": ["blue", "blue", "gold", "gold", "gold"],
+    "corners": {
+      "top left": [1],
+      "top right": [1],
+      "bottom left": [1],
+      "bottom right": [1],
     },
   },
   {
@@ -224,6 +234,9 @@ function animateHexes() {
 function preprocessAthlete(athlete) {
   athlete.slides.push({
     "name": "team-summary",
+  });
+  athlete.slides.push({
+    "name": "dual-meet-scores",
   });
 }
 

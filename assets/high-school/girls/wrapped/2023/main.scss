@@ -127,16 +127,6 @@ br.extended {
   text-align: center;
   width: calc(100% - 10px);
 
-  &.blue {
-    background-color: var(--blue);
-    color: var(--offwhite);
-  }
-
-  &.gold {
-    background-color: var(--gold);
-    color: var(--offwhite);
-  }
-
   &.active {
     display: inline-block;
   }
@@ -144,18 +134,17 @@ br.extended {
   table {
     width: 100%;
 
-    &#top-dives {
+    &.two-columned {
       td:nth-child(1) {
         padding-right: 5px;
         text-align: right;
         width: 40%;
       }
+    }
 
-      td:nth-child(2) {
-        width: 60%;
-        padding-left: 5px;
-        text-align: left;
-      }
+    &#dual-meet-scores {
+      margin: auto;
+      max-width: 95%;
     }
   }
 

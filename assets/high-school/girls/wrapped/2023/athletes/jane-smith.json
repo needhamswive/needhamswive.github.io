@@ -31,8 +31,47 @@
         "relay-swim-count": 10,
         "total-points": "44.0"
       },
+      "templateReplacements": [
+        {
+          "name": "sectionals-qualified-event",
+          "sets": [
+            {
+              "event": "200 IM"
+            },
+            {
+              "event": "50 Freestyle"
+            },
+            {
+              "event": "100 Freestyle"
+            },
+            {
+              "event": "100 Breaststroke"
+            }
+          ]
+        },
+        {
+          "name": "states-qualified-event",
+          "sets": [
+            {
+              "event": "500 Freestyle"
+            },
+            {
+              "event": "100 Freestyle"
+            },
+            {
+              "event": "100 Breaststroke"
+            },
+            {
+              "event": "100 Backstroke"
+            }
+          ]
+        }
+      ],
       "visible": [
-        "total-points"
+        "total-points",
+        "sectionals-qualified-events",
+        "and",
+        "states-qualified-events"
       ]
     },
     {
@@ -68,6 +107,18 @@
             }
           ]
         }
+      ]
+    },
+    {
+      "name": "beads-summary",
+      "basicReplacements": {
+        "white-bead-count": 9,
+        "gold-bead-count": 12,
+        "blue-bead-count": 13
+      },
+      "visible": [
+        "gold-beads",
+        "blue-beads"
       ]
     },
     {
