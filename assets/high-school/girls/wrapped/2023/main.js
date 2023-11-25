@@ -286,7 +286,7 @@ function preprocessAthlete(athlete) {
   const practiceSummarySlide = {
     "name": "practice-summary",
     "basicReplacements": {
-      "practices-attended": 24,
+      "practices-attended": stats.practicesAttended,
       "practice-percentage": "12.34%",
     }
   };
