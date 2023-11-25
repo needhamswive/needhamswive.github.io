@@ -122,7 +122,6 @@ exclude:
   - README
   - tmp
   - temp
-  - wrapped/2023/generate-athletes
 keep_files:
   - .git
 encoding: "utf-8"
