@@ -33,10 +33,39 @@ const hexDesignDefinitions = [
     },
   },
   {
+    "slideNames": ["dual-meet-scores"],
+    "colors": ["blue", "gold"],
+    "corners": {
+      "top left": [3, 1],
+      "top right": [1],
+      "bottom right": [5, 1],
+    },
+  },
+  {
+    "slideNames": ["championships-summary"],
+    "colors": ["blue", "gold"],
+    "corners": {
+      "top left": [3, 1],
+      "top right": [3, 1],
+      "bottom left": [3, 1],
+      "bottom right": [3, 1],
+    },
+  },
+  {
+    "slideNames": ["transition"],
+    "colors": ["blue", "gold"],
+    "corners": {
+      "top left": [3, 1, 1],
+      "top right": [2, 1],
+      "bottom left": [1],
+      "bottom right": [5, 3, 1],
+    },
+  },
+  {
     "slideNames": ["practice-summary"],
     "colors": ["blue", "blue", "gold", "gold", "gold"],
     "corners": {
-      "top left": [4, 2, 1],
+      "top left": [3, 1],
       "top right": [2, 1],
       "bottom left": [7, 3, 1],
     },
@@ -52,11 +81,21 @@ const hexDesignDefinitions = [
     },
   },
   {
-    "slideNames": ["top-dives"],
-    "colors": ["blue", "gold", "gold", "gold"],
+    "slideNames": ["dives-summary"],
+    "colors": ["blue", "blue", "gold", "gold", "gold"],
     "corners": {
-      "top left": [4, 2, 1],
-      "bottom right": [4, 3, 1, 1],
+      "top left": [1],
+      "top right": [1],
+      "bottom left": [1],
+      "bottom right": [1],
+    },
+  },
+  {
+    "slideNames": ["beads-earned"],
+    "colors": ["blue", "blue", "gold", "gold", "gold"],
+    "corners": {
+      "top right": [5, 3, 1],
+      "bottom left": [7, 5, 1],
     },
   },
   {
@@ -87,10 +126,9 @@ const athleteRequest = fetch(athletePath);
 let random = mulberry32(cyrb128(athleteName)[0]);
 
 window.addEventListener("DOMContentLoaded", async () => {
-  progressBar = document.getElementsByClassName("progress")[0];
+  progressBar = document.querySelector(".progress");
   progressBarStartTime = Date.now();
-  slides = Array
-    .from(document.getElementsByClassName("slide"))
+  slides = Array.from(document.querySelectorAll(".slide"))
     .map(element => new Slide(element.dataset.name, element));
   activeSlide = slides.filter(slide => slide.element.classList.contains("active"))[0] || slides[0];
   activeSlide.element.classList.add("active");
@@ -232,12 +270,114 @@ function animateHexes() {
 }
 
 function preprocessAthlete(athlete) {
-  athlete.slides.push({
-    "name": "team-summary",
+  const stats = athlete.stats;
+  const slides = [];
+  document.querySelectorAll(".always-visible").forEach(element => {
+    slides.push({"name": element.dataset.name});
   });
-  athlete.slides.push({
-    "name": "dual-meet-scores",
+
+  slides.push({
+    "name": "welcome",
+    "basicReplacements": {
+      "name": stats.name,
+    },
   });
+
+  const practiceSummarySlide = {
+    "name": "practice-summary",
+    "basicReplacements": {
+      "practices-attended": 24,
+      "practice-percentage": "12.34%",
+    }
+  };
+  if (stats.swimmer) {
+    practiceSummarySlide.basicReplacements["yards-swum"] = stats.yardsSwum;
+    practiceSummarySlide.visible = ["yards-swum"];
+  }
+  slides.push(practiceSummarySlide);
+
+  if (stats.swimmer) {
+    const swimsSummarySlide = {
+      "name": "swims-summary",
+      "basicReplacements": {
+        "individual-swims": stats.individualSwims,
+        "relay-swims": stats.relaySwims,
+      },
+      "templateReplacements": [],
+      "visible": [],
+    }
+    if (stats.swimPointsScored) {
+      swimsSummarySlide.basicReplacements["points-scored"] = stats.swimPointsScored;
+      swimsSummarySlide.visible.push("points-scored");
+    }
+    if (stats.sectionalsQualifiedSwimEvents) {
+      swimsSummarySlide.templateReplacements.push({
+        "name": "sectionals-qualified-swim-event",
+        "sets": stats.sectionalsQualifiedSwimEvents.map(eventName => {
+            return { "event": eventName };
+          }),
+      });
+      swimsSummarySlide.visible.push("sectionals-qualified-swim-events");
+    }
+    if (stats.statesQualifiedSwimEvents) {
+      swimsSummarySlide.templateReplacements.push({
+        "name": "states-qualified-swim-event",
+        "sets": stats.sectionalsQualifiedSwimEvents.map(eventName => {
+            return { "event": eventName };
+          }),
+      });
+      swimsSummarySlide.visible.push("states-qualified-swim-events");
+    }
+    if (stats.sectionalsQualifiedSwimEvents && athlete.stats.statesQualifiedSwimEvents) {
+      swimsSummarySlide.visible.push("and");
+    }
+    slides.push(swimsSummarySlide);
+  }
+
+  if (stats.diver) {
+    const divesSummarySlide = {
+      "name": "dives-summary",
+      "basicReplacements": {
+        "individual-dives": stats.individualDives,
+        "meets-dove": stats.meetsDove,
+      },
+      "templateReplacements": [{
+        "name": "dive-number-and-score",
+        "sets": stats.topScoringDives
+      }],
+      "visible": [],
+    }
+    if (stats.divePointsScored) {
+      divesSummarySlide.basicReplacements["points-scored"] = stats.divePointsScored;
+      divesSummarySlide.visible.push("points-scored");
+    }
+    slides.push(divesSummarySlide);
+  }
+
+  const beadsEarnedSlide = {
+    "name": "beads-earned",
+    "basicReplacements": {
+      "white-beads-earned": stats.beadsEarned.white,
+    },
+    "visible": [],
+  };
+  if (stats.beadsEarned.blue) {
+    beadsEarnedSlide.basicReplacements["blue-beads-earned"] = stats.beadsEarned.blue;
+    beadsEarnedSlide.visible.push("blue-beads");
+  }
+  if (stats.beadsEarned.gold) {
+    beadsEarnedSlide.basicReplacements["gold-beads-earned"] = stats.beadsEarned.gold;
+    beadsEarnedSlide.visible.push("gold-beads");
+  }
+  slides.push(beadsEarnedSlide);
+
+  if (stats.grade === 12) {
+    slides.push({ "name": "goodbye-senior" });
+  } else {
+    slides.push({ "name": "goodbye" });
+  }
+
+  athlete.slides = slides;
 }
 
 function processAthlete(athlete) {

@@ -138,7 +138,21 @@ br.extended {
       td:nth-child(1) {
         padding-right: 5px;
         text-align: right;
-        width: 40%;
+      }
+
+      td:nth-child(2) {
+        padding-left: 5px;
+        text-align: left;
+      }
+
+      &.split-33-66 {
+        td:nth-child(1) { width: 33% }
+        td:nth-child(2) { width: 66% }
+      }
+
+      &.split-40-60 {
+        td:nth-child(1) { width: 40% }
+        td:nth-child(2) { width: 60% }
       }
     }
 
@@ -172,11 +186,19 @@ br.extended {
 }
 
 .slide-content {
-  left: 50%;
+  left: calc(50% - 5px);
+  margin-left: 5px;
+  margin-right: 5px;
   position: absolute;
   top: 50%;
   transform: translateX(-50%) translateY(-50%);
-  width: 100%;
+  width: calc(100% - 10px);
+
+  &.wide {
+    left: 50%;
+    margin: 0px;
+    width: 100%;
+  }
 }
 
 // http://jtauber.github.io/articles/css-hexagon.html

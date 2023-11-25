@@ -68,13 +68,13 @@
           </div>
         </div>
 
-        <div class="slide" data-name="team-summary">
+        <div class="slide always-visible" data-name="team-summary">
           <div class="slide-content">
             Congratulations on an amazing season!
             <br>
             <br>
             <div class="font-small">
-              As a team, we finished the season with a
+              We finished the season with a
               <br>
               <span class="gold"><b>9 &ndash; 1</b></span> <b>dual meet record</b>
               <br>
@@ -87,12 +87,10 @@
           </div>
         </div>
 
-        <div class="slide" data-name="dual-meet-scores">
-          <div class="slide-content">
-            Dual Meet Scores
+        <div class="slide always-visible" data-name="dual-meet-scores">
+          <div class="slide-content wide">
+            <b>Dual Meet Scores</b>
             <br>
-            <br>
-
             <table id="dual-meet-scores" class="font-small">
               <tr>
                 <td>9/12</td>
@@ -124,7 +122,7 @@
               </tr>
               <tr>
                 <td>10/2</td>
-                <td>Newton North</td>
+                <td>Newton&nbsp;North</td>
                 <td>99</td>
                 <td>&ndash;</td>
                 <td>85</td>
@@ -168,12 +166,33 @@
           </div>
         </div>
 
+        <div class="slide always-visible" data-name="championships-summary">
+          <div class="slide-content font-small">
+            We made history together
+            <br>
+            <br>
+            winning <b><span class="gold">Bay State Conference</span></b> for the first time since 2003
+            <br>
+            <br>
+            and winning <b><span class="gold">Division 1 States</span></b> for the first time ever!
+          </div>
+        </div>
+
+        <div class="slide always-visible" data-name="transition">
+          <div class="slide-content">
+            We couldn't have done it without you 💙💛
+            <br>
+            <br>
+            Let's look at some of your stats from this season
+          </div>
+        </div>
+
         <div class="slide" data-name="practice-summary">
           <div class="slide-content">
-            You attended <b><span class="gold replacement-practice-count"></span></b> practices
-            <div class="hidden visible-total-yardage">
+            You attended <b><span class="gold replacement-practices-attended"></span></b> practices
+            <div class="hidden visible-yards-swum">
               <br>
-              and swam <b><span class="gold replacement-total-yardage"></span></b> yards
+              and swam <b><span class="gold replacement-yards-swum"></span></b> yards
             </div>
             <br>
             <br>
@@ -181,25 +200,25 @@
           </div>
         </div>
 
-        <div class="slide" data-name="swims-summary">
+        <div class="slide active" data-name="swims-summary">
           <div class="slide-content">
             You swam in
             <br>
-            <b><span class="gold replacement-individual-swim-count"></span></b> individual events
+            <b><span class="gold replacement-individual-swims"></span></b> individual events
             <br>
-            and <b><span class="gold replacement-relay-swim-count"></span></b> relays<div class="hidden visible-no-points">!</div><div class="hidden visible-total-points">,
+            and <b><span class="gold replacement-relay-swims"></span></b> relays<div class="hidden visible-points-scored">,
               <br>
-              scoring <b><span class="gold replacement-total-points"></span></b> points!
+              scoring <b><span class="gold replacement-points-scored"></span></b>
             </div>
-            <div class="hidden visible-sectionals-qualified-events visible-states-qualified-events">
+            <div class="hidden visible-sectionals-qualified-swim-events visible-states-qualified-events">
               <br>
               <br>
               You qualified for
               <br>
-              <div class="hidden visible-sectionals-qualified-events">
+              <div class="hidden visible-sectionals-qualified-swim-events">
                 sectionals in the
                 <table class="font-small">
-                  <template class="template-sectionals-qualified-event">
+                  <template class="template-sectionals-qualified-swim-event">
                     <tr>
                       <td>
                         <span class="gold replacement-event"></span>
@@ -208,11 +227,11 @@
                   </template>
                 </table>
               </div>
-              <div class="hidden visible-states-qualified-events">
+              <div class="hidden visible-states-qualified-swim-events">
                 <div class="hidden visible-and">and</div>
                 states in the
                 <table class="font-small">
-                  <template class="template-states-qualified-event">
+                  <template class="template-states-qualified-swim-event">
                     <tr>
                       <td>
                         <span class="gold replacement-event"></span>
@@ -227,22 +246,23 @@
 
         <div class="slide" data-name="dives-summary">
           <div class="slide-content">
-            You dove <span class="gold replacement-dive-count"></span> dives at <span class="gold replacement-meet-count"></span> meets
-            <br>
-            and scored <span class="gold replacement-point-count"></span> points!
+            You dove <span class="gold replacement-individual-dives"></span> dives at <span class="gold replacement-meets-dove"></span> meets<div class="hidden visible-no-points">!</div><div class="hidden visible-points-scored">,
+              <br>
+              scoring <b><span class="gold replacement-points-scored"></span></b>!
+            </div>
             <br>
             <br>
             Your highest scoring dives were
             <br>
             <br>
-            <table class="two-columned font-small">
+            <table class="two-columned split-40-60 font-small">
               <template class="template-dive-number-and-score">
                 <tr>
                   <td class="gold">
-                    <span class="replacement-dive-number"></span>
+                    <span class="replacement-number"></span>
                   </td>
                   <td>
-                    <span class="replacement-dive-score"></span>
+                    <span class="replacement-score"></span>
                     points
                   </td>
                 </tr>
@@ -251,40 +271,42 @@
           </div>
         </div>
 
-        <div class="slide" data-name="beads-summary">
+        <div class="slide" data-name="beads-earned">
           <div class="slide-content">
             You earned
-            <table class="two-columned">
+            <table class="two-columned split-33-66">
               <tr>
                 <td class="gold">
-                  <span class="replacement-white-bead-count"></span>
+                  <span class="replacement-white-beads-earned"></span>
                 </td>
                 <td>
                   white beads
                 </td>
               </tr>
-
-              <div class="hidden visible-gold-beads">
-                <tr>
-                  <td class="gold">
-                    <span class="replacement-gold-bead-count"></span>
-                  </td>
-                  <td>
+              <tr>
+                <td class="gold">
+                  <div class="hidden visible-gold-beads">
+                    <span class="replacement-gold-beads-earned"></span>
+                  </div>
+                </td>
+                <td>
+                  <div class="hidden visible-gold-beads">
                     gold beads
-                  </td>
-                </tr>
-              </div>
-
-              <div class="hidden visible-blue-beads">
-                <tr>
-                  <td class="gold">
-                    <span class="replacement-blue-bead-count"></span>
-                  </td>
-                  <td>
+                  </div>
+                </td>
+              </tr>
+              <tr>
+                <td class="gold">
+                  <div class="hidden visible-blue-beads">
+                    <span class="replacement-blue-beads-earned"></span>
+                  </div>
+                </td>
+                <td>
+                  <div class="hidden visible-blue-beads">
                     blue beads
-                  </td>
-                </tr>
-              </div>
+                  </div>
+                </td>
+              </tr>
             </table>
           </div>
         </div>

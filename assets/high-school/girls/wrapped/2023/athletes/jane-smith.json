@@ -1,131 +1,56 @@
 {
-  "slides": [
-    {
-      "name": "welcome",
-      "basicReplacements": {
-        "name": "Jane Smith"
+  "stats": {
+    "beadsEarned": {
+      "blue": 13,
+      "gold": 12,
+      "white": 9
+    },
+    "divePointsScored": "1 point",
+    "diver": true,
+    "grade": 12,
+    "name": "Jane Smith",
+    "individualDives": 14,
+    "individualSwims": 10,
+    "meetsDove": 15,
+    "meetsSwam": 17,
+    "practicePercentage": "12.34%",
+    "relaySwims": 11,
+    "sectionalsQualifiedSwimEvents": [
+      "200 IM",
+      "50 Freestyle",
+      "100 Freestyle",
+      "100 Breaststroke"
+    ],
+    "statesQualifiedSwimEvents": [
+      "500 Freestyle",
+      "100 Freestyle",
+      "100 Breaststroke",
+      "100 Backstroke"
+    ],
+    "swimPointsScored": "44 points",
+    "swimmer": true,
+    "topScoringDives": [
+      {
+        "number": "5225D",
+        "score": "52.65"
+      },
+      {
+        "number": "5223D",
+        "score": "41.40"
+      },
+      {
+        "number": "104C",
+        "score": "39.60"
+      },
+      {
+        "number": "5124D",
+        "score": "37.95"
+      },
+      {
+        "number": "403C",
+        "score": "34.65"
       }
-    },
-    {
-      "name": "practice-summary",
-      "basicReplacements": {
-        "practice-count": 24,
-        "total-yardage": "123456",
-        "practice-percentage": "12.34%"
-      },
-      "visible": [
-        "total-yardage"
-      ]
-    },
-    {
-      "name": "practice-summary-diver",
-      "basicReplacements": {
-        "practice-count": 56,
-        "practice-percentage": "56.78%"
-      }
-    },
-    {
-      "name": "swims-summary",
-      "basicReplacements": {
-        "individual-swim-count": 10,
-        "relay-swim-count": 10,
-        "total-points": "44.0"
-      },
-      "templateReplacements": [
-        {
-          "name": "sectionals-qualified-event",
-          "sets": [
-            {
-              "event": "200 IM"
-            },
-            {
-              "event": "50 Freestyle"
-            },
-            {
-              "event": "100 Freestyle"
-            },
-            {
-              "event": "100 Breaststroke"
-            }
-          ]
-        },
-        {
-          "name": "states-qualified-event",
-          "sets": [
-            {
-              "event": "500 Freestyle"
-            },
-            {
-              "event": "100 Freestyle"
-            },
-            {
-              "event": "100 Breaststroke"
-            },
-            {
-              "event": "100 Backstroke"
-            }
-          ]
-        }
-      ],
-      "visible": [
-        "total-points",
-        "sectionals-qualified-events",
-        "and",
-        "states-qualified-events"
-      ]
-    },
-    {
-      "name": "dives-summary",
-      "basicReplacements": {
-        "dive-count": 12,
-        "meet-count": 12,
-        "point-count": 12
-      },
-      "templateReplacements": [
-        {
-          "name": "dive-number-and-score",
-          "sets": [
-            {
-              "dive-number": "5225D",
-              "dive-score": "52.65"
-            },
-            {
-              "dive-number": "5223D",
-              "dive-score": "41.40"
-            },
-            {
-              "dive-number": "104C",
-              "dive-score": "39.60"
-            },
-            {
-              "dive-number": "5124D",
-              "dive-score": "37.95"
-            },
-            {
-              "dive-number": "403C",
-              "dive-score": "34.65"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "name": "beads-summary",
-      "basicReplacements": {
-        "white-bead-count": 9,
-        "gold-bead-count": 12,
-        "blue-bead-count": 13
-      },
-      "visible": [
-        "gold-beads",
-        "blue-beads"
-      ]
-    },
-    {
-      "name": "goodbye"
-    },
-    {
-      "name": "goodbye-senior"
-    }
-  ]
+    ],
+    "yardsSwum": 123456
+  }
 }
