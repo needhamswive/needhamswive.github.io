@@ -11,7 +11,11 @@ window.addEventListener("DOMContentLoaded", () => {
   }
 
   const searchParams = new URLSearchParams(window.location.search);
-  const navTags = searchParams.get("nav")?.split(",").filter(tag => tag !== "") || [];
+  const navTags =
+    searchParams
+      .get("nav")
+      ?.split(",")
+      .filter((tag) => tag !== "") || [];
 
   if (navTags.length > 0) {
     for (const link of document.querySelectorAll(".nav__list a")) {
@@ -25,13 +29,17 @@ window.addEventListener("DOMContentLoaded", () => {
   const noTagsElements = document.querySelectorAll("[data-no-nav-tags]");
 
   for (const element of tagsElements) {
-    if (!element.dataset.navTags.split(",").some(tag => navTags.includes(tag))) {
+    if (
+      !element.dataset.navTags.split(",").some((tag) => navTags.includes(tag))
+    ) {
       element.style.display = "none";
     }
   }
 
   for (const element of noTagsElements) {
-    if (element.dataset.noNavTags.split(",").some(tag => navTags.includes(tag))) {
+    if (
+      element.dataset.noNavTags.split(",").some((tag) => navTags.includes(tag))
+    ) {
       element.style.display = "none";
     }
   }

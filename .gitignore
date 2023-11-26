@@ -1,8 +1,9 @@
-_site
 .bundle
 .sass-cache
 .jekyll-cache
 .jekyll-metadata
 .DS_Store
+_site
+node_modules
 temp
 vendor

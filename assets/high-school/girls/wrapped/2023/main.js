@@ -16,35 +16,35 @@ class Slide {
 
 const hexDesignDefinitions = [
   {
-    "slideNames": ["welcome"],
-    "colors": ["blue", "blue", "blue", "gold"],
-    "corners": {
+    slideNames: ["welcome"],
+    colors: ["blue", "blue", "blue", "gold"],
+    corners: {
       "top left": [5, 3, 1],
       "bottom right": [7, 5, 1],
     },
   },
   {
-    "slideNames": ["team-summary"],
-    "colors": ["blue", "blue", "blue", "gold"],
-    "corners": {
+    slideNames: ["team-summary"],
+    colors: ["blue", "blue", "blue", "gold"],
+    corners: {
       "top left": [2, 1],
       "top right": [3, 1],
       "bottom left": [5, 3],
     },
   },
   {
-    "slideNames": ["dual-meet-scores"],
-    "colors": ["blue", "gold"],
-    "corners": {
+    slideNames: ["dual-meet-scores"],
+    colors: ["blue", "gold"],
+    corners: {
       "top left": [3, 1],
       "top right": [1],
       "bottom right": [5, 1],
     },
   },
   {
-    "slideNames": ["championships-summary"],
-    "colors": ["blue", "gold"],
-    "corners": {
+    slideNames: ["championships-summary"],
+    colors: ["blue", "gold"],
+    corners: {
       "top left": [3, 1],
       "top right": [3, 1],
       "bottom left": [3, 1],
@@ -52,9 +52,9 @@ const hexDesignDefinitions = [
     },
   },
   {
-    "slideNames": ["transition"],
-    "colors": ["blue", "gold"],
-    "corners": {
+    slideNames: ["transition"],
+    colors: ["blue", "gold"],
+    corners: {
       "top left": [3, 1, 1],
       "top right": [2, 1],
       "bottom left": [1],
@@ -62,18 +62,18 @@ const hexDesignDefinitions = [
     },
   },
   {
-    "slideNames": ["practice-summary"],
-    "colors": ["blue", "blue", "gold", "gold", "gold"],
-    "corners": {
+    slideNames: ["practice-summary"],
+    colors: ["blue", "blue", "gold", "gold", "gold"],
+    corners: {
       "top left": [3, 1],
       "top right": [2, 1],
       "bottom left": [7, 3, 1],
     },
   },
   {
-    "slideNames": ["swims-summary"],
-    "colors": ["blue", "blue", "gold", "gold", "gold"],
-    "corners": {
+    slideNames: ["swims-summary"],
+    colors: ["blue", "blue", "gold", "gold", "gold"],
+    corners: {
       "top left": [1],
       "top right": [1],
       "bottom left": [1],
@@ -81,9 +81,9 @@ const hexDesignDefinitions = [
     },
   },
   {
-    "slideNames": ["dives-summary"],
-    "colors": ["blue", "blue", "gold", "gold", "gold"],
-    "corners": {
+    slideNames: ["dives-summary"],
+    colors: ["blue", "blue", "gold", "gold", "gold"],
+    corners: {
       "top left": [1],
       "top right": [1],
       "bottom left": [1],
@@ -91,23 +91,23 @@ const hexDesignDefinitions = [
     },
   },
   {
-    "slideNames": ["beads-earned"],
-    "colors": ["blue", "blue", "gold", "gold", "gold"],
-    "corners": {
+    slideNames: ["beads-earned"],
+    colors: ["blue", "blue", "gold", "gold", "gold"],
+    corners: {
       "top right": [5, 3, 1],
       "bottom left": [7, 5, 1],
     },
   },
   {
-    "slideNames": ["goodbye", "goodbye-senior"],
-    "colors": ["blue", "gold"],
-    "corners": {
+    slideNames: ["goodbye", "goodbye-senior"],
+    colors: ["blue", "gold"],
+    corners: {
       "top left": [2, 1],
       "top right": [2, 1],
       "bottom left": [2, 1],
       "bottom right": [2, 1],
     },
-  }
+  },
 ];
 
 let progressBar;
@@ -120,36 +120,44 @@ let activeSlideIndex;
 let hexTemplate;
 
 const athleteName = new URLSearchParams(window.location.search).get("athlete");
-const athletePath = window.location.origin + `/assets/high-school/girls/wrapped/2023/athletes/${athleteName}.json`;
+const athletePath =
+  window.location.origin +
+  `/assets/high-school/girls/wrapped/2023/athletes/${athleteName}.json`;
 const athleteRequest = fetch(athletePath);
 
 let random = mulberry32(cyrb128(athleteName)[0]);
 
-window.addEventListener("DOMContentLoaded", async () => {
-  progressBar = document.querySelector(".progress");
-  progressBarStartTime = Date.now();
-  slides = Array.from(document.querySelectorAll(".slide"))
-    .map(element => new Slide(element.dataset.name, element));
-  activeSlide = slides.filter(slide => slide.element.classList.contains("active"))[0] || slides[0];
-  activeSlide.element.classList.add("active");
-  activeSlideIndex = slides.indexOf(activeSlide);
-  setupNavigation();
+window.addEventListener(
+  "DOMContentLoaded",
+  async () => {
+    progressBar = document.querySelector(".progress");
+    progressBarStartTime = Date.now();
+    slides = Array.from(document.querySelectorAll(".slide")).map(
+      (element) => new Slide(element.dataset.name, element)
+    );
+    activeSlide =
+      slides.filter((slide) => slide.element.classList.contains("active"))[0] ||
+      slides[0];
+    activeSlide.element.classList.add("active");
+    activeSlideIndex = slides.indexOf(activeSlide);
+    setupNavigation();
 
-  hexTemplate = document.getElementById("hex-template");
-  setupHexDesigns();
-  // window.setInterval(animateHexes, 1000);
+    hexTemplate = document.getElementById("hex-template");
+    setupHexDesigns();
+    // window.setInterval(animateHexes, 1000);
 
-  const athleteResponse = await athleteRequest;
+    const athleteResponse = await athleteRequest;
 
-  if (athleteResponse.status === 404) {
-    slides = slides.slice(0, 1);
-    return;
-  }
-;
-  const athlete = await athleteResponse.json();
-  preprocessAthlete(athlete);
-  processAthlete(athlete);
-}, false);
+    if (athleteResponse.status === 404) {
+      slides = slides.slice(0, 1);
+      return;
+    }
+    const athlete = await athleteResponse.json();
+    preprocessAthlete(athlete);
+    processAthlete(athlete);
+  },
+  false
+);
 
 function setupNavigation() {
   const backward = document.getElementById("backward");
@@ -206,7 +214,7 @@ function offsetSlide(offset) {
 function setupHexDesigns() {
   for (const designDefinition of hexDesignDefinitions) {
     for (const slideName of designDefinition.slideNames) {
-      let slide = slides.filter(slide => slide.name === slideName)[0];
+      let slide = slides.filter((slide) => slide.name === slideName)[0];
 
       if (!slide) {
         continue;
@@ -217,7 +225,9 @@ function setupHexDesigns() {
       }
 
       slide.hexColors = designDefinition.colors;
-      for (let [corner, rowCounts] of Object.entries(designDefinition.corners)) {
+      for (let [corner, rowCounts] of Object.entries(
+        designDefinition.corners
+      )) {
         const hexContainer = document.createElement("div");
         slide.element.appendChild(hexContainer);
         hexContainer.classList.add("hex-container");
@@ -235,14 +245,18 @@ function setupHexDesigns() {
           hexRow.classList.add("hex-row");
           hexContainer.appendChild(hexRow);
 
-          const hexes = Array(count).fill().map(_ => {
-            const hex = hexTemplate.content.cloneNode(true);
-            hex.children[0].dataset.color = slide.nextHexColor();
-            return hex;
-          });
+          const hexes = Array(count)
+            .fill()
+            .map((_) => {
+              const hex = hexTemplate.content.cloneNode(true);
+              hex.children[0].dataset.color = slide.nextHexColor();
+              return hex;
+            });
 
           hexRow.append(...hexes);
-          slide.hexElements.push(...Array.from(hexRow.querySelectorAll(".hex")));
+          slide.hexElements.push(
+            ...Array.from(hexRow.querySelectorAll(".hex"))
+          );
         }
       }
     }
@@ -255,7 +269,10 @@ function animateHexes() {
   }
 
   const numberToChange = 1;
-  const hexElementsToChange = getRandom(activeSlide.hexElements, numberToChange);
+  const hexElementsToChange = getRandom(
+    activeSlide.hexElements,
+    numberToChange
+  );
 
   for (const hexElement of hexElementsToChange) {
     while (true) {
@@ -272,23 +289,23 @@ function animateHexes() {
 function preprocessAthlete(athlete) {
   const stats = athlete.stats;
   const slides = [];
-  document.querySelectorAll(".always-visible").forEach(element => {
-    slides.push({"name": element.dataset.name});
+  document.querySelectorAll(".always-visible").forEach((element) => {
+    slides.push({ name: element.dataset.name });
   });
 
   slides.push({
-    "name": "welcome",
-    "basicReplacements": {
-      "name": stats.name,
+    name: "welcome",
+    basicReplacements: {
+      name: stats.name,
     },
   });
 
   const practiceSummarySlide = {
-    "name": "practice-summary",
-    "basicReplacements": {
+    name: "practice-summary",
+    basicReplacements: {
       "practices-attended": stats.practicesAttended,
       "practice-percentage": stats.practicePercentage,
-    }
+    },
   };
   if (stats.swimmer) {
     practiceSummarySlide.basicReplacements["yards-swum"] = stats.yardsSwum;
@@ -298,37 +315,41 @@ function preprocessAthlete(athlete) {
 
   if (stats.swimmer) {
     const swimsSummarySlide = {
-      "name": "swims-summary",
-      "basicReplacements": {
+      name: "swims-summary",
+      basicReplacements: {
         "individual-swims": stats.individualSwims,
         "relay-swims": stats.relaySwims,
       },
-      "templateReplacements": [],
-      "visible": [],
-    }
+      templateReplacements: [],
+      visible: [],
+    };
     if (stats.swimPointsScored) {
-      swimsSummarySlide.basicReplacements["points-scored"] = stats.swimPointsScored;
+      swimsSummarySlide.basicReplacements["points-scored"] =
+        stats.swimPointsScored;
       swimsSummarySlide.visible.push("points-scored");
     }
     if (stats.sectionalsQualifiedSwimEvents) {
       swimsSummarySlide.templateReplacements.push({
-        "name": "sectionals-qualified-swim-event",
-        "sets": stats.sectionalsQualifiedSwimEvents.map(eventName => {
-            return { "event": eventName };
-          }),
+        name: "sectionals-qualified-swim-event",
+        sets: stats.sectionalsQualifiedSwimEvents.map((eventName) => {
+          return { event: eventName };
+        }),
       });
       swimsSummarySlide.visible.push("sectionals-qualified-swim-events");
     }
     if (stats.statesQualifiedSwimEvents) {
       swimsSummarySlide.templateReplacements.push({
-        "name": "states-qualified-swim-event",
-        "sets": stats.statesQualifiedSwimEvents.map(eventName => {
-            return { "event": eventName };
-          }),
+        name: "states-qualified-swim-event",
+        sets: stats.statesQualifiedSwimEvents.map((eventName) => {
+          return { event: eventName };
+        }),
       });
       swimsSummarySlide.visible.push("states-qualified-swim-events");
     }
-    if (stats.sectionalsQualifiedSwimEvents && athlete.stats.statesQualifiedSwimEvents) {
+    if (
+      stats.sectionalsQualifiedSwimEvents &&
+      athlete.stats.statesQualifiedSwimEvents
+    ) {
       swimsSummarySlide.visible.push("and");
     }
     slides.push(swimsSummarySlide);
@@ -336,53 +357,60 @@ function preprocessAthlete(athlete) {
 
   if (stats.diver) {
     const divesSummarySlide = {
-      "name": "dives-summary",
-      "basicReplacements": {
+      name: "dives-summary",
+      basicReplacements: {
         "individual-dives": stats.individualDives,
         "meets-dove": stats.meetsDove,
       },
-      "templateReplacements": [{
-        "name": "dive-number-and-score",
-        "sets": stats.topScoringDives
-      }],
-      "visible": [],
-    }
+      templateReplacements: [
+        {
+          name: "dive-number-and-score",
+          sets: stats.topScoringDives,
+        },
+      ],
+      visible: [],
+    };
     if (stats.divePointsScored) {
-      divesSummarySlide.basicReplacements["points-scored"] = stats.divePointsScored;
+      divesSummarySlide.basicReplacements["points-scored"] =
+        stats.divePointsScored;
       divesSummarySlide.visible.push("points-scored");
     }
     slides.push(divesSummarySlide);
   }
 
   const beadsEarnedSlide = {
-    "name": "beads-earned",
-    "basicReplacements": {
+    name: "beads-earned",
+    basicReplacements: {
       "white-beads-earned": stats.beadsEarned.white,
     },
-    "visible": [],
+    visible: [],
   };
   if (stats.beadsEarned.blue) {
-    beadsEarnedSlide.basicReplacements["blue-beads-earned"] = stats.beadsEarned.blue;
+    beadsEarnedSlide.basicReplacements["blue-beads-earned"] =
+      stats.beadsEarned.blue;
     beadsEarnedSlide.visible.push("blue-beads");
   }
   if (stats.beadsEarned.gold) {
-    beadsEarnedSlide.basicReplacements["gold-beads-earned"] = stats.beadsEarned.gold;
+    beadsEarnedSlide.basicReplacements["gold-beads-earned"] =
+      stats.beadsEarned.gold;
     beadsEarnedSlide.visible.push("gold-beads");
   }
   slides.push(beadsEarnedSlide);
 
   if (stats.grade === 12) {
-    slides.push({ "name": "goodbye-senior" });
+    slides.push({ name: "goodbye-senior" });
   } else {
-    slides.push({ "name": "goodbye" });
+    slides.push({ name: "goodbye" });
   }
 
   athlete.slides = slides;
 }
 
 function processAthlete(athlete) {
-  const slideNameToMetadata = new Map(athlete.slides.map(slide => [slide.name, slide]));
-  slides = slides.filter(slide => slideNameToMetadata.has(slide.name));
+  const slideNameToMetadata = new Map(
+    athlete.slides.map((slide) => [slide.name, slide])
+  );
+  slides = slides.filter((slide) => slideNameToMetadata.has(slide.name));
 
   for (const slide of slides) {
     const metadata = slideNameToMetadata.get(slide.name);
@@ -398,7 +426,9 @@ function processAthleteBasicReplacements(slide, metadata) {
     return;
   }
 
-  for (const [replacementKey, replacementValue] of Object.entries(metadata.basicReplacements)) {
+  for (const [replacementKey, replacementValue] of Object.entries(
+    metadata.basicReplacements
+  )) {
     updatePlaceholders(slide.element, replacementKey, replacementValue);
   }
 }
@@ -409,7 +439,9 @@ function processAthleteTemplateReplacements(slide, metadata) {
   }
 
   for (const templateReplacement of metadata.templateReplacements) {
-    const template = slide.element.querySelector(".template-" + templateReplacement.name);
+    const template = slide.element.querySelector(
+      ".template-" + templateReplacement.name
+    );
     for (const set of templateReplacement.sets) {
       const copy = template.content.cloneNode(true);
       for (const [replacementKey, replacementValue] of Object.entries(set)) {
@@ -421,12 +453,14 @@ function processAthleteTemplateReplacements(slide, metadata) {
 }
 
 function updatePlaceholders(element, replacementKey, replacementValue) {
-  const placeholderElements = element.querySelectorAll(".replacement-" + replacementKey);
+  const placeholderElements = element.querySelectorAll(
+    ".replacement-" + replacementKey
+  );
   if (placeholderElements.length === 0) {
     console.error("Unable to find placeholder with key " + replacementKey);
     return;
   }
-  placeholderElements.forEach(placeholderElement => {
+  placeholderElements.forEach((placeholderElement) => {
     placeholderElement.innerHTML = replacementValue;
   });
 }
@@ -440,7 +474,9 @@ function processAthleteVisibility(slide, metadata) {
     if (hiddenElements.length === 0) {
       console.error("Unable to find hidden element with name " + name);
     }
-    hiddenElements.forEach(hiddenElement => hiddenElement.style.display = "unset");
+    hiddenElements.forEach(
+      (hiddenElement) => (hiddenElement.style.display = "unset")
+    );
   }
 }
 
@@ -461,8 +497,10 @@ function getRandom(arr, n) {
 
 // https://stackoverflow.com/a/47593316
 function cyrb128(str) {
-  let h1 = 1779033703, h2 = 3144134277,
-      h3 = 1013904242, h4 = 2773480762;
+  let h1 = 1779033703,
+    h2 = 3144134277,
+    h3 = 1013904242,
+    h4 = 2773480762;
   for (let i = 0, k; i < str.length; i++) {
     k = str.charCodeAt(i);
     h1 = h2 ^ Math.imul(h1 ^ k, 597399067);
@@ -474,15 +512,15 @@ function cyrb128(str) {
   h2 = Math.imul(h4 ^ (h2 >>> 22), 2869860233);
   h3 = Math.imul(h1 ^ (h3 >>> 17), 951274213);
   h4 = Math.imul(h2 ^ (h4 >>> 19), 2716044179);
-  h1 ^= (h2 ^ h3 ^ h4), h2 ^= h1, h3 ^= h1, h4 ^= h1;
+  (h1 ^= h2 ^ h3 ^ h4), (h2 ^= h1), (h3 ^= h1), (h4 ^= h1);
   return [h1 >>> 0, h2 >>> 0, h3 >>> 0, h4 >>> 0];
 }
 
 function mulberry32(a) {
-  return function() {
-    var t = a += 0x6D2B79F5;
-    t = Math.imul(t ^ t >>> 15, t | 1);
-    t ^= t + Math.imul(t ^ t >>> 7, t | 61);
-    return ((t ^ t >>> 14) >>> 0) / 4294967296;
-  }
+  return function () {
+    var t = (a += 0x6d2b79f5);
+    t = Math.imul(t ^ (t >>> 15), t | 1);
+    t ^= t + Math.imul(t ^ (t >>> 7), t | 61);
+    return ((t ^ (t >>> 14)) >>> 0) / 4294967296;
+  };
 }

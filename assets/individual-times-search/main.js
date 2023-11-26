@@ -1,4 +1,5 @@
-const LAMBDA_BASE_URL = "https://qs9zaxu0jb.execute-api.us-east-2.amazonaws.com/default/needhamswivetimessearch";
+const LAMBDA_BASE_URL =
+  "https://qs9zaxu0jb.execute-api.us-east-2.amazonaws.com/default/needhamswivetimessearch";
 
 const EVENTS = [
   "200 medley",
@@ -14,15 +15,17 @@ const EVENTS = [
   "100 breast",
   "50 fly split",
   "100 fly",
-]
-const EVENT_ORDER = Object.fromEntries(Object.entries(Object.assign({}, EVENTS)).map(entry => entry.reverse()));
+];
+const EVENT_ORDER = Object.fromEntries(
+  Object.entries(Object.assign({}, EVENTS)).map((entry) => entry.reverse())
+);
 
 let formElement;
 let formSelectElement;
 let errorMessageElement;
 let timesTableBodyElement;
 
-document.addEventListener("DOMContentLoaded", function(){
+document.addEventListener("DOMContentLoaded", function () {
   formElement = document.getElementById("form");
   formSelectElement = document.getElementById("times-to-show");
   errorMessageElement = document.getElementById("error-message");
@@ -40,22 +43,29 @@ function search() {
 
   const requestUrl = buildUrl(LAMBDA_BASE_URL, formData);
   fetch(requestUrl)
-    .then(response => {
+    .then((response) => {
       if (response.status === 200) {
-        response.json().then(results => handleSuccess(formData, results));
+        response.json().then((results) => handleSuccess(formData, results));
       }
       if (errorCategory(response.status) === 4) {
-        response.text().then(text => handleError(text));
+        response.text().then((text) => handleError(text));
       }
       if (errorCategory(response.status) == 5) {
-        handleError("Internal server error")
+        handleError("Internal server error");
       }
     })
-    .catch(_ => handleError("Network error, please try again later"));
+    .catch((_) => handleError("Network error, please try again later"));
 }
 
 function buildUrl(base, queryStringParameters) {
-  return `${base}?${Object.keys(queryStringParameters).map((key, _) => `${encodeURIComponent(key)}=${encodeURIComponent(queryStringParameters[key])}`).join("&")}`;
+  return `${base}?${Object.keys(queryStringParameters)
+    .map(
+      (key, _) =>
+        `${encodeURIComponent(key)}=${encodeURIComponent(
+          queryStringParameters[key]
+        )}`
+    )
+    .join("&")}`;
 }
 
 function errorCategory(statusCode) {
@@ -114,8 +124,8 @@ function handleSuccess(formData, results) {
     results = fastestResults;
   }
 
-  let newTimesTableBodyElement = document.createElement('tbody');
-  results.forEach(result => {
+  let newTimesTableBodyElement = document.createElement("tbody");
+  results.forEach((result) => {
     const tableRowElement = document.createElement("tr");
     tableRowElement.appendChild(createTableCellElement(result["Event"]));
     tableRowElement.appendChild(createTableCellElement(result["Result"]));
@@ -124,12 +134,17 @@ function handleSuccess(formData, results) {
     newTimesTableBodyElement.appendChild(tableRowElement);
   });
 
-  timesTableBodyElement.parentNode.replaceChild(newTimesTableBodyElement, timesTableBodyElement);
+  timesTableBodyElement.parentNode.replaceChild(
+    newTimesTableBodyElement,
+    timesTableBodyElement
+  );
   timesTableBodyElement = newTimesTableBodyElement;
 }
 
 function buildSortKey(result) {
-  return `${EVENT_ORDER[result["Event"]].padStart(2, "0")}${result["Result"].padStart(7, "0")}`;
+  return `${EVENT_ORDER[result["Event"]].padStart(2, "0")}${result[
+    "Result"
+  ].padStart(7, "0")}`;
 }
 
 function createTableCellElement(value) {
