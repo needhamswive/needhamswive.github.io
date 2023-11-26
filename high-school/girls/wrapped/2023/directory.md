@@ -26,7 +26,7 @@
 - [Kelly McFarland](/high-school/girls/wrapped/2023/?athlete=kelly-mcfarland)
 - [Norah Mullen](/high-school/girls/wrapped/2023/?athlete=norah-mullen)
 - [Talia Muzikant](/high-school/girls/wrapped/2023/?athlete=talia-muzikant)
-- [Kylie O'high-school/girls/Hearn](/wrapped/2023/?athlete=kylie-ohearn)
+- [Kylie O'Hearn](/high-school/girls/wrapped/2023/?athlete=kylie-ohearn)
 - [Lyudmila Piatkov](/high-school/girls/wrapped/2023/?athlete=lyudmila-piatkov)
 - [Julia Rowe](/high-school/girls/wrapped/2023/?athlete=julia-rowe)
 - [Riley Serlenga](/high-school/girls/wrapped/2023/?athlete=riley-serlenga)
