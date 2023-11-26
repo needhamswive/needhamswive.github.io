@@ -19,7 +19,7 @@ The order of swimming events is as follows:
 - 400 yard freestyle relay
 
 For dual meets, diving will take place before swimming or after the 50 yard freestyle.
-At the Bay State Conference (BSC), diving and / or the 500 freestyle may take place the day before the other events.
+At Bay State Conference (BSC), diving and / or the 500 yard freestyle may take place the day before the other events.
 Otherwise, similar to sectionals and states, the diving and swimming events will take place simultaneously.
 
 ## Dual Meet
@@ -38,7 +38,7 @@ The point distribution is as follows:
 |                      |          | 4<sup>th</sup> place | 2 points |
 |                      |          | 5<sup>th</sup> place | 1 points |
 
-## Bay State Conference, Sections, States
+## Bay State Conference, Sectionals, States
 
 These meets use 16 place scoring.
 Each school is allowed 4 athletes per individual event.
