@@ -287,7 +287,7 @@ function preprocessAthlete(athlete) {
     "name": "practice-summary",
     "basicReplacements": {
       "practices-attended": stats.practicesAttended,
-      "practice-percentage": "12.34%",
+      "practice-percentage": stats.practicePercentage,
     }
   };
   if (stats.swimmer) {
@@ -322,7 +322,7 @@ function preprocessAthlete(athlete) {
     if (stats.statesQualifiedSwimEvents) {
       swimsSummarySlide.templateReplacements.push({
         "name": "states-qualified-swim-event",
-        "sets": stats.sectionalsQualifiedSwimEvents.map(eventName => {
+        "sets": stats.statesQualifiedSwimEvents.map(eventName => {
             return { "event": eventName };
           }),
       });
