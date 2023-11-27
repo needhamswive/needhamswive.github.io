@@ -1,0 +1,32 @@
+{% assign years = include.qualifying-standards | map: "year" | uniq %}
+
+{% for year in years %}
+
+{% assign qualifying-standards-for-year = include.qualifying-standards | where: "year", year %}
+{% assign groups = qualifying-standards-for-year | map: "group" | uniq %}
+
+## {{ year }}
+
+<table>
+  <thead>
+    <tr>
+      <th>Event</th>
+      {% for group in groups %}
+        <th>{{ group }}</th>
+      {% endfor %}
+    </tr>
+  </thead>
+  <tbody>
+    {% for event in include.events %}
+      <tr>
+        <td>{{ event | format_cell }}</td>
+        {% for group in groups %}
+          {% assign qualifying-standard = qualifying-standards-for-year | where: "event", event | where: "group", group %}
+          <td>{{ qualifying-standard.first.cutoff | format_cell }}</td>
+        {% endfor %}
+      </tr>
+    {% endfor %}
+  </tbody>
+</table>
+
+{% endfor %}
