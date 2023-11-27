@@ -360,7 +360,7 @@ function preprocessAthlete(athlete) {
       name: "dives-summary",
       basicReplacements: {
         "individual-dives": stats.individualDives,
-        "meets-dove": stats.meetsDove,
+        "meets-dove": stats.meetsDove.length,
       },
       templateReplacements: [
         {
