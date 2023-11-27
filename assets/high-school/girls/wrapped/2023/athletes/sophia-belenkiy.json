@@ -1,35 +1,33 @@
 {
-  "slides": [
-    {
-      "name": "welcome",
-      "basicReplacements": {
-        "name": "Sophia Belenkiy"
-      }
+  "stats": {
+    "beadsEarned": {
+      "blue": 6,
+      "gold": 0,
+      "white": 10
     },
-    {
-      "name": "practice-summary",
-      "basicReplacements": {
-        "practice-count": 25,
-        "practice-percentage": "78.13%",
-        "total-yardage": "63550"
-      },
-      "visible": [
-        "total-yardage"
-      ]
-    },
-    {
-      "name": "swims-summary",
-      "basicReplacements": {
-        "individual-swim-count": 9,
-        "relay-swim-count": 7,
-        "total-points": "3.5"
-      },
-      "visible": [
-        "scored-points"
-      ]
-    },
-    {
-      "name": "goodbye"
-    }
-  ]
+    "grade": 9,
+    "individualSwims": 18,
+    "name": "Sophia Belenkiy",
+    "practicesAttended": 36,
+    "practicePercentage": "83.72%",
+    "relaySwims": 16,
+    "meetsSwam": [
+      "Sectionals",
+      "States",
+      "Framingham",
+      "Newton North",
+      "Braintree",
+      "Acton-Boxborough",
+      "Wellesley",
+      "Milton",
+      "Walpole",
+      "Weymouth",
+      "Bay State Conference",
+      "Brookline",
+      "Natick"
+    ],
+    "swimPointsScored": "7.5 points",
+    "swimmer": true,
+    "yardsSwum": "63550"
+  }
 }

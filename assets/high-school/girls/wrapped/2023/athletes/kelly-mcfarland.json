@@ -1,35 +1,59 @@
 {
-  "slides": [
-    {
-      "name": "welcome",
-      "basicReplacements": {
-        "name": "Kelly McFarland"
+  "stats": {
+    "beadsEarned": {
+      "blue": 4,
+      "gold": 0,
+      "white": 10
+    },
+    "grade": 11,
+    "individualSwims": 6,
+    "name": "Kelly McFarland",
+    "practicesAttended": 32,
+    "practicePercentage": "74.42%",
+    "relaySwims": 12,
+    "meetsSwam": [
+      "Sectionals",
+      "States",
+      "Framingham",
+      "Newton North",
+      "Wellesley",
+      "Braintree",
+      "Acton-Boxborough",
+      "Milton",
+      "Walpole",
+      "Weymouth",
+      "Bay State Conference",
+      "Brookline",
+      "Natick"
+    ],
+    "diver": true,
+    "individualDives": 5,
+    "meetsDove": [
+      "Weymouth"
+    ],
+    "topScoringDives": [
+      {
+        "number": "201A",
+        "score": "25.50"
+      },
+      {
+        "number": "5211A",
+        "score": "22.95"
+      },
+      {
+        "number": "202C",
+        "score": "22.50"
+      },
+      {
+        "number": "102C",
+        "score": "21.00"
+      },
+      {
+        "number": "101C",
+        "score": "16.20"
       }
-    },
-    {
-      "name": "practice-summary",
-      "basicReplacements": {
-        "practice-count": 22,
-        "practice-percentage": "68.75%",
-        "total-yardage": "71750"
-      },
-      "visible": [
-        "total-yardage"
-      ]
-    },
-    {
-      "name": "swims-summary",
-      "basicReplacements": {
-        "individual-swim-count": 3,
-        "relay-swim-count": 3,
-        "total-points": "3"
-      },
-      "visible": [
-        "scored-points"
-      ]
-    },
-    {
-      "name": "goodbye"
-    }
-  ]
+    ],
+    "swimPointsScored": "5 points",
+    "swimmer": true
+  }
 }

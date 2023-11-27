@@ -1,35 +1,33 @@
 {
-  "slides": [
-    {
-      "name": "welcome",
-      "basicReplacements": {
-        "name": "Norah Mullen"
-      }
+  "stats": {
+    "beadsEarned": {
+      "blue": 8,
+      "gold": 0,
+      "white": 10
     },
-    {
-      "name": "practice-summary",
-      "basicReplacements": {
-        "practice-count": 29,
-        "practice-percentage": "90.63%",
-        "total-yardage": "77950"
-      },
-      "visible": [
-        "total-yardage"
-      ]
-    },
-    {
-      "name": "swims-summary",
-      "basicReplacements": {
-        "individual-swim-count": 9,
-        "relay-swim-count": 9,
-        "total-points": "0.5"
-      },
-      "visible": [
-        "scored-points"
-      ]
-    },
-    {
-      "name": "goodbye"
-    }
-  ]
+    "grade": 11,
+    "individualSwims": 17,
+    "name": "Norah Mullen",
+    "practicesAttended": 41,
+    "practicePercentage": "95.35%",
+    "relaySwims": 18,
+    "meetsSwam": [
+      "Sectionals",
+      "States",
+      "Framingham",
+      "Acton-Boxborough",
+      "Braintree",
+      "Wellesley",
+      "Newton North",
+      "Milton",
+      "Walpole",
+      "Weymouth",
+      "Bay State Conference",
+      "Brookline",
+      "Natick"
+    ],
+    "swimPointsScored": "6 points",
+    "swimmer": true,
+    "yardsSwum": "77950"
+  }
 }

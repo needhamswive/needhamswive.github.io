@@ -1,55 +1,45 @@
 {
-  "slides": [
-    {
-      "name": "welcome",
-      "basicReplacements": {
-        "name": "Ella Bobocea"
-      }
+  "stats": {
+    "beadsEarned": {
+      "blue": 47,
+      "gold": 0,
+      "white": 11
     },
-    {
-      "name": "practice-summary",
-      "basicReplacements": {
-        "practice-count": 22,
-        "practice-percentage": "68.75%",
-        "total-yardage": "51350"
-      },
-      "visible": [
-        "total-yardage"
-      ]
-    },
-    {
-      "name": "swims-summary",
-      "basicReplacements": {
-        "individual-swim-count": 10,
-        "relay-swim-count": 10,
-        "total-points": "63"
-      },
-      "templateReplacements": [
-        {
-          "name": "states-qualified-event",
-          "sets": [
-            {
-              "event": "200 IM"
-            },
-            {
-              "event": "50 Freestyle"
-            },
-            {
-              "event": "100 Freestyle"
-            },
-            {
-              "event": "100 Breaststroke"
-            }
-          ]
-        }
-      ],
-      "visible": [
-        "scored-points",
-        "states-qualified-events"
-      ]
-    },
-    {
-      "name": "goodbye-senior"
-    }
-  ]
+    "grade": 12,
+    "individualSwims": 23,
+    "name": "Isabela Bobocea",
+    "practicesAttended": 40,
+    "practicePercentage": "74.07%",
+    "relaySwims": 25,
+    "meetsSwam": [
+      "Sectionals",
+      "States",
+      "Framingham",
+      "Newton North",
+      "Acton-Boxborough",
+      "Braintree",
+      "Wellesley",
+      "Milton",
+      "Walpole",
+      "Weymouth",
+      "Bay State Conference",
+      "Brookline",
+      "Natick"
+    ],
+    "sectionalsQualifiedSwimEvents": [
+      "100 Breaststroke"
+    ],
+    "statesQualifiedSwimEvents": [
+      "200 Freestyle",
+      "200 IM",
+      "50 Freestyle",
+      "100 Butterfly",
+      "100 Freestyle",
+      "500 Freestyle",
+      "100 Backstroke"
+    ],
+    "swimPointsScored": "275 points",
+    "swimmer": true,
+    "yardsSwum": "51350"
+  }
 }

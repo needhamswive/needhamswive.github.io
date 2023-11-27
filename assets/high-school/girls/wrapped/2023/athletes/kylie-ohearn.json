@@ -1,64 +1,42 @@
 {
-  "slides": [
-    {
-      "name": "welcome",
-      "basicReplacements": {
-        "name": "Kylie O'Hearn"
-      }
+  "stats": {
+    "beadsEarned": {
+      "blue": 43,
+      "gold": 0,
+      "white": 11
     },
-    {
-      "name": "practice-summary",
-      "basicReplacements": {
-        "practice-count": 30,
-        "practice-percentage": "93.75%",
-        "total-yardage": "82750"
-      },
-      "visible": [
-        "total-yardage"
-      ]
-    },
-    {
-      "name": "swims-summary",
-      "basicReplacements": {
-        "individual-swim-count": 12,
-        "relay-swim-count": 12,
-        "total-points": "77"
-      },
-      "templateReplacements": [
-        {
-          "name": "sectionals-qualified-event",
-          "sets": [
-            {
-              "event": "50 Freestyle"
-            }
-          ]
-        },
-        {
-          "name": "states-qualified-event",
-          "sets": [
-            {
-              "event": "200 Freestyle"
-            },
-            {
-              "event": "100 Freestyle"
-            },
-            {
-              "event": "500 Freestyle"
-            },
-            {
-              "event": "100 Breaststroke"
-            }
-          ]
-        }
-      ],
-      "visible": [
-        "scored-points",
-        "sectionals-qualified-events",
-        "states-qualified-events"
-      ]
-    },
-    {
-      "name": "goodbye-senior"
-    }
-  ]
+    "grade": 12,
+    "individualSwims": 23,
+    "name": "Kylie O'Hearn",
+    "practicesAttended": 47,
+    "practicePercentage": "87.04%",
+    "relaySwims": 21,
+    "meetsSwam": [
+      "Sectionals",
+      "States",
+      "Framingham",
+      "Newton North",
+      "Braintree",
+      "Acton-Boxborough",
+      "Wellesley",
+      "Milton",
+      "Walpole",
+      "Weymouth",
+      "Bay State Conference",
+      "Brookline",
+      "Natick"
+    ],
+    "sectionalsQualifiedSwimEvents": [
+      "100 Breaststroke"
+    ],
+    "statesQualifiedSwimEvents": [
+      "200 Freestyle",
+      "50 Freestyle",
+      "100 Freestyle",
+      "500 Freestyle"
+    ],
+    "swimPointsScored": "219.5 points",
+    "swimmer": true,
+    "yardsSwum": "82750"
+  }
 }

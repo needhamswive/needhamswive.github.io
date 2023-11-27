@@ -1,55 +1,37 @@
 {
-  "slides": [
-    {
-      "name": "welcome",
-      "basicReplacements": {
-        "name": "Mila Piatkov"
-      }
+  "stats": {
+    "beadsEarned": {
+      "blue": 34,
+      "gold": 0,
+      "white": 11
     },
-    {
-      "name": "practice-summary",
-      "basicReplacements": {
-        "practice-count": 29,
-        "practice-percentage": "90.63%",
-        "total-yardage": "74700"
-      },
-      "visible": [
-        "total-yardage"
-      ]
-    },
-    {
-      "name": "swims-summary",
-      "basicReplacements": {
-        "individual-swim-count": 12,
-        "relay-swim-count": 10,
-        "total-points": "30.5"
-      },
-      "templateReplacements": [
-        {
-          "name": "sectionals-qualified-event",
-          "sets": [
-            {
-              "event": "200 Freestyle"
-            }
-          ]
-        },
-        {
-          "name": "states-qualified-event",
-          "sets": [
-            {
-              "event": "500 Freestyle"
-            }
-          ]
-        }
-      ],
-      "visible": [
-        "scored-points",
-        "sectionals-qualified-events",
-        "states-qualified-events"
-      ]
-    },
-    {
-      "name": "goodbye"
-    }
-  ]
+    "grade": 11,
+    "individualSwims": 25,
+    "name": "Lyudmila Piatkov",
+    "practicesAttended": 49,
+    "practicePercentage": "90.74%",
+    "relaySwims": 21,
+    "meetsSwam": [
+      "Sectionals",
+      "States",
+      "Framingham",
+      "Newton North",
+      "Braintree",
+      "Acton-Boxborough",
+      "Wellesley",
+      "Milton",
+      "Walpole",
+      "Weymouth",
+      "Bay State Conference",
+      "Brookline",
+      "Natick"
+    ],
+    "statesQualifiedSwimEvents": [
+      "200 Freestyle",
+      "500 Freestyle"
+    ],
+    "swimPointsScored": "109 points",
+    "swimmer": true,
+    "yardsSwum": "74700"
+  }
 }

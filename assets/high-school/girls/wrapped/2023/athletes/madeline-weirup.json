@@ -1,35 +1,33 @@
 {
-  "slides": [
-    {
-      "name": "welcome",
-      "basicReplacements": {
-        "name": "Maddy Weirup"
-      }
+  "stats": {
+    "beadsEarned": {
+      "blue": 0,
+      "gold": 0,
+      "white": 10
     },
-    {
-      "name": "practice-summary",
-      "basicReplacements": {
-        "practice-count": 29,
-        "practice-percentage": "90.63%",
-        "total-yardage": "81500"
-      },
-      "visible": [
-        "total-yardage"
-      ]
-    },
-    {
-      "name": "swims-summary",
-      "basicReplacements": {
-        "individual-swim-count": 6,
-        "relay-swim-count": 9,
-        "total-points": "1"
-      },
-      "visible": [
-        "scored-points"
-      ]
-    },
-    {
-      "name": "goodbye"
-    }
-  ]
+    "grade": 9,
+    "individualSwims": 12,
+    "name": "Madeline Weirup",
+    "practicesAttended": 41,
+    "practicePercentage": "95.35%",
+    "relaySwims": 16,
+    "meetsSwam": [
+      "Sectionals",
+      "States",
+      "Framingham",
+      "Newton North",
+      "Acton-Boxborough",
+      "Wellesley",
+      "Braintree",
+      "Milton",
+      "Walpole",
+      "Weymouth",
+      "Bay State Conference",
+      "Brookline",
+      "Natick"
+    ],
+    "swimPointsScored": "4 points",
+    "swimmer": true,
+    "yardsSwum": "81500"
+  }
 }

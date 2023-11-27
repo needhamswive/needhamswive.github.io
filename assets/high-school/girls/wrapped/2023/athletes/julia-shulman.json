@@ -1,64 +1,43 @@
 {
-  "slides": [
-    {
-      "name": "welcome",
-      "basicReplacements": {
-        "name": "Julia Shulman"
-      }
+  "stats": {
+    "beadsEarned": {
+      "blue": 51,
+      "gold": 0,
+      "white": 11
     },
-    {
-      "name": "practice-summary",
-      "basicReplacements": {
-        "practice-count": 29,
-        "practice-percentage": "90.63%",
-        "total-yardage": "79200"
-      },
-      "visible": [
-        "total-yardage"
-      ]
-    },
-    {
-      "name": "swims-summary",
-      "basicReplacements": {
-        "individual-swim-count": 11,
-        "relay-swim-count": 13,
-        "total-points": "74"
-      },
-      "templateReplacements": [
-        {
-          "name": "sectionals-qualified-event",
-          "sets": [
-            {
-              "event": "100 Breaststroke"
-            }
-          ]
-        },
-        {
-          "name": "states-qualified-event",
-          "sets": [
-            {
-              "event": "200 IM"
-            },
-            {
-              "event": "50 Freestyle"
-            },
-            {
-              "event": "100 Butterfly"
-            },
-            {
-              "event": "100 Freestyle"
-            }
-          ]
-        }
-      ],
-      "visible": [
-        "scored-points",
-        "sectionals-qualified-events",
-        "states-qualified-events"
-      ]
-    },
-    {
-      "name": "goodbye-senior"
-    }
-  ]
+    "grade": 12,
+    "individualSwims": 25,
+    "name": "Julia Shulman",
+    "practicesAttended": 50,
+    "practicePercentage": "92.59%",
+    "relaySwims": 27,
+    "meetsSwam": [
+      "Sectionals",
+      "States",
+      "Framingham",
+      "Newton North",
+      "Braintree",
+      "Acton-Boxborough",
+      "Wellesley",
+      "Milton",
+      "Walpole",
+      "Weymouth",
+      "Bay State Conference",
+      "Brookline",
+      "Natick"
+    ],
+    "sectionalsQualifiedSwimEvents": [
+      "100 Backstroke",
+      "100 Breaststroke"
+    ],
+    "statesQualifiedSwimEvents": [
+      "200 IM",
+      "50 Freestyle",
+      "100 Butterfly",
+      "100 Freestyle"
+    ],
+    "swimPointsScored": "264 points",
+    "swimmer": true,
+    "yardsSwum": "79200"
+  }
 }

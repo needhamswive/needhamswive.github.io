@@ -1,35 +1,33 @@
 {
-  "slides": [
-    {
-      "name": "welcome",
-      "basicReplacements": {
-        "name": "Genevieve Smith"
-      }
+  "stats": {
+    "beadsEarned": {
+      "blue": 8,
+      "gold": 0,
+      "white": 10
     },
-    {
-      "name": "practice-summary",
-      "basicReplacements": {
-        "practice-count": 32,
-        "practice-percentage": "100.00%",
-        "total-yardage": "82750"
-      },
-      "visible": [
-        "total-yardage"
-      ]
-    },
-    {
-      "name": "swims-summary",
-      "basicReplacements": {
-        "individual-swim-count": 10,
-        "relay-swim-count": 8,
-        "total-points": "6.5"
-      },
-      "visible": [
-        "scored-points"
-      ]
-    },
-    {
-      "name": "goodbye"
-    }
-  ]
+    "grade": 10,
+    "individualSwims": 19,
+    "name": "Genevieve Smith",
+    "practicesAttended": 43,
+    "practicePercentage": "100.00%",
+    "relaySwims": 16,
+    "meetsSwam": [
+      "Sectionals",
+      "States",
+      "Framingham",
+      "Newton North",
+      "Braintree",
+      "Acton-Boxborough",
+      "Wellesley",
+      "Milton",
+      "Walpole",
+      "Weymouth",
+      "Bay State Conference",
+      "Brookline",
+      "Natick"
+    ],
+    "swimPointsScored": "9 points",
+    "swimmer": true,
+    "yardsSwum": "82750"
+  }
 }

@@ -1,51 +1,47 @@
 {
-  "slides": [
-    {
-      "name": "welcome",
-      "basicReplacements": {
-        "name": "Haley Larson"
-      }
+  "stats": {
+    "beadsEarned": {
+      "blue": 0,
+      "gold": 0,
+      "white": 10
     },
-    {
-      "name": "practice-summary",
-      "basicReplacements": {
-        "practice-count": 21,
-        "practice-percentage": "100.00%"
-      }
-    },
-    {
-      "name": "dives-summary",
-      "basicReplacements": {
-        "dive-count": 8,
-        "meet-count": 2,
-        "point-count": "TODO"
+    "grade": 10,
+    "individualSwims": 0,
+    "name": "Haley Larson",
+    "practicesAttended": 25,
+    "practicePercentage": "89.29%",
+    "relaySwims": 1,
+    "diver": true,
+    "individualDives": 25,
+    "meetsDove": [
+      "Newton North",
+      "Wellesley",
+      "Weymouth",
+      "Brookline",
+      "Natick"
+    ],
+    "topScoringDives": [
+      {
+        "number": "201A",
+        "score": "24.23"
       },
-      "templateReplacements": [
-        {
-          "name": "dive-number-and-score",
-          "sets": [
-            {
-              "dive-number": "201A",
-              "dive-score": "22.95"
-            },
-            {
-              "dive-number": "5211A",
-              "dive-score": "21.6"
-            },
-            {
-              "dive-number": "401C",
-              "dive-score": "19.95"
-            },
-            {
-              "dive-number": "101C",
-              "dive-score": "14.4"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "name": "goodbye"
-    }
-  ]
+      {
+        "number": "401C",
+        "score": "22.05"
+      },
+      {
+        "number": "102C",
+        "score": "21.00"
+      },
+      {
+        "number": "101C",
+        "score": "15.30"
+      },
+      {
+        "number": "5211A",
+        "score": "14.85"
+      }
+    ],
+    "divePointsScored": "1 point"
+  }
 }

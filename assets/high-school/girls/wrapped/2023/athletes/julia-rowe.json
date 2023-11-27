@@ -1,46 +1,36 @@
 {
-  "slides": [
-    {
-      "name": "welcome",
-      "basicReplacements": {
-        "name": "Julia Rowe"
-      }
+  "stats": {
+    "beadsEarned": {
+      "blue": 15,
+      "gold": 0,
+      "white": 10
     },
-    {
-      "name": "practice-summary",
-      "basicReplacements": {
-        "practice-count": 30,
-        "practice-percentage": "93.75%",
-        "total-yardage": "79150"
-      },
-      "visible": [
-        "total-yardage"
-      ]
-    },
-    {
-      "name": "swims-summary",
-      "basicReplacements": {
-        "individual-swim-count": 8,
-        "relay-swim-count": 14,
-        "total-points": "12.5"
-      },
-      "templateReplacements": [
-        {
-          "name": "sectionals-qualified-event",
-          "sets": [
-            {
-              "event": "100 Butterfly"
-            }
-          ]
-        }
-      ],
-      "visible": [
-        "scored-points",
-        "sectionals-qualified-events"
-      ]
-    },
-    {
-      "name": "goodbye"
-    }
-  ]
+    "grade": 11,
+    "individualSwims": 17,
+    "name": "Julia Rowe",
+    "practicesAttended": 46,
+    "practicePercentage": "93.88%",
+    "relaySwims": 25,
+    "meetsSwam": [
+      "Sectionals",
+      "States",
+      "Framingham",
+      "Newton North",
+      "Braintree",
+      "Acton-Boxborough",
+      "Wellesley",
+      "Milton",
+      "Walpole",
+      "Weymouth",
+      "Bay State Conference",
+      "Brookline",
+      "Natick"
+    ],
+    "sectionalsQualifiedSwimEvents": [
+      "100 Butterfly"
+    ],
+    "swimPointsScored": "28.5 points",
+    "swimmer": true,
+    "yardsSwum": "79150"
+  }
 }

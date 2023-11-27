@@ -1,55 +1,52 @@
 {
-  "slides": [
-    {
-      "name": "welcome",
-      "basicReplacements": {
-        "name": "Courtney Tobin"
-      }
+  "stats": {
+    "beadsEarned": {
+      "blue": 0,
+      "gold": 0,
+      "white": 10
     },
-    {
-      "name": "practice-summary",
-      "basicReplacements": {
-        "practice-count": 18,
-        "practice-percentage": "85.71%"
-      }
-    },
-    {
-      "name": "dives-summary",
-      "basicReplacements": {
-        "dive-count": 30,
-        "meet-count": 5,
-        "point-count": "TODO"
+    "grade": 11,
+    "individualSwims": 0,
+    "name": "Courtney Tobin",
+    "practicesAttended": 25,
+    "practicePercentage": "89.29%",
+    "relaySwims": 1,
+    "diver": true,
+    "individualDives": 60,
+    "meetsDove": [
+      "Framingham",
+      "Newton North",
+      "Braintree",
+      "Acton-Boxborough",
+      "Wellesley",
+      "Walpole",
+      "Weymouth",
+      "Bay State Conference",
+      "Brookline",
+      "Natick"
+    ],
+    "topScoringDives": [
+      {
+        "number": "5221D",
+        "score": "28.05"
       },
-      "templateReplacements": [
-        {
-          "name": "dive-number-and-score",
-          "sets": [
-            {
-              "dive-number": "301C",
-              "dive-score": "31.2"
-            },
-            {
-              "dive-number": "103C",
-              "dive-score": "29.6"
-            },
-            {
-              "dive-number": "402C",
-              "dive-score": "28.8"
-            },
-            {
-              "dive-number": "5122D",
-              "dive-score": "28.5"
-            },
-            {
-              "dive-number": "201C",
-              "dive-score": "28.125"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "name": "goodbye"
-    }
-  ]
+      {
+        "number": "103C",
+        "score": "28.00"
+      },
+      {
+        "number": "402C",
+        "score": "28.00"
+      },
+      {
+        "number": "301C",
+        "score": "27.20"
+      },
+      {
+        "number": "302C",
+        "score": "26.40"
+      }
+    ],
+    "divePointsScored": "8 points"
+  }
 }

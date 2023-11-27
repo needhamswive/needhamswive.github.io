@@ -1,58 +1,43 @@
 {
-  "slides": [
-    {
-      "name": "welcome",
-      "basicReplacements": {
-        "name": "Becky Hwang"
-      }
+  "stats": {
+    "beadsEarned": {
+      "blue": 50,
+      "gold": 0,
+      "white": 11
     },
-    {
-      "name": "practice-summary",
-      "basicReplacements": {
-        "practice-count": 29,
-        "practice-percentage": "90.63%",
-        "total-yardage": "74200"
-      },
-      "visible": [
-        "total-yardage"
-      ]
-    },
-    {
-      "name": "swims-summary",
-      "basicReplacements": {
-        "individual-swim-count": 10,
-        "relay-swim-count": 10,
-        "total-points": "44"
-      },
-      "templateReplacements": [
-        {
-          "name": "states-qualified-event",
-          "sets": [
-            {
-              "event": "200 IM"
-            },
-            {
-              "event": "50 Freestyle"
-            },
-            {
-              "event": "100 Freestyle"
-            },
-            {
-              "event": "100 Backstroke"
-            },
-            {
-              "event": "100 Breaststroke"
-            }
-          ]
-        }
-      ],
-      "visible": [
-        "scored-points",
-        "states-qualified-events"
-      ]
-    },
-    {
-      "name": "goodbye"
-    }
-  ]
+    "grade": 11,
+    "individualSwims": 24,
+    "name": "Rebecca Hwang",
+    "practicesAttended": 49,
+    "practicePercentage": "90.74%",
+    "relaySwims": 27,
+    "meetsSwam": [
+      "Sectionals",
+      "States",
+      "Framingham",
+      "Newton North",
+      "Braintree",
+      "Acton-Boxborough",
+      "Wellesley",
+      "Milton",
+      "Walpole",
+      "Weymouth",
+      "Bay State Conference",
+      "Brookline",
+      "Natick"
+    ],
+    "sectionalsQualifiedSwimEvents": [
+      "50 Freestyle",
+      "100 Freestyle",
+      "500 Freestyle"
+    ],
+    "statesQualifiedSwimEvents": [
+      "200 IM",
+      "100 Backstroke",
+      "100 Breaststroke"
+    ],
+    "swimPointsScored": "221.5 points",
+    "swimmer": true,
+    "yardsSwum": "74200"
+  }
 }

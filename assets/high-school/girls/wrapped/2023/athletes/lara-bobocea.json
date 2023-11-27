@@ -1,34 +1,32 @@
 {
-  "slides": [
-    {
-      "name": "welcome",
-      "basicReplacements": {
-        "name": "Lara Bobocea"
-      }
+  "stats": {
+    "beadsEarned": {
+      "blue": 0,
+      "gold": 0,
+      "white": 10
     },
-    {
-      "name": "practice-summary",
-      "basicReplacements": {
-        "practice-count": 19,
-        "practice-percentage": "59.38%",
-        "total-yardage": "45750"
-      },
-      "visible": [
-        "total-yardage"
-      ]
-    },
-    {
-      "name": "swims-summary",
-      "basicReplacements": {
-        "individual-swim-count": 6,
-        "relay-swim-count": 3
-      },
-      "visible": [
-        "no-points"
-      ]
-    },
-    {
-      "name": "goodbye"
-    }
-  ]
+    "grade": 9,
+    "individualSwims": 15,
+    "name": "Lara Bobocea",
+    "practicesAttended": 29,
+    "practicePercentage": "67.44%",
+    "relaySwims": 10,
+    "meetsSwam": [
+      "Sectionals",
+      "States",
+      "Framingham",
+      "Newton North",
+      "Acton-Boxborough",
+      "Wellesley",
+      "Braintree",
+      "Milton",
+      "Walpole",
+      "Weymouth",
+      "Bay State Conference",
+      "Brookline",
+      "Natick"
+    ],
+    "swimmer": true,
+    "yardsSwum": "45750"
+  }
 }

@@ -1,35 +1,36 @@
 {
-  "slides": [
-    {
-      "name": "welcome",
-      "basicReplacements": {
-        "name": "Emma Manning"
-      }
+  "stats": {
+    "beadsEarned": {
+      "blue": 17,
+      "gold": 0,
+      "white": 10
     },
-    {
-      "name": "practice-summary",
-      "basicReplacements": {
-        "practice-count": 31,
-        "practice-percentage": "96.88%",
-        "total-yardage": "82750"
-      },
-      "visible": [
-        "total-yardage"
-      ]
-    },
-    {
-      "name": "swims-summary",
-      "basicReplacements": {
-        "individual-swim-count": 9,
-        "relay-swim-count": 14,
-        "total-points": "7"
-      },
-      "visible": [
-        "scored-points"
-      ]
-    },
-    {
-      "name": "goodbye"
-    }
-  ]
+    "grade": 10,
+    "individualSwims": 19,
+    "name": "Emma Manning",
+    "practicesAttended": 48,
+    "practicePercentage": "97.96%",
+    "relaySwims": 25,
+    "meetsSwam": [
+      "Sectionals",
+      "States",
+      "Framingham",
+      "Newton North",
+      "Braintree",
+      "Acton-Boxborough",
+      "Wellesley",
+      "Milton",
+      "Walpole",
+      "Weymouth",
+      "Bay State Conference",
+      "Brookline",
+      "Natick"
+    ],
+    "sectionalsQualifiedSwimEvents": [
+      "100 Freestyle"
+    ],
+    "swimPointsScored": "36 points",
+    "swimmer": true,
+    "yardsSwum": "82750"
+  }
 }

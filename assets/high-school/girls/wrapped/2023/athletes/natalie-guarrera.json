@@ -1,58 +1,40 @@
 {
-  "slides": [
-    {
-      "name": "welcome",
-      "basicReplacements": {
-        "name": "Natalie Guarrera"
-      }
+  "stats": {
+    "beadsEarned": {
+      "blue": 38,
+      "gold": 0,
+      "white": 11
     },
-    {
-      "name": "practice-summary",
-      "basicReplacements": {
-        "practice-count": 31,
-        "practice-percentage": "96.88%",
-        "total-yardage": "82750"
-      },
-      "visible": [
-        "total-yardage"
-      ]
-    },
-    {
-      "name": "swims-summary",
-      "basicReplacements": {
-        "individual-swim-count": 8,
-        "relay-swim-count": 11,
-        "total-points": "22.5"
-      },
-      "templateReplacements": [
-        {
-          "name": "sectionals-qualified-event",
-          "sets": [
-            {
-              "event": "200 IM"
-            }
-          ]
-        },
-        {
-          "name": "states-qualified-event",
-          "sets": [
-            {
-              "event": "100 Butterfly"
-            },
-            {
-              "event": "100 Backstroke"
-            }
-          ]
-        }
-      ],
-      "visible": [
-        "scored-points",
-        "sectionals-qualified-events",
-        "states-qualified-events"
-      ]
-    },
-    {
-      "name": "goodbye"
-    }
-  ]
+    "grade": 10,
+    "individualSwims": 21,
+    "name": "Natalie Guarrera",
+    "practicesAttended": 53,
+    "practicePercentage": "98.15%",
+    "relaySwims": 25,
+    "meetsSwam": [
+      "Sectionals",
+      "States",
+      "Framingham",
+      "Newton North",
+      "Braintree",
+      "Acton-Boxborough",
+      "Wellesley",
+      "Milton",
+      "Walpole",
+      "Weymouth",
+      "Bay State Conference",
+      "Brookline",
+      "Natick"
+    ],
+    "sectionalsQualifiedSwimEvents": [
+      "200 IM"
+    ],
+    "statesQualifiedSwimEvents": [
+      "100 Butterfly",
+      "100 Backstroke"
+    ],
+    "swimPointsScored": "105.5 points",
+    "swimmer": true,
+    "yardsSwum": "82750"
+  }
 }

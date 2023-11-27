@@ -1,55 +1,55 @@
 {
-  "slides": [
-    {
-      "name": "welcome",
-      "basicReplacements": {
-        "name": "Izzy Lemaire"
-      }
+  "stats": {
+    "beadsEarned": {
+      "blue": 7,
+      "gold": 0,
+      "white": 11
     },
-    {
-      "name": "practice-summary",
-      "basicReplacements": {
-        "practice-count": 20,
-        "practice-percentage": "95.24%"
-      }
-    },
-    {
-      "name": "dives-summary",
-      "basicReplacements": {
-        "dive-count": 36,
-        "meet-count": 6,
-        "point-count": "TODO"
+    "grade": 11,
+    "individualSwims": 0,
+    "name": "Isabelle Lemaire",
+    "practicesAttended": 35,
+    "practicePercentage": "94.59%",
+    "relaySwims": 0,
+    "diver": true,
+    "individualDives": 85,
+    "meetsDove": [
+      "Sectionals",
+      "States",
+      "Framingham",
+      "Newton North",
+      "Braintree",
+      "Acton-Boxborough",
+      "Wellesley",
+      "Milton",
+      "Walpole",
+      "Weymouth",
+      "Bay State Conference",
+      "Brookline",
+      "Natick"
+    ],
+    "topScoringDives": [
+      {
+        "number": "403C",
+        "score": "36.30"
       },
-      "templateReplacements": [
-        {
-          "name": "dive-number-and-score",
-          "sets": [
-            {
-              "dive-number": "104C",
-              "dive-score": "42.9"
-            },
-            {
-              "dive-number": "403C",
-              "dive-score": "37.95"
-            },
-            {
-              "dive-number": "103B",
-              "dive-score": "32.3"
-            },
-            {
-              "dive-number": "5122D",
-              "dive-score": "32.3"
-            },
-            {
-              "dive-number": "202A",
-              "dive-score": "31.875"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "name": "goodbye"
-    }
-  ]
+      {
+        "number": "104C",
+        "score": "35.20"
+      },
+      {
+        "number": "5223D",
+        "score": "34.50"
+      },
+      {
+        "number": "301C",
+        "score": "31.20"
+      },
+      {
+        "number": "204C",
+        "score": "30.00"
+      }
+    ],
+    "divePointsScored": "44 points"
+  }
 }

@@ -1,34 +1,32 @@
 {
-  "slides": [
-    {
-      "name": "welcome",
-      "basicReplacements": {
-        "name": "Emma Zhang"
-      }
+  "stats": {
+    "beadsEarned": {
+      "blue": 1,
+      "gold": 0,
+      "white": 10
     },
-    {
-      "name": "practice-summary",
-      "basicReplacements": {
-        "practice-count": 26,
-        "practice-percentage": "81.25%",
-        "total-yardage": "68400"
-      },
-      "visible": [
-        "total-yardage"
-      ]
-    },
-    {
-      "name": "swims-summary",
-      "basicReplacements": {
-        "individual-swim-count": 7,
-        "relay-swim-count": 7
-      },
-      "visible": [
-        "no-points"
-      ]
-    },
-    {
-      "name": "goodbye"
-    }
-  ]
+    "grade": 11,
+    "individualSwims": 15,
+    "name": "Emma Zhang",
+    "practicesAttended": 35,
+    "practicePercentage": "81.40%",
+    "relaySwims": 14,
+    "meetsSwam": [
+      "Sectionals",
+      "States",
+      "Framingham",
+      "Newton North",
+      "Braintree",
+      "Wellesley",
+      "Acton-Boxborough",
+      "Milton",
+      "Walpole",
+      "Weymouth",
+      "Bay State Conference",
+      "Brookline",
+      "Natick"
+    ],
+    "swimmer": true,
+    "yardsSwum": "68400"
+  }
 }

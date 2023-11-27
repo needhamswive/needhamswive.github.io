@@ -1,58 +1,42 @@
 {
-  "slides": [
-    {
-      "name": "welcome",
-      "basicReplacements": {
-        "name": "Sophie Guarrera"
-      }
+  "stats": {
+    "beadsEarned": {
+      "blue": 46,
+      "gold": 0,
+      "white": 11
     },
-    {
-      "name": "practice-summary",
-      "basicReplacements": {
-        "practice-count": 31,
-        "practice-percentage": "96.88%",
-        "total-yardage": "82750"
-      },
-      "visible": [
-        "total-yardage"
-      ]
-    },
-    {
-      "name": "swims-summary",
-      "basicReplacements": {
-        "individual-swim-count": 8,
-        "relay-swim-count": 12,
-        "total-points": "36.5"
-      },
-      "templateReplacements": [
-        {
-          "name": "sectionals-qualified-event",
-          "sets": [
-            {
-              "event": "50 Freestyle"
-            }
-          ]
-        },
-        {
-          "name": "states-qualified-event",
-          "sets": [
-            {
-              "event": "200 Freestyle"
-            },
-            {
-              "event": "100 Butterfly"
-            }
-          ]
-        }
-      ],
-      "visible": [
-        "scored-points",
-        "sectionals-qualified-events",
-        "states-qualified-events"
-      ]
-    },
-    {
-      "name": "goodbye-senior"
-    }
-  ]
+    "grade": 12,
+    "individualSwims": 24,
+    "name": "Sophie Guarrera",
+    "practicesAttended": 50,
+    "practicePercentage": "92.59%",
+    "relaySwims": 25,
+    "meetsSwam": [
+      "Sectionals",
+      "States",
+      "Framingham",
+      "Newton North",
+      "Braintree",
+      "Acton-Boxborough",
+      "Wellesley",
+      "Milton",
+      "Walpole",
+      "Weymouth",
+      "Bay State Conference",
+      "Brookline",
+      "Natick"
+    ],
+    "sectionalsQualifiedSwimEvents": [
+      "100 Freestyle",
+      "500 Freestyle"
+    ],
+    "statesQualifiedSwimEvents": [
+      "200 Freestyle",
+      "50 Freestyle",
+      "100 Butterfly"
+    ],
+    "swimPointsScored": "171 points",
+    "swimmer": true,
+    "yardsSwum": "82750"
+  }
 }

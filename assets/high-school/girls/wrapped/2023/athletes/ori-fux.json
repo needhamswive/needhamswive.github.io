@@ -1,52 +1,42 @@
 {
-  "slides": [
-    {
-      "name": "welcome",
-      "basicReplacements": {
-        "name": "Ori Fux"
-      }
+  "stats": {
+    "beadsEarned": {
+      "blue": 41,
+      "gold": 0,
+      "white": 11
     },
-    {
-      "name": "practice-summary",
-      "basicReplacements": {
-        "practice-count": 29,
-        "practice-percentage": "90.63%",
-        "total-yardage": "79150"
-      },
-      "visible": [
-        "total-yardage"
-      ]
-    },
-    {
-      "name": "swims-summary",
-      "basicReplacements": {
-        "individual-swim-count": 10,
-        "relay-swim-count": 10,
-        "total-points": "29"
-      },
-      "templateReplacements": [
-        {
-          "name": "states-qualified-event",
-          "sets": [
-            {
-              "event": "200 IM"
-            },
-            {
-              "event": "100 Freestyle"
-            },
-            {
-              "event": "100 Backstroke"
-            }
-          ]
-        }
-      ],
-      "visible": [
-        "scored-points",
-        "states-qualified-events"
-      ]
-    },
-    {
-      "name": "goodbye-senior"
-    }
-  ]
+    "grade": 12,
+    "individualSwims": 26,
+    "name": "Ori Fux",
+    "practicesAttended": 50,
+    "practicePercentage": "92.59%",
+    "relaySwims": 21,
+    "meetsSwam": [
+      "Sectionals",
+      "States",
+      "Framingham",
+      "Newton North",
+      "Braintree",
+      "Acton-Boxborough",
+      "Wellesley",
+      "Milton",
+      "Walpole",
+      "Weymouth",
+      "Bay State Conference",
+      "Brookline",
+      "Natick"
+    ],
+    "sectionalsQualifiedSwimEvents": [
+      "100 Butterfly",
+      "100 Freestyle",
+      "500 Freestyle"
+    ],
+    "statesQualifiedSwimEvents": [
+      "200 IM",
+      "100 Backstroke"
+    ],
+    "swimPointsScored": "143 points",
+    "swimmer": true,
+    "yardsSwum": "79150"
+  }
 }

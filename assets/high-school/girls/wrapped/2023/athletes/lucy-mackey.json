@@ -1,58 +1,41 @@
 {
-  "slides": [
-    {
-      "name": "welcome",
-      "basicReplacements": {
-        "name": "Lucy Mackey"
-      }
+  "stats": {
+    "beadsEarned": {
+      "blue": 52,
+      "gold": 0,
+      "white": 11
     },
-    {
-      "name": "practice-summary",
-      "basicReplacements": {
-        "practice-count": 30,
-        "practice-percentage": "93.75%",
-        "total-yardage": "78250"
-      },
-      "visible": [
-        "total-yardage"
-      ]
-    },
-    {
-      "name": "swims-summary",
-      "basicReplacements": {
-        "individual-swim-count": 10,
-        "relay-swim-count": 14,
-        "total-points": "79.5"
-      },
-      "templateReplacements": [
-        {
-          "name": "states-qualified-event",
-          "sets": [
-            {
-              "event": "200 Freestyle"
-            },
-            {
-              "event": "50 Freestyle"
-            },
-            {
-              "event": "100 Freestyle"
-            },
-            {
-              "event": "500 Freestyle"
-            },
-            {
-              "event": "100 Backstroke"
-            }
-          ]
-        }
-      ],
-      "visible": [
-        "scored-points",
-        "states-qualified-events"
-      ]
-    },
-    {
-      "name": "goodbye-senior"
-    }
-  ]
+    "grade": 12,
+    "individualSwims": 24,
+    "name": "Lucy Mackey",
+    "practicesAttended": 52,
+    "practicePercentage": "96.30%",
+    "relaySwims": 28,
+    "meetsSwam": [
+      "Sectionals",
+      "States",
+      "Framingham",
+      "Newton North",
+      "Braintree",
+      "Acton-Boxborough",
+      "Wellesley",
+      "Milton",
+      "Walpole",
+      "Weymouth",
+      "Bay State Conference",
+      "Brookline",
+      "Natick"
+    ],
+    "statesQualifiedSwimEvents": [
+      "200 Freestyle",
+      "50 Freestyle",
+      "100 Butterfly",
+      "100 Freestyle",
+      "500 Freestyle",
+      "100 Backstroke"
+    ],
+    "swimPointsScored": "295.5 points",
+    "swimmer": true,
+    "yardsSwum": "78250"
+  }
 }

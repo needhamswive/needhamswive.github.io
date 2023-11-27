@@ -1,49 +1,40 @@
 {
-  "slides": [
-    {
-      "name": "welcome",
-      "basicReplacements": {
-        "name": "Bella Tzouros"
-      }
+  "stats": {
+    "beadsEarned": {
+      "blue": 16,
+      "gold": 0,
+      "white": 11
     },
-    {
-      "name": "practice-summary",
-      "basicReplacements": {
-        "practice-count": 23,
-        "practice-percentage": "71.88%",
-        "total-yardage": "41150"
-      },
-      "visible": [
-        "total-yardage"
-      ]
-    },
-    {
-      "name": "swims-summary",
-      "basicReplacements": {
-        "individual-swim-count": 10,
-        "relay-swim-count": 12,
-        "total-points": "14.5"
-      },
-      "templateReplacements": [
-        {
-          "name": "sectionals-qualified-event",
-          "sets": [
-            {
-              "event": "200 Freestyle"
-            },
-            {
-              "event": "100 Breaststroke"
-            }
-          ]
-        }
-      ],
-      "visible": [
-        "scored-points",
-        "sectionals-qualified-events"
-      ]
-    },
-    {
-      "name": "goodbye"
-    }
-  ]
+    "grade": 9,
+    "individualSwims": 23,
+    "name": "Isabella Tzouros",
+    "practicesAttended": 40,
+    "practicePercentage": "74.07%",
+    "relaySwims": 18,
+    "meetsSwam": [
+      "Sectionals",
+      "States",
+      "Framingham",
+      "Newton North",
+      "Braintree",
+      "Acton-Boxborough",
+      "Wellesley",
+      "Milton",
+      "Walpole",
+      "Weymouth",
+      "Bay State Conference",
+      "Brookline",
+      "Natick"
+    ],
+    "sectionalsQualifiedSwimEvents": [
+      "200 Freestyle",
+      "100 Breaststroke"
+    ],
+    "statesQualifiedSwimEvents": [
+      "100 Freestyle"
+    ],
+    "swimPointsScored": "75 points",
+    "swimmer": true,
+    "yardsSwum": "41150"
+  }
 }

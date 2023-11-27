@@ -1,35 +1,33 @@
 {
-  "slides": [
-    {
-      "name": "welcome",
-      "basicReplacements": {
-        "name": "Riley Serlenga"
-      }
+  "stats": {
+    "beadsEarned": {
+      "blue": 1,
+      "gold": 0,
+      "white": 10
     },
-    {
-      "name": "practice-summary",
-      "basicReplacements": {
-        "practice-count": 30,
-        "practice-percentage": "93.75%",
-        "total-yardage": "81500"
-      },
-      "visible": [
-        "total-yardage"
-      ]
-    },
-    {
-      "name": "swims-summary",
-      "basicReplacements": {
-        "individual-swim-count": 10,
-        "relay-swim-count": 5,
-        "total-points": "3"
-      },
-      "visible": [
-        "scored-points"
-      ]
-    },
-    {
-      "name": "goodbye"
-    }
-  ]
+    "grade": 11,
+    "individualSwims": 18,
+    "name": "Riley Serlenga",
+    "practicesAttended": 41,
+    "practicePercentage": "95.35%",
+    "relaySwims": 13,
+    "meetsSwam": [
+      "Sectionals",
+      "States",
+      "Framingham",
+      "Acton-Boxborough",
+      "Braintree",
+      "Wellesley",
+      "Newton North",
+      "Milton",
+      "Walpole",
+      "Weymouth",
+      "Bay State Conference",
+      "Brookline",
+      "Natick"
+    ],
+    "swimPointsScored": "6 points",
+    "swimmer": true,
+    "yardsSwum": "81500"
+  }
 }

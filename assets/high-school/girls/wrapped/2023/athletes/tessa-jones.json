@@ -1,34 +1,33 @@
 {
-  "slides": [
-    {
-      "name": "welcome",
-      "basicReplacements": {
-        "name": "Tessa Jones"
-      }
+  "stats": {
+    "beadsEarned": {
+      "blue": 5,
+      "gold": 0,
+      "white": 10
     },
-    {
-      "name": "practice-summary",
-      "basicReplacements": {
-        "practice-count": 25,
-        "practice-percentage": "78.13%",
-        "total-yardage": "73450"
-      },
-      "visible": [
-        "total-yardage"
-      ]
-    },
-    {
-      "name": "swims-summary",
-      "basicReplacements": {
-        "individual-swim-count": 2,
-        "relay-swim-count": 7
-      },
-      "visible": [
-        "no-points"
-      ]
-    },
-    {
-      "name": "goodbye"
-    }
-  ]
+    "grade": 9,
+    "individualSwims": 11,
+    "name": "Tessa Jones",
+    "practicesAttended": 37,
+    "practicePercentage": "86.05%",
+    "relaySwims": 15,
+    "meetsSwam": [
+      "Sectionals",
+      "States",
+      "Framingham",
+      "Newton North",
+      "Acton-Boxborough",
+      "Wellesley",
+      "Braintree",
+      "Milton",
+      "Walpole",
+      "Weymouth",
+      "Bay State Conference",
+      "Brookline",
+      "Natick"
+    ],
+    "swimPointsScored": "11.5 points",
+    "swimmer": true,
+    "yardsSwum": "73450"
+  }
 }

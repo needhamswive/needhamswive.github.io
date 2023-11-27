@@ -1,34 +1,33 @@
 {
-  "slides": [
-    {
-      "name": "welcome",
-      "basicReplacements": {
-        "name": "Nora Horton"
-      }
+  "stats": {
+    "beadsEarned": {
+      "blue": 1,
+      "gold": 0,
+      "white": 10
     },
-    {
-      "name": "practice-summary",
-      "basicReplacements": {
-        "practice-count": 28,
-        "practice-percentage": "87.50%",
-        "total-yardage": "73000"
-      },
-      "visible": [
-        "total-yardage"
-      ]
-    },
-    {
-      "name": "swims-summary",
-      "basicReplacements": {
-        "individual-swim-count": 9,
-        "relay-swim-count": 4
-      },
-      "visible": [
-        "no-points"
-      ]
-    },
-    {
-      "name": "goodbye"
-    }
-  ]
+    "grade": 9,
+    "individualSwims": 18,
+    "name": "Nora Horton",
+    "practicesAttended": 38,
+    "practicePercentage": "88.37%",
+    "relaySwims": 11,
+    "meetsSwam": [
+      "Sectionals",
+      "States",
+      "Framingham",
+      "Newton North",
+      "Braintree",
+      "Acton-Boxborough",
+      "Wellesley",
+      "Milton",
+      "Walpole",
+      "Weymouth",
+      "Bay State Conference",
+      "Brookline",
+      "Natick"
+    ],
+    "swimPointsScored": "8.5 points",
+    "swimmer": true,
+    "yardsSwum": "73000"
+  }
 }

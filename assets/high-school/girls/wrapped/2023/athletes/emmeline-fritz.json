@@ -1,34 +1,32 @@
 {
-  "slides": [
-    {
-      "name": "welcome",
-      "basicReplacements": {
-        "name": "Emm Fritz"
-      }
+  "stats": {
+    "beadsEarned": {
+      "blue": 0,
+      "gold": 0,
+      "white": 10
     },
-    {
-      "name": "practice-summary",
-      "basicReplacements": {
-        "practice-count": 31,
-        "practice-percentage": "96.88%",
-        "total-yardage": "82750"
-      },
-      "visible": [
-        "total-yardage"
-      ]
-    },
-    {
-      "name": "swims-summary",
-      "basicReplacements": {
-        "individual-swim-count": 9,
-        "relay-swim-count": 2
-      },
-      "visible": [
-        "no-points"
-      ]
-    },
-    {
-      "name": "goodbye"
-    }
-  ]
+    "grade": 9,
+    "individualSwims": 14,
+    "name": "Emmeline Fritz",
+    "practicesAttended": 38,
+    "practicePercentage": "88.37%",
+    "relaySwims": 7,
+    "meetsSwam": [
+      "Sectionals",
+      "States",
+      "Framingham",
+      "Newton North",
+      "Braintree",
+      "Acton-Boxborough",
+      "Wellesley",
+      "Milton",
+      "Walpole",
+      "Weymouth",
+      "Bay State Conference",
+      "Brookline",
+      "Natick"
+    ],
+    "swimmer": true,
+    "yardsSwum": "82750"
+  }
 }

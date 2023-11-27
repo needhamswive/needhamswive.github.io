@@ -1,58 +1,40 @@
 {
-  "slides": [
-    {
-      "name": "welcome",
-      "basicReplacements": {
-        "name": "Chloe Wukitch"
-      }
+  "stats": {
+    "beadsEarned": {
+      "blue": 49,
+      "gold": 0,
+      "white": 11
     },
-    {
-      "name": "practice-summary",
-      "basicReplacements": {
-        "practice-count": 27,
-        "practice-percentage": "84.38%",
-        "total-yardage": "63350"
-      },
-      "visible": [
-        "total-yardage"
-      ]
-    },
-    {
-      "name": "swims-summary",
-      "basicReplacements": {
-        "individual-swim-count": 11,
-        "relay-swim-count": 13,
-        "total-points": "78"
-      },
-      "templateReplacements": [
-        {
-          "name": "states-qualified-event",
-          "sets": [
-            {
-              "event": "200 Freestyle"
-            },
-            {
-              "event": "50 Freestyle"
-            },
-            {
-              "event": "100 Butterfly"
-            },
-            {
-              "event": "500 Freestyle"
-            },
-            {
-              "event": "100 Backstroke"
-            }
-          ]
-        }
-      ],
-      "visible": [
-        "scored-points",
-        "states-qualified-events"
-      ]
-    },
-    {
-      "name": "goodbye-senior"
-    }
-  ]
+    "grade": 12,
+    "individualSwims": 23,
+    "name": "Chloe Wukitch",
+    "practicesAttended": 49,
+    "practicePercentage": "90.74%",
+    "relaySwims": 28,
+    "meetsSwam": [
+      "Sectionals",
+      "States",
+      "Framingham",
+      "Newton North",
+      "Braintree",
+      "Acton-Boxborough",
+      "Wellesley",
+      "Milton",
+      "Walpole",
+      "Weymouth",
+      "Bay State Conference",
+      "Brookline",
+      "Natick"
+    ],
+    "statesQualifiedSwimEvents": [
+      "200 Freestyle",
+      "50 Freestyle",
+      "100 Butterfly",
+      "500 Freestyle",
+      "100 Backstroke"
+    ],
+    "swimPointsScored": "294 points",
+    "swimmer": true,
+    "yardsSwum": "63350"
+  }
 }

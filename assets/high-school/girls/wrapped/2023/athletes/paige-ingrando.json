@@ -1,46 +1,36 @@
 {
-  "slides": [
-    {
-      "name": "welcome",
-      "basicReplacements": {
-        "name": "Paige Ingrando"
-      }
+  "stats": {
+    "beadsEarned": {
+      "blue": 18,
+      "gold": 0,
+      "white": 10
     },
-    {
-      "name": "practice-summary",
-      "basicReplacements": {
-        "practice-count": 31,
-        "practice-percentage": "96.88%",
-        "total-yardage": "77750"
-      },
-      "visible": [
-        "total-yardage"
-      ]
-    },
-    {
-      "name": "swims-summary",
-      "basicReplacements": {
-        "individual-swim-count": 7,
-        "relay-swim-count": 10,
-        "total-points": "15.5"
-      },
-      "templateReplacements": [
-        {
-          "name": "sectionals-qualified-event",
-          "sets": [
-            {
-              "event": "100 Breaststroke"
-            }
-          ]
-        }
-      ],
-      "visible": [
-        "scored-points",
-        "sectionals-qualified-events"
-      ]
-    },
-    {
-      "name": "goodbye"
-    }
-  ]
+    "grade": 10,
+    "individualSwims": 20,
+    "name": "Paige Ingrando",
+    "practicesAttended": 48,
+    "practicePercentage": "97.96%",
+    "relaySwims": 20,
+    "meetsSwam": [
+      "Sectionals",
+      "States",
+      "Framingham",
+      "Newton North",
+      "Braintree",
+      "Acton-Boxborough",
+      "Wellesley",
+      "Milton",
+      "Walpole",
+      "Weymouth",
+      "Bay State Conference",
+      "Brookline",
+      "Natick"
+    ],
+    "sectionalsQualifiedSwimEvents": [
+      "100 Breaststroke"
+    ],
+    "swimPointsScored": "70 points",
+    "swimmer": true,
+    "yardsSwum": "77750"
+  }
 }
