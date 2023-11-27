@@ -8,5 +8,5 @@ title: MIAA Fall Girls Sectionals Rankings
 
 {% assign school-rankings = site.data.high-school.archives.fall.girls.sectionals.school-rankings %}
 
-{% include championship-school-rankings
+{% include championship-school-rankings.html
   school-rankings = school-rankings %}

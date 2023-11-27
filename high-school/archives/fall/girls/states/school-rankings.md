@@ -8,5 +8,5 @@ title: MIAA Fall Girls States Rankings
 
 {% assign school-rankings = site.data.high-school.archives.fall.girls.states.school-rankings %}
 
-{% include championship-school-rankings
+{% include championship-school-rankings.html
   school-rankings = school-rankings %}
