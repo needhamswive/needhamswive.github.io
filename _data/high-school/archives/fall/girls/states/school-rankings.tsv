@@ -1,35 +1,35 @@
 year	division	place	school	score
-2023	Division 1 State Championships	1	Needham High School	335
-2023	Division 1 State Championships	2	Acton-Boxborough High School	277.5
-2023	Division 1 State Championships	3	Newton North High School	268
-2023	Division 1 State Championships	4	Haverhill High School	208
-2023	Division 1 State Championships	5	Winchester High School	199
-2023	Division 1 State Championships	6	Andover High School	194
-2023	Division 1 State Championships	7	Malden Catholic High School	159
-2023	Division 1 State Championships	8	Brookline High School	134
-2023	Division 1 State Championships	9	Lexington High School	115
-2023	Division 1 State Championships	10	Ursuline Academy High School	99
-2023	Division 1 State Championships	11	Notre Dame Academy High School	88.5
-2023	Division 1 State Championships	12	Framingham High School	79
-2023	Division 1 State Championships	13	Central Catholic High School	64
-2023	Division 1 State Championships	14	Arlington High School	44
-2023	Division 1 State Championships	15	Methuen High School	12
-2023	Division 2 State Championships	1	Wellesley High School	426
-2023	Division 2 State Championships	2	Chelmsford High School	229.5
-2023	Division 2 State Championships	3	Wakefield Memorial High School	219
-2023	Division 2 State Championships	4	Belmont High School	195
-2023	Division 2 State Championships	5	North Andover High School	184
-2023	Division 2 State Championships	6	Boston Latin High School	146
-2023	Division 2 State Championships	7	Natick High School	129
-2023	Division 2 State Championships	8	Woburn Memorial High School	121.5
-2023	Division 2 State Championships	9	Braintree High School	119
-2023	Division 2 State Championships	10	Milton High School	108
-2023	Division 2 State Championships	11	Reading Memorial High School	77
-2023	Division 2 State Championships	12	Billerica Memorial High School	45
-2023	Division 2 State Championships	13	Weymouth High School	37
-2023	Division 2 State Championships	14	Academy of Notre Dame High Sch	33
-2023	Division 2 State Championships	15	Walpole High School	31
-2023	Division 2 State Championships	16	Stoneham High School	12
+2023	Division 1 State Championships	1	Needham	335
+2023	Division 1 State Championships	2	Acton-Boxborough	277.5
+2023	Division 1 State Championships	3	Newton North	268
+2023	Division 1 State Championships	4	Haverhill	208
+2023	Division 1 State Championships	5	Winchester	199
+2023	Division 1 State Championships	6	Andover	194
+2023	Division 1 State Championships	7	Malden Catholic	159
+2023	Division 1 State Championships	8	Brookline	134
+2023	Division 1 State Championships	9	Lexington	115
+2023	Division 1 State Championships	10	Ursuline Academy	99
+2023	Division 1 State Championships	11	Notre Dame Academy	88.5
+2023	Division 1 State Championships	12	Framingham	79
+2023	Division 1 State Championships	13	Central Catholic	64
+2023	Division 1 State Championships	14	Arlington	44
+2023	Division 1 State Championships	15	Methuen	12
+2023	Division 2 State Championships	1	Wellesley	426
+2023	Division 2 State Championships	2	Chelmsford	229.5
+2023	Division 2 State Championships	3	Wakefield Memorial	219
+2023	Division 2 State Championships	4	Belmont	195
+2023	Division 2 State Championships	5	North Andover	184
+2023	Division 2 State Championships	6	Boston Latin	146
+2023	Division 2 State Championships	7	Natick	129
+2023	Division 2 State Championships	8	Woburn Memorial	121.5
+2023	Division 2 State Championships	9	Braintree	119
+2023	Division 2 State Championships	10	Milton	108
+2023	Division 2 State Championships	11	Reading Memorial	77
+2023	Division 2 State Championships	12	Billerica Memorial	45
+2023	Division 2 State Championships	13	Weymouth	37
+2023	Division 2 State Championships	14	Academy of Notre Dame	33
+2023	Division 2 State Championships	15	Walpole	31
+2023	Division 2 State Championships	16	Stoneham	12
 2022	Division 1 State Championships	1	Acton-Boxborough	299
 2022	Division 1 State Championships	2	Andover	268
 2022	Division 1 State Championships	3	Lexington	255
@@ -664,7 +664,7 @@ year	division	place	school	score
 2000	State Championships	1	Andover	305
 2000	State Championships	2	Chelmsford	167
 2000	State Championships	3	Belmont	150
-2000	State Championships	4	Acton-Boxboro	146
+2000	State Championships	4	Acton-Boxborough	146
 2000	State Championships	5	Duxbury	122
 2000	State Championships	6	Bishop Feehan	80
 2000	State Championships	7	Newton North	62
