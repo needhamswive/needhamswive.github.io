@@ -7,37 +7,6 @@ title: MIAA Fall Girls States Rankings
 [^1]: Andover High School was stripped of its championship titles in 2000 and 2003
 
 {% assign school-rankings = site.data.high-school.archives.fall.girls.states.school-rankings %}
-{% assign years = school-rankings | map: "year" | uniq | sort | reverse %}
-{% assign divisions = school-rankings | map: "division" | uniq | sort %}
 
-{% include filter-division-year.html
-  divisions = divisions
-  years = years %}
-
-{% for year in years %}
-
-<div class="filter-section" data-option="year" data-section="{{ year }}" markdown="1">
-
-## {{ year }}
-
-{% assign school-rankings-for-year = school-rankings | where: "year", year | sort: "rank" %}
-{% assign divisions = school-rankings-for-year | map: "division" | uniq | sort %}
-
-{% for division in divisions %}
-
-<div class="filter-section" data-option="division" data-section="{{ division }}" markdown="1">
-
-### {{ division }}
-
-{% assign school-rankings-for-year-by-division = school-rankings-for-year | where: "division", division %}
-
-{% include rankings.html
-    rankings = school-rankings-for-year-by-division %}
-
-</div>
-
-{% endfor %}
-
-</div>
-
-{% endfor %}
+{% include championship-school-rankings
+  school-rankings = school-rankings %}
