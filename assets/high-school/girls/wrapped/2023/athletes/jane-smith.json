@@ -11,8 +11,12 @@
     "name": "Jane Smith",
     "individualDives": 14,
     "individualSwims": 10,
-    "meetsDove": ["Newton North"],
-    "meetsSwam": ["Newton North"],
+    "meetsDove": [
+      "Newton North"
+    ],
+    "meetsSwam": [
+      "Newton North"
+    ],
     "practicePercentage": "12.34%",
     "practicesAttended": 59,
     "relaySwims": 11,
