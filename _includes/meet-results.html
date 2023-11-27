@@ -1,44 +1,25 @@
----
-layout: single
-classes: wide
----
+{% assign years = include.results | map: "year" | uniq | sort | reverse %}
 
-{{ content }}
-
-{% assign events = site.data %}
-{% assign events-path-segments = page.events | split: "." %}
-{% for segment in events-path-segments %}
-  {% assign events = events[segment] %}
-{% endfor %}
-
-{% assign results = site.data %}
-{% assign results-path-segments = page.results | split: "." %}
-{% for segment in results-path-segments %}
-  {% assign results = results[segment] %}
-{% endfor %}
-
-{% assign years = results | map: "year" | uniq | sort | reverse %}
-
-{% assign first-result = results | first %}
+{% assign first-result = include.results | first %}
 {% assign multiple-divisions = first-result.division %}
 {% if multiple-divisions %}
-  {% assign divisions = results | map: "division" | uniq | sort %}
+  {% assign divisions = include.results | map: "division" | uniq | sort %}
 {% endif %}
 
 {% if multiple-divisions %}
   {% include filter-division-event-year.html
-    events = events
+    events = include.events
     divisions = divisions
     years = years %}
 {% else %}
   {% include filter-event-year.html
-    events = events
+    events = include.events
     years = years %}
 {% endif %}
 
 {% for year in years %}
 
-{% assign results-for-year = results | where: "year", year %}
+{% assign results-for-year = include.results | where: "year", year %}
 
 <div class="filter-section" data-option="year" data-section="{{ year }}">
 
@@ -54,14 +35,14 @@ classes: wide
 
     {% assign results-for-year-and-division = results-for-year | where: "division", division %}
     {% include division-results.html
-      events = events
+      events = include.events
       results = results-for-year-and-division %}
 
     </div>
   {% endfor %}
 {% else %}
   {% include division-results.html
-    events = events
+    events = include.events
     results = results-for-year %}
 {% endif %}
 

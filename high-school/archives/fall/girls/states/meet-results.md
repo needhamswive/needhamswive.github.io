@@ -1,7 +1,7 @@
 ---
 title: MIAA Fall Girls States Meet Results
-layout: meet-results
-
-events: high-school.event-order.championship-meet-results
-results: high-school.archives.fall.girls.states.event-results
 ---
+
+{% include meet-results.html
+  events =  site.data.high-school.event-order.championship-meet-results
+  results =  site.data.high-school.archives.fall.girls.states.event-results %}
