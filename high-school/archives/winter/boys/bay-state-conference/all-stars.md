@@ -1,8 +1,8 @@
 ---
-title: Fall Girls BSC All Stars
+title: Winter Boys BSC All Stars
 ---
 
-{% assign all-stars = site.data.high-school.archives.fall.girls.bay-state-conference.all-stars %}
+{% assign all-stars = site.data.high-school.archives.winter.boys.bay-state-conference.all-stars %}
 
 {% assign school-years = all-stars | map: "school-year" | uniq | sort | reverse %}
 

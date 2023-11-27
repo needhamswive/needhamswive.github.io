@@ -243,6 +243,10 @@ high-school-winter-archives:
   - title: Bay State Conference
     tags: boys
     children:
+      - title: About The League
+        url: high-school/archives/winter/boys/bay-state-conference/about-the-league
+      - title: Conference Records
+        url: high-school/archives/winter/boys/bay-state-conference/records
       - title: School Rankings
         url: high-school/archives/winter/boys/bay-state-conference/school-rankings
       - title: Dual Meet Results
@@ -251,6 +255,8 @@ high-school-winter-archives:
         url: high-school/archives/winter/boys/bay-state-conference/meet-results
       - title: Meet Top Results
         url: high-school/archives/winter/boys/bay-state-conference/meet-top-results
+      - title: All Stars
+        url: high-school/archives/winter/boys/bay-state-conference/all-stars
   - title: Championships
     children:
       - title: Qualifying Standards
@@ -273,6 +279,10 @@ high-school-winter-archives:
 high-school-winter-boys-archives:
   - title: Bay State Conference
     children:
+      - title: About The League
+        url: high-school/archives/winter/boys/bay-state-conference/about-the-league
+      - title: Conference Records
+        url: high-school/archives/winter/boys/bay-state-conference/records
       - title: School Rankings
         url: high-school/archives/winter/boys/bay-state-conference/school-rankings
       - title: Dual Meet Results
@@ -281,6 +291,8 @@ high-school-winter-boys-archives:
         url: high-school/archives/winter/boys/bay-state-conference/meet-results
       - title: Meet Top Results
         url: high-school/archives/winter/boys/bay-state-conference/meet-top-results
+      - title: All Stars
+        url: high-school/archives/winter/boys/bay-state-conference/all-stars
   - title: Championships
     children:
       - title: Qualifying Standards

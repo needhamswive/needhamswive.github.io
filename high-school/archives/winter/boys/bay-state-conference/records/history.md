@@ -1,11 +1,11 @@
 ---
-title: Fall Girls BSC Records History
+title: Winter Boys BSC Records History
 ---
 
 {% assign championship-events = site.data.high-school.event-order.championship-records %}
 {% assign dual-meet-events = site.data.high-school.event-order.dual-meet-records %}
-{% assign conference-records = site.data.high-school.archives.fall.girls.bay-state-conference.overall-records %}
-{% assign conference-meet-records = site.data.high-school.archives.fall.girls.bay-state-conference.meet-records %}
+{% assign conference-records = site.data.high-school.archives.winter.boys.bay-state-conference.overall-records %}
+{% assign conference-meet-records = site.data.high-school.archives.winter.boys.bay-state-conference.meet-records %}
 
 ## Bay State Conference Records
 
@@ -15,7 +15,7 @@ title: Fall Girls BSC Records History
 
 ## Bay State Conference Meet Records
 
-This record history is from results since 1990.
+This record history is from results since YYYY.
 
 {% include records-history.html
   events = dual-meet-events
