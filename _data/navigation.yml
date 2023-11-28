@@ -60,6 +60,9 @@ high-school:
       - title: Meet Scores & Rankings
         url: high-school/girls/current-season/meet-scores-and-rankings
         tags: girls
+      - title: Meet Scores & Rankings
+        url: high-school/boys/current-season/meet-scores-and-rankings
+        tags: boys
       # - title: All Stars
       #   url: high-school/girls/current-season/all-stars
   - title: Past Seasons
@@ -70,6 +73,9 @@ high-school:
       - title: Meet Scores & Rankings
         url: high-school/girls/past-seasons/meet-scores-and-rankings
         tags: girls
+      - title: Meet Scores & Rankings
+        url: high-school/boys/current-season/meet-scores-and-rankings
+        tags: boys
       - title: All Stars
         url: high-school/girls/past-seasons/all-stars
         tags: girls
@@ -135,6 +141,8 @@ high-school-boys:
         url: high-school/general-information/introduction-to-diving?nav=boys
       - title: Student Handbook
         url: high-school/general-information/student-handbook?nav=boys
+      - title: Rule Changes
+        url: high-school/general-information/rule-changes?nav=boys
   - title: Current Season
     children:
       - title: Meet Scores & Rankings
