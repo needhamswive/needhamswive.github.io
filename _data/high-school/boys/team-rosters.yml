@@ -1,0 +1,98 @@
+- school-year: 2022-2023
+  coaches:
+    - title: Head Coach
+      name: Adam Cole
+    - title: Assistant Coach
+      name: Samantha Bookston
+    - title: Assistant Coach
+      name: Thalia Bowie
+    - title: Assistant Coach
+      name: Aasia Roman
+    - title: Assistant Coach
+      name: Tim Walsh
+    - title: Assistant Coach
+      name: Zibing Zhang
+  athletes:
+    - name: Fedor Goryanyy
+      grade: 12
+      captain: true
+    - name: Teo Ni
+      grade: 12
+      captain: true
+    - name: William Robock
+      grade: 12
+      captain: true
+- school-year: 2022-2023
+  coaches:
+    - title: Head Coach
+      name: Adam Cole
+    - title: Assistant Coach
+      name: Samantha Bookston
+    - title: Assistant Coach
+      name: Cliff James
+    - title: Assistant Coach
+      name: Aasia Roman
+    - title: Team Manager
+      name: Kelly McFarland
+  athletes:
+    - name: Michael Agostino
+      grade: 12
+    - name: Andrew Barrett
+      grade: 12
+    - name: Jason Chiappinelli
+      grade: 12
+      captain: true
+    - name: Cole Colway
+      grade: 12
+      captain: true
+    - name: Andrew Dementiev
+      grade: 12
+      captain: true
+    - name: Sebi Gallo
+      grade: 12
+    - name: Tyler Ghizzoni
+      grade: 12
+    - name: Jiwon Lee
+      grade: 12
+    - name: Morgan Shia
+      grade: 12
+    - name: Luke Zhang
+      grade: 12
+    - name: Amit Dubey
+      grade: 11
+    - name: Fedor Goryanyy
+      grade: 11
+    - name: Justin Han
+      grade: 11
+    - name: Harrison Kruglak
+      grade: 11
+    - name: Alex Lee
+      grade: 11
+    - name: Teo Ni
+      grade: 11
+    - name: William Robock
+      grade: 11
+    - name: Alex Chutkow
+      grade: 10
+    - name: Reis Conway
+      grade: 10
+    - name: Anwar Hneidi
+      grade: 10
+    - name: Vann Hotchkiss
+      grade: 10
+    - name: Gabe Pressman
+      grade: 10
+    - name: Leo Rosin
+      grade: 10
+    - name: Neel Samnaliev
+      grade: 10
+    - name: Will Al Rehawi
+      grade: 9
+    - name: Aleksey Burenkov
+      grade: 9
+    - name: Brett Ellerin
+      grade: 9
+    - name: Daniil Landau
+      grade: 9
+    - name: Eli McCue
+      grade: 9
