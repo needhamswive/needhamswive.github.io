@@ -21,19 +21,70 @@ by-school-year:
       - name: Division 1 State
   - school-year: 2022-2023
     dual-meets:
-      - school: Brookline High School
+      - school: Brookline
         score: 108 - 77
         result: W
         citations: ArbiterSports
-      - school: Reading Memorial High School
+      - school: Reading
         score: 100 - 68
         result: W
         citations: ArbiterSports
-      - school: Westford Academy
+      - school: Westford
         score: 71 - 114
         result: L
         citations: ArbiterSports
-      - school: Weston High School
+      - school: Weston
         score: 90 - 96
         result: L
         citations: ArbiterSports
+  - school-year: 2021-2022
+    dual-meets:
+      - school: Chelmsford
+        score: 91 - 77
+        result: W
+        citations: BanquetProgram
+      - school: BC High
+        score: 111 - 72
+        result: W
+        citations: BanquetProgram
+      - school: Brookline
+        score: 106 - 79
+        result: W
+        citations: BanquetProgram
+      - school: Framingham
+        score: 98 - 87
+        result: W
+        citations: BanquetProgram
+      - school: Natick
+        score: 142 - 38
+        result: W
+        citations: BanquetProgram
+      - school: Newton North
+        score: 119 - 61
+        result: W
+        citations: BanquetProgram
+      - school: Reading
+        score: 117 - 51
+        result: W
+        citations: BanquetProgram
+      - school: Wellesley
+        score: 102.5 - 83.5
+        result: W
+        citations: BanquetProgram
+      - school: Weston
+        score: 110 - 76
+        result: W
+        citations: BanquetProgram
+    championships:
+      - name: Bay State Conference
+        place: 2
+        citations: BanquetProgram
+      - name: South Sectional
+        place: 1
+        citations: BanquetProgram
+      - name: Division 1 State
+        place: 7
+        citations: BanquetProgram
+    citations:
+      - name: BanquetProgram
+        display: 2021 &ndash; 2022 Banquet Program
