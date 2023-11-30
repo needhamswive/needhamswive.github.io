@@ -1,0 +1,21 @@
+{% include team-roster-key.html %}
+
+---
+
+{% assign school-years = include.team-rosters | map: "school-year" %}
+
+{% include filter-year.html
+  years = school-years %}
+
+{% for team-roster in include.team-rosters %}
+
+<div class="filter-section" data-option="year" data-section="{{ team-roster.year }}" markdown="1">
+
+## {{ team-roster.school-year | format_school_year }}
+
+{% include team-roster.html
+  team-roster = team-roster %}
+
+</div>
+
+{% endfor %}
