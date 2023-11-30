@@ -9,7 +9,7 @@ title: Bay State Conference All Stars
 
 {% for school-year in school-years %}
 
-{% assign all-stars-for-year = all-stars | where: "year", year %}
+{% assign all-stars-for-year = all-stars | where: "school-year", school-year %}
 
 ## {{ school-year | format_school_year }}
 
