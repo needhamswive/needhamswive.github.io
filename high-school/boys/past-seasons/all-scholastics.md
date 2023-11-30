@@ -2,10 +2,9 @@
 title: All Scholastics
 ---
 
-{% assign current-year = site.data.high-school.variables.current-school-year %}
 {% assign all-scholastics = site.data.high-school.boys.all-scholastics %}
 
-{% assign school-years = all-scholastics | not_where: "school-year", current-year | map: "school-year" | uniq | sort | reverse %}
+{% assign school-years = all-scholastics | map: "school-year" | uniq | sort | reverse %}
 
 {% for school-year in school-years %}
 

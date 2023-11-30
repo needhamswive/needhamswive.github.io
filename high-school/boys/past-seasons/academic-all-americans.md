@@ -2,10 +2,9 @@
 title: Academic All-Americans
 ---
 
-{% assign current-year = site.data.high-school.variables.current-school-year %}
 {% assign academic-all-americans = site.data.high-school.boys.academic-all-americans %}
 
-{% assign school-years = academic-all-americans | not_where: "school-year", current-year | map: "school-year" | uniq | sort | reverse %}
+{% assign school-years = academic-all-americans | map: "school-year" | uniq | sort | reverse %}
 
 {% for school-year in school-years %}
 

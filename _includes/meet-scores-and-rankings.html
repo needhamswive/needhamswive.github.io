@@ -29,7 +29,7 @@ __Sources__
 
 {% if include.past-seasons %}
 
-{% assign meet-scores-and-rankings-by-school-year = include.meet-scores-and-rankings.by-school-year | not_where: "school-year", current-school-year %}
+{% assign meet-scores-and-rankings-by-school-year = include.meet-scores-and-rankings.by-school-year %}
 {% assign school-years = meet-scores-and-rankings-by-school-year | map: "school-year" %}
 
 {% include filter-year.html
