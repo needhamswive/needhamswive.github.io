@@ -176,7 +176,7 @@ by-school-year:
     citations:
       - name: 20172018BanquetProgram
         display: 2017 &ndash; 2018 Banquet Program
-- school-year: 2015-2016
+  - school-year: 2015-2016
     dual-meets:
       - school: BC High
         score: 133 - 53
