@@ -125,3 +125,54 @@ by-school-year:
     citations:
       - name: 20212022BanquetProgram
         display: 2021 &ndash; 2022 Banquet Program
+  - school-year: 2017-2018
+    dual-meets:
+      - school: BC High
+        score: 110 - 76
+        result: W
+        citations: 20172018BanquetProgram
+      - school: Belmont
+        score: 92 - 91
+        result: W
+        citations: 20172018BanquetProgram
+      - school: Brookline
+        score: 109.5 - 76.5
+        result: W
+        citations: 20172018BanquetProgram
+      - school: Catholic Memorial
+        score: 129 - 56
+        result: W
+        citations: 20172018BanquetProgram
+      - school: Framingham
+        score: 109 - 77
+        result: W
+        citations: 20172018BanquetProgram
+      - school: Holliston
+        score: 111 - 58
+        result: W
+        citations: 20172018BanquetProgram
+      - school: Natick
+        score: 95 - 91
+        result: W
+        citations: 20172018BanquetProgram
+      - school: Newton North
+        score: 130 - 55
+        result: W
+        citations: 20172018BanquetProgram
+      - school: Wellesley
+        score: 109 - 77
+        result: W
+        citations: 20172018BanquetProgram
+    championships:
+      - name: Bay State Conference
+        place: 2
+        citations: 20172018BanquetProgram
+      - name: South Sectional
+        place: 1
+        citations: 20172018BanquetProgram
+      - name: Division 1 State
+        place: 3
+        citations: 20172018BanquetProgram
+    citations:
+      - name: 20172018BanquetProgram
+        display: 2017 &ndash; 2018 Banquet Program

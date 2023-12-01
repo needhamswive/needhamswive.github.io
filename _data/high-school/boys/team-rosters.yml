@@ -96,3 +96,87 @@
       grade: 9
     - name: Eli McCue
       grade: 9
+- school-year: 2017-2018
+  coaches:
+    - title: Head Coach
+      name: Adam Cole
+    - title: Assistant Coach
+      name: Tamara Keough
+  athletes:
+    - name: David Brikman
+      grade: 12
+    - name: Ethan Cattanach
+      grade: 12
+    - name: Jacob Cullison
+      grade: 12
+    - name: Andrew Furlong
+      grade: 12
+    - name: David Lee
+      grade: 12
+    - name: Serge Sonkin
+      grade: 12
+      captain: true
+    - name: Scott Tambascio
+      grade: 12
+      captain: true
+    - name: Zibing Zhang
+      grade: 12
+      captain: true
+    - name: Eric Zhu
+      grade: 12
+    - name: Alex Ektov
+      grade: 11
+    - name: Cole Fayemi
+      grade: 11
+    - name: Cohen Hu
+      grade: 11
+    - name: Henry Keegan
+      grade: 11
+    - name: Benjamin Shapiro
+      grade: 11
+    - name: Johnathan Shia
+      grade: 11
+    - name: Lev Taylor
+      grade: 11
+    - name: Andrei Treil
+      grade: 11
+    - name: William Vallatini
+      grade: 11
+    - name: Misha Vasiljuk
+      grade: 11
+    - name: Itai Abraham
+      grade: 10
+    - name: Martin Block
+      grade: 10
+    - name: Brandon Choi
+      grade: 10
+    - name: Ryan Collin
+      grade: 10
+    - name: Zach Cullison
+      grade: 10
+    - name: Jack Dollase
+      grade: 10
+    - name: Daniel Francesconi
+      grade: 10
+    - name: Johnathan Lively
+      grade: 10
+    - name: Zachary Lu
+      grade: 10
+    - name: Evan Arendell
+      grade: 9
+    - name: John Caponi
+      grade: 9
+    - name: Sam Chutkow
+      grade: 9
+    - name: Daniel Cote
+      grade: 9
+    - name: Evan Eyler
+      grade: 9
+    - name: Lucas Pirner
+      grade: 9
+    - name: Jared Pizzuto
+      grade: 9
+    - name: Aidan Schaffer
+      grade: 9
+    - name: John Schroeder
+      grade: 9
