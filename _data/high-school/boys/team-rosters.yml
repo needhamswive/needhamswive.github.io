@@ -1,4 +1,4 @@
-- school-year: 2022-2023
+- school-year: 2023-2024
   coaches:
     - title: Head Coach
       name: Adam Cole
@@ -7,7 +7,7 @@
     - title: Assistant Coach
       name: Thalia Bowie
     - title: Assistant Coach
-      name: Aasia Roman
+      name: Aasia Romano
     - title: Assistant Coach
       name: Tim Walsh
     - title: Assistant Coach
@@ -179,4 +179,80 @@
     - name: Aidan Schaffer
       grade: 9
     - name: John Schroeder
+      grade: 9
+- school-year: 2015-2016
+  coaches:
+    - title: Head Coach
+      name: Adam Cole
+    - title: Assistant Coach
+      name: Tamara Keough
+  athletes:
+    - name: Collin Allen
+      grade: 12
+      captain: true
+    - name: Michael O'Neil
+      grade: 12
+    - name: Gregory Barboy
+      grade: 11
+    - name: Alexander Bejian
+      grade: 11
+    - name: E.J. Gerth
+      grade: 11
+    - name: John Higgins
+      grade: 11
+    - name: Austin Kruglak
+      grade: 11
+    - name: Adrian Lambrieu
+      grade: 11
+    - name: Nicholas Lombardo
+      grade: 11
+    - name: Michael Liu
+      grade: 11
+    - name: Louis Randazzo
+      grade: 11
+    - name: Zachary Richmond
+      grade: 11
+    - name: Edgar Rodo
+      grade: 11
+    - name: Ryan Suarez
+      grade: 11
+    - name: Alex Van Alphen
+      grade: 11
+    - name: David Brikman
+      grade: 10
+    - name: Ethan Cattanach
+      grade: 10
+    - name: Jacob Cullison
+      grade: 10
+    - name: Andrew Furlong
+      grade: 10
+    - name: David Lee
+      grade: 10
+    - name: Serge Sonkin
+      grade: 10
+    - name: Scott Tambascio
+      grade: 10
+    - name: Zibing Zhang
+      grade: 10
+    - name: Eric Zhu
+      grade: 10
+    - name: Alex Ektov
+      grade: 9
+    - name: Cohen Hu
+      grade: 9
+    - name: Henry Keegan
+      grade: 9
+    - name: Benjamin Shapiro
+      grade: 9
+    - name: Johnathan Shia
+      grade: 9
+    - name: Zachary Taub
+      grade: 9
+    - name: Lev Taylor
+      grade: 9
+    - name: Andrei Treil
+      grade: 9
+    - name: William Vallatini
+      grade: 9
+    - name: Misha Vasiljuk
       grade: 9
