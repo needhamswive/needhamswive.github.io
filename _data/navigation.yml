@@ -32,6 +32,9 @@ high-school:
       - title: About The Team
         url: high-school/girls/general-information/about-the-team
         tags: girls
+      - title: About The Team
+        url: high-school/boys/general-information/about-the-team
+        tags: boys
       - title: Team Records
         url: high-school/girls/general-information/team-records
         tags: girls
@@ -149,6 +152,8 @@ high-school-girls:
 high-school-boys:
   - title: General Information
     children:
+      - title: About The Team
+        url: high-school/boys/general-information/about-the-team
       - title: Team Records
         url: high-school/boys/general-information/team-records
       - title: Scoring a Meet
