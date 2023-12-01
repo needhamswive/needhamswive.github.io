@@ -2,7 +2,7 @@
 title: Team Records
 ---
 
-{% assign events = site.data.high-school.event-order.championship-records %}
+{% assign events = site.data.high-school.event-order.records %}
 {% assign records = site.data.high-school.girls.records.all-time %}
 
 Bay State Conference records can be found [here](/high-school/archives/fall/girls/bay-state-conference/records/). \

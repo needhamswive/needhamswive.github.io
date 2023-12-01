@@ -13,7 +13,7 @@ championship-meet-results:
   - 100 Backstroke
   - 100 Breaststroke
   - 400 Freestyle Relay
-championship-records:
+records:
   - 200 Medley Relay
   - 200 Freestyle
   - 200 Individual Medley
@@ -27,7 +27,7 @@ championship-records:
   - 100 Backstroke
   - 100 Breaststroke
   - 400 Freestyle Relay
-dual-meet-records:
+dual-meet:
   - 200 Medley Relay
   - 200 Freestyle
   - 200 Individual Medley
@@ -40,6 +40,16 @@ dual-meet-records:
   - 100 Backstroke
   - 100 Breaststroke
   - 400 Freestyle Relay
+dual-meet-individual:
+  - 200 Freestyle
+  - 200 Individual Medley
+  - 50 Freestyle
+  - 1 Meter - 6 Dives
+  - 100 Butterfly
+  - 100 Freestyle
+  - 500 Freestyle
+  - 100 Backstroke
+  - 100 Breaststroke
 dual-meet-results:
   - 1 Meter Diving
   - 200 Medley Relay
