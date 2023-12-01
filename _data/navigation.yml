@@ -44,6 +44,10 @@ high-school:
         url: high-school/general-information/introduction-to-diving
       - title: Student Handbook
         url: high-school/general-information/student-handbook
+        no-tags: boys
+      - title: Student Handbook
+        url: high-school/boys/general-information/student-handbook
+        tags: boys
       - title: Rule Changes
         url: high-school/general-information/rule-changes
   - title: Current Season
@@ -152,7 +156,7 @@ high-school-boys:
       - title: Introduction to Diving
         url: high-school/general-information/introduction-to-diving?nav=boys
       - title: Student Handbook
-        url: high-school/general-information/student-handbook?nav=boys
+        url: high-school/boys/general-information/student-handbook?nav=boys
       - title: Rule Changes
         url: high-school/general-information/rule-changes?nav=boys
   - title: Current Season
