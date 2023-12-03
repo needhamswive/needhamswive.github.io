@@ -91,16 +91,22 @@ br.extended {
   z-index: 2;
 }
 
-.meter {
-  background: #929ba3;
-  border-radius: 3px;
+.meters-container {
+  display: flex;
   height: 3px;
-  left: 5px;
+  left: 0;
   overflow: hidden;
   position: absolute;
   top: 5px;
-  width: calc(100% - 10px);
+  width: calc(100% - 3px);
   z-index: 1;
+}
+
+.meter {
+  background: #929ba3;
+  border-radius: 3px;
+  flex-grow: 1;
+  margin-left: 3px;
 }
 
 .meter span {
@@ -108,9 +114,15 @@ br.extended {
   height: 100%;
 }
 
-.progress {
-  animation: progressBar 10s linear;
+.progress-done {
+  border-radius: 3px;
+  background-color: #ffffff;
+}
+
+.progress-active {
+  animation: progressBar 8s linear;
   animation-fill-mode: both;
+  border-radius: 3px;
   background-color: #ffffff;
 }
 

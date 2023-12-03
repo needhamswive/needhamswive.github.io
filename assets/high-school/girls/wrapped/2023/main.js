@@ -110,7 +110,8 @@ const hexDesignDefinitions = [
   },
 ];
 
-let progressBar;
+let meters = [];
+let activeProgressBar;
 let progressBarAnimation;
 let progressBarStartTime;
 let slides;
@@ -130,8 +131,6 @@ let random = mulberry32(cyrb128(athleteName)[0]);
 window.addEventListener(
   "DOMContentLoaded",
   async () => {
-    progressBar = document.querySelector(".progress");
-    progressBarStartTime = Date.now();
     slides = Array.from(document.querySelectorAll(".slide")).map(
       (element) => new Slide(element.dataset.name, element)
     );
@@ -140,7 +139,6 @@ window.addEventListener(
       slides[0];
     activeSlide.element.classList.add("active");
     activeSlideIndex = slides.indexOf(activeSlide);
-    setupNavigation();
 
     hexTemplate = document.getElementById("hex-template");
     setupHexDesigns();
@@ -155,14 +153,43 @@ window.addEventListener(
     const athlete = await athleteResponse.json();
     preprocessAthlete(athlete);
     processAthlete(athlete);
+    setupProgressBar();
+    setupNavigation();
   },
   false
 );
 
+function setupProgressBar() {
+  const meterContainer = document.getElementsByClassName("meters-container")[0];
+
+  for (let i = 0; i < slides.length; i++) {
+    const meter = document.createElement("div");
+    meterContainer.appendChild(meter);
+    meter.classList.add("meter");
+
+    const progressBar = document.createElement("span");
+    meter.appendChild(progressBar);
+    if (i < activeSlideIndex) {
+      progressBar.classList.add("progress-done");
+    } else if (i == activeSlideIndex) {
+      progressBar.classList.add("progress-active");
+    }
+
+    progressBar.addEventListener("animationend", () => {
+      nextSlide();
+    });
+
+    meters.push(meter);
+  }
+
+  activeProgressBar = document.querySelector(".progress-active");
+  progressBarStartTime = Date.now();
+}
+
 function setupNavigation() {
   const backward = document.getElementById("backward");
   const forward = document.getElementById("forward");
-  progressBarAnimation = progressBar.getAnimations()[0];
+  progressBarAnimation = activeProgressBar.getAnimations()[0];
 
   backward.onclick = () => {
     previousSlide();
@@ -170,30 +197,20 @@ function setupNavigation() {
   forward.onclick = () => {
     nextSlide();
   };
-  progressBar.addEventListener("animationend", () => {
-    nextSlide();
-  });
-}
-
-function resetTimer() {
-  progressBar.classList.remove("progress");
-  void progressBar.offsetWidth;
-  progressBar.classList.add("progress");
-  progressBarStartTime = Date.now();
 }
 
 function previousSlide() {
   const elapsedTime = Date.now() - progressBarStartTime;
-  resetTimer();
   if (elapsedTime < 2000 && activeSlideIndex > 0) {
     offsetSlide(-1);
   }
+  resetTimer();
 }
 
 function nextSlide() {
   if (activeSlideIndex + 1 < slides.length) {
-    resetTimer();
     offsetSlide(1);
+    resetTimer();
   }
 }
 
@@ -208,6 +225,28 @@ function offsetSlide(offset) {
       slide.element.classList.remove("active");
     }
   });
+  progressBarStartTime = Date.now();
+}
+
+function resetTimer() {
+  activeProgressBar.classList.remove("progress-active");
+  void activeProgressBar.offsetWidth;
+
+  const meters = document.getElementsByClassName("meter");
+  for (let i = 0; i < slides.length; i++) {
+    const progressBar = meters[i].querySelector("span")
+    if (i < activeSlideIndex) {
+      progressBar.classList.remove("progress-active");
+      progressBar.classList.add("progress-done");
+    } else if (i == activeSlideIndex) {
+      progressBar.classList.add("progress-active");
+      activeProgressBar = progressBar;
+    } else {
+      progressBar.classList.remove("progress-active");
+      progressBar.classList.remove("progress-done");
+    }
+  }
+
   progressBarStartTime = Date.now();
 }
 
