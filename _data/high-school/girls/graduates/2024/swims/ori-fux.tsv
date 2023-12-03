@@ -47,7 +47,7 @@ event	time	splits	place	points	date	meet	dq	sectionals-qualifier	states-qualifie
 100 Freestyle Split	60.57		4	0	09/19/2023	Milton	FALSE	FALSE	FALSE
 100 Freestyle Split	60.68		3	0.5	09/29/2023	Acton-Boxborough	FALSE	FALSE	FALSE
 100 Freestyle Split	61.07		3	0.5	09/20/2022	Milton	FALSE	FALSE	FALSE
-100 Freestyle Split	61.22		2	1	10/13/2023	Natick	FALSE	FALSE	FALSE
+100 Freestyle Split	61.22		2	1	10/13/2023	Natick	FALSE	FALSE	FALSE	TRUE
 100 Freestyle Split	61.58		2	1	10/09/2023	Framingham	FALSE	FALSE	FALSE
 100 Freestyle Split	61.80		3	0.5	10/05/2023	Brookline	FALSE	FALSE	FALSE
 100 Freestyle Split	62.05		4	0	09/15/2022	Acton-Boxborough	FALSE	FALSE	FALSE
@@ -56,7 +56,7 @@ event	time	splits	place	points	date	meet	dq	sectionals-qualifier	states-qualifie
 100 Freestyle Split	62.25		4	0	10/20/2022	Wellesley	FALSE	FALSE	FALSE
 100 Freestyle Split	62.61		3	0.5	09/28/2022	Brookline	FALSE	FALSE	FALSE
 100 Freestyle Split	62.69				09/13/2022	Weymouth	FALSE	FALSE	FALSE
-100 Freestyle Split	62.70				10/14/2022	Newton North	FALSE	FALSE	FALSE
+100 Freestyle Split	62.70				10/14/2022	Newton North	FALSE	FALSE	FALSE	TRUE
 100 Freestyle Split	62.75		2	1	10/03/2022	Braintree	FALSE	FALSE	FALSE
 100 Freestyle Split	63.22				10/08/2021	Walpole	FALSE	FALSE	FALSE
 100 Freestyle Split	63.46				10/15/2021	Braintree	FALSE	FALSE	FALSE
@@ -110,9 +110,9 @@ event	time	splits	place	points	date	meet	dq	sectionals-qualifier	states-qualifie
 50 Freestyle Split	27.68				10/22/2021	Wellesley	FALSE	FALSE	FALSE
 50 Freestyle Split	28.21				10/21/2022	Walpole	FALSE	FALSE	FALSE
 50 Freestyle Split	28.44				10/18/2022	Natick	FALSE	FALSE	FALSE
-50 Freestyle Split	28.71		4	0	10/20/2022	Wellesley	FALSE	FALSE	FALSE
-50 Freestyle Split	28.81		3	0.5	09/12/2023	Walpole	FALSE	FALSE	FALSE
-50 Freestyle Split	28.85		3	0.5	09/26/2023	Braintree	FALSE	FALSE	FALSE
+50 Freestyle Split	28.71		4	0	10/20/2022	Wellesley	FALSE	FALSE	FALSE	TRUE
+50 Freestyle Split	28.81		3	0.5	09/12/2023	Walpole	FALSE	FALSE	FALSE	TRUE
+50 Freestyle Split	28.85		3	0.5	09/26/2023	Braintree	FALSE	FALSE	FALSE	TRUE
 50 Freestyle Split	29.34				09/13/2022	Weymouth	FALSE	FALSE	FALSE
 50 Freestyle Split	29.78				09/14/2021	Natick	FALSE	FALSE	FALSE
 50 Freestyle Split			3	0.5	10/05/2023	Brookline	FALSE	FALSE	FALSE

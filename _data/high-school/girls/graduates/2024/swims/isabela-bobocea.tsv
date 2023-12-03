@@ -14,12 +14,12 @@ event	time	splits	place	points	date	meet	dq	sectionals-qualifier	states-qualifie
 100 Freestyle Split	53.36	25.03/28.33	1	10	11/05/2023	Sectionals	FALSE	FALSE	FALSE
 100 Freestyle Split	53.94	25.54/28.40	1	10	11/11/2023	States	FALSE	FALSE	FALSE
 100 Freestyle Split	54.14		2	8.5	10/29/2023	Bay State Conference	FALSE	FALSE	FALSE
-100 Freestyle Split	56.00	26.91/29.09	1	2	10/20/2023	Wellesley	FALSE	FALSE	FALSE
+100 Freestyle Split	56.00	26.91/29.09	1	2	10/20/2023	Wellesley	FALSE	FALSE	FALSE	TRUE
 100 Freestyle Split	56.49		1	2	10/13/2023	Natick	FALSE	FALSE	FALSE
-100 Freestyle Split	57.41		2	1	10/17/2023	Weymouth	FALSE	FALSE	FALSE
+100 Freestyle Split	57.41		2	1	10/17/2023	Weymouth	FALSE	FALSE	FALSE	TRUE
 100 Freestyle Split	58.06		2	1	09/19/2023	Milton	FALSE	FALSE	FALSE
 100 Freestyle Split	59.00		1	2	09/29/2023	Acton-Boxborough	FALSE	FALSE	FALSE
-100 Freestyle Split	59.03		1	2	10/02/2023	Newton North	FALSE	FALSE	FALSE
+100 Freestyle Split	59.03		1	2	10/02/2023	Newton North	FALSE	FALSE	FALSE	TRUE
 100 Freestyle Split	59.52		1	2	10/05/2023	Brookline	FALSE	FALSE	FALSE
 200 Freestyle	127.90	29.12/32.28/33.07/33.40	1	6	10/09/2023	Framingham	FALSE	TRUE	TRUE
 200 Individual Medley	131.99	28.27/33.72/39.93/30.07	1	20	11/05/2023	Sectionals	FALSE	TRUE	TRUE

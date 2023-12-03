@@ -135,6 +135,9 @@ layout: single
       <th>Date</th>
       <th>Meet</th>
       <th>Splits</th>
+      <th>DQ</th>
+      <th>Sectionals Qualified</th>
+      <th>States Qualified</th>
     </tr>
   </thead>
   <tbody>
@@ -142,13 +145,24 @@ layout: single
       {% assign swims-for-event = swims | where: "event", event %}
       {% for swim in swims-for-event %}
         <tr>
-          <td>{{ swim.event | format_cell }}</td>
+          <td>{{ swim.event | format_cell }}{% if swim.first-leg == "TRUE" %}*{% endif %}</td>
           <td>{{ swim.time | format_time }}</td>
           <td>{{ swim.date }}</td>
           <td>{{ swim.meet | format_cell }}</td>
-          <td>{{ swim.splits | replace: "/", "&nbsp;" }}</td>
+          {% assign splits-string = "" %}
+          {% assign splits = swim.splits | split: "/" %}
+          {% for split in splits %}
+            {% assign formatted-split = split | format_time %}
+            {% assign splits-string = splits-string | append: formatted-split | append: "&nbsp;" %}
+          {% endfor %}
+          <td>{{ splits-string }}</td>
+          <td style="text-align: center;">{% if swim.dq == "TRUE" %}x{% endif %}</td>
+          <td style="text-align: center;">{% if swim.sectionals-qualifier == "TRUE" %}x{% endif %}</td>
+          <td style="text-align: center;">{% if swim.states-qualifier == "TRUE" %}x{% endif %}</td>
         </tr>
       {% endfor %}
     {% endfor %}
   </tbody>
 </table>
+
+<sup>* First leg</sup>
