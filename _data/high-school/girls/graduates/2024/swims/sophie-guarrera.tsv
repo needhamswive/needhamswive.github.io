@@ -1,4 +1,4 @@
-event	time	splits	place	points	date	meet	dq	sectionals-qualifier	states-qualifier
+event	time	splits	place	points	date	meet	dq	sectionals-qualifier	states-qualifier	first-leg
 100 Butterfly	62.51	28.32/34.19	6	13	11/05/2023	Sectionals	FALSE	TRUE	TRUE
 100 Butterfly	62.91	29.50/33.41	3	16	10/29/2022	Bay State Conference	FALSE	TRUE	TRUE
 100 Butterfly	62.94	29.16/33.78	3	16	11/06/2022	Sectionals	FALSE	TRUE	TRUE

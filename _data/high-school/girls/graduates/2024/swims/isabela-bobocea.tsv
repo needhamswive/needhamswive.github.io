@@ -1,4 +1,4 @@
-event	time	splits	place	points	date	meet	dq	sectionals-qualifier	states-qualifier
+event	time	splits	place	points	date	meet	dq	sectionals-qualifier	states-qualifier	first-leg
 100 Backstroke	67.25	32.41/34.89	2	4	10/13/2023	Natick	FALSE	TRUE	TRUE
 100 Breaststroke	77.02	36.00/37.50	2	4	09/26/2023	Braintree	FALSE	TRUE	FALSE
 100 Breaststroke	77.62	37.12/40.38	2	4	09/29/2023	Acton-Boxborough	FALSE	TRUE	FALSE

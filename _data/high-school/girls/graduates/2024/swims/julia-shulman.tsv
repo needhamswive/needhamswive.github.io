@@ -1,4 +1,4 @@
-event	time	splits	place	points	date	meet	dq	sectionals-qualifier	states-qualifier
+event	time	splits	place	points	date	meet	dq	sectionals-qualifier	states-qualifier	first-leg
 100 Backstroke	67.44				10/08/2021	Walpole	FALSE	TRUE	TRUE
 100 Backstroke	67.75	33.19/34.31	2	4	10/17/2023	Weymouth	FALSE	TRUE	FALSE
 100 Backstroke	72.71	35.00/37.68	3	3	10/03/2022	Braintree	FALSE	FALSE	FALSE

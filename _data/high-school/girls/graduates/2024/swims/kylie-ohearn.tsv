@@ -1,4 +1,4 @@
-event	time	splits	place	points	date	meet	dq	sectionals-qualifier	states-qualifier
+event	time	splits	place	points	date	meet	dq	sectionals-qualifier	states-qualifier	first-leg
 100 Backstroke	72.37				09/10/2021	Weymouth	FALSE	FALSE	FALSE
 100 Breaststroke	76.61		3	3	10/02/2023	Newton North	FALSE	TRUE	FALSE
 100 Breaststroke	77.95	36.76/41.19	1	6	10/17/2023	Weymouth	FALSE	TRUE	FALSE
