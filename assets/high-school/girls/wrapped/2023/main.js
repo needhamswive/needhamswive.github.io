@@ -14,7 +14,7 @@ class Slide {
   }
 }
 
-const hexDesignDefinitions = [
+const HEX_DESIGN_DEFINITIONS = [
   {
     slideNames: ["welcome"],
     colors: ["blue", "blue", "blue", "gold"],
@@ -71,17 +71,7 @@ const hexDesignDefinitions = [
     },
   },
   {
-    slideNames: ["swims-summary"],
-    colors: ["blue", "blue", "gold", "gold", "gold"],
-    corners: {
-      "top left": [1],
-      "top right": [1],
-      "bottom left": [1],
-      "bottom right": [1],
-    },
-  },
-  {
-    slideNames: ["dives-summary"],
+    slideNames: ["swims-summary", "dives-summary", "season-best"],
     colors: ["blue", "blue", "gold", "gold", "gold"],
     corners: {
       "top left": [1],
@@ -108,6 +98,19 @@ const hexDesignDefinitions = [
       "bottom right": [2, 1],
     },
   },
+];
+
+const PR_EVENT_ORDER = [
+  "200 Individual Medley",
+  "200 Freestyle",
+  "50 Freestyle",
+  "1 Meter - 6 Dives",
+  "1 Meter - 11 Dives",
+  "100 Butterfly",
+  "100 Freestyle",
+  "500 Freestyle",
+  "100 Backstroke",
+  "100 Breaststroke",
 ];
 
 let meters = [];
@@ -251,7 +254,7 @@ function resetTimer() {
 }
 
 function setupHexDesigns() {
-  for (const designDefinition of hexDesignDefinitions) {
+  for (const designDefinition of HEX_DESIGN_DEFINITIONS) {
     for (const slideName of designDefinition.slideNames) {
       let slide = slides.filter((slide) => slide.name === slideName)[0];
 
@@ -435,6 +438,19 @@ function preprocessAthlete(athlete) {
     beadsEarnedSlide.visible.push("gold-beads");
   }
   slides.push(beadsEarnedSlide);
+
+  slides.push({
+    name: "season-best",
+    templateReplacements: [{
+      name: "event-and-result",
+      sets: Object.keys(stats.seasonPrs)
+        .sort((a, b) => PR_EVENT_ORDER.indexOf(a) - PR_EVENT_ORDER.indexOf(b))
+        .map(event => { return {
+          "event": event,
+          "result": stats.seasonPrs[event],
+      }}),
+    }],
+  });
 
   if (stats.grade === 12) {
     slides.push({ name: "goodbye-senior" });

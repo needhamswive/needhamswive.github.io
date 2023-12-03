@@ -166,6 +166,11 @@ br.extended {
         td:nth-child(1) { width: 40% }
         td:nth-child(2) { width: 60% }
       }
+
+      &.season-best {
+        td:nth-child(1) { text-align: center; width: 60% }
+        td:nth-child(2) { text-align: center; width: 40% }
+      }
     }
 
     &#dual-meet-scores {
