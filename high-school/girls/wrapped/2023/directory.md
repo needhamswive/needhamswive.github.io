@@ -1,11 +1,6 @@
 ---
+title: 2023 Wrapped Directory
 ---
-
-## Example
-
-- [Jane Smith](/high-school/girls/wrapped/2023/?athlete=jane-smith)
-
-## Athletes
 
 - [Lucy Aswad](/high-school/girls/wrapped/2023/?athlete=lucy-aswad)
 - [Sophia Belenkiy](/high-school/girls/wrapped/2023/?athlete=sophia-belenkiy)
