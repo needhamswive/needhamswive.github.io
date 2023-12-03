@@ -354,13 +354,13 @@ function preprocessAthlete(athlete) {
       "practice-percentage": stats.practicePercentage,
     },
   };
-  if (stats.swimmer) {
+  if (!stats.diver) {
     practiceSummarySlide.basicReplacements["yards-swum"] = stats.yardsSwum;
     practiceSummarySlide.visible = ["yards-swum"];
   }
   slides.push(practiceSummarySlide);
 
-  if (stats.swimmer) {
+  if (stats.individualSwims || stats.relaySwims) {
     const swimsSummarySlide = {
       name: "swims-summary",
       basicReplacements: {
@@ -370,6 +370,9 @@ function preprocessAthlete(athlete) {
       templateReplacements: [],
       visible: [],
     };
+    if (stats.individualSwims > 0) {
+      swimsSummarySlide.visible.push("individual-swims");
+    }
     if (stats.swimPointsScored) {
       swimsSummarySlide.basicReplacements["points-scored"] =
         stats.swimPointsScored;
@@ -421,6 +424,9 @@ function preprocessAthlete(athlete) {
       divesSummarySlide.basicReplacements["points-scored"] =
         stats.divePointsScored;
       divesSummarySlide.visible.push("points-scored");
+    }
+    if (stats.meetsDove.length > 1) {
+      divesSummarySlide.visible.push("multiple-meets-dove");
     }
     slides.push(divesSummarySlide);
   }
