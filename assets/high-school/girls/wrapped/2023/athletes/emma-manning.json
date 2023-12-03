@@ -2,7 +2,7 @@
   "stats": {
     "beadsEarned": {
       "blue": 17,
-      "gold": 0,
+      "gold": 8,
       "white": 10
     },
     "grade": 10,
@@ -12,25 +12,31 @@
     "practicePercentage": "97.96%",
     "relaySwims": 25,
     "meetsSwam": [
+      "Acton-Boxborough",
+      "Bay State Conference",
+      "Braintree",
+      "Brookline",
+      "Framingham",
+      "Milton",
+      "Natick",
+      "Newton North",
       "Sectionals",
       "States",
-      "Framingham",
-      "Newton North",
-      "Braintree",
-      "Acton-Boxborough",
-      "Wellesley",
-      "Milton",
       "Walpole",
-      "Weymouth",
-      "Bay State Conference",
-      "Brookline",
-      "Natick"
+      "Wellesley",
+      "Weymouth"
     ],
     "sectionalsQualifiedSwimEvents": [
       "100 Freestyle"
     ],
     "swimPointsScored": "36 points",
     "swimmer": true,
-    "yardsSwum": "82750"
+    "yardsSwum": "217400",
+    "seasonPrs": {
+      "50 Freestyle": "27.67",
+      "100 Freestyle": "1:00.30",
+      "100 Backstroke": "1:17.12",
+      "100 Breaststroke": "1:36.54"
+    }
   }
 }

@@ -2,7 +2,7 @@
   "stats": {
     "beadsEarned": {
       "blue": 0,
-      "gold": 0,
+      "gold": 3,
       "white": 10
     },
     "grade": 10,
@@ -14,11 +14,11 @@
     "diver": true,
     "individualDives": 25,
     "meetsDove": [
+      "Brookline",
+      "Natick",
       "Newton North",
       "Wellesley",
-      "Weymouth",
-      "Brookline",
-      "Natick"
+      "Weymouth"
     ],
     "topScoringDives": [
       {
@@ -42,6 +42,9 @@
         "score": "14.85"
       }
     ],
-    "divePointsScored": "1 point"
+    "divePointsScored": "1 point",
+    "seasonPrs": {
+      "1 Meter - 6 Dives": "103.13"
+    }
   }
 }

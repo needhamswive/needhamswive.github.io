@@ -2,7 +2,7 @@
   "stats": {
     "beadsEarned": {
       "blue": 0,
-      "gold": 0,
+      "gold": 2,
       "white": 10
     },
     "grade": 10,
@@ -14,16 +14,16 @@
     "diver": true,
     "individualDives": 52,
     "meetsDove": [
-      "Newton North",
-      "Braintree",
       "Acton-Boxborough",
-      "Wellesley",
-      "Milton",
-      "Walpole",
-      "Weymouth",
       "Bay State Conference",
+      "Braintree",
       "Brookline",
-      "Natick"
+      "Milton",
+      "Natick",
+      "Newton North",
+      "Walpole",
+      "Wellesley",
+      "Weymouth"
     ],
     "topScoringDives": [
       {
@@ -46,6 +46,10 @@
         "number": "202A",
         "score": "22.95"
       }
-    ]
+    ],
+    "seasonPrs": {
+      "1 Meter - 6 Dives": "135.83",
+      "50 Freestyle": "36.61"
+    }
   }
 }

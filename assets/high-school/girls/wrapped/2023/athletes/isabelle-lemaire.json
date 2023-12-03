@@ -2,7 +2,7 @@
   "stats": {
     "beadsEarned": {
       "blue": 7,
-      "gold": 0,
+      "gold": 1,
       "white": 11
     },
     "grade": 11,
@@ -14,19 +14,19 @@
     "diver": true,
     "individualDives": 85,
     "meetsDove": [
+      "Acton-Boxborough",
+      "Bay State Conference",
+      "Braintree",
+      "Brookline",
+      "Framingham",
+      "Milton",
+      "Natick",
+      "Newton North",
       "Sectionals",
       "States",
-      "Framingham",
-      "Newton North",
-      "Braintree",
-      "Acton-Boxborough",
-      "Wellesley",
-      "Milton",
       "Walpole",
-      "Weymouth",
-      "Bay State Conference",
-      "Brookline",
-      "Natick"
+      "Wellesley",
+      "Weymouth"
     ],
     "topScoringDives": [
       {
@@ -50,6 +50,9 @@
         "score": "30.00"
       }
     ],
-    "divePointsScored": "44 points"
+    "divePointsScored": "44 points",
+    "seasonPrs": {
+      "1 Meter - 6 Dives": "202.35"
+    }
   }
 }

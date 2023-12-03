@@ -14,16 +14,16 @@
     "diver": true,
     "individualDives": 60,
     "meetsDove": [
-      "Framingham",
-      "Newton North",
-      "Braintree",
       "Acton-Boxborough",
-      "Wellesley",
-      "Walpole",
-      "Weymouth",
       "Bay State Conference",
+      "Braintree",
       "Brookline",
-      "Natick"
+      "Framingham",
+      "Natick",
+      "Newton North",
+      "Walpole",
+      "Wellesley",
+      "Weymouth"
     ],
     "topScoringDives": [
       {
@@ -47,6 +47,9 @@
         "score": "26.40"
       }
     ],
-    "divePointsScored": "8 points"
+    "divePointsScored": "8 points",
+    "seasonPrs": {
+      "1 Meter - 6 Dives": "166.05"
+    }
   }
 }
