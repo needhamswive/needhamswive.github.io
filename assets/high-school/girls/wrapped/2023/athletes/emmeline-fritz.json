@@ -31,7 +31,9 @@
     "seasonPrs": {
       "50 Freestyle": "32.47",
       "100 Freestyle": "1:11.45",
-      "100 Backstroke": "1:18.17"
+      "100 Backstroke": "1:18.17",
+      "50 Backstroke Split": "40.69",
+      "50 Freestyle Split": "31.24"
     }
   }
 }

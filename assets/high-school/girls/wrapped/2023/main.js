@@ -71,7 +71,7 @@ const HEX_DESIGN_DEFINITIONS = [
     },
   },
   {
-    slideNames: ["swims-summary", "dives-summary", "season-best"],
+    slideNames: ["swims-summary", "dives-summary"],
     colors: ["blue", "blue", "gold", "gold", "gold"],
     corners: {
       "top left": [1],
@@ -111,6 +111,11 @@ const PR_EVENT_ORDER = [
   "500 Freestyle",
   "100 Backstroke",
   "100 Breaststroke",
+  "50 Backstroke Split",
+  "50 Breaststroke Split",
+  "50 Butterfly Split",
+  "50 Freestyle Split",
+  "100 Freestyle Split",
 ];
 
 let meters = [];

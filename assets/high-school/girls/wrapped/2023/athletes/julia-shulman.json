@@ -41,11 +41,14 @@
     "yardsSwum": "222600",
     "seasonPrs": {
       "200 Individual Medley": "2:17.38",
-      "50 Freestyle": "25.94",
+      "50 Freestyle": "26.18",
       "100 Butterfly": "1:01.91",
-      "100 Freestyle": "55.88",
-      "100 Backstroke": "1:07.44",
-      "100 Breaststroke": "1:18.29"
+      "100 Freestyle": "56.92",
+      "100 Backstroke": "1:07.75",
+      "100 Breaststroke": "1:18.29",
+      "50 Butterfly Split": "28.04",
+      "50 Freestyle Split": "25.45",
+      "100 Freestyle Split": "55.88"
     }
   }
 }

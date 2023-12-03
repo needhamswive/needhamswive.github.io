@@ -57,12 +57,14 @@
     "swimmer": true,
     "seasonPrs": {
       "1 Meter - 6 Dives": "108.15",
-      "200 Freestyle": "2:19.38",
+      "200 Freestyle": "2:30.94",
       "200 Individual Medley": "2:47.10",
-      "50 Freestyle": "28.40",
-      "100 Freestyle": "1:02.80",
-      "100 Backstroke": "1:16.52",
-      "100 Breaststroke": "1:20.52"
+      "100 Backstroke": "1:17.21",
+      "100 Breaststroke": "1:28.34",
+      "50 Breaststroke Split": "38.26",
+      "50 Butterfly Split": "32.82",
+      "50 Freestyle Split": "29.35",
+      "100 Freestyle Split": "1:08.15"
     }
   }
 }

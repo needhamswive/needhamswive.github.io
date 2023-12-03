@@ -35,10 +35,10 @@
     "seasonPrs": {
       "200 Freestyle": "2:19.31",
       "200 Individual Medley": "2:35.35",
-      "50 Freestyle": "29.09",
-      "100 Freestyle": "1:03.96",
-      "500 Freestyle": "6:31.59",
-      "100 Breaststroke": "1:17.41"
+      "100 Breaststroke": "1:17.41",
+      "50 Breaststroke Split": "36.44",
+      "50 Freestyle Split": "29.48",
+      "100 Freestyle Split": "1:02.12"
     }
   }
 }

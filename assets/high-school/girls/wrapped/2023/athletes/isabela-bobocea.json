@@ -49,7 +49,11 @@
       "100 Freestyle": "53.70",
       "500 Freestyle": "5:31.40",
       "100 Backstroke": "1:07.25",
-      "100 Breaststroke": "1:17.02"
+      "100 Breaststroke": "1:17.02",
+      "50 Backstroke Split": "30.26",
+      "50 Breaststroke Split": "33.66",
+      "50 Freestyle Split": "24.47",
+      "100 Freestyle Split": "53.36"
     }
   }
 }
