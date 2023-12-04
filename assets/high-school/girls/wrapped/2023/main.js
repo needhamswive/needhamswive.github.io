@@ -71,7 +71,7 @@ const HEX_DESIGN_DEFINITIONS = [
     },
   },
   {
-    slideNames: ["swims-summary", "dives-summary"],
+    slideNames: ["swims-summary", "dives-summary", "special-message"],
     colors: ["blue", "blue", "gold", "gold", "gold"],
     corners: {
       "top left": [1],
@@ -86,6 +86,14 @@ const HEX_DESIGN_DEFINITIONS = [
     corners: {
       "top right": [5, 3, 1],
       "bottom left": [7, 5, 1],
+    },
+  },
+  {
+    slideNames: ["record-breaker"],
+    colors: ["blue", "gold"],
+    corners: {
+      "top left": [5, 3, 1],
+      "bottom right": [7, 5, 1],
     },
   },
   {
@@ -146,7 +154,6 @@ window.addEventListener(
       slides.filter((slide) => slide.element.classList.contains("active"))[0] ||
       slides[0];
     activeSlide.element.classList.add("active");
-    activeSlideIndex = slides.indexOf(activeSlide);
 
     hexTemplate = document.getElementById("hex-template");
     setupHexDesigns();
@@ -158,9 +165,11 @@ window.addEventListener(
       slides = slides.slice(0, 1);
       return;
     }
+
     const athlete = await athleteResponse.json();
     preprocessAthlete(athlete);
     processAthlete(athlete);
+    activeSlideIndex = slides.indexOf(activeSlide);
     setupProgressBar();
     setupNavigation();
   },
@@ -462,6 +471,19 @@ function preprocessAthlete(athlete) {
       }}),
     }],
   });
+
+  if (stats.recordBreaker) {
+    slides.push({ name: "record-breaker" });
+  }
+
+  if (stats.specialMessage) {
+    slides.push({
+      name: "special-message" ,
+      basicReplacements: {
+        "message": stats.specialMessage,
+      },
+    });
+  }
 
   if (stats.grade === 12) {
     slides.push({ name: "goodbye-senior" });
