@@ -54,6 +54,7 @@ high-school:
       - title: Rule Changes
         url: high-school/general-information/rule-changes
   - title: Current Season
+    tags: girls, boys
     children:
       - title: Schedule
         url: high-school/girls/current-season/schedule
@@ -82,6 +83,7 @@ high-school:
       # - title: All Stars
       #   url: high-school/girls/current-season/all-stars
   - title: Past Seasons
+    tags: girls, boys
     children:
       - title: Team Rosters
         url: high-school/girls/past-seasons/team-rosters
