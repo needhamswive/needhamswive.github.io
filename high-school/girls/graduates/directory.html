@@ -1,16 +1,8 @@
 ---
 title: NHS Girls Swive Grads Directory
 
-graduates:
-  - year: 2024
-    athletes:
-      - Isabela Bobocea
-      - Ori Fux
-      - Sophie Guarrera
-      - Lucy Mackey
-      - Kylie O'Hearn
-      - Julia Shulman
-      - Chloe Wukitch
+school-years:
+  - 2023-2024
 ---
 
 <table>
@@ -21,15 +13,21 @@ graduates:
     </tr>
   </thead>
   <tbody>
-    {% for graduates-by-year in page.graduates %}
-      {% assign year = graduates-by-year.year %}
-      {% assign athletes = graduates-by-year.athletes %}
-      {% for athlete in athletes %}
-        <tr>
-          <td>{{ year }}</td>
-          <td><a href="/high-school/girls/graduates/{{ year }}/{{ athlete | downcase | replace: " ", "-" | replace: "'", "" }}">{{ athlete }}</a></td>
-        </tr>
-      {% endfor %}
+    {% for school-year in page.school-years %}
+
+    {% assign graduation-year = school-year | slice: 5, 9 %}
+    {% assign roster = site.data.high-school.girls.team-rosters | where: "school-year", school-year | first %}
+    {% assign seniors = roster.students | where: "grade", 12 %}
+
+    {% for senior in seniors %}
+
+    {% assign name = senior.name %}
+    <tr>
+      <td>{{ graduation-year }}</td>
+      <td><a href="/high-school/girls/graduates/{{ graduation-year }}/{{ name | downcase | replace: " ", "-" | replace: "'", "" }}">{{ name }}</a></td>
+    </tr>
+
+    {% endfor %}
     {% endfor %}
   </tbody>
 </table>
