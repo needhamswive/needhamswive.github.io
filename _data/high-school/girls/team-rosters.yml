@@ -6,7 +6,7 @@
       name: Zibing Zhang
     - title: Assistant Dive Coach
       name: Elisabeth McQuaid
-  athletes:
+  students:
     - name: Isabela Bobocea
       grade: 12
       swimmer: true
@@ -102,7 +102,7 @@
       grade: 9
       swimmer: true
 - school-year: 2022-2023
-  athletes:
+  students:
     - name: Alexandra Bold
       grade: 12
       captain: true
@@ -198,7 +198,7 @@
       grade: 9
       swimmer: true
 - school-year: 2021-2022
-  athletes:
+  students:
     - name: Chloe Berg
       grade: 12
       captain: true
@@ -324,7 +324,7 @@
       grade: 9
       swimmer: true
 - school-year: 2019-2020
-  athletes:
+  students:
     - name: Adriana Cosentino
       grade: 12
     - name: Emilia Higgins
@@ -416,7 +416,7 @@
     - name: Rachel Talcoff
       grade: 9
 - school-year: 2018-2019
-  athletes:
+  students:
     - name: Hannah Garand
       grade: 12
     - name: Julia Hebert
@@ -517,7 +517,7 @@
     - name: Rory Paterniti
       grade: 9
 - school-year: 2017-2018
-  athletes:
+  students:
     - name: Caroline Beacham
       captain: true
       grade: 12
@@ -602,7 +602,7 @@
     - name: Elinor Wilson
       grade: 9
 - school-year: 2016-2017
-  athletes:
+  students:
     - name: Elizabeth Bonvoulior
       captain: true
       grade: 12
@@ -696,7 +696,7 @@
     - name: Arianna Williams
       grade: 9
 - school-year: 2015-2016
-  athletes:
+  students:
     - name: Claire Hadelman
       captain: true
       grade: 12
@@ -794,7 +794,7 @@
     - name: Nina Yee
       grade: 9
 - school-year: 2014-2015
-  athletes:
+  students:
     - name: Emilie Despres
       captain: true
       grade: 12
@@ -882,19 +882,19 @@
     - name: Zoe Tsavdarides
       grade: 9
 - school-year: 2011-2012
-  athletes:
+  students:
     - name: Emilie Despres
       grade: 9
     - name: Sarah Hooper
     - name: Jessica Murphy
     - name: Kathryn Santaniello
 - school-year: 2001-2002
-  athletes:
+  students:
     - name: Meghan Healey
 - school-year: 1997-1998
-  athletes:
+  students:
     - name: Caitlin Healey
 - school-year: 1995-1996
-  athletes:
+  students:
     - name: Michelle Jackson
     - name: Lynn Kelly

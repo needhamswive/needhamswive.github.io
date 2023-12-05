@@ -12,7 +12,7 @@
       name: Tim Walsh
     - title: Assistant Coach
       name: Zibing Zhang
-  athletes:
+  students:
     - name: Fedor Goryanyy
       grade: 12
       captain: true
@@ -34,7 +34,7 @@
       name: Aasia Roman
     - title: Team Manager
       name: Kelly McFarland
-  athletes:
+  students:
     - name: Michael Agostino
       grade: 12
     - name: Andrew Barrett
@@ -102,7 +102,7 @@
       name: Adam Cole
     - title: Assistant Coach
       name: Tamara Keough
-  athletes:
+  students:
     - name: David Brikman
       grade: 12
     - name: Ethan Cattanach
@@ -186,7 +186,7 @@
       name: Adam Cole
     - title: Assistant Coach
       name: Tamara Keough
-  athletes:
+  students:
     - name: Collin Allen
       grade: 12
       captain: true
