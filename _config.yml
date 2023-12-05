@@ -278,6 +278,10 @@ defaults:
       sidebar:
         nav: none
   - scope:
+      path: high-school/girls/graduates/2024
+    values:
+      layout: graduate/2024-hs-girl
+  - scope:
       path: high-school/boys
     values:
       sidebar:

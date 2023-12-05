@@ -12,11 +12,11 @@ layout: single
 
 {% assign events = site.data.high-school.event-order.individual-results %}
 
-{% assign general-information = site.data.high-school.girls.graduates[page.class-of].general-information %}
+{% assign general-information = site.data.high-school.girls.graduates["2024"].general-information %}
 
 {% assign file-name = page.athlete | downcase | replace: " ", "-" | replace: "'", "" %}
-{% assign athlete-information = site.data.high-school.girls.graduates[page.class-of].information[file-name] %}
-{% assign swims = site.data.high-school.girls.graduates[page.class-of].swims[file-name] %}
+{% assign athlete-information = site.data.high-school.girls.graduates["2024"].information[file-name] %}
+{% assign swims = site.data.high-school.girls.graduates["2024"].swims[file-name] %}
 
 {% assign years = athlete-information.years-participated %}
 
