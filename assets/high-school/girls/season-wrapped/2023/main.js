@@ -136,13 +136,13 @@ let activeSlideIndex;
 
 let hexTemplate;
 
-const athleteName = new URLSearchParams(window.location.search).get("athlete");
-const athletePath =
+const studentName = new URLSearchParams(window.location.search).get("student");
+const studentPath =
   window.location.origin +
-  `/assets/high-school/girls/wrapped/2023/athletes/${athleteName}.json`;
-const athleteRequest = fetch(athletePath);
+  `/assets/high-school/girls/season-wrapped/2023/students/${studentName}.json`;
+const studentRequest = fetch(studentPath);
 
-let random = mulberry32(cyrb128(athleteName)[0]);
+let random = mulberry32(cyrb128(studentName)[0]);
 
 window.addEventListener(
   "DOMContentLoaded",
@@ -159,16 +159,16 @@ window.addEventListener(
     setupHexDesigns();
     // window.setInterval(animateHexes, 1000);
 
-    const athleteResponse = await athleteRequest;
+    const studentResponse = await studentRequest;
 
-    if (athleteResponse.status === 404) {
+    if (studentResponse.status === 404) {
       slides = slides.slice(0, 1);
       return;
     }
 
-    const athlete = await athleteResponse.json();
-    preprocessAthlete(athlete);
-    processAthlete(athlete);
+    const student = await studentResponse.json();
+    preprocessStudent(student);
+    processStudent(student);
     activeSlideIndex = slides.indexOf(activeSlide);
     setupProgressBar();
     setupNavigation();
@@ -342,8 +342,8 @@ function animateHexes() {
   }
 }
 
-function preprocessAthlete(athlete) {
-  const stats = athlete.stats;
+function preprocessStudent(student) {
+  const stats = student.stats;
   const slides = [];
   document.querySelectorAll(".always-visible").forEach((element) => {
     slides.push({ name: element.dataset.name });
@@ -407,7 +407,7 @@ function preprocessAthlete(athlete) {
     }
     if (
       stats.sectionalsQualifiedSwimEvents &&
-      athlete.stats.statesQualifiedSwimEvents
+      stats.statesQualifiedSwimEvents
     ) {
       swimsSummarySlide.visible.push("and");
     }
@@ -491,25 +491,25 @@ function preprocessAthlete(athlete) {
     slides.push({ name: "goodbye" });
   }
 
-  athlete.slides = slides;
+  student.slides = slides;
 }
 
-function processAthlete(athlete) {
+function processStudent(student) {
   const slideNameToMetadata = new Map(
-    athlete.slides.map((slide) => [slide.name, slide])
+    student.slides.map((slide) => [slide.name, slide])
   );
   slides = slides.filter((slide) => slideNameToMetadata.has(slide.name));
 
   for (const slide of slides) {
     const metadata = slideNameToMetadata.get(slide.name);
 
-    processAthleteBasicReplacements(slide, metadata);
-    processAthleteTemplateReplacements(slide, metadata);
-    processAthleteVisibility(slide, metadata);
+    processStudentBasicReplacements(slide, metadata);
+    processStudentTemplateReplacements(slide, metadata);
+    processStudentVisibility(slide, metadata);
   }
 }
 
-function processAthleteBasicReplacements(slide, metadata) {
+function processStudentBasicReplacements(slide, metadata) {
   if (!metadata.basicReplacements) {
     return;
   }
@@ -521,7 +521,7 @@ function processAthleteBasicReplacements(slide, metadata) {
   }
 }
 
-function processAthleteTemplateReplacements(slide, metadata) {
+function processStudentTemplateReplacements(slide, metadata) {
   if (!metadata.templateReplacements) {
     return;
   }
@@ -553,7 +553,7 @@ function updatePlaceholders(element, replacementKey, replacementValue) {
   });
 }
 
-function processAthleteVisibility(slide, metadata) {
+function processStudentVisibility(slide, metadata) {
   if (!metadata.visible) {
     return;
   }
