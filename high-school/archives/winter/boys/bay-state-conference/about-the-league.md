@@ -27,7 +27,7 @@ The top three placing athletes in individual events may score points, and the to
 ## History
 
 In 2017, Carey division member Dedham High School left the Bay State Conference for the Tri-Valley League.[^1]
-Milton moved their swimming program from the winter to the fall, joining the fall Bay State Conference.
+Milton moved their swimming program from the winter to the fall, leaving the winter Bay State Conference.
 
 In 2018, Carey division member Norwood High School left the Bay State Conference for the Tri-Valley League.[^1]
 
