@@ -66,6 +66,10 @@ by-school-year:
         place: 1
         citations: 2023101
     psych-sheets-and-results:
+      - name: Bay State Conference Heat Sheet
+        link: https://drive.google.com/file/d/1XoXXp3J1BSaq6jkRTz-uIBHkvHOvuM9L/
+      - name: Bay State Conference Complete Results & Team Scores
+        link: https://drive.google.com/file/d/1VFQCJxOww7vmoUuOU7cVW5GOEbZnBgXl/
       - name: South Sectional Psych Sheet
         link: https://miaa.net/wp-content/uploads/2023/10/south-sectional-psych-sheet.pdf
       - name: South Sectional Results
@@ -166,6 +170,10 @@ by-school-year:
         place: 2
         citations: 2022101
     psych-sheets-and-results:
+      - name: Bay State Conference Psych Sheet
+        link: https://drive.google.com/file/d/1g9wflW05DwNGBASSlQm8ZxzmK7AxNIvc/
+      - name: Bay State Conference Complete Results & Team Scores
+        link: https://drive.google.com/file/d/11V2edjx_A234KhLGfU8hul5Ukugd1Kqr/
       - name: Swim Tournament Overview
         link: http://miaa.ezstream.net/index.cfm?itemid=8576
       - name: South Sectional Psych Sheet
@@ -1483,6 +1491,8 @@ by-school-year:
         place: no place
         citations: 2008101
     psych-sheets-and-results:
+      - name: Bay State Conference Needham Results
+        link: https://walpoleswimteam.com/Documents/Winter/High%20School%20Meets/BayStateConference2008/needhamresults.pdf
       - name: South Sectional Psych Sheet
         link: http://miaa.ezstream.com/index.cfm?itemid=4008
       - name: South Sectional Results
@@ -1563,6 +1573,8 @@ by-school-year:
         place: 16
         citations: 2007101
     psych-sheets-and-results:
+      - name: Bay State Conference Needham Results
+        link: https://walpoleswimteam.com/Documents/Winter/High%20School%20Meets/BayStateConference2007/needhamresults.pdf
       - name: South Sectional Psych Sheet
         link: http://miaa.ezstream.com/index.cfm?itemid=1729
       - name: South Sectional Results
@@ -1630,6 +1642,8 @@ by-school-year:
         place: 13
         citations: 2006101
     psych-sheets-and-results:
+      - name: Bay State Conference Needham Results
+        link: https://walpoleswimteam.com/Documents/Winter/High%20School%20Meets/BayStateConference2006/needhamresults.pdf
       - name: South Sectional Psych Sheet
         link: http://miaa.ezstream.com/index.cfm?itemid=464
       - name: South Sectional Results
