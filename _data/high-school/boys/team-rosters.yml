@@ -2,16 +2,16 @@
   coaches:
     - title: Head Coach
       name: Adam Cole
-    - title: Assistant Coach
+    - title: Assistant Swim Coach
       name: Samantha Bookston
-    - title: Assistant Coach
+    - title: Assistant Swim Coach
       name: Thalia Bowie
-    - title: Assistant Coach
+    - title: Assistant Swim Coach
       name: Aasia Romano
-    - title: Assistant Coach
-      name: Tim Walsh
-    - title: Assistant Coach
+    - title: Assistant Swim Coach
       name: Zibing Zhang
+    - title: Assistant Dive Coach
+      name: Tim Walsh
   students:
     - name: Fedor Goryanyy
       grade: 12
@@ -26,11 +26,11 @@
   coaches:
     - title: Head Coach
       name: Adam Cole
-    - title: Assistant Coach
+    - title: Assistant Swim Coach
       name: Samantha Bookston
-    - title: Assistant Coach
+    - title: Assistant Swim Coach
       name: Cliff James
-    - title: Assistant Coach
+    - title: Assistant Swim Coach
       name: Aasia Roman
     - title: Team Manager
       name: Kelly McFarland
