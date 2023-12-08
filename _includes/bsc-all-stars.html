@@ -3,19 +3,25 @@
 {% for school-year in school-years %}
 
 {% assign all-stars-for-school-year = include.all-stars | where: "school-year", school-year %}
+{% assign honorable-mentions-for-school-year = include.honorable-mentions | where: "school-year", school-year %}
 {% assign schools-for-year = all-stars-for-school-year | map: "school" | uniq | sort %}
 
-## {{ school-year | format_school_year }}
+<h2>{{ school-year | format_school_year }}</h2>
 
 {% for school in schools-for-year %}
 
 {% assign all-stars-for-school-year-for-school = all-stars-for-school-year | where: "school", school %}
+{% assign honorable-mention = honorable-mentions-for-school-year | where: "school", school | first %}
 
-### {{ school }}
+<h3>{{ school }}</h3>
 
 {% for all-star in all-stars-for-school-year-for-school -%}
   {{ all-star.name }} <br>
 {% endfor %}
+
+{% if honorable-mention %}
+  <i>Honorable Mention:</i> {{ honorable-mention.name }}
+{% endif %}
 
 {% endfor %}
 

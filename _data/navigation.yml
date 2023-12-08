@@ -80,8 +80,6 @@ high-school:
       - title: Meet Scores & Rankings
         url: high-school/boys/current-season/meet-scores-and-rankings
         tags: boys
-      # - title: All Stars
-      #   url: high-school/girls/current-season/all-stars
   - title: Past Seasons
     tags: girls, boys
     children:
@@ -97,8 +95,8 @@ high-school:
       - title: Meet Scores & Rankings
         url: high-school/boys/current-season/meet-scores-and-rankings
         tags: boys
-      - title: All Stars
-        url: high-school/girls/past-seasons/all-stars
+      - title: Conference All Stars
+        url: high-school/girls/past-seasons/conference-all-stars
         tags: girls
       - title: All Scholastics
         url: high-school/boys/past-seasons/all-scholastics
@@ -141,16 +139,14 @@ high-school-girls:
         url: high-school/girls/current-season/team-roster
       - title: Meet Scores & Rankings
         url: high-school/girls/current-season/meet-scores-and-rankings
-      # - title: All Stars
-      #   url: high-school/girls/current-season/all-stars
   - title: Past Seasons
     children:
       - title: Team Rosters
         url: high-school/girls/past-seasons/team-rosters
       - title: Meet Scores & Rankings
         url: high-school/girls/past-seasons/meet-scores-and-rankings
-      - title: All Stars
-        url: high-school/girls/past-seasons/all-stars
+      - title: Conference All Stars
+        url: high-school/girls/past-seasons/conference-all-stars
   - title: Archives
     url: high-school/archives
     children:
