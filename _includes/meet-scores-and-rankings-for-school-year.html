@@ -1,5 +1,5 @@
 {% if include.meet-scores-and-rankings-for-school-year.dual-meets %}
-### Dual Meets
+<h3>Dual Meets</h3>
 
 <table>
 <thead>
@@ -12,10 +12,10 @@
 <tr>
   <td>
   <div markdown="1">
-  {{ meet.school }} {% assign citations = meet.citations | split: ";" %}{% for citation in citations %} [^{{ citation }}] {% endfor %}
+  {{ meet.school }} {% assign citations = meet.citations | split: ";" %}{% for citation in citations %} {% include citation.md %} {% endfor %}
   </div>
   </td>
-  <td>{{ meet.score | replace: "-", "–" }}</td>
+  <td>{{ meet.score | replace: "-", "&ndash;" }}</td>
   <td>{{ meet.result }}</td>
 </tr>
 {% endfor %}
@@ -40,7 +40,7 @@
 <tr>
   <td>
   <div markdown="1">
-  {{ meet.name }} {% assign citations = meet.citations | split: ";" %}{% for citation in citations %} [^{{ citation }}] {% endfor %}
+  {{ meet.name }} {% assign citations = meet.citations | split: ";" %}{% for citation in citations %} {% include citation.md %} {% endfor %}
   </div>
   </td>
   <td>{{ meet.place }}</td>
@@ -55,8 +55,10 @@
 
 <h3>Psych Sheets and Results</h3>
 
-{% for href in include.meet-scores-and-rankings-for-school-year.psych-sheets-and-results %}
-- [{{ href.name }}]({{ href.link }})
-{% endfor %}
+<ul>
+  {% for href in include.meet-scores-and-rankings-for-school-year.psych-sheets-and-results %}
+    <li><a href="{{ href.link }}">{{ href.name }}</a></li>
+  {% endfor %}
+</ul>
 
 {% endif %}

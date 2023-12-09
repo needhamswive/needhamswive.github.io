@@ -11,7 +11,7 @@
 
 {% assign meet-scores-and-rankings-for-current-school-year = include.meet-scores-and-rankings.by-school-year | where: "school-year", current-school-year | first %}
 
-{% include meet-scores-and-rankings-for-school-year.md
+{% include meet-scores-and-rankings-for-school-year.html
   meet-scores-and-rankings-for-school-year = meet-scores-and-rankings-for-current-school-year %}
 
 ---
@@ -41,7 +41,7 @@ __Sources__
 
 ## {{ meet-scores-and-rankings-for-school-year.school-year | format_school_year }}
 
-{% include meet-scores-and-rankings-for-school-year.md
+{% include meet-scores-and-rankings-for-school-year.html
   meet-scores-and-rankings-for-school-year = meet-scores-and-rankings-for-school-year %}
 
 </div>

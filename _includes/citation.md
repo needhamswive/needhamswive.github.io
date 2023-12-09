@@ -1,9 +1,11 @@
-{% if citation.display %}
-{% if citation.link %}
+{%- if citation.display -%}
+{%- if citation.link -%}
   [^{{ citation.name }}]: [{{ citation.display }}]({{ citation.link }})
-{% else %}
+{%- else -%}
   [^{{ citation.name }}]: {{ citation.display }}
-{% endif %}
-{% else %}
+{%- endif -%}
+{%- elsif citation.name -%}
   [^{{ citation.name }}]: <{{ citation.link }}>
-{% endif %}
+{%- else -%}
+  [^{{citation}}]
+{%- endif -%}
