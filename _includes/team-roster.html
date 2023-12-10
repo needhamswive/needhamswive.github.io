@@ -10,22 +10,15 @@
 {% assign freshman = include.team-roster.students | where: "grade", 9 %}
 {% assign rest = include.team-roster.students | not_where: "grade" %}
 
-
-{% assign seniors-size = seniors | size %}
-{% assign juniors-size = juniors | size %}
-{% assign sophomores-size = sophomores | size %}
-{% assign freshman-size = freshman | size %}
-{% assign rest-size = rest | size %}
-
-{% if seniors-size > juniors-size %}
-  {% assign len-1 = seniors-size %}
+{% if seniors.size > juniors.size %}
+  {% assign len-1 = seniors.size %}
 {% else %}
-  {% assign len-1 = juniors-size %}
+  {% assign len-1 = juniors.size %}
 {% endif %}
-{% if sophomores-size > freshman-size %}
-  {% assign len-2 = sophomores-size %}
+{% if sophomores.size > freshman.size %}
+  {% assign len-2 = sophomores.size %}
 {% else %}
-  {% assign len-2 = freshman-size %}
+  {% assign len-2 = freshman.size %}
 {% endif %}
 
 {% assign len-1 = len-1 %}
@@ -81,7 +74,7 @@
         <td>{{ student.grade }}</td>
       </tr>
     {% endfor %}
-    {% if rest-size > 0 %}
+    {% if rest.size > 0 %}
       {% if len-1 > 0 or len-2 > 0 %}
         <tr><td></td><td></td><td><td></td></td><td></td></tr>
       {% endif %}

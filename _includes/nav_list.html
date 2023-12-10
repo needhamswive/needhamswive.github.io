@@ -1,7 +1,6 @@
 {% assign navigation = site.data.navigation[include.nav] %}
 
-{% assign size = navigation | size %}
-{% unless size == 0 %}
+{% unless navigation.size == 0 %}
 
 <nav class="nav__list">
   {% if page.sidebar.title %}<h3 class="nav__title" style="padding-left: 0;">{{ page.sidebar.title }}</h3>{% endif %}
