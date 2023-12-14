@@ -1,0 +1,22 @@
+{% assign all-stars = include.all-stars | where: "school", "Needham" %}
+{% assign honorable-mentions = include.honorable-mentions | where: "school", "Needham" %}
+
+{% assign school-years = all-stars | map: "school-year" | uniq | sort | reverse %}
+
+{% for school-year in school-years %}
+
+{% assign all-stars-for-school-year = all-stars | where: "school-year", school-year %}
+{% assign honorable-mention-for-school-year = honorable-mentions | where: "school-year", school-year | first %}
+{% assign schools-for-year = all-stars-for-school-year | map: "school" | uniq | sort %}
+
+<h2>{{ school-year | format_school_year }}</h2>
+
+{% for all-star in all-stars-for-school-year -%}
+  {{ all-star.name }} <br>
+{% endfor %}
+
+{% if honorable-mention-for-school-year %}
+  <i>Honorable Mention:</i> {{ honorable-mention-for-school-year.name }}
+{% endif %}
+
+{% endfor %}

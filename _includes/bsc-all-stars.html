@@ -11,7 +11,7 @@
 {% for school in schools-for-year %}
 
 {% assign all-stars-for-school-year-for-school = all-stars-for-school-year | where: "school", school %}
-{% assign honorable-mention = honorable-mentions-for-school-year | where: "school", school | first %}
+{% assign honorable-mention-for-school-year = honorable-mentions-for-school-year | where: "school", school | first %}
 
 <h3>{{ school }}</h3>
 
@@ -19,8 +19,8 @@
   {{ all-star.name }} <br>
 {% endfor %}
 
-{% if honorable-mention %}
-  <i>Honorable Mention:</i> {{ honorable-mention.name }}
+{% if honorable-mention-for-school-year %}
+  <i>Honorable Mention:</i> {{ honorable-mention-for-school-year.name }}
 {% endif %}
 
 {% endfor %}

@@ -95,14 +95,20 @@ high-school:
       - title: Meet Scores & Rankings
         url: high-school/boys/current-season/meet-scores-and-rankings
         tags: boys
-      - title: Conference All Stars
+      - title: Conference All-Stars
         url: high-school/girls/past-seasons/conference-all-stars
         tags: girls
-      - title: All Scholastics
-        url: high-school/boys/past-seasons/all-scholastics
+      - title: Conference All-Stars
+        url: high-school/boys/past-seasons/conference-all-stars
         tags: boys
-      - title: Academic All-Americans
-        url: high-school/boys/past-seasons/academic-all-americans
+      - title: Boston Globe Honorees
+        url: high-school/girls/past-seasons/boston-globe-honorees
+        tags: girls
+      - title: Boston Globe Honorees
+        url: high-school/boys/past-seasons/boston-globe-honorees
+        tags: boys
+      - title: NISCA Awards
+        url: high-school/boys/past-seasons/nisca-awards
         tags: boys
   - title: Archives
     url: high-school/archives
@@ -145,8 +151,10 @@ high-school-girls:
         url: high-school/girls/past-seasons/team-rosters
       - title: Meet Scores & Rankings
         url: high-school/girls/past-seasons/meet-scores-and-rankings
-      - title: Conference All Stars
+      - title: Conference All-Stars
         url: high-school/girls/past-seasons/conference-all-stars
+      - title: Boston Globe Honorees
+        url: high-school/girls/past-seasons/boston-globe-honorees
   - title: Archives
     url: high-school/archives
     children:
@@ -185,10 +193,12 @@ high-school-boys:
         tags: boys
       - title: Meet Scores & Rankings
         url: high-school/boys/past-seasons/meet-scores-and-rankings
-      - title: All Scholastics
-        url: high-school/boys/past-seasons/all-scholastics
-      - title: Academic All-Americans
-        url: high-school/boys/past-seasons/academic-all-americans
+      - title: Conference All-Stars
+        url: high-school/boys/past-seasons/conference-all-stars
+      - title: Boston Globe Honorees
+        url: high-school/boys/past-seasons/boston-globe-honorees
+      - title: NISCA Awards
+        url: high-school/boys/past-seasons/nisca-awards
   - title: Archives
     url: high-school/archives
     children:
@@ -225,7 +235,7 @@ high-school-fall-archives:
         url: high-school/archives/fall/girls/bay-state-conference/meet-results
       - title: Meet Top Results
         url: high-school/archives/fall/girls/bay-state-conference/meet-top-results
-      - title: All Stars
+      - title: All-Stars
         url: high-school/archives/fall/girls/bay-state-conference/all-stars
   - title: Championships
     children:
@@ -261,7 +271,7 @@ high-school-fall-girls-archives:
         url: high-school/archives/fall/girls/bay-state-conference/meet-results
       - title: Meet Top Results
         url: high-school/archives/fall/girls/bay-state-conference/meet-top-results
-      - title: All Stars
+      - title: All-Stars
         url: high-school/archives/fall/girls/bay-state-conference/all-stars
   - title: Championships
     children:
@@ -301,7 +311,7 @@ high-school-winter-archives:
         url: high-school/archives/winter/boys/bay-state-conference/meet-results
       - title: Meet Top Results
         url: high-school/archives/winter/boys/bay-state-conference/meet-top-results
-      - title: All Stars
+      - title: All-Stars
         url: high-school/archives/winter/boys/bay-state-conference/all-stars
   - title: Championships
     children:
@@ -337,7 +347,7 @@ high-school-winter-boys-archives:
         url: high-school/archives/winter/boys/bay-state-conference/meet-results
       - title: Meet Top Results
         url: high-school/archives/winter/boys/bay-state-conference/meet-top-results
-      - title: All Stars
+      - title: All-Stars
         url: high-school/archives/winter/boys/bay-state-conference/all-stars
   - title: Championships
     children:
