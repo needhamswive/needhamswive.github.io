@@ -66,7 +66,7 @@ by-school-year:
     championships:
       - name: Bay State Conference
         place: 1
-        citations: 20222023BanquetProgram
+        citations: 20222023BanquetProgram;2023100
       - name: South Sectional
         place: 1
         citations: 20222023BanquetProgram
@@ -76,6 +76,8 @@ by-school-year:
     citations:
       - name: 20222023BanquetProgram
         display: 2022 &ndash; 2023 Banquet Program
+      - name: 2023100
+        link: https://hometownweekly.net/sports/needham-swimmers-make-splash/
   - school-year: 2021-2022
     dual-meets:
       - school: Chelmsford
@@ -225,3 +227,11 @@ by-school-year:
     citations:
       - name: 20142015BanquetProgram
         display: 2014 &ndash; 2015 Banquet Program
+  - school-year: 2008-2009
+    championships:
+      - name: Bay State Conference
+        place: 2
+        citations: 2009100
+    citations:
+      - name: 2009100
+        link: https://issuu.com/newtonite/docs/vol88i2
