@@ -57,7 +57,7 @@ Divisional placement is based completely on enrollment.[^3]
 
 In 1991, Framingham merged into one school, creating a void in the Herget Division of the BSC.[^3]
 
-In 1997, Weymouth was admitted to the Bay State Conference and placed in the Carey Division.[^3][^4]
+In 1997, Weymouth was admitted to the Bay State Conference and placed in the Carey Division.[^3] [^4]
 
 ### Table of Schools from 2010[^3]
 
