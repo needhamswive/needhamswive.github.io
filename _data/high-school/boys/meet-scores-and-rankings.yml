@@ -11,7 +11,11 @@ by-school-year:
       - school: Catholic Memorial
       - school: Framingham
       - school: Natick
+        score: 101 - 79
+        result: W
       - school: Newton North
+        score: 95 - 88
+        result: W
       - school: St. John's Prep
       - school: Wellesley
       - school: Xaverian
