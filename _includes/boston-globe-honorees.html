@@ -4,10 +4,21 @@
 {% assign all-scholastics = include.directory.all-scholastics %}
 {% assign all-scholastics-school-years = all-scholastics | map: "school-year" %}
 
+{% assign all-scholastics-relays = include.directory.all-scholastics-relays %}
+{% assign all-scholastics-relays-school-years = all-scholastics-relays | map: "school-year" %}
+
+{% assign coaches-of-the-year = include.directory.coaches-of-the-year %}
+{% assign coaches-of-the-year-school-years = coaches-of-the-year | map: "school-year" %}
+
 {% assign honorable-mentions = include.directory.honorable-mentions %}
 {% assign honorable-mentions-school-years = honorable-mentions | map: "school-year" %}
 
-{% assign school-years = athletes-of-the-year-school-years | concat: all-scholastics-school-years | concat: honorable-mentions-school-years | uniq | sort | reverse %}
+{% assign school-years = athletes-of-the-year-school-years
+  | concat: all-scholastics-school-years
+  | concat: all-scholastics-relays-school-years
+  | concat: coaches-of-the-year-school-years
+  | concat: honorable-mentions-school-years
+  | uniq | sort | reverse %}
 
 {% for school-year in school-years %}
 
@@ -15,7 +26,7 @@
 
 {% assign athletes-of-the-year-for-school-year = athletes-of-the-year | where: "school-year", school-year %}
 {% if athletes-of-the-year-for-school-year.size > 0 %}
-<h4>Athletes of the Year</h4>
+  <h4>Athletes of the Year</h4>
 
   {% for athlete-of-the-year in athletes-of-the-year-for-school-year -%}
     {{ athlete-of-the-year.name }} <br>
@@ -24,16 +35,35 @@
 
 {% assign all-scholastics-for-school-year = all-scholastics | where: "school-year", school-year %}
 {% if all-scholastics-for-school-year.size > 0 %}
-<h4>All-Scholastics</h4>
+  <h4>All-Scholastics</h4>
 
   {% for all-scholastic in all-scholastics-for-school-year -%}
     {{ all-scholastic.name }} <br>
   {% endfor %}
 {% endif %}
 
+{% assign all-scholastics-relays-for-school-year = all-scholastics-relays | where: "school-year", school-year %}
+{% if all-scholastics-relays-for-school-year.size > 0 %}
+  <h4>All-Scholastics Relays</h4>
+
+  {% for all-scholastics-relay in all-scholastics-relays-for-school-year -%}
+  <i>{{ all-scholastics-relay.event }}</i><br>
+  {{ all-scholastics-relay.athletes | replace: ";", "<br>" }} <br>
+  {% endfor %}
+{% endif %}
+
+{% assign coaches-of-the-year-for-school-year = coaches-of-the-year | where: "school-year", school-year %}
+{% if coaches-of-the-year-for-school-year.size > 0 %}
+  <h4>Coaches of the Year</h4>
+
+  {% for coach-of-the-year in coaches-of-the-year-for-school-year -%}
+    {{ coach-of-the-year.name }} <br>
+  {% endfor %}
+{% endif %}
+
 {% assign honorable-mentions-for-school-year = honorable-mentions | where: "school-year", school-year %}
 {% if honorable-mentions-for-school-year.size > 0 %}
-<h4>Honorable Mentions</h4>
+  <h4>Honorable Mentions</h4>
 
   {% for honorable-mention in honorable-mentions-for-school-year -%}
     {{ honorable-mention.name }} <br>
