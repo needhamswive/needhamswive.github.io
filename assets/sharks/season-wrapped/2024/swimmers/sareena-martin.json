@@ -1,0 +1,56 @@
+{
+  "stats": {
+    "name": "Sareena Martin",
+    "freestyle25Times": [
+      {
+        "meet": "Blue vs. Gold (6/25)",
+        "time": "31.72"
+      },
+      {
+        "meet": "Holl / Med / Mill (7/9)",
+        "time": "30.25"
+      },
+      {
+        "meet": "Norwood (7/23)",
+        "time": "30.03"
+      },
+      {
+        "meet": "Canton (7/30)",
+        "time": "28.00"
+      }
+    ],
+    "backstroke25Times": [
+      {
+        "meet": "Blue vs. Gold (6/25)",
+        "time": "38.81"
+      },
+      {
+        "meet": "Norwood (7/23)",
+        "time": "30.84"
+      },
+      {
+        "meet": "Newton (8/1)",
+        "time": "30.91"
+      }
+    ],
+    "breaststroke25Times": [
+      {
+        "meet": "Holl / Med / Mill (7/9)",
+        "time": "44.30"
+      },
+      {
+        "meet": "Canton (7/30)",
+        "time": "36.32"
+      },
+      {
+        "meet": "Newton (8/1)",
+        "time": "32.61"
+      }
+    ],
+    "seasonPrs": {
+      "25 Freestyle": "28.00",
+      "25 Backstroke": "30.84",
+      "25 Breaststroke": "32.61"
+    }
+  }
+}

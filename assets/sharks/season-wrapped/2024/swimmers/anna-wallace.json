@@ -1,0 +1,60 @@
+{
+  "stats": {
+    "name": "Anna Wallace",
+    "freestyle25Times": [
+      {
+        "meet": "Blue vs. Gold (6/25)",
+        "time": "30.45"
+      },
+      {
+        "meet": "Westwood (7/16)",
+        "time": "23.74"
+      },
+      {
+        "meet": "Norwood (7/23)",
+        "time": "25.69"
+      },
+      {
+        "meet": "Canton (7/30)",
+        "time": "22.04"
+      },
+      {
+        "meet": "Newton (8/1)",
+        "time": "22.98"
+      }
+    ],
+    "backstroke25Times": [
+      {
+        "meet": "Blue vs. Gold (6/25)",
+        "time": "34.06"
+      },
+      {
+        "meet": "Westwood (7/16)",
+        "time": "25.19"
+      },
+      {
+        "meet": "Norwood (7/23)",
+        "time": "27.47"
+      },
+      {
+        "meet": "Canton (7/30)",
+        "time": "27.81"
+      },
+      {
+        "meet": "Newton (8/1)",
+        "time": "27.00"
+      }
+    ],
+    "breaststroke25Times": [
+      {
+        "meet": "Blue vs. Gold (6/25)",
+        "time": "40.96"
+      }
+    ],
+    "seasonPrs": {
+      "25 Freestyle": "22.04",
+      "25 Backstroke": "25.19",
+      "25 Breaststroke": "40.96"
+    }
+  }
+}

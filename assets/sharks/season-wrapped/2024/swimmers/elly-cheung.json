@@ -1,0 +1,55 @@
+{
+  "stats": {
+    "name": "Elly Cheung",
+    "freestyle25Times": [
+      {
+        "meet": "Norwood (7/23)",
+        "time": "15.60"
+      },
+      {
+        "meet": "Newton (8/1)",
+        "time": "14.68"
+      }
+    ],
+    "backstroke25Times": [
+      {
+        "meet": "Westwood (7/16)",
+        "time": "19.70"
+      },
+      {
+        "meet": "Medfield (7/18)",
+        "time": "18.94"
+      }
+    ],
+    "breaststroke25Times": [
+      {
+        "meet": "Westwood (7/16)",
+        "time": "21.51"
+      },
+      {
+        "meet": "Medfield (7/18)",
+        "time": "20.58"
+      },
+      {
+        "meet": "Canton (7/30)",
+        "time": "20.16"
+      }
+    ],
+    "butterfly25Times": [
+      {
+        "meet": "Canton (7/30)",
+        "time": "16.13"
+      },
+      {
+        "meet": "Newton (8/1)",
+        "time": "16.13"
+      }
+    ],
+    "seasonPrs": {
+      "25 Freestyle": "14.68",
+      "25 Backstroke": "18.94",
+      "25 Breaststroke": "20.16",
+      "25 Butterfly": "16.13"
+    }
+  }
+}

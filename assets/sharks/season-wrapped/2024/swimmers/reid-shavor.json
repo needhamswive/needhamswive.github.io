@@ -1,0 +1,29 @@
+{
+  "stats": {
+    "name": "Reid Shavor",
+    "freestyle50Times": [
+      {
+        "meet": "Holl / Med / Mill (7/9)",
+        "time": "31.18"
+      },
+      {
+        "meet": "Medfield (7/18)",
+        "time": "31.73"
+      }
+    ],
+    "breaststroke50Times": [
+      {
+        "meet": "Holl / Med / Mill (7/9)",
+        "time": "39.43"
+      },
+      {
+        "meet": "Medfield (7/18)",
+        "time": "40.35"
+      }
+    ],
+    "seasonPrs": {
+      "50 Butterfly": "31.18",
+      "50 Breaststroke": "39.43"
+    }
+  }
+}

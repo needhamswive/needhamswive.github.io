@@ -1,0 +1,75 @@
+{
+  "stats": {
+    "name": "Grace Lohnes",
+    "freestyle25Times": [
+      {
+        "meet": "Blue vs. Gold (6/25)",
+        "time": "30.39"
+      },
+      {
+        "meet": "Holl / Med / Mill (7/9)",
+        "time": "28.31"
+      },
+      {
+        "meet": "Westwood (7/16)",
+        "time": "26.49"
+      },
+      {
+        "meet": "Medfield (7/18)",
+        "time": "27.98"
+      },
+      {
+        "meet": "Canton (7/30)",
+        "time": "24.89"
+      },
+      {
+        "meet": "Newton (8/1)",
+        "time": "27.85"
+      }
+    ],
+    "backstroke25Times": [
+      {
+        "meet": "Blue vs. Gold (6/25)",
+        "time": "39.88"
+      },
+      {
+        "meet": "Holl / Med / Mill (7/9)",
+        "time": "28.85"
+      },
+      {
+        "meet": "Medfield (7/18)",
+        "time": "29.92"
+      },
+      {
+        "meet": "Canton (7/30)",
+        "time": "31.27"
+      },
+      {
+        "meet": "Newton (8/1)",
+        "time": "29.39"
+      }
+    ],
+    "breaststroke25Times": [
+      {
+        "meet": "Blue vs. Gold (6/25)",
+        "time": "38.97"
+      },
+      {
+        "meet": "Westwood (7/16)",
+        "time": "37.90"
+      }
+    ],
+    "butterfly25Times": [
+      {
+        "meet": "Blue vs. Gold (6/25)",
+        "time": "36.81"
+      }
+    ],
+    "seasonPrs": {
+      "25 Freestyle": "24.89",
+      "25 Backstroke": "28.85",
+      "25 Breaststroke": "37.90",
+      "25 Butterfly": "36.81"
+    }
+  }
+}

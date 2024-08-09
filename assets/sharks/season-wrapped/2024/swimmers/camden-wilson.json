@@ -1,0 +1,74 @@
+{
+  "stats": {
+    "name": "Camden Wilson",
+    "freestyle50Times": [
+      {
+        "meet": "Blue vs. Gold (6/25)",
+        "time": "30.68"
+      },
+      {
+        "meet": "Westwood (7/16)",
+        "time": "31.60"
+      },
+      {
+        "meet": "Canton (7/30)",
+        "time": "30.25"
+      },
+      {
+        "meet": "Newton (8/1)",
+        "time": "29.49"
+      }
+    ],
+    "backstroke": [
+      {
+        "meet": "Blue vs. Gold (6/25)",
+        "time": "36.12"
+      },
+      {
+        "meet": "Westwood (7/16)",
+        "time": "36.54"
+      },
+      {
+        "meet": "Medfield (7/18)",
+        "time": "35.91"
+      },
+      {
+        "meet": "Canton (7/30)",
+        "time": "36.34"
+      },
+      {
+        "meet": "Newton (8/1)",
+        "time": "35.31"
+      }
+    ],
+    "breaststroke50Times": [
+      {
+        "meet": "Blue vs. Gold (6/25)",
+        "time": "42.60"
+      },
+      {
+        "meet": "Holl / Med / Mill (7/9)",
+        "time": "43.08"
+      }
+    ],
+    "butterfly50Times": [
+      {
+        "meet": "Blue vs. Gold (6/25)",
+        "time": "35.90"
+      },
+      {
+        "meet": "Holl / Med / Mill (7/9)",
+        "time": "36.95"
+      },
+      {
+        "meet": "Medfield (7/18)",
+        "time": "35.31"
+      }
+    ],
+    "seasonPrs": {
+      "50 Butterfly": "35.31",
+      "50 Backstroke": "35.31",
+      "50 Breaststroke": "42.60"
+    }
+  }
+}

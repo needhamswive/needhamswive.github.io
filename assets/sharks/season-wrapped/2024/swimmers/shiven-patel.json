@@ -1,0 +1,64 @@
+{
+  "stats": {
+    "name": "Shiven Patel",
+    "freestyle50Times": [
+      {
+        "meet": "Blue vs. Gold (6/25)",
+        "time": "34.62"
+      },
+      {
+        "meet": "Westwood (7/16)",
+        "time": "36.16"
+      },
+      {
+        "meet": "Medfield (7/18)",
+        "time": "36.42"
+      },
+      {
+        "meet": "Canton (7/30)",
+        "time": "34.23"
+      },
+      {
+        "meet": "Newton (8/1)",
+        "time": "33.43"
+      }
+    ],
+    "backstroke": [
+      {
+        "meet": "Blue vs. Gold (6/25)",
+        "time": "48.74"
+      },
+      {
+        "meet": "Holl / Med / Mill (7/9)",
+        "time": "48.88"
+      },
+      {
+        "meet": "Canton (7/30)",
+        "time": "44.32"
+      },
+      {
+        "meet": "Newton (8/1)",
+        "time": "49.62"
+      }
+    ],
+    "breaststroke50Times": [
+      {
+        "meet": "Blue vs. Gold (6/25)",
+        "time": "46.33"
+      },
+      {
+        "meet": "Holl / Med / Mill (7/9)",
+        "time": "45.83"
+      },
+      {
+        "meet": "Medfield (7/18)",
+        "time": "49.93"
+      }
+    ],
+    "seasonPrs": {
+      "50 Butterfly": "33.43",
+      "50 Backstroke": "44.32",
+      "50 Breaststroke": "45.83"
+    }
+  }
+}

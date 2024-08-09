@@ -1,0 +1,74 @@
+{
+  "stats": {
+    "name": "Robert Desrosiers",
+    "freestyle50Times": [
+      {
+        "meet": "Blue vs. Gold (6/25)",
+        "time": "37.28"
+      },
+      {
+        "meet": "Holl / Med / Mill (7/9)",
+        "time": "37.56"
+      }
+    ],
+    "backstroke": [
+      {
+        "meet": "Blue vs. Gold (6/25)",
+        "time": "48.41"
+      },
+      {
+        "meet": "Canton (7/30)",
+        "time": "45.99"
+      },
+      {
+        "meet": "Newton (8/1)",
+        "time": "46.05"
+      }
+    ],
+    "breaststroke50Times": [
+      {
+        "meet": "Blue vs. Gold (6/25)",
+        "time": "54.51"
+      },
+      {
+        "meet": "Westwood (7/16)",
+        "time": "50.97"
+      },
+      {
+        "meet": "Norwood (7/23)",
+        "time": "51.57"
+      },
+      {
+        "meet": "Newton (8/1)",
+        "time": "50.40"
+      }
+    ],
+    "butterfly50Times": [
+      {
+        "meet": "Blue vs. Gold (6/25)",
+        "time": "48.69"
+      },
+      {
+        "meet": "Holl / Med / Mill (7/9)",
+        "time": "49.66"
+      },
+      {
+        "meet": "Westwood (7/16)",
+        "time": "48.95"
+      },
+      {
+        "meet": "Norwood (7/23)",
+        "time": "50.16"
+      },
+      {
+        "meet": "Canton (7/30)",
+        "time": "49.25"
+      }
+    ],
+    "seasonPrs": {
+      "50 Butterfly": "48.69",
+      "50 Backstroke": "45.99",
+      "50 Breaststroke": "50.40"
+    }
+  }
+}

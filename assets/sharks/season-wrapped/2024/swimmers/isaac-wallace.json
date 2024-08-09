@@ -1,0 +1,65 @@
+{
+  "stats": {
+    "name": "Isaac Wallace",
+    "freestyle50Times": [
+      {
+        "meet": "Norwood (7/23)",
+        "time": "32.16"
+      }
+    ],
+    "breaststroke50Times": [
+      {
+        "meet": "Norwood (7/23)",
+        "time": "42.00"
+      }
+    ],
+    "freestyle25Times": [
+      {
+        "meet": "Blue vs. Gold (6/25)",
+        "time": "14.31"
+      }
+    ],
+    "backstroke25Times": [
+      {
+        "meet": "Blue vs. Gold (6/25)",
+        "time": "17.29"
+      }
+    ],
+    "breaststroke25Times": [
+      {
+        "meet": "Blue vs. Gold (6/25)",
+        "time": "18.56"
+      },
+      {
+        "meet": "Westwood (7/16)",
+        "time": "18.76"
+      },
+      {
+        "meet": "Newton (8/1)",
+        "time": "17.59"
+      }
+    ],
+    "butterfly25Times": [
+      {
+        "meet": "Blue vs. Gold (6/25)",
+        "time": "16.03"
+      },
+      {
+        "meet": "Westwood (7/16)",
+        "time": "16.09"
+      },
+      {
+        "meet": "Newton (8/1)",
+        "time": "14.46"
+      }
+    ],
+    "seasonPrs": {
+      "50 Butterfly": "32.16",
+      "50 Breaststroke": "42.00",
+      "25 Freestyle": "14.31",
+      "25 Backstroke": "17.29",
+      "25 Breaststroke": "17.59",
+      "25 Butterfly": "14.46"
+    }
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "stats": {
+    "name": "Nathaniel Avissar",
+    "freestyle50Times": [
+      {
+        "meet": "Blue vs. Gold (6/25)",
+        "time": "34.34"
+      }
+    ],
+    "backstroke": [
+      {
+        "meet": "Blue vs. Gold (6/25)",
+        "time": "41.87"
+      },
+      {
+        "meet": "Norwood (7/23)",
+        "time": "40.79"
+      },
+      {
+        "meet": "Canton (7/30)",
+        "time": "40.25"
+      },
+      {
+        "meet": "Newton (8/1)",
+        "time": "40.71"
+      }
+    ],
+    "breaststroke50Times": [
+      {
+        "meet": "Blue vs. Gold (6/25)",
+        "time": "52.40"
+      },
+      {
+        "meet": "Westwood (7/16)",
+        "time": "43.14"
+      },
+      {
+        "meet": "Norwood (7/23)",
+        "time": "49.85"
+      },
+      {
+        "meet": "Newton (8/1)",
+        "time": "49.84"
+      }
+    ],
+    "butterfly50Times": [
+      {
+        "meet": "Blue vs. Gold (6/25)",
+        "time": "39.03"
+      },
+      {
+        "meet": "Canton (7/30)",
+        "time": "39.79"
+      }
+    ],
+    "seasonPrs": {
+      "50 Butterfly": "39.03",
+      "50 Backstroke": "40.25",
+      "50 Breaststroke": "43.14"
+    }
+  }
+}

@@ -1,0 +1,82 @@
+{
+  "stats": {
+    "name": "Liam Ni",
+    "freestyle50Times": [
+      {
+        "meet": "Blue vs. Gold (6/25)",
+        "time": "27.33"
+      },
+      {
+        "meet": "Holl / Med / Mill (7/9)",
+        "time": "27.54"
+      },
+      {
+        "meet": "Medfield (7/18)",
+        "time": "27.28"
+      },
+      {
+        "meet": "Norwood (7/23)",
+        "time": "26.26"
+      },
+      {
+        "meet": "Canton (7/30)",
+        "time": "26.87"
+      },
+      {
+        "meet": "Newton (8/1)",
+        "time": "25.84"
+      }
+    ],
+    "backstroke": [
+      {
+        "meet": "Blue vs. Gold (6/25)",
+        "time": "31.28"
+      },
+      {
+        "meet": "Holl / Med / Mill (7/9)",
+        "time": "29.83"
+      },
+      {
+        "meet": "Medfield (7/18)",
+        "time": "30.77"
+      },
+      {
+        "meet": "Newton (8/1)",
+        "time": "29.22"
+      }
+    ],
+    "breaststroke50Times": [
+      {
+        "meet": "Blue vs. Gold (6/25)",
+        "time": "37.27"
+      },
+      {
+        "meet": "Westwood (7/16)",
+        "time": "37.10"
+      },
+      {
+        "meet": "Canton (7/30)",
+        "time": "36.96"
+      }
+    ],
+    "butterfly50Times": [
+      {
+        "meet": "Blue vs. Gold (6/25)",
+        "time": "31.27"
+      },
+      {
+        "meet": "Westwood (7/16)",
+        "time": "30.89"
+      },
+      {
+        "meet": "Norwood (7/23)",
+        "time": "30.20"
+      }
+    ],
+    "seasonPrs": {
+      "50 Butterfly": "30.20",
+      "50 Backstroke": "29.22",
+      "50 Breaststroke": "36.96"
+    }
+  }
+}

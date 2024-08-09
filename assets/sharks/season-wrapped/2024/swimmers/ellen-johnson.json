@@ -1,0 +1,71 @@
+{
+  "stats": {
+    "name": "Ellen Johnson",
+    "freestyle25Times": [
+      {
+        "meet": "Blue vs. Gold (6/25)",
+        "time": "25.56"
+      },
+      {
+        "meet": "Holl / Med / Mill (7/9)",
+        "time": "23.12"
+      },
+      {
+        "meet": "Westwood (7/16)",
+        "time": "25.43"
+      },
+      {
+        "meet": "Medfield (7/18)",
+        "time": "24.53"
+      },
+      {
+        "meet": "Canton (7/30)",
+        "time": "23.04"
+      },
+      {
+        "meet": "Newton (8/1)",
+        "time": "22.88"
+      }
+    ],
+    "backstroke25Times": [
+      {
+        "meet": "Blue vs. Gold (6/25)",
+        "time": "35.03"
+      },
+      {
+        "meet": "Westwood (7/16)",
+        "time": "34.57"
+      }
+    ],
+    "breaststroke25Times": [
+      {
+        "meet": "Blue vs. Gold (6/25)",
+        "time": "31.44"
+      },
+      {
+        "meet": "Medfield (7/18)",
+        "time": "27.91"
+      },
+      {
+        "meet": "Canton (7/30)",
+        "time": "28.02"
+      },
+      {
+        "meet": "Newton (8/1)",
+        "time": "28.03"
+      }
+    ],
+    "butterfly25Times": [
+      {
+        "meet": "Blue vs. Gold (6/25)",
+        "time": "37.84"
+      }
+    ],
+    "seasonPrs": {
+      "25 Freestyle": "22.88",
+      "25 Backstroke": "34.57",
+      "25 Breaststroke": "27.91",
+      "25 Butterfly": "37.84"
+    }
+  }
+}

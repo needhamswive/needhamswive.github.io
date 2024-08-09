@@ -1,0 +1,50 @@
+{
+  "stats": {
+    "name": "Kai Mactough",
+    "freestyle50Times": [
+      {
+        "meet": "Blue vs. Gold (6/25)",
+        "time": "32.26"
+      },
+      {
+        "meet": "Medfield (7/18)",
+        "time": "30.85"
+      },
+      {
+        "meet": "Norwood (7/23)",
+        "time": "30.95"
+      }
+    ],
+    "backstroke": [
+      {
+        "meet": "Blue vs. Gold (6/25)",
+        "time": "38.96"
+      },
+      {
+        "meet": "Holl / Med / Mill (7/9)",
+        "time": "41.00"
+      }
+    ],
+    "breaststroke50Times": [
+      {
+        "meet": "Blue vs. Gold (6/25)",
+        "time": "45.35"
+      },
+      {
+        "meet": "Holl / Med / Mill (7/9)",
+        "time": "45.04"
+      }
+    ],
+    "butterfly50Times": [
+      {
+        "meet": "Blue vs. Gold (6/25)",
+        "time": "38.65"
+      }
+    ],
+    "seasonPrs": {
+      "50 Butterfly": "38.65",
+      "50 Backstroke": "38.96",
+      "50 Breaststroke": "45.04"
+    }
+  }
+}

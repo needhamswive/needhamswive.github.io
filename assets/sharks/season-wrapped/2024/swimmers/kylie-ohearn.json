@@ -1,0 +1,52 @@
+{
+  "stats": {
+    "name": "Kylie O'Hearn",
+    "graduating": true,
+    "university": "University of California Los Angeles",
+    "freestyle50Times": [
+      {
+        "meet": "Blue vs. Gold (6/25)",
+        "time": "28.79"
+      },
+      {
+        "meet": "Medfield (7/18)",
+        "time": "29.59"
+      },
+      {
+        "meet": "Norwood (7/23)",
+        "time": "28.57"
+      }
+    ],
+    "backstroke": [
+      {
+        "meet": "Blue vs. Gold (6/25)",
+        "time": "36.87"
+      }
+    ],
+    "breaststroke50Times": [
+      {
+        "meet": "Blue vs. Gold (6/25)",
+        "time": "37.30"
+      },
+      {
+        "meet": "Medfield (7/18)",
+        "time": "37.30"
+      }
+    ],
+    "butterfly50Times": [
+      {
+        "meet": "Blue vs. Gold (6/25)",
+        "time": "32.88"
+      },
+      {
+        "meet": "Norwood (7/23)",
+        "time": "31.98"
+      }
+    ],
+    "seasonPrs": {
+      "50 Butterfly": "31.98",
+      "50 Backstroke": "36.87",
+      "50 Breaststroke": "37.30"
+    }
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "stats": {
+    "name": "Ronan Afzali",
+    "freestyle25Times": [
+      {
+        "meet": "Holl / Med / Mill (7/9)",
+        "time": "25.92"
+      },
+      {
+        "meet": "Norwood (7/23)",
+        "time": "26.60"
+      }
+    ],
+    "backstroke25Times": [
+      {
+        "meet": "Holl / Med / Mill (7/9)",
+        "time": "28.10"
+      },
+      {
+        "meet": "Westwood (7/16)",
+        "time": "25.89"
+      },
+      {
+        "meet": "Medfield (7/18)",
+        "time": "25.07"
+      },
+      {
+        "meet": "Norwood (7/23)",
+        "time": "26.66"
+      },
+      {
+        "meet": "Canton (7/30)",
+        "time": "27.33"
+      },
+      {
+        "meet": "Newton (8/1)",
+        "time": "24.48"
+      }
+    ],
+    "breaststroke25Times": [
+      {
+        "meet": "Canton (7/30)",
+        "time": "32.43"
+      },
+      {
+        "meet": "Newton (8/1)",
+        "time": "31.59"
+      }
+    ],
+    "butterfly25Times": [
+      {
+        "meet": "Westwood (7/16)",
+        "time": "38.04"
+      },
+      {
+        "meet": "Medfield (7/18)",
+        "time": "44.59"
+      }
+    ],
+    "seasonPrs": {
+      "25 Freestyle": "25.92",
+      "25 Backstroke": "24.48",
+      "25 Breaststroke": "31.59",
+      "25 Butterfly": "38.04"
+    }
+  }
+}

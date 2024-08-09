@@ -1,0 +1,60 @@
+{
+  "stats": {
+    "name": "Calais Linzmeyer",
+    "freestyle25Times": [
+      {
+        "meet": "Blue vs. Gold (6/25)",
+        "time": "30.78"
+      },
+      {
+        "meet": "Westwood (7/16)",
+        "time": "38.39"
+      },
+      {
+        "meet": "Medfield (7/18)",
+        "time": "30.25"
+      },
+      {
+        "meet": "Canton (7/30)",
+        "time": "30.97"
+      },
+      {
+        "meet": "Newton (8/1)",
+        "time": "25.19"
+      }
+    ],
+    "backstroke25Times": [
+      {
+        "meet": "Blue vs. Gold (6/25)",
+        "time": "31.35"
+      },
+      {
+        "meet": "Newton (8/1)",
+        "time": "34.23"
+      }
+    ],
+    "breaststroke25Times": [
+      {
+        "meet": "Blue vs. Gold (6/25)",
+        "time": "44.10"
+      },
+      {
+        "meet": "Westwood (7/16)",
+        "time": "46.81"
+      },
+      {
+        "meet": "Medfield (7/18)",
+        "time": "41.05"
+      },
+      {
+        "meet": "Canton (7/30)",
+        "time": "41.95"
+      }
+    ],
+    "seasonPrs": {
+      "25 Freestyle": "25.19",
+      "25 Backstroke": "31.35",
+      "25 Breaststroke": "41.05"
+    }
+  }
+}

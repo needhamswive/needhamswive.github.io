@@ -1,0 +1,32 @@
+{
+  "stats": {
+    "name": "Kate Liu",
+    "backstroke25Times": [
+      {
+        "meet": "Westwood (7/16)",
+        "time": "17.21"
+      }
+    ],
+    "breaststroke25Times": [
+      {
+        "meet": "Westwood (7/16)",
+        "time": "20.05"
+      },
+      {
+        "meet": "Medfield (7/18)",
+        "time": "20.38"
+      }
+    ],
+    "butterfly25Times": [
+      {
+        "meet": "Medfield (7/18)",
+        "time": "16.34"
+      }
+    ],
+    "seasonPrs": {
+      "25 Backstroke": "17.21",
+      "25 Breaststroke": "20.05",
+      "25 Butterfly": "16.34"
+    }
+  }
+}

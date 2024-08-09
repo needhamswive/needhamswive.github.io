@@ -1,0 +1,62 @@
+{
+  "stats": {
+    "name": "Ashton Kim",
+    "freestyle50Times": [
+      {
+        "meet": "Blue vs. Gold (6/25)",
+        "time": "27.88"
+      },
+      {
+        "meet": "Medfield (7/18)",
+        "time": "26.94"
+      },
+      {
+        "meet": "Canton (7/30)",
+        "time": "27.67"
+      },
+      {
+        "meet": "Newton (8/1)",
+        "time": "26.60"
+      }
+    ],
+    "backstroke": [
+      {
+        "meet": "Blue vs. Gold (6/25)",
+        "time": "41.53"
+      },
+      {
+        "meet": "Medfield (7/18)",
+        "time": "39.70"
+      }
+    ],
+    "breaststroke50Times": [
+      {
+        "meet": "Blue vs. Gold (6/25)",
+        "time": "39.03"
+      },
+      {
+        "meet": "Norwood (7/23)",
+        "time": "39.22"
+      },
+      {
+        "meet": "Canton (7/30)",
+        "time": "40.07"
+      }
+    ],
+    "butterfly50Times": [
+      {
+        "meet": "Blue vs. Gold (6/25)",
+        "time": "32.22"
+      },
+      {
+        "meet": "Newton (8/1)",
+        "time": "32.25"
+      }
+    ],
+    "seasonPrs": {
+      "50 Butterfly": "32.22",
+      "50 Backstroke": "39.70",
+      "50 Breaststroke": "39.03"
+    }
+  }
+}

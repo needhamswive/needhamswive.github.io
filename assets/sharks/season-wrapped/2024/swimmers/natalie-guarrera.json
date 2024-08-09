@@ -1,0 +1,58 @@
+{
+  "stats": {
+    "name": "Natalie Guarrera",
+    "freestyle50Times": [
+      {
+        "meet": "Blue vs. Gold (6/25)",
+        "time": "28.81"
+      },
+      {
+        "meet": "Holl / Med / Mill (7/9)",
+        "time": "28.40"
+      },
+      {
+        "meet": "Norwood (7/23)",
+        "time": "28.67"
+      }
+    ],
+    "backstroke": [
+      {
+        "meet": "Westwood (7/16)",
+        "time": "30.92"
+      },
+      {
+        "meet": "Medfield (7/18)",
+        "time": "30.26"
+      },
+      {
+        "meet": "Norwood (7/23)",
+        "time": "30.90"
+      }
+    ],
+    "breaststroke50Times": [
+      {
+        "meet": "Westwood (7/16)",
+        "time": "39.89"
+      }
+    ],
+    "butterfly50Times": [
+      {
+        "meet": "Blue vs. Gold (6/25)",
+        "time": "29.66"
+      },
+      {
+        "meet": "Holl / Med / Mill (7/9)",
+        "time": "29.51"
+      },
+      {
+        "meet": "Medfield (7/18)",
+        "time": "29.04"
+      }
+    ],
+    "seasonPrs": {
+      "50 Butterfly": "29.04",
+      "50 Backstroke": "30.26",
+      "50 Breaststroke": "39.89"
+    }
+  }
+}

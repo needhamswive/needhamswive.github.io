@@ -1,0 +1,62 @@
+{
+  "stats": {
+    "name": "Reid Mactough",
+    "freestyle50Times": [
+      {
+        "meet": "Blue vs. Gold (6/25)",
+        "time": "30.92"
+      },
+      {
+        "meet": "Norwood (7/23)",
+        "time": "30.64"
+      }
+    ],
+    "backstroke": [
+      {
+        "meet": "Blue vs. Gold (6/25)",
+        "time": "37.66"
+      },
+      {
+        "meet": "Westwood (7/16)",
+        "time": "38.64"
+      }
+    ],
+    "breaststroke50Times": [
+      {
+        "meet": "Blue vs. Gold (6/25)",
+        "time": "40.22"
+      },
+      {
+        "meet": "Medfield (7/18)",
+        "time": "38.12"
+      },
+      {
+        "meet": "Norwood (7/23)",
+        "time": "40.34"
+      }
+    ],
+    "butterfly50Times": [
+      {
+        "meet": "Blue vs. Gold (6/25)",
+        "time": "33.92"
+      },
+      {
+        "meet": "Holl / Med / Mill (7/9)",
+        "time": "32.41"
+      },
+      {
+        "meet": "Westwood (7/16)",
+        "time": "33.14"
+      },
+      {
+        "meet": "Medfield (7/18)",
+        "time": "32.23"
+      }
+    ],
+    "seasonPrs": {
+      "50 Butterfly": "32.23",
+      "50 Backstroke": "37.66",
+      "50 Breaststroke": "38.12"
+    }
+  }
+}

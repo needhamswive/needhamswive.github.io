@@ -1,0 +1,31 @@
+{
+  "stats": {
+    "name": "Maya Porter",
+    "freestyle50Times": [
+      {
+        "meet": "Westwood (7/16)",
+        "time": "30.81"
+      }
+    ],
+    "breaststroke50Times": [
+      {
+        "meet": "Holl / Med / Mill (7/9)",
+        "time": "39.37"
+      },
+      {
+        "meet": "Westwood (7/16)",
+        "time": "40.23"
+      }
+    ],
+    "butterfly50Times": [
+      {
+        "meet": "Norwood (7/23)",
+        "time": "34.48"
+      }
+    ],
+    "seasonPrs": {
+      "50 Butterfly": "34.48",
+      "50 Breaststroke": "39.37"
+    }
+  }
+}

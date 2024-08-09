@@ -1,0 +1,66 @@
+{
+  "stats": {
+    "name": "Vincent Dannenberg",
+    "freestyle50Times": [
+      {
+        "meet": "Blue vs. Gold (6/25)",
+        "time": "38.56"
+      },
+      {
+        "meet": "Medfield (7/18)",
+        "time": "41.19"
+      },
+      {
+        "meet": "Norwood (7/23)",
+        "time": "36.96"
+      },
+      {
+        "meet": "Canton (7/30)",
+        "time": "38.08"
+      },
+      {
+        "meet": "Newton (8/1)",
+        "time": "37.58"
+      }
+    ],
+    "backstroke": [
+      {
+        "meet": "Blue vs. Gold (6/25)",
+        "time": "46.97"
+      },
+      {
+        "meet": "Medfield (7/18)",
+        "time": "50.54"
+      },
+      {
+        "meet": "Norwood (7/23)",
+        "time": "48.59"
+      },
+      {
+        "meet": "Newton (8/1)",
+        "time": "45.82"
+      }
+    ],
+    "breaststroke50Times": [
+      {
+        "meet": "Blue vs. Gold (6/25)",
+        "time": "54.72"
+      },
+      {
+        "meet": "Canton (7/30)",
+        "time": "54.22"
+      }
+    ],
+    "butterfly50Times": [
+      {
+        "meet": "Blue vs. Gold (6/25)",
+        "time": "49.68"
+      }
+    ],
+    "seasonPrs": {
+      "50 Butterfly": "49.68",
+      "50 Backstroke": "45.82",
+      "50 Breaststroke": "54.22"
+    }
+  }
+}

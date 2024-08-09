@@ -1,0 +1,67 @@
+{
+  "stats": {
+    "name": "Shawn Martin",
+    "freestyle25Times": [
+      {
+        "meet": "Blue vs. Gold (6/25)",
+        "time": "27.70"
+      },
+      {
+        "meet": "Holl / Med / Mill (7/9)",
+        "time": "26.10"
+      },
+      {
+        "meet": "Norwood (7/23)",
+        "time": "25.62"
+      },
+      {
+        "meet": "Canton (7/30)",
+        "time": "23.40"
+      },
+      {
+        "meet": "Newton (8/1)",
+        "time": "22.42"
+      }
+    ],
+    "backstroke25Times": [
+      {
+        "meet": "Blue vs. Gold (6/25)",
+        "time": "33.08"
+      },
+      {
+        "meet": "Holl / Med / Mill (7/9)",
+        "time": "33.97"
+      },
+      {
+        "meet": "Norwood (7/23)",
+        "time": "32.17"
+      },
+      {
+        "meet": "Canton (7/30)",
+        "time": "31.01"
+      }
+    ],
+    "breaststroke25Times": [
+      {
+        "meet": "Blue vs. Gold (6/25)",
+        "time": "36.42"
+      },
+      {
+        "meet": "Newton (8/1)",
+        "time": "29.14"
+      }
+    ],
+    "butterfly25Times": [
+      {
+        "meet": "Blue vs. Gold (6/25)",
+        "time": "38.62"
+      }
+    ],
+    "seasonPrs": {
+      "25 Freestyle": "22.42",
+      "25 Backstroke": "31.01",
+      "25 Breaststroke": "29.14",
+      "25 Butterfly": "38.62"
+    }
+  }
+}

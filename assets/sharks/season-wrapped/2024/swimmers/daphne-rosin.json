@@ -1,0 +1,83 @@
+{
+  "stats": {
+    "name": "Daphne Rosin",
+    "freestyle25Times": [
+      {
+        "meet": "Blue vs. Gold (6/25)",
+        "time": "24.72"
+      },
+      {
+        "meet": "Holl / Med / Mill (7/9)",
+        "time": "24.36"
+      }
+    ],
+    "backstroke25Times": [
+      {
+        "meet": "Blue vs. Gold (6/25)",
+        "time": "29.84"
+      },
+      {
+        "meet": "Westwood (7/16)",
+        "time": "29.54"
+      },
+      {
+        "meet": "Medfield (7/18)",
+        "time": "29.42"
+      },
+      {
+        "meet": "Canton (7/30)",
+        "time": "27.31"
+      }
+    ],
+    "breaststroke25Times": [
+      {
+        "meet": "Blue vs. Gold (6/25)",
+        "time": "33.81"
+      },
+      {
+        "meet": "Holl / Med / Mill (7/9)",
+        "time": "34.25"
+      },
+      {
+        "meet": "Norwood (7/23)",
+        "time": "35.23"
+      },
+      {
+        "meet": "Newton (8/1)",
+        "time": "34.06"
+      }
+    ],
+    "butterfly25Times": [
+      {
+        "meet": "Blue vs. Gold (6/25)",
+        "time": "28.94"
+      },
+      {
+        "meet": "Westwood (7/16)",
+        "time": "33.17"
+      },
+      {
+        "meet": "Medfield (7/18)",
+        "time": "29.13"
+      },
+      {
+        "meet": "Norwood (7/23)",
+        "time": "30.64"
+      },
+      {
+        "meet": "Canton (7/30)",
+        "time": "32.96"
+      },
+      {
+        "meet": "Newton (8/1)",
+        "time": "29.40"
+      }
+    ],
+    "seasonPrs": {
+      "25 Freestyle": "24.36",
+      "25 Backstroke": "27.31",
+      "25 Breaststroke": "33.81",
+      "25 Butterfly": "28.94"
+    }
+  }
+}

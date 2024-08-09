@@ -1,0 +1,66 @@
+{
+  "stats": {
+    "name": "Brian Wukitch",
+    "freestyle50Times": [
+      {
+        "meet": "Blue vs. Gold (6/25)",
+        "time": "24.89"
+      },
+      {
+        "meet": "Medfield (7/18)",
+        "time": "26.46"
+      },
+      {
+        "meet": "Norwood (7/23)",
+        "time": "24.38"
+      }
+    ],
+    "backstroke": [
+      {
+        "meet": "Blue vs. Gold (6/25)",
+        "time": "27.42"
+      },
+      {
+        "meet": "Medfield (7/18)",
+        "time": "28.83"
+      },
+      {
+        "meet": "Norwood (7/23)",
+        "time": "27.10"
+      }
+    ],
+    "breaststroke50Times": [
+      {
+        "meet": "Blue vs. Gold (6/25)",
+        "time": "33.26"
+      },
+      {
+        "meet": "Holl / Med / Mill (7/9)",
+        "time": "33.70"
+      },
+      {
+        "meet": "Norwood (7/23)",
+        "time": "33.99"
+      }
+    ],
+    "butterfly50Times": [
+      {
+        "meet": "Blue vs. Gold (6/25)",
+        "time": "26.64"
+      },
+      {
+        "meet": "Holl / Med / Mill (7/9)",
+        "time": "26.09"
+      },
+      {
+        "meet": "Medfield (7/18)",
+        "time": "26.71"
+      }
+    ],
+    "seasonPrs": {
+      "50 Butterfly": "26.09",
+      "50 Backstroke": "27.10",
+      "50 Breaststroke": "33.26"
+    }
+  }
+}

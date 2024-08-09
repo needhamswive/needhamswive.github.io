@@ -11,13 +11,13 @@
       "50 Breaststroke": "33.07",
       "50 Backstroke": "28.61"
     },
-    "butterflyTimes": [
+    "butterfly50Times": [
       {
         "meet": "Dedham (7/9)",
         "result": "27.20"
       }
     ],
-    "freestyleTimes": [
+    "freestyle50Times": [
       {
         "meet": "Blue vs. Gold (6/25)",
         "result": "25.00"
@@ -35,7 +35,7 @@
         "result": "24.46"
       }
     ],
-    "breaststrokeTimes": [
+    "breaststroke50Times": [
       {
         "meet": "Blue vs. Gold (6/25)",
         "result": "34.92"
@@ -49,7 +49,7 @@
         "result": "33.07"
       }
     ],
-    "backstrokeTimes": [
+    "backstroke50Times": [
       {
         "meet": "Blue vs. Gold (6/25)",
         "result": "29.92"

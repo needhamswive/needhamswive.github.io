@@ -1,0 +1,78 @@
+{
+  "stats": {
+    "name": "Declan Boerum",
+    "freestyle50Times": [
+      {
+        "meet": "Blue vs. Gold (6/25)",
+        "time": "41.94"
+      },
+      {
+        "meet": "Holl / Med / Mill (7/9)",
+        "time": "40.12"
+      },
+      {
+        "meet": "Medfield (7/18)",
+        "time": "42.17"
+      },
+      {
+        "meet": "Norwood (7/23)",
+        "time": "41.51"
+      },
+      {
+        "meet": "Canton (7/30)",
+        "time": "41.07"
+      }
+    ],
+    "backstroke": [
+      {
+        "meet": "Blue vs. Gold (6/25)",
+        "time": "57.15"
+      },
+      {
+        "meet": "Westwood (7/16)",
+        "time": "53.84"
+      },
+      {
+        "meet": "Norwood (7/23)",
+        "time": "53.05"
+      },
+      {
+        "meet": "Newton (8/1)",
+        "time": "55.44"
+      }
+    ],
+    "breaststroke50Times": [
+      {
+        "meet": "Blue vs. Gold (6/25)",
+        "time": "49.86"
+      },
+      {
+        "meet": "Holl / Med / Mill (7/9)",
+        "time": "45.94"
+      },
+      {
+        "meet": "Canton (7/30)",
+        "time": "44.75"
+      },
+      {
+        "meet": "Newton (8/1)",
+        "time": "43.81"
+      }
+    ],
+    "butterfly50Times": [
+      {
+        "meet": "Westwood (7/16)",
+        "time": "51.26"
+      },
+      {
+        "meet": "Medfield (7/18)",
+        "time": "47.77"
+      }
+    ],
+    "seasonPrs": {
+      "50 Butterfly": "47.77",
+      "50 Backstroke": "53.05",
+      "50 Breaststroke": "43.81"
+    }
+  }
+}

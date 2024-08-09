@@ -1,0 +1,83 @@
+{
+  "stats": {
+    "name": "Pierce Boerum",
+    "freestyle25Times": [
+      {
+        "meet": "Blue vs. Gold (6/25)",
+        "time": "26.00"
+      },
+      {
+        "meet": "Norwood (7/23)",
+        "time": "21.23"
+      }
+    ],
+    "backstroke25Times": [
+      {
+        "meet": "Blue vs. Gold (6/25)",
+        "time": "25.19"
+      },
+      {
+        "meet": "Canton (7/30)",
+        "time": "27.14"
+      },
+      {
+        "meet": "Newton (8/1)",
+        "time": "30.08"
+      }
+    ],
+    "breaststroke25Times": [
+      {
+        "meet": "Blue vs. Gold (6/25)",
+        "time": "28.38"
+      },
+      {
+        "meet": "Holl / Med / Mill (7/9)",
+        "time": "27.87"
+      },
+      {
+        "meet": "Westwood (7/16)",
+        "time": "33.29"
+      },
+      {
+        "meet": "Medfield (7/18)",
+        "time": "27.28"
+      }
+    ],
+    "butterfly25Times": [
+      {
+        "meet": "Blue vs. Gold (6/25)",
+        "time": "23.06"
+      },
+      {
+        "meet": "Holl / Med / Mill (7/9)",
+        "time": "23.66"
+      },
+      {
+        "meet": "Westwood (7/16)",
+        "time": "27.26"
+      },
+      {
+        "meet": "Medfield (7/18)",
+        "time": "20.94"
+      },
+      {
+        "meet": "Norwood (7/23)",
+        "time": "24.19"
+      },
+      {
+        "meet": "Canton (7/30)",
+        "time": "23.83"
+      },
+      {
+        "meet": "Newton (8/1)",
+        "time": "23.81"
+      }
+    ],
+    "seasonPrs": {
+      "25 Freestyle": "21.23",
+      "25 Backstroke": "25.19",
+      "25 Breaststroke": "27.28",
+      "25 Butterfly": "20.94"
+    }
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "stats": {
+    "name": "Sophia Tolokh",
+    "freestyle50Times": [
+      {
+        "meet": "Norwood (7/23)",
+        "time": "26.72"
+      },
+      {
+        "meet": "Canton (7/30)",
+        "time": "26.82"
+      }
+    ],
+    "backstroke": [
+      {
+        "meet": "Westwood (7/16)",
+        "time": "29.73"
+      },
+      {
+        "meet": "Canton (7/30)",
+        "time": "30.02"
+      },
+      {
+        "meet": "Newton (8/1)",
+        "time": "29.41"
+      }
+    ],
+    "breaststroke50Times": [
+      {
+        "meet": "Norwood (7/23)",
+        "time": "37.14"
+      },
+      {
+        "meet": "Newton (8/1)",
+        "time": "37.20"
+      }
+    ],
+    "butterfly50Times": [
+      {
+        "meet": "Westwood (7/16)",
+        "time": "29.42"
+      }
+    ],
+    "seasonPrs": {
+      "50 Butterfly": "29.42",
+      "50 Backstroke": "29.41",
+      "50 Breaststroke": "37.14"
+    }
+  }
+}

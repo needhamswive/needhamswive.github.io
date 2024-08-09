@@ -1,0 +1,32 @@
+{
+  "stats": {
+    "name": "Noah Zuckermann",
+    "backstroke": [
+      {
+        "meet": "Newton (8/1)",
+        "time": "26.23"
+      }
+    ],
+    "breaststroke50Times": [
+      {
+        "meet": "Medfield (7/18)",
+        "time": "37.90"
+      }
+    ],
+    "butterfly50Times": [
+      {
+        "meet": "Medfield (7/18)",
+        "time": "27.26"
+      },
+      {
+        "meet": "Newton (8/1)",
+        "time": "25.35"
+      }
+    ],
+    "seasonPrs": {
+      "50 Backstroke": "26.23",
+      "50 Breaststroke": "37.90",
+      "50 Butterfly": "25.35"
+    }
+  }
+}

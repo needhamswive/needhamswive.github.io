@@ -1,0 +1,59 @@
+{
+  "stats": {
+    "name": "Ethan Chen",
+    "freestyle25Times": [
+      {
+        "meet": "Blue vs. Gold (6/25)",
+        "time": "22.03"
+      },
+      {
+        "meet": "Holl / Med / Mill (7/9)",
+        "time": "22.85"
+      }
+    ],
+    "backstroke25Times": [
+      {
+        "meet": "Blue vs. Gold (6/25)",
+        "time": "30.05"
+      },
+      {
+        "meet": "Holl / Med / Mill (7/9)",
+        "time": "27.60"
+      },
+      {
+        "meet": "Canton (7/30)",
+        "time": "27.82"
+      },
+      {
+        "meet": "Newton (8/1)",
+        "time": "26.22"
+      }
+    ],
+    "breaststroke25Times": [
+      {
+        "meet": "Blue vs. Gold (6/25)",
+        "time": "28.26"
+      },
+      {
+        "meet": "Canton (7/30)",
+        "time": "27.04"
+      },
+      {
+        "meet": "Newton (8/1)",
+        "time": "24.11"
+      }
+    ],
+    "butterfly25Times": [
+      {
+        "meet": "Blue vs. Gold (6/25)",
+        "time": "33.03"
+      }
+    ],
+    "seasonPrs": {
+      "25 Freestyle": "22.03",
+      "25 Backstroke": "26.22",
+      "25 Breaststroke": "24.11",
+      "25 Butterfly": "33.03"
+    }
+  }
+}

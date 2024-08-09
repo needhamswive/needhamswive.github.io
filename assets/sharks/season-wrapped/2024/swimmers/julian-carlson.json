@@ -1,0 +1,31 @@
+{
+  "stats": {
+    "name": "Julian Carlson",
+    "freestyle50Times": [
+      {
+        "meet": "Norwood (7/23)",
+        "time": "22.99"
+      }
+    ],
+    "breaststroke50Times": [
+      {
+        "meet": "Norwood (7/23)",
+        "time": "28.23"
+      },
+      {
+        "meet": "Canton (7/30)",
+        "time": "28.35"
+      }
+    ],
+    "butterfly50Times": [
+      {
+        "meet": "Canton (7/30)",
+        "time": "25.15"
+      }
+    ],
+    "seasonPrs": {
+      "50 Butterfly": "25.15",
+      "50 Breaststroke": "28.23"
+    }
+  }
+}

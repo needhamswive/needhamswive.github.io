@@ -1,0 +1,74 @@
+{
+  "stats": {
+    "name": "Luke Allen",
+    "freestyle50Times": [
+      {
+        "meet": "Blue vs. Gold (6/25)",
+        "time": "32.78"
+      },
+      {
+        "meet": "Canton (7/30)",
+        "time": "31.96"
+      },
+      {
+        "meet": "Newton (8/1)",
+        "time": "31.23"
+      }
+    ],
+    "backstroke": [
+      {
+        "meet": "Blue vs. Gold (6/25)",
+        "time": "36.24"
+      },
+      {
+        "meet": "Holl / Med / Mill (7/9)",
+        "time": "35.39"
+      },
+      {
+        "meet": "Medfield (7/18)",
+        "time": "36.00"
+      },
+      {
+        "meet": "Norwood (7/23)",
+        "time": "36.50"
+      }
+    ],
+    "breaststroke50Times": [
+      {
+        "meet": "Blue vs. Gold (6/25)",
+        "time": "44.41"
+      },
+      {
+        "meet": "Canton (7/30)",
+        "time": "41.03"
+      },
+      {
+        "meet": "Newton (8/1)",
+        "time": "39.69"
+      }
+    ],
+    "butterfly50Times": [
+      {
+        "meet": "Blue vs. Gold (6/25)",
+        "time": "40.71"
+      },
+      {
+        "meet": "Westwood (7/16)",
+        "time": "40.31"
+      },
+      {
+        "meet": "Medfield (7/18)",
+        "time": "39.09"
+      },
+      {
+        "meet": "Norwood (7/23)",
+        "time": "39.36"
+      }
+    ],
+    "seasonPrs": {
+      "50 Butterfly": "39.09",
+      "50 Backstroke": "35.39",
+      "50 Breaststroke": "39.69"
+    }
+  }
+}

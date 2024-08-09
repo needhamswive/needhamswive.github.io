@@ -1,0 +1,62 @@
+{
+  "stats": {
+    "name": "Daniel Berkowitz",
+    "freestyle50Times": [
+      {
+        "meet": "Blue vs. Gold (6/25)",
+        "time": "47.49"
+      },
+      {
+        "meet": "Holl / Med / Mill (7/9)",
+        "time": "46.69"
+      },
+      {
+        "meet": "Norwood (7/23)",
+        "time": "44.24"
+      }
+    ],
+    "backstroke": [
+      {
+        "meet": "Holl / Med / Mill (7/9)",
+        "time": "61.87"
+      },
+      {
+        "meet": "Canton (7/30)",
+        "time": "52.93"
+      },
+      {
+        "meet": "Newton (8/1)",
+        "time": "51.64"
+      }
+    ],
+    "breaststroke50Times": [
+      {
+        "meet": "Blue vs. Gold (6/25)",
+        "time": "64.49"
+      },
+      {
+        "meet": "Canton (7/30)",
+        "time": "57.99"
+      }
+    ],
+    "butterfly50Times": [
+      {
+        "meet": "Blue vs. Gold (6/25)",
+        "time": "58.42"
+      },
+      {
+        "meet": "Norwood (7/23)",
+        "time": "67.95"
+      },
+      {
+        "meet": "Newton (8/1)",
+        "time": "64.54"
+      }
+    ],
+    "seasonPrs": {
+      "50 Butterfly": "58.42",
+      "50 Backstroke": "51.64",
+      "50 Breaststroke": "57.99"
+    }
+  }
+}

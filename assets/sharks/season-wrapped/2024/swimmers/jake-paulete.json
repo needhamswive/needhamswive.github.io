@@ -1,0 +1,58 @@
+{
+  "stats": {
+    "name": "Jake Paulete",
+    "freestyle50Times": [
+      {
+        "meet": "Blue vs. Gold (6/25)",
+        "time": "42.22"
+      },
+      {
+        "meet": "Westwood (7/16)",
+        "time": "41.43"
+      },
+      {
+        "meet": "Canton (7/30)",
+        "time": "41.20"
+      }
+    ],
+    "backstroke": [
+      {
+        "meet": "Blue vs. Gold (6/25)",
+        "time": "51.00"
+      },
+      {
+        "meet": "Westwood (7/16)",
+        "time": "52.20"
+      }
+    ],
+    "breaststroke50Times": [
+      {
+        "meet": "Blue vs. Gold (6/25)",
+        "time": "61.10"
+      },
+      {
+        "meet": "Medfield (7/18)",
+        "time": "56.31"
+      },
+      {
+        "meet": "Canton (7/30)",
+        "time": "61.35"
+      }
+    ],
+    "butterfly50Times": [
+      {
+        "meet": "Blue vs. Gold (6/25)",
+        "time": "53.06"
+      },
+      {
+        "meet": "Medfield (7/18)",
+        "time": "46.04"
+      }
+    ],
+    "seasonPrs": {
+      "50 Butterfly": "46.04",
+      "50 Backstroke": "51.00",
+      "50 Breaststroke": "56.31"
+    }
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "stats": {
+    "name": "Ava Zhang",
+    "freestyle50Times": [
+      {
+        "meet": "Norwood (7/23)",
+        "time": "46.26"
+      }
+    ],
+    "backstroke": [
+      {
+        "meet": "Westwood (7/16)",
+        "time": "51.44"
+      },
+      {
+        "meet": "Newton (8/1)",
+        "time": "50.16"
+      }
+    ],
+    "breaststroke50Times": [
+      {
+        "meet": "Westwood (7/16)",
+        "time": "53.62"
+      },
+      {
+        "meet": "Medfield (7/18)",
+        "time": "54.96"
+      },
+      {
+        "meet": "Newton (8/1)",
+        "time": "51.38"
+      }
+    ],
+    "butterfly50Times": [
+      {
+        "meet": "Medfield (7/18)",
+        "time": "51.67"
+      },
+      {
+        "meet": "Norwood (7/23)",
+        "time": "51.39"
+      }
+    ],
+    "seasonPrs": {
+      "50 Butterfly": "51.39",
+      "50 Backstroke": "50.16",
+      "50 Breaststroke": "51.38"
+    }
+  }
+}

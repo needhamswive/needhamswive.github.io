@@ -1,0 +1,83 @@
+{
+  "stats": {
+    "name": "Landon Vacanti",
+    "freestyle25Times": [
+      {
+        "meet": "Blue vs. Gold (6/25)",
+        "time": "22.28"
+      },
+      {
+        "meet": "Westwood (7/16)",
+        "time": "18.20"
+      }
+    ],
+    "backstroke25Times": [
+      {
+        "meet": "Blue vs. Gold (6/25)",
+        "time": "28.78"
+      },
+      {
+        "meet": "Medfield (7/18)",
+        "time": "27.74"
+      },
+      {
+        "meet": "Norwood (7/23)",
+        "time": "26.42"
+      }
+    ],
+    "breaststroke25Times": [
+      {
+        "meet": "Blue vs. Gold (6/25)",
+        "time": "29.31"
+      },
+      {
+        "meet": "Holl / Med / Mill (7/9)",
+        "time": "28.61"
+      },
+      {
+        "meet": "Norwood (7/23)",
+        "time": "27.04"
+      },
+      {
+        "meet": "Canton (7/30)",
+        "time": "23.81"
+      },
+      {
+        "meet": "Newton (8/1)",
+        "time": "22.82"
+      }
+    ],
+    "butterfly25Times": [
+      {
+        "meet": "Blue vs. Gold (6/25)",
+        "time": "27.62"
+      },
+      {
+        "meet": "Holl / Med / Mill (7/9)",
+        "time": "27.31"
+      },
+      {
+        "meet": "Westwood (7/16)",
+        "time": "24.81"
+      },
+      {
+        "meet": "Medfield (7/18)",
+        "time": "25.83"
+      },
+      {
+        "meet": "Canton (7/30)",
+        "time": "21.31"
+      },
+      {
+        "meet": "Newton (8/1)",
+        "time": "20.81"
+      }
+    ],
+    "seasonPrs": {
+      "25 Freestyle": "18.20",
+      "25 Backstroke": "26.42",
+      "25 Breaststroke": "22.82",
+      "25 Butterfly": "20.81"
+    }
+  }
+}

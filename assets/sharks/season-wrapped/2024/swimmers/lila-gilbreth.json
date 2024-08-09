@@ -1,0 +1,59 @@
+{
+  "stats": {
+    "name": "Lila Gilbreth",
+    "freestyle25Times": [
+      {
+        "meet": "Blue vs. Gold (6/25)",
+        "time": "18.06"
+      },
+      {
+        "meet": "Canton (7/30)",
+        "time": "16.19"
+      },
+      {
+        "meet": "Newton (8/1)",
+        "time": "16.30"
+      }
+    ],
+    "backstroke25Times": [
+      {
+        "meet": "Blue vs. Gold (6/25)",
+        "time": "20.78"
+      },
+      {
+        "meet": "Norwood (7/23)",
+        "time": "20.84"
+      }
+    ],
+    "breaststroke25Times": [
+      {
+        "meet": "Blue vs. Gold (6/25)",
+        "time": "21.53"
+      },
+      {
+        "meet": "Norwood (7/23)",
+        "time": "22.23"
+      },
+      {
+        "meet": "Canton (7/30)",
+        "time": "21.30"
+      },
+      {
+        "meet": "Newton (8/1)",
+        "time": "21.25"
+      }
+    ],
+    "butterfly25Times": [
+      {
+        "meet": "Blue vs. Gold (6/25)",
+        "time": "20.65"
+      }
+    ],
+    "seasonPrs": {
+      "25 Freestyle": "16.19",
+      "25 Backstroke": "20.78",
+      "25 Breaststroke": "21.25",
+      "25 Butterfly": "20.65"
+    }
+  }
+}

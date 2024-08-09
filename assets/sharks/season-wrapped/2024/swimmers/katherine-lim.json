@@ -1,0 +1,82 @@
+{
+  "stats": {
+    "name": "Katherine Lim",
+    "freestyle50Times": [
+      {
+        "meet": "Blue vs. Gold (6/25)",
+        "time": "37.09"
+      },
+      {
+        "meet": "Holl / Med / Mill (7/9)",
+        "time": "37.36"
+      },
+      {
+        "meet": "Medfield (7/18)",
+        "time": "36.92"
+      }
+    ],
+    "backstroke": [
+      {
+        "meet": "Blue vs. Gold (6/25)",
+        "time": "47.41"
+      },
+      {
+        "meet": "Norwood (7/23)",
+        "time": "46.87"
+      },
+      {
+        "meet": "Canton (7/30)",
+        "time": "45.02"
+      }
+    ],
+    "breaststroke50Times": [
+      {
+        "meet": "Blue vs. Gold (6/25)",
+        "time": "51.62"
+      },
+      {
+        "meet": "Westwood (7/16)",
+        "time": "49.67"
+      },
+      {
+        "meet": "Canton (7/30)",
+        "time": "48.27"
+      },
+      {
+        "meet": "Newton (8/1)",
+        "time": "49.02"
+      }
+    ],
+    "butterfly50Times": [
+      {
+        "meet": "Blue vs. Gold (6/25)",
+        "time": "42.43"
+      },
+      {
+        "meet": "Holl / Med / Mill (7/9)",
+        "time": "40.93"
+      },
+      {
+        "meet": "Westwood (7/16)",
+        "time": "41.92"
+      },
+      {
+        "meet": "Medfield (7/18)",
+        "time": "42.35"
+      },
+      {
+        "meet": "Norwood (7/23)",
+        "time": "42.08"
+      },
+      {
+        "meet": "Newton (8/1)",
+        "time": "40.15"
+      }
+    ],
+    "seasonPrs": {
+      "50 Butterfly": "40.15",
+      "50 Backstroke": "45.02",
+      "50 Breaststroke": "48.27"
+    }
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "stats": {
+    "name": "Olivia Afzali",
+    "freestyle25Times": [
+      {
+        "meet": "Norwood (7/23)",
+        "time": "17.59"
+      }
+    ],
+    "backstroke25Times": [
+      {
+        "meet": "Westwood (7/16)",
+        "time": "20.42"
+      },
+      {
+        "meet": "Medfield (7/18)",
+        "time": "19.45"
+      },
+      {
+        "meet": "Norwood (7/23)",
+        "time": "20.22"
+      },
+      {
+        "meet": "Canton (7/30)",
+        "time": "20.66"
+      },
+      {
+        "meet": "Newton (8/1)",
+        "time": "19.15"
+      }
+    ],
+    "breaststroke25Times": [
+      {
+        "meet": "Holl / Med / Mill (7/9)",
+        "time": "21.22"
+      },
+      {
+        "meet": "Newton (8/1)",
+        "time": "21.49"
+      }
+    ],
+    "butterfly25Times": [
+      {
+        "meet": "Holl / Med / Mill (7/9)",
+        "time": "20.28"
+      },
+      {
+        "meet": "Westwood (7/16)",
+        "time": "21.05"
+      },
+      {
+        "meet": "Medfield (7/18)",
+        "time": "21.07"
+      },
+      {
+        "meet": "Canton (7/30)",
+        "time": "21.23"
+      }
+    ],
+    "seasonPrs": {
+      "25 Freestyle": "17.59",
+      "25 Backstroke": "19.15",
+      "25 Breaststroke": "21.22",
+      "25 Butterfly": "20.28"
+    }
+  }
+}

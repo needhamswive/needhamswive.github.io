@@ -1,0 +1,50 @@
+{
+  "stats": {
+    "name": "Carolyn Simmons",
+    "freestyle50Times": [
+      {
+        "meet": "Blue vs. Gold (6/25)",
+        "time": "27.43"
+      },
+      {
+        "meet": "Canton (7/30)",
+        "time": "26.62"
+      },
+      {
+        "meet": "Newton (8/1)",
+        "time": "26.82"
+      }
+    ],
+    "backstroke": [
+      {
+        "meet": "Norwood (7/23)",
+        "time": "30.14"
+      },
+      {
+        "meet": "Canton (7/30)",
+        "time": "30.25"
+      }
+    ],
+    "breaststroke50Times": [
+      {
+        "meet": "Norwood (7/23)",
+        "time": "38.96"
+      }
+    ],
+    "butterfly50Times": [
+      {
+        "meet": "Blue vs. Gold (6/25)",
+        "time": "29.77"
+      },
+      {
+        "meet": "Newton (8/1)",
+        "time": "29.95"
+      }
+    ],
+    "seasonPrs": {
+      "50 Butterfly": "29.77",
+      "50 Backstroke": "30.14",
+      "50 Breaststroke": "38.96"
+    }
+  }
+}

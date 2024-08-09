@@ -1,0 +1,63 @@
+{
+  "stats": {
+    "name": "Sophia Fink",
+    "freestyle25Times": [
+      {
+        "meet": "Blue vs. Gold (6/25)",
+        "time": "17.68"
+      },
+      {
+        "meet": "Norwood (7/23)",
+        "time": "18.30"
+      }
+    ],
+    "backstroke25Times": [
+      {
+        "meet": "Blue vs. Gold (6/25)",
+        "time": "23.11"
+      },
+      {
+        "meet": "Holl / Med / Mill (7/9)",
+        "time": "19.19"
+      }
+    ],
+    "breaststroke25Times": [
+      {
+        "meet": "Blue vs. Gold (6/25)",
+        "time": "26.60"
+      },
+      {
+        "meet": "Westwood (7/16)",
+        "time": "23.47"
+      },
+      {
+        "meet": "Medfield (7/18)",
+        "time": "24.16"
+      },
+      {
+        "meet": "Norwood (7/23)",
+        "time": "25.26"
+      }
+    ],
+    "butterfly25Times": [
+      {
+        "meet": "Blue vs. Gold (6/25)",
+        "time": "18.35"
+      },
+      {
+        "meet": "Holl / Med / Mill (7/9)",
+        "time": "16.84"
+      },
+      {
+        "meet": "Westwood (7/16)",
+        "time": "16.92"
+      }
+    ],
+    "seasonPrs": {
+      "25 Freestyle": "17.68",
+      "25 Backstroke": "19.19",
+      "25 Breaststroke": "23.47",
+      "25 Butterfly": "16.84"
+    }
+  }
+}

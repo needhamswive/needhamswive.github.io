@@ -1,0 +1,40 @@
+{
+  "stats": {
+    "name": "Anna Aaron",
+    "freestyle25Times": [
+      {
+        "meet": "Norwood (7/23)",
+        "time": "36.28"
+      },
+      {
+        "meet": "Newton (8/1)",
+        "time": "30.90"
+      }
+    ],
+    "backstroke25Times": [
+      {
+        "meet": "Westwood (7/16)",
+        "time": "42.57"
+      },
+      {
+        "meet": "Norwood (7/23)",
+        "time": "41.13"
+      },
+      {
+        "meet": "Newton (8/1)",
+        "time": "38.86"
+      }
+    ],
+    "breaststroke25Times": [
+      {
+        "meet": "Westwood (7/16)",
+        "time": "46.04"
+      }
+    ],
+    "seasonPrs": {
+      "25 Freestyle": "30.90",
+      "25 Backstroke": "38.86",
+      "25 Breaststroke": "46.04"
+    }
+  }
+}

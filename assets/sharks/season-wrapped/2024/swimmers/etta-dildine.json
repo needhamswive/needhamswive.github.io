@@ -1,0 +1,63 @@
+{
+  "stats": {
+    "name": "Etta Dildine",
+    "freestyle25Times": [
+      {
+        "meet": "Blue vs. Gold (6/25)",
+        "time": "23.85"
+      },
+      {
+        "meet": "Holl / Med / Mill (7/9)",
+        "time": "27.64"
+      },
+      {
+        "meet": "Medfield (7/18)",
+        "time": "23.47"
+      },
+      {
+        "meet": "Norwood (7/23)",
+        "time": "22.79"
+      }
+    ],
+    "backstroke25Times": [
+      {
+        "meet": "Holl / Med / Mill (7/9)",
+        "time": "28.46"
+      },
+      {
+        "meet": "Westwood (7/16)",
+        "time": "29.20"
+      },
+      {
+        "meet": "Norwood (7/23)",
+        "time": "28.87"
+      }
+    ],
+    "breaststroke25Times": [
+      {
+        "meet": "Blue vs. Gold (6/25)",
+        "time": "27.30"
+      },
+      {
+        "meet": "Medfield (7/18)",
+        "time": "27.89"
+      }
+    ],
+    "butterfly25Times": [
+      {
+        "meet": "Blue vs. Gold (6/25)",
+        "time": "31.62"
+      },
+      {
+        "meet": "Westwood (7/16)",
+        "time": "33.36"
+      }
+    ],
+    "seasonPrs": {
+      "25 Freestyle": "22.79",
+      "25 Backstroke": "28.46",
+      "25 Breaststroke": "27.30",
+      "25 Butterfly": "31.62"
+    }
+  }
+}

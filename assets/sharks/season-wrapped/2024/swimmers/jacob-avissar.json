@@ -1,0 +1,75 @@
+{
+  "stats": {
+    "name": "Jacob Avissar",
+    "freestyle25Times": [
+      {
+        "meet": "Blue vs. Gold (6/25)",
+        "time": "25.26"
+      },
+      {
+        "meet": "Holl / Med / Mill (7/9)",
+        "time": "25.26"
+      },
+      {
+        "meet": "Canton (7/30)",
+        "time": "24.53"
+      },
+      {
+        "meet": "Newton (8/1)",
+        "time": "22.34"
+      }
+    ],
+    "backstroke25Times": [
+      {
+        "meet": "Blue vs. Gold (6/25)",
+        "time": "29.53"
+      },
+      {
+        "meet": "Holl / Med / Mill (7/9)",
+        "time": "29.53"
+      },
+      {
+        "meet": "Norwood (7/23)",
+        "time": "34.35"
+      },
+      {
+        "meet": "Canton (7/30)",
+        "time": "36.30"
+      }
+    ],
+    "breaststroke25Times": [
+      {
+        "meet": "Blue vs. Gold (6/25)",
+        "time": "28.91"
+      },
+      {
+        "meet": "Holl / Med / Mill (7/9)",
+        "time": "28.91"
+      },
+      {
+        "meet": "Newton (8/1)",
+        "time": "29.03"
+      }
+    ],
+    "butterfly25Times": [
+      {
+        "meet": "Blue vs. Gold (6/25)",
+        "time": "39.93"
+      },
+      {
+        "meet": "Holl / Med / Mill (7/9)",
+        "time": "39.93"
+      },
+      {
+        "meet": "Norwood (7/23)",
+        "time": "37.13"
+      }
+    ],
+    "seasonPrs": {
+      "25 Freestyle": "22.34",
+      "25 Backstroke": "29.53",
+      "25 Breaststroke": "28.91",
+      "25 Butterfly": "37.13"
+    }
+  }
+}

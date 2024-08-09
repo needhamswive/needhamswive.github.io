@@ -1,0 +1,70 @@
+{
+  "stats": {
+    "name": "Lucy Jacobson",
+    "freestyle50Times": [
+      {
+        "meet": "Blue vs. Gold (6/25)",
+        "time": "27.94"
+      },
+      {
+        "meet": "Holl / Med / Mill (7/9)",
+        "time": "28.80"
+      },
+      {
+        "meet": "Newton (8/1)",
+        "time": "27.15"
+      }
+    ],
+    "backstroke": [
+      {
+        "meet": "Blue vs. Gold (6/25)",
+        "time": "32.56"
+      },
+      {
+        "meet": "Holl / Med / Mill (7/9)",
+        "time": "32.58"
+      },
+      {
+        "meet": "Norwood (7/23)",
+        "time": "31.01"
+      },
+      {
+        "meet": "Canton (7/30)",
+        "time": "30.60"
+      }
+    ],
+    "breaststroke50Times": [
+      {
+        "meet": "Blue vs. Gold (6/25)",
+        "time": "39.22"
+      },
+      {
+        "meet": "Holl / Med / Mill (7/9)",
+        "time": "39.64"
+      },
+      {
+        "meet": "Norwood (7/23)",
+        "time": "34.68"
+      },
+      {
+        "meet": "Newton (8/1)",
+        "time": "33.53"
+      }
+    ],
+    "butterfly50Times": [
+      {
+        "meet": "Blue vs. Gold (6/25)",
+        "time": "32.56"
+      },
+      {
+        "meet": "Canton (7/30)",
+        "time": "27.42"
+      }
+    ],
+    "seasonPrs": {
+      "50 Butterfly": "27.42",
+      "50 Backstroke": "30.60",
+      "50 Breaststroke": "33.53"
+    }
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "stats": {
+    "name": "Brooks Wilson",
+    "freestyle25Times": [
+      {
+        "meet": "Blue vs. Gold (6/25)",
+        "time": "20.34"
+      },
+      {
+        "meet": "Westwood (7/16)",
+        "time": "20.79"
+      },
+      {
+        "meet": "Medfield (7/18)",
+        "time": "22.04"
+      },
+      {
+        "meet": "Canton (7/30)",
+        "time": "19.92"
+      },
+      {
+        "meet": "Newton (8/1)",
+        "time": "19.70"
+      }
+    ],
+    "backstroke25Times": [
+      {
+        "meet": "Blue vs. Gold (6/25)",
+        "time": "23.75"
+      },
+      {
+        "meet": "Westwood (7/16)",
+        "time": "24.60"
+      },
+      {
+        "meet": "Medfield (7/18)",
+        "time": "23.55"
+      },
+      {
+        "meet": "Canton (7/30)",
+        "time": "23.08"
+      },
+      {
+        "meet": "Newton (8/1)",
+        "time": "23.55"
+      }
+    ],
+    "breaststroke25Times": [
+      {
+        "meet": "Blue vs. Gold (6/25)",
+        "time": "25.40"
+      },
+      {
+        "meet": "Holl / Med / Mill (7/9)",
+        "time": "23.89"
+      }
+    ],
+    "butterfly25Times": [
+      {
+        "meet": "Blue vs. Gold (6/25)",
+        "time": "23.06"
+      },
+      {
+        "meet": "Holl / Med / Mill (7/9)",
+        "time": "24.01"
+      }
+    ],
+    "seasonPrs": {
+      "25 Freestyle": "19.70",
+      "25 Backstroke": "23.08",
+      "25 Breaststroke": "23.89",
+      "25 Butterfly": "23.06"
+    }
+  }
+}

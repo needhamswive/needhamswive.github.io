@@ -1,0 +1,61 @@
+{
+  "stats": {
+    "name": "Owen Arena",
+    "freestyle25Times": [
+      {
+        "meet": "Blue vs. Gold (6/25)",
+        "time": "26.12"
+      },
+      {
+        "meet": "Holl / Med / Mill (7/9)",
+        "time": "25.86"
+      },
+      {
+        "meet": "Westwood (7/16)",
+        "time": "24.25"
+      },
+      {
+        "meet": "Norwood (7/23)",
+        "time": "23.78"
+      },
+      {
+        "meet": "Canton (7/30)",
+        "time": "22.74"
+      },
+      {
+        "meet": "Newton (8/1)",
+        "time": "23.03"
+      }
+    ],
+    "backstroke25Times": [
+      {
+        "meet": "Blue vs. Gold (6/25)",
+        "time": "37.78"
+      },
+      {
+        "meet": "Holl / Med / Mill (7/9)",
+        "time": "27.41"
+      },
+      {
+        "meet": "Westwood (7/16)",
+        "time": "31.20"
+      },
+      {
+        "meet": "Norwood (7/23)",
+        "time": "31.37"
+      },
+      {
+        "meet": "Canton (7/30)",
+        "time": "28.46"
+      },
+      {
+        "meet": "Newton (8/1)",
+        "time": "27.78"
+      }
+    ],
+    "seasonPrs": {
+      "25 Freestyle": "22.74",
+      "25 Backstroke": "27.41"
+    }
+  }
+}

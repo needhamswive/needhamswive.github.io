@@ -1,0 +1,46 @@
+{
+  "stats": {
+    "name": "Dennis Shvarts",
+    "freestyle50Times": [
+      {
+        "meet": "Holl / Med / Mill (7/9)",
+        "time": "29.82"
+      }
+    ],
+    "backstroke": [
+      {
+        "meet": "Norwood (7/23)",
+        "time": "39.18"
+      },
+      {
+        "meet": "Newton (8/1)",
+        "time": "38.45"
+      }
+    ],
+    "breaststroke50Times": [
+      {
+        "meet": "Holl / Med / Mill (7/9)",
+        "time": "42.25"
+      },
+      {
+        "meet": "Westwood (7/16)",
+        "time": "39.70"
+      }
+    ],
+    "butterfly50Times": [
+      {
+        "meet": "Norwood (7/23)",
+        "time": "32.87"
+      },
+      {
+        "meet": "Newton (8/1)",
+        "time": "31.60"
+      }
+    ],
+    "seasonPrs": {
+      "50 Butterfly": "31.60",
+      "50 Backstroke": "38.45",
+      "50 Breaststroke": "39.70"
+    }
+  }
+}

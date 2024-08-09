@@ -1,0 +1,59 @@
+{
+  "stats": {
+    "name": "Sarah Benson",
+    "freestyle25Times": [
+      {
+        "meet": "Blue vs. Gold (6/25)",
+        "time": "36.66"
+      },
+      {
+        "meet": "Holl / Med / Mill (7/9)",
+        "time": "29.21"
+      }
+    ],
+    "backstroke25Times": [
+      {
+        "meet": "Blue vs. Gold (6/25)",
+        "time": "38.64"
+      },
+      {
+        "meet": "Holl / Med / Mill (7/9)",
+        "time": "39.94"
+      },
+      {
+        "meet": "Medfield (7/18)",
+        "time": "37.23"
+      }
+    ],
+    "breaststroke25Times": [
+      {
+        "meet": "Blue vs. Gold (6/25)",
+        "time": "33.36"
+      },
+      {
+        "meet": "Westwood (7/16)",
+        "time": "35.97"
+      },
+      {
+        "meet": "Medfield (7/18)",
+        "time": "32.82"
+      }
+    ],
+    "butterfly25Times": [
+      {
+        "meet": "Blue vs. Gold (6/25)",
+        "time": "48.41"
+      },
+      {
+        "meet": "Westwood (7/16)",
+        "time": "35.04"
+      }
+    ],
+    "seasonPrs": {
+      "25 Freestyle": "29.21",
+      "25 Backstroke": "37.23",
+      "25 Breaststroke": "32.82",
+      "25 Butterfly": "35.04"
+    }
+  }
+}

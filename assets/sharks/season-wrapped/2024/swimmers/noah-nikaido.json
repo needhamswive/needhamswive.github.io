@@ -1,0 +1,78 @@
+{
+  "stats": {
+    "name": "Noah Nikaido",
+    "freestyle50Times": [
+      {
+        "meet": "Blue vs. Gold (6/25)",
+        "time": "41.59"
+      },
+      {
+        "meet": "Holl / Med / Mill (7/9)",
+        "time": "44.46"
+      },
+      {
+        "meet": "Medfield (7/18)",
+        "time": "41.21"
+      },
+      {
+        "meet": "Norwood (7/23)",
+        "time": "43.52"
+      },
+      {
+        "meet": "Canton (7/30)",
+        "time": "41.60"
+      },
+      {
+        "meet": "Newton (8/1)",
+        "time": "43.01"
+      }
+    ],
+    "backstroke": [
+      {
+        "meet": "Blue vs. Gold (6/25)",
+        "time": "50.07"
+      },
+      {
+        "meet": "Holl / Med / Mill (7/9)",
+        "time": "48.63"
+      },
+      {
+        "meet": "Norwood (7/23)",
+        "time": "47.08"
+      },
+      {
+        "meet": "Canton (7/30)",
+        "time": "47.99"
+      }
+    ],
+    "breaststroke50Times": [
+      {
+        "meet": "Blue vs. Gold (6/25)",
+        "time": "56.44"
+      },
+      {
+        "meet": "Westwood (7/16)",
+        "time": "57.45"
+      },
+      {
+        "meet": "Medfield (7/18)",
+        "time": "54.42"
+      },
+      {
+        "meet": "Newton (8/1)",
+        "time": "54.24"
+      }
+    ],
+    "butterfly50Times": [
+      {
+        "meet": "Blue vs. Gold (6/25)",
+        "time": "55.59"
+      }
+    ],
+    "seasonPrs": {
+      "50 Butterfly": "55.59",
+      "50 Backstroke": "47.08",
+      "50 Breaststroke": "54.24"
+    }
+  }
+}

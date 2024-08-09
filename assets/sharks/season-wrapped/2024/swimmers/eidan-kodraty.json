@@ -1,0 +1,50 @@
+{
+  "stats": {
+    "name": "Eidan Kodraty",
+    "freestyle50Times": [
+      {
+        "meet": "Blue vs. Gold (6/25)",
+        "time": "43.92"
+      }
+    ],
+    "backstroke": [
+      {
+        "meet": "Blue vs. Gold (6/25)",
+        "time": "57.41"
+      },
+      {
+        "meet": "Westwood (7/16)",
+        "time": "51.95"
+      },
+      {
+        "meet": "Medfield (7/18)",
+        "time": "52.14"
+      }
+    ],
+    "breaststroke50Times": [
+      {
+        "meet": "Blue vs. Gold (6/25)",
+        "time": "56.68"
+      },
+      {
+        "meet": "Westwood (7/16)",
+        "time": "57.46"
+      },
+      {
+        "meet": "Medfield (7/18)",
+        "time": "55.38"
+      }
+    ],
+    "butterfly50Times": [
+      {
+        "meet": "Blue vs. Gold (6/25)",
+        "time": "53.94"
+      }
+    ],
+    "seasonPrs": {
+      "50 Butterfly": "53.94",
+      "50 Backstroke": "51.95",
+      "50 Breaststroke": "55.38"
+    }
+  }
+}

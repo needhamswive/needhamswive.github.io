@@ -1,0 +1,75 @@
+{
+  "stats": {
+    "name": "Claire Roach",
+    "freestyle25Times": [
+      {
+        "meet": "Blue vs. Gold (6/25)",
+        "time": "18.80"
+      },
+      {
+        "meet": "Canton (7/30)",
+        "time": "17.34"
+      }
+    ],
+    "backstroke25Times": [
+      {
+        "meet": "Blue vs. Gold (6/25)",
+        "time": "22.60"
+      },
+      {
+        "meet": "Westwood (7/16)",
+        "time": "21.45"
+      },
+      {
+        "meet": "Medfield (7/18)",
+        "time": "21.73"
+      },
+      {
+        "meet": "Norwood (7/23)",
+        "time": "21.66"
+      },
+      {
+        "meet": "Canton (7/30)",
+        "time": "23.43"
+      },
+      {
+        "meet": "Newton (8/1)",
+        "time": "19.53"
+      }
+    ],
+    "breaststroke25Times": [
+      {
+        "meet": "Blue vs. Gold (6/25)",
+        "time": "29.24"
+      }
+    ],
+    "butterfly25Times": [
+      {
+        "meet": "Blue vs. Gold (6/25)",
+        "time": "21.75"
+      },
+      {
+        "meet": "Westwood (7/16)",
+        "time": "20.59"
+      },
+      {
+        "meet": "Medfield (7/18)",
+        "time": "23.20"
+      },
+      {
+        "meet": "Norwood (7/23)",
+        "time": "20.63"
+      },
+      {
+        "meet": "Newton (8/1)",
+        "time": "20.56"
+      }
+    ],
+    "seasonPrs": {
+      "25 Freestyle": "17.34",
+      "25 Backstroke": "19.53",
+      "25 Breaststroke": "29.24",
+      "25 Butterfly": "20.56"
+    }
+  }
+}

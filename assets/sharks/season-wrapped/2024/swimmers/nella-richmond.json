@@ -1,0 +1,83 @@
+{
+  "stats": {
+    "name": "Nella Richmond",
+    "freestyle25Times": [
+      {
+        "meet": "Blue vs. Gold (6/25)",
+        "time": "22.33"
+      },
+      {
+        "meet": "Holl / Med / Mill (7/9)",
+        "time": "23.56"
+      },
+      {
+        "meet": "Westwood (7/16)",
+        "time": "21.45"
+      },
+      {
+        "meet": "Medfield (7/18)",
+        "time": "21.16"
+      },
+      {
+        "meet": "Norwood (7/23)",
+        "time": "20.63"
+      },
+      {
+        "meet": "Newton (8/1)",
+        "time": "19.97"
+      }
+    ],
+    "backstroke25Times": [
+      {
+        "meet": "Blue vs. Gold (6/25)",
+        "time": "24.64"
+      },
+      {
+        "meet": "Canton (7/30)",
+        "time": "24.78"
+      }
+    ],
+    "breaststroke25Times": [
+      {
+        "meet": "Blue vs. Gold (6/25)",
+        "time": "26.38"
+      },
+      {
+        "meet": "Holl / Med / Mill (7/9)",
+        "time": "25.85"
+      },
+      {
+        "meet": "Westwood (7/16)",
+        "time": "24.87"
+      },
+      {
+        "meet": "Medfield (7/18)",
+        "time": "23.31"
+      },
+      {
+        "meet": "Norwood (7/23)",
+        "time": "24.34"
+      },
+      {
+        "meet": "Canton (7/30)",
+        "time": "23.31"
+      },
+      {
+        "meet": "Newton (8/1)",
+        "time": "22.84"
+      }
+    ],
+    "butterfly25Times": [
+      {
+        "meet": "Blue vs. Gold (6/25)",
+        "time": "30.02"
+      }
+    ],
+    "seasonPrs": {
+      "25 Freestyle": "19.97",
+      "25 Backstroke": "24.64",
+      "25 Breaststroke": "22.84",
+      "25 Butterfly": "30.02"
+    }
+  }
+}

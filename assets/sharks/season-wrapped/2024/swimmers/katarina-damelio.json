@@ -1,0 +1,46 @@
+{
+  "stats": {
+    "name": "Katarina D'Amelio",
+    "freestyle50Times": [
+      {
+        "meet": "Blue vs. Gold (6/25)",
+        "time": "37.50"
+      },
+      {
+        "meet": "Norwood (7/23)",
+        "time": "34.48"
+      }
+    ],
+    "backstroke": [
+      {
+        "meet": "Blue vs. Gold (6/25)",
+        "time": "42.78"
+      },
+      {
+        "meet": "Medfield (7/18)",
+        "time": "40.52"
+      },
+      {
+        "meet": "Norwood (7/23)",
+        "time": "43.80"
+      }
+    ],
+    "breaststroke50Times": [
+      {
+        "meet": "Blue vs. Gold (6/25)",
+        "time": "53.17"
+      }
+    ],
+    "butterfly50Times": [
+      {
+        "meet": "Blue vs. Gold (6/25)",
+        "time": "43.08"
+      }
+    ],
+    "seasonPrs": {
+      "50 Butterfly": "43.08",
+      "50 Backstroke": "40.52",
+      "50 Breaststroke": "53.17"
+    }
+  }
+}

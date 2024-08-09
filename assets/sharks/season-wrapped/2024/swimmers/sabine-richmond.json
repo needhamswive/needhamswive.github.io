@@ -1,0 +1,66 @@
+{
+  "stats": {
+    "name": "Sabine Richmond",
+    "freestyle50Times": [
+      {
+        "meet": "Blue vs. Gold (6/25)",
+        "time": "41.00"
+      },
+      {
+        "meet": "Holl / Med / Mill (7/9)",
+        "time": "39.37"
+      },
+      {
+        "meet": "Canton (7/30)",
+        "time": "38.60"
+      }
+    ],
+    "backstroke": [
+      {
+        "meet": "Blue vs. Gold (6/25)",
+        "time": "57.09"
+      },
+      {
+        "meet": "Norwood (7/23)",
+        "time": "50.06"
+      }
+    ],
+    "breaststroke50Times": [
+      {
+        "meet": "Blue vs. Gold (6/25)",
+        "time": "52.26"
+      },
+      {
+        "meet": "Holl / Med / Mill (7/9)",
+        "time": "47.82"
+      },
+      {
+        "meet": "Westwood (7/16)",
+        "time": "49.90"
+      },
+      {
+        "meet": "Norwood (7/23)",
+        "time": "47.34"
+      },
+      {
+        "meet": "Canton (7/30)",
+        "time": "44.98"
+      }
+    ],
+    "butterfly50Times": [
+      {
+        "meet": "Blue vs. Gold (6/25)",
+        "time": "46.74"
+      },
+      {
+        "meet": "Westwood (7/16)",
+        "time": "49.48"
+      }
+    ],
+    "seasonPrs": {
+      "50 Butterfly": "46.74",
+      "50 Backstroke": "50.06",
+      "50 Breaststroke": "44.98"
+    }
+  }
+}

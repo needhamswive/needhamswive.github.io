@@ -1,0 +1,87 @@
+{
+  "stats": {
+    "name": "Catherine Tolokh",
+    "freestyle25Times": [
+      {
+        "meet": "Blue vs. Gold (6/25)",
+        "time": "18.37"
+      },
+      {
+        "meet": "Holl / Med / Mill (7/9)",
+        "time": "17.14"
+      },
+      {
+        "meet": "Medfield (7/18)",
+        "time": "18.19"
+      },
+      {
+        "meet": "Norwood (7/23)",
+        "time": "18.57"
+      },
+      {
+        "meet": "Canton (7/30)",
+        "time": "18.19"
+      },
+      {
+        "meet": "Newton (8/1)",
+        "time": "17.16"
+      }
+    ],
+    "backstroke25Times": [
+      {
+        "meet": "Blue vs. Gold (6/25)",
+        "time": "22.93"
+      },
+      {
+        "meet": "Holl / Med / Mill (7/9)",
+        "time": "20.54"
+      },
+      {
+        "meet": "Westwood (7/16)",
+        "time": "22.07"
+      },
+      {
+        "meet": "Medfield (7/18)",
+        "time": "22.70"
+      }
+    ],
+    "breaststroke25Times": [
+      {
+        "meet": "Blue vs. Gold (6/25)",
+        "time": "26.06"
+      },
+      {
+        "meet": "Canton (7/30)",
+        "time": "26.85"
+      },
+      {
+        "meet": "Newton (8/1)",
+        "time": "23.14"
+      }
+    ],
+    "butterfly25Times": [
+      {
+        "meet": "Blue vs. Gold (6/25)",
+        "time": "20.88"
+      },
+      {
+        "meet": "Westwood (7/16)",
+        "time": "20.06"
+      },
+      {
+        "meet": "Norwood (7/23)",
+        "time": "20.42"
+      },
+      {
+        "meet": "Canton (7/30)",
+        "time": "18.63"
+      }
+    ],
+    "seasonPrs": {
+      "25 Freestyle": "17.14",
+      "25 Backstroke": "20.54",
+      "25 Breaststroke": "23.14",
+      "25 Butterfly": "18.63"
+    }
+  }
+}

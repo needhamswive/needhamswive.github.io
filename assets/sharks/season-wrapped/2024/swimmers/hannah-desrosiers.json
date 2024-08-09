@@ -1,0 +1,71 @@
+{
+  "stats": {
+    "name": "Hannah Desrosiers",
+    "freestyle25Times": [
+      {
+        "meet": "Blue vs. Gold (6/25)",
+        "time": "26.34"
+      },
+      {
+        "meet": "Holl / Med / Mill (7/9)",
+        "time": "29.72"
+      },
+      {
+        "meet": "Westwood (7/16)",
+        "time": "30.84"
+      },
+      {
+        "meet": "Norwood (7/23)",
+        "time": "28.23"
+      },
+      {
+        "meet": "Canton (7/30)",
+        "time": "28.84"
+      },
+      {
+        "meet": "Newton (8/1)",
+        "time": "26.87"
+      }
+    ],
+    "backstroke25Times": [
+      {
+        "meet": "Blue vs. Gold (6/25)",
+        "time": "36.21"
+      }
+    ],
+    "breaststroke25Times": [
+      {
+        "meet": "Holl / Med / Mill (7/9)",
+        "time": "36.43"
+      },
+      {
+        "meet": "Westwood (7/16)",
+        "time": "41.16"
+      },
+      {
+        "meet": "Norwood (7/23)",
+        "time": "33.72"
+      },
+      {
+        "meet": "Canton (7/30)",
+        "time": "30.16"
+      },
+      {
+        "meet": "Newton (8/1)",
+        "time": "30.03"
+      }
+    ],
+    "butterfly25Times": [
+      {
+        "meet": "Blue vs. Gold (6/25)",
+        "time": "35.36"
+      }
+    ],
+    "seasonPrs": {
+      "25 Freestyle": "26.34",
+      "25 Backstroke": "36.21",
+      "25 Breaststroke": "30.03",
+      "25 Butterfly": "35.36"
+    }
+  }
+}

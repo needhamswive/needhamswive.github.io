@@ -1,0 +1,66 @@
+{
+  "stats": {
+    "name": "Mia Cashman",
+    "freestyle50Times": [
+      {
+        "meet": "Westwood (7/16)",
+        "time": "38.66"
+      },
+      {
+        "meet": "Medfield (7/18)",
+        "time": "40.13"
+      },
+      {
+        "meet": "Norwood (7/23)",
+        "time": "39.77"
+      },
+      {
+        "meet": "Newton (8/1)",
+        "time": "39.70"
+      }
+    ],
+    "backstroke": [
+      {
+        "meet": "Holl / Med / Mill (7/9)",
+        "time": "44.97"
+      },
+      {
+        "meet": "Canton (7/30)",
+        "time": "46.22"
+      },
+      {
+        "meet": "Newton (8/1)",
+        "time": "49.62"
+      }
+    ],
+    "breaststroke50Times": [
+      {
+        "meet": "Westwood (7/16)",
+        "time": "59.94"
+      },
+      {
+        "meet": "Medfield (7/18)",
+        "time": "58.42"
+      },
+      {
+        "meet": "Norwood (7/23)",
+        "time": "58.58"
+      }
+    ],
+    "butterfly50Times": [
+      {
+        "meet": "Holl / Med / Mill (7/9)",
+        "time": "44.43"
+      },
+      {
+        "meet": "Canton (7/30)",
+        "time": "49.58"
+      }
+    ],
+    "seasonPrs": {
+      "50 Butterfly": "44.43",
+      "50 Backstroke": "44.97",
+      "50 Breaststroke": "58.42"
+    }
+  }
+}

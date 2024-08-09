@@ -1,0 +1,54 @@
+{
+  "stats": {
+    "name": "Nora Horton",
+    "freestyle50Times": [
+      {
+        "meet": "Blue vs. Gold (6/25)",
+        "time": "30.92"
+      },
+      {
+        "meet": "Norwood (7/23)",
+        "time": "32.06"
+      },
+      {
+        "meet": "Canton (7/30)",
+        "time": "30.90"
+      },
+      {
+        "meet": "Newton (8/1)",
+        "time": "30.09"
+      }
+    ],
+    "backstroke": [
+      {
+        "meet": "Blue vs. Gold (6/25)",
+        "time": "40.81"
+      }
+    ],
+    "breaststroke50Times": [
+      {
+        "meet": "Blue vs. Gold (6/25)",
+        "time": "39.38"
+      },
+      {
+        "meet": "Newton (8/1)",
+        "time": "38.24"
+      }
+    ],
+    "butterfly50Times": [
+      {
+        "meet": "Blue vs. Gold (6/25)",
+        "time": "34.11"
+      },
+      {
+        "meet": "Canton (7/30)",
+        "time": "35.78"
+      }
+    ],
+    "seasonPrs": {
+      "50 Butterfly": "34.11",
+      "50 Backstroke": "40.81",
+      "50 Breaststroke": "38.24"
+    }
+  }
+}

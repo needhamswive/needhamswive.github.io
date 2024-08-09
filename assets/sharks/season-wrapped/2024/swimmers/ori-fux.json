@@ -1,0 +1,44 @@
+{
+  "stats": {
+    "name": "Ori Fux",
+    "graduating": true,
+    "university": "University of Massachusetts Amherst",
+    "freestyle50Times": [
+      {
+        "meet": "Blue vs. Gold (6/25)",
+        "time": "28.13"
+      },
+      {
+        "meet": "Norwood (7/23)",
+        "time": "28.47"
+      }
+    ],
+    "backstroke": [
+      {
+        "meet": "Blue vs. Gold (6/25)",
+        "time": "32.42"
+      }
+    ],
+    "breaststroke50Times": [
+      {
+        "meet": "Blue vs. Gold (6/25)",
+        "time": "37.88"
+      }
+    ],
+    "butterfly50Times": [
+      {
+        "meet": "Blue vs. Gold (6/25)",
+        "time": "30.51"
+      },
+      {
+        "meet": "Norwood (7/23)",
+        "time": "30.17"
+      }
+    ],
+    "seasonPrs": {
+      "50 Butterfly": "30.17",
+      "50 Backstroke": "32.42",
+      "50 Breaststroke": "37.88"
+    }
+  }
+}

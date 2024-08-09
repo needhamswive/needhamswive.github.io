@@ -1,0 +1,58 @@
+{
+  "stats": {
+    "name": "Erik Allen",
+    "freestyle50Times": [
+      {
+        "meet": "Blue vs. Gold (6/25)",
+        "time": "29.61"
+      },
+      {
+        "meet": "Norwood (7/23)",
+        "time": "28.25"
+      },
+      {
+        "meet": "Canton (7/30)",
+        "time": "27.58"
+      },
+      {
+        "meet": "Newton (8/1)",
+        "time": "27.03"
+      }
+    ],
+    "backstroke": [
+      {
+        "meet": "Blue vs. Gold (6/25)",
+        "time": "31.88"
+      },
+      {
+        "meet": "Norwood (7/23)",
+        "time": "32.36"
+      },
+      {
+        "meet": "Canton (7/30)",
+        "time": "32.41"
+      },
+      {
+        "meet": "Newton (8/1)",
+        "time": "32.48"
+      }
+    ],
+    "breaststroke50Times": [
+      {
+        "meet": "Blue vs. Gold (6/25)",
+        "time": "41.00"
+      }
+    ],
+    "butterfly50Times": [
+      {
+        "meet": "Blue vs. Gold (6/25)",
+        "time": "33.15"
+      }
+    ],
+    "seasonPrs": {
+      "50 Butterfly": "33.15",
+      "50 Backstroke": "31.88",
+      "50 Breaststroke": "41.00"
+    }
+  }
+}

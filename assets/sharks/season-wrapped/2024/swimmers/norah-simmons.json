@@ -1,0 +1,36 @@
+{
+  "stats": {
+    "name": "Norah Simmons",
+    "freestyle50Times": [
+      {
+        "meet": "Norwood (7/23)",
+        "time": "26.72"
+      },
+      {
+        "meet": "Canton (7/30)",
+        "time": "27.58"
+      },
+      {
+        "meet": "Newton (8/1)",
+        "time": "27.36"
+      }
+    ],
+    "butterfly50Times": [
+      {
+        "meet": "Norwood (7/23)",
+        "time": "29.04"
+      },
+      {
+        "meet": "Canton (7/30)",
+        "time": "30.03"
+      },
+      {
+        "meet": "Newton (8/1)",
+        "time": "29.05"
+      }
+    ],
+    "seasonPrs": {
+      "50 Butterfly": "29.04"
+    }
+  }
+}

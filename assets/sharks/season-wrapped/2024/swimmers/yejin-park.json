@@ -1,0 +1,79 @@
+{
+  "stats": {
+    "name": "Yejin Park",
+    "freestyle25Times": [
+      {
+        "meet": "Blue vs. Gold (6/25)",
+        "time": "20.28"
+      },
+      {
+        "meet": "Holl / Med / Mill (7/9)",
+        "time": "17.91"
+      },
+      {
+        "meet": "Westwood (7/16)",
+        "time": "18.41"
+      },
+      {
+        "meet": "Medfield (7/18)",
+        "time": "18.01"
+      },
+      {
+        "meet": "Canton (7/30)",
+        "time": "19.41"
+      },
+      {
+        "meet": "Newton (8/1)",
+        "time": "17.81"
+      }
+    ],
+    "backstroke25Times": [
+      {
+        "meet": "Holl / Med / Mill (7/9)",
+        "time": "21.42"
+      },
+      {
+        "meet": "Medfield (7/18)",
+        "time": "22.45"
+      },
+      {
+        "meet": "Norwood (7/23)",
+        "time": "21.77"
+      },
+      {
+        "meet": "Canton (7/30)",
+        "time": "21.97"
+      },
+      {
+        "meet": "Newton (8/1)",
+        "time": "21.87"
+      }
+    ],
+    "breaststroke25Times": [
+      {
+        "meet": "Blue vs. Gold (6/25)",
+        "time": "23.60"
+      },
+      {
+        "meet": "Westwood (7/16)",
+        "time": "25.20"
+      },
+      {
+        "meet": "Norwood (7/23)",
+        "time": "24.42"
+      }
+    ],
+    "butterfly25Times": [
+      {
+        "meet": "Blue vs. Gold (6/25)",
+        "time": "22.75"
+      }
+    ],
+    "seasonPrs": {
+      "25 Freestyle": "17.81",
+      "25 Backstroke": "21.42",
+      "25 Breaststroke": "23.60",
+      "25 Butterfly": "22.75"
+    }
+  }
+}

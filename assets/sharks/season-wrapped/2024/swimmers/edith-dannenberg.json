@@ -1,0 +1,74 @@
+{
+  "stats": {
+    "name": "Edith Dannenberg",
+    "freestyle50Times": [
+      {
+        "meet": "Blue vs. Gold (6/25)",
+        "time": "45.56"
+      },
+      {
+        "meet": "Westwood (7/16)",
+        "time": "44.89"
+      },
+      {
+        "meet": "Norwood (7/23)",
+        "time": "44.63"
+      }
+    ],
+    "backstroke": [
+      {
+        "meet": "Blue vs. Gold (6/25)",
+        "time": "60.34"
+      },
+      {
+        "meet": "Holl / Med / Mill (7/9)",
+        "time": "58.10"
+      },
+      {
+        "meet": "Westwood (7/16)",
+        "time": "52.85"
+      },
+      {
+        "meet": "Medfield (7/18)",
+        "time": "56.95"
+      }
+    ],
+    "breaststroke50Times": [
+      {
+        "meet": "Blue vs. Gold (6/25)",
+        "time": "65.61"
+      },
+      {
+        "meet": "Holl / Med / Mill (7/9)",
+        "time": "67.06"
+      },
+      {
+        "meet": "Medfield (7/18)",
+        "time": "62.91"
+      },
+      {
+        "meet": "Norwood (7/23)",
+        "time": "62.84"
+      },
+      {
+        "meet": "Canton (7/30)",
+        "time": "60.17"
+      }
+    ],
+    "butterfly50Times": [
+      {
+        "meet": "Blue vs. Gold (6/25)",
+        "time": "57.72"
+      },
+      {
+        "meet": "Canton (7/30)",
+        "time": "51.44"
+      }
+    ],
+    "seasonPrs": {
+      "50 Butterfly": "51.44",
+      "50 Backstroke": "52.85",
+      "50 Breaststroke": "60.17"
+    }
+  }
+}

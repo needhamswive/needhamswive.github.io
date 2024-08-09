@@ -1,0 +1,58 @@
+{
+  "stats": {
+    "name": "Leo Rosin",
+    "freestyle50Times": [
+      {
+        "meet": "Norwood (7/23)",
+        "time": "30.04"
+      },
+      {
+        "meet": "Canton (7/30)",
+        "time": "29.92"
+      }
+    ],
+    "backstroke": [
+      {
+        "meet": "Westwood (7/16)",
+        "time": "38.42"
+      },
+      {
+        "meet": "Norwood (7/23)",
+        "time": "40.00"
+      },
+      {
+        "meet": "Canton (7/30)",
+        "time": "41.06"
+      },
+      {
+        "meet": "Newton (8/1)",
+        "time": "35.72"
+      }
+    ],
+    "breaststroke50Times": [
+      {
+        "meet": "Medfield (7/18)",
+        "time": "36.59"
+      },
+      {
+        "meet": "Newton (8/1)",
+        "time": "32.17"
+      }
+    ],
+    "butterfly50Times": [
+      {
+        "meet": "Westwood (7/16)",
+        "time": "45.76"
+      },
+      {
+        "meet": "Medfield (7/18)",
+        "time": "36.87"
+      }
+    ],
+    "seasonPrs": {
+      "50 Butterfly": "36.87",
+      "50 Backstroke": "35.72",
+      "50 Breaststroke": "32.17"
+    }
+  }
+}

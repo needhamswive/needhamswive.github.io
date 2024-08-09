@@ -1,0 +1,36 @@
+{
+  "stats": {
+    "name": "Ory Kandinov",
+    "freestyle50Times": [
+      {
+        "meet": "Medfield (7/18)",
+        "time": "51.06"
+      },
+      {
+        "meet": "Canton (7/30)",
+        "time": "60.24"
+      }
+    ],
+    "backstroke": [
+      {
+        "meet": "Norwood (7/23)",
+        "time": "62.19"
+      }
+    ],
+    "breaststroke50Times": [
+      {
+        "meet": "Medfield (7/18)",
+        "time": "58.99"
+      },
+      {
+        "meet": "Canton (7/30)",
+        "time": "60.39"
+      }
+    ],
+    "seasonPrs": {
+      "50 Butterfly": "51.06",
+      "50 Backstroke": "62.19",
+      "50 Breaststroke": "58.99"
+    }
+  }
+}

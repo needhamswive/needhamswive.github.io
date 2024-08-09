@@ -1,0 +1,74 @@
+{
+  "stats": {
+    "name": "Jackson Desrosiers",
+    "freestyle50Times": [
+      {
+        "meet": "Blue vs. Gold (6/25)",
+        "time": "38.50"
+      },
+      {
+        "meet": "Norwood (7/23)",
+        "time": "36.29"
+      }
+    ],
+    "backstroke": [
+      {
+        "meet": "Blue vs. Gold (6/25)",
+        "time": "49.93"
+      },
+      {
+        "meet": "Holl / Med / Mill (7/9)",
+        "time": "48.60"
+      },
+      {
+        "meet": "Westwood (7/16)",
+        "time": "49.41"
+      },
+      {
+        "meet": "Norwood (7/23)",
+        "time": "47.87"
+      },
+      {
+        "meet": "Canton (7/30)",
+        "time": "47.45"
+      },
+      {
+        "meet": "Newton (8/1)",
+        "time": "45.13"
+      }
+    ],
+    "breaststroke50Times": [
+      {
+        "meet": "Blue vs. Gold (6/25)",
+        "time": "52.10"
+      },
+      {
+        "meet": "Holl / Med / Mill (7/9)",
+        "time": "50.72"
+      },
+      {
+        "meet": "Westwood (7/16)",
+        "time": "51.44"
+      },
+      {
+        "meet": "Canton (7/30)",
+        "time": "50.26"
+      },
+      {
+        "meet": "Newton (8/1)",
+        "time": "49.97"
+      }
+    ],
+    "butterfly50Times": [
+      {
+        "meet": "Blue vs. Gold (6/25)",
+        "time": "49.88"
+      }
+    ],
+    "seasonPrs": {
+      "50 Butterfly": "49.88",
+      "50 Backstroke": "45.13",
+      "50 Breaststroke": "49.97"
+    }
+  }
+}

@@ -1,0 +1,83 @@
+{
+  "stats": {
+    "name": "Brady Arena",
+    "freestyle25Times": [
+      {
+        "meet": "Blue vs. Gold (6/25)",
+        "time": "20.24"
+      },
+      {
+        "meet": "Holl / Med / Mill (7/9)",
+        "time": "20.24"
+      },
+      {
+        "meet": "Westwood (7/16)",
+        "time": "21.17"
+      },
+      {
+        "meet": "Newton (8/1)",
+        "time": "18.25"
+      }
+    ],
+    "backstroke25Times": [
+      {
+        "meet": "Blue vs. Gold (6/25)",
+        "time": "35.37"
+      },
+      {
+        "meet": "Holl / Med / Mill (7/9)",
+        "time": "35.37"
+      },
+      {
+        "meet": "Westwood (7/16)",
+        "time": "28.01"
+      },
+      {
+        "meet": "Norwood (7/23)",
+        "time": "28.91"
+      },
+      {
+        "meet": "Canton (7/30)",
+        "time": "25.47"
+      }
+    ],
+    "breaststroke25Times": [
+      {
+        "meet": "Blue vs. Gold (6/25)",
+        "time": "32.28"
+      },
+      {
+        "meet": "Holl / Med / Mill (7/9)",
+        "time": "30.47"
+      }
+    ],
+    "butterfly25Times": [
+      {
+        "meet": "Blue vs. Gold (6/25)",
+        "time": "31.54"
+      },
+      {
+        "meet": "Holl / Med / Mill (7/9)",
+        "time": "31.54"
+      },
+      {
+        "meet": "Norwood (7/23)",
+        "time": "25.36"
+      },
+      {
+        "meet": "Canton (7/30)",
+        "time": "25.58"
+      },
+      {
+        "meet": "Newton (8/1)",
+        "time": "25.73"
+      }
+    ],
+    "seasonPrs": {
+      "25 Freestyle": "18.25",
+      "25 Backstroke": "25.47",
+      "25 Breaststroke": "30.47",
+      "25 Butterfly": "25.36"
+    }
+  }
+}

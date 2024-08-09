@@ -1,0 +1,60 @@
+{
+  "stats": {
+    "name": "Isabel Sarah McQuilliams",
+    "freestyle25Times": [
+      {
+        "meet": "Blue vs. Gold (6/25)",
+        "time": "27.00"
+      },
+      {
+        "meet": "Norwood (7/23)",
+        "time": "26.76"
+      },
+      {
+        "meet": "Canton (7/30)",
+        "time": "28.19"
+      },
+      {
+        "meet": "Newton (8/1)",
+        "time": "24.60"
+      }
+    ],
+    "backstroke25Times": [
+      {
+        "meet": "Blue vs. Gold (6/25)",
+        "time": "35.59"
+      },
+      {
+        "meet": "Westwood (7/16)",
+        "time": "38.87"
+      },
+      {
+        "meet": "Canton (7/30)",
+        "time": "32.17"
+      }
+    ],
+    "breaststroke25Times": [
+      {
+        "meet": "Blue vs. Gold (6/25)",
+        "time": "33.28"
+      },
+      {
+        "meet": "Westwood (7/16)",
+        "time": "31.85"
+      },
+      {
+        "meet": "Norwood (7/23)",
+        "time": "30.31"
+      },
+      {
+        "meet": "Newton (8/1)",
+        "time": "28.05"
+      }
+    ],
+    "seasonPrs": {
+      "25 Freestyle": "24.60",
+      "25 Backstroke": "32.17",
+      "25 Breaststroke": "28.05"
+    }
+  }
+}

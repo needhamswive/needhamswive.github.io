@@ -1,0 +1,76 @@
+{
+  "stats": {
+    "name": "Emily Bresnahan",
+    "freestyle25Times": [
+      {
+        "meet": "Blue vs. Gold (6/25)",
+        "time": "28.08"
+      },
+      {
+        "meet": "Westwood (7/16)",
+        "time": "26.35"
+      },
+      {
+        "meet": "Medfield (7/18)",
+        "time": "28.34"
+      },
+      {
+        "meet": "Norwood (7/23)",
+        "time": "25.35"
+      },
+      {
+        "meet": "Canton (7/30)",
+        "time": "26.48"
+      }
+    ],
+    "backstroke25Times": [
+      {
+        "meet": "Blue vs. Gold (6/25)",
+        "time": "28.85"
+      },
+      {
+        "meet": "Holl / Med / Mill (7/9)",
+        "time": "28.33"
+      },
+      {
+        "meet": "Westwood (7/16)",
+        "time": "30.45"
+      },
+      {
+        "meet": "Medfield (7/18)",
+        "time": "27.50"
+      },
+      {
+        "meet": "Norwood (7/23)",
+        "time": "30.01"
+      },
+      {
+        "meet": "Canton (7/30)",
+        "time": "30.32"
+      },
+      {
+        "meet": "Newton (8/1)",
+        "time": "30.70"
+      }
+    ],
+    "breaststroke25Times": [
+      {
+        "meet": "Blue vs. Gold (6/25)",
+        "time": "38.85"
+      },
+      {
+        "meet": "Holl / Med / Mill (7/9)",
+        "time": "36.65"
+      },
+      {
+        "meet": "Newton (8/1)",
+        "time": "35.25"
+      }
+    ],
+    "seasonPrs": {
+      "25 Freestyle": "25.35",
+      "25 Backstroke": "27.50",
+      "25 Breaststroke": "35.25"
+    }
+  }
+}

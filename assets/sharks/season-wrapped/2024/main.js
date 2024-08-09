@@ -301,42 +301,42 @@ function preprocessSwimmer(swimmer) {
     },
   });
 
-  if (stats.butterflyTimes) {
+  if (stats.butterfly50Times) {
     slides.push({
-      name: "butterfly-times",
+      name: "50-butterfly-times",
       templateReplacements: [{
         name: "meet-and-result",
-        sets: stats.butterflyTimes,
+        sets: stats.butterfly50Times,
       }],
     });
   }
 
-  if (stats.freestyleTimes) {
+  if (stats.freestyle50Times) {
     slides.push({
-      name: "freestyle-times",
+      name: "50-freestyle-times",
       templateReplacements: [{
         name: "meet-and-result",
-        sets: stats.freestyleTimes,
+        sets: stats.freestyle50Times,
       }],
     });
   }
 
-  if (stats.breaststrokeTimes) {
+  if (stats.breaststroke50Times) {
     slides.push({
-      name: "breaststroke-times",
+      name: "50-breaststroke-times",
       templateReplacements: [{
         name: "meet-and-result",
-        sets: stats.breaststrokeTimes,
+        sets: stats.breaststroke50Times,
       }],
     });
   }
 
-  if (stats.backstrokeTimes) {
+  if (stats.backstroke50Times) {
     slides.push({
-      name: "backstroke-times",
+      name: "50-backstroke-times",
       templateReplacements: [{
         name: "meet-and-result",
-        sets: stats.backstrokeTimes,
+        sets: stats.backstroke50Times,
       }],
     });
   }

@@ -1,0 +1,55 @@
+{
+  "stats": {
+    "name": "Hannah Lee",
+    "freestyle25Times": [
+      {
+        "meet": "Westwood (7/16)",
+        "time": "17.20"
+      },
+      {
+        "meet": "Medfield (7/18)",
+        "time": "15.61"
+      },
+      {
+        "meet": "Canton (7/30)",
+        "time": "15.59"
+      }
+    ],
+    "backstroke25Times": [
+      {
+        "meet": "Westwood (7/16)",
+        "time": "20.30"
+      },
+      {
+        "meet": "Canton (7/30)",
+        "time": "18.19"
+      },
+      {
+        "meet": "Newton (8/1)",
+        "time": "18.43"
+      }
+    ],
+    "breaststroke25Times": [
+      {
+        "meet": "Medfield (7/18)",
+        "time": "20.85"
+      },
+      {
+        "meet": "Norwood (7/23)",
+        "time": "19.78"
+      }
+    ],
+    "butterfly25Times": [
+      {
+        "meet": "Norwood (7/23)",
+        "time": "21.13"
+      }
+    ],
+    "seasonPrs": {
+      "25 Freestyle": "15.59",
+      "25 Backstroke": "18.19",
+      "25 Breaststroke": "19.78",
+      "25 Butterfly": "21.13"
+    }
+  }
+}

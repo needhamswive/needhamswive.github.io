@@ -1,0 +1,75 @@
+{
+  "stats": {
+    "name": "Ava McDonough",
+    "freestyle25Times": [
+      {
+        "meet": "Blue vs. Gold (6/25)",
+        "time": "21.40"
+      },
+      {
+        "meet": "Holl / Med / Mill (7/9)",
+        "time": "19.71"
+      }
+    ],
+    "backstroke25Times": [
+      {
+        "meet": "Blue vs. Gold (6/25)",
+        "time": "23.52"
+      },
+      {
+        "meet": "Canton (7/30)",
+        "time": "22.97"
+      },
+      {
+        "meet": "Newton (8/1)",
+        "time": "21.24"
+      }
+    ],
+    "breaststroke25Times": [
+      {
+        "meet": "Blue vs. Gold (6/25)",
+        "time": "31.60"
+      },
+      {
+        "meet": "Westwood (7/16)",
+        "time": "29.10"
+      },
+      {
+        "meet": "Norwood (7/23)",
+        "time": "28.23"
+      },
+      {
+        "meet": "Canton (7/30)",
+        "time": "29.09"
+      }
+    ],
+    "butterfly25Times": [
+      {
+        "meet": "Blue vs. Gold (6/25)",
+        "time": "24.75"
+      },
+      {
+        "meet": "Holl / Med / Mill (7/9)",
+        "time": "22.11"
+      },
+      {
+        "meet": "Westwood (7/16)",
+        "time": "22.27"
+      },
+      {
+        "meet": "Norwood (7/23)",
+        "time": "23.35"
+      },
+      {
+        "meet": "Newton (8/1)",
+        "time": "20.69"
+      }
+    ],
+    "seasonPrs": {
+      "25 Freestyle": "19.71",
+      "25 Backstroke": "21.24",
+      "25 Breaststroke": "28.23",
+      "25 Butterfly": "20.69"
+    }
+  }
+}

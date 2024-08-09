@@ -1,0 +1,47 @@
+{
+  "stats": {
+    "name": "Sophia Berkowitz",
+    "freestyle25Times": [
+      {
+        "meet": "Blue vs. Gold (6/25)",
+        "time": "22.69"
+      },
+      {
+        "meet": "Holl / Med / Mill (7/9)",
+        "time": "22.12"
+      }
+    ],
+    "backstroke25Times": [
+      {
+        "meet": "Norwood (7/23)",
+        "time": "24.70"
+      }
+    ],
+    "breaststroke25Times": [
+      {
+        "meet": "Blue vs. Gold (6/25)",
+        "time": "31.63"
+      },
+      {
+        "meet": "Holl / Med / Mill (7/9)",
+        "time": "29.28"
+      },
+      {
+        "meet": "Norwood (7/23)",
+        "time": "26.50"
+      }
+    ],
+    "butterfly25Times": [
+      {
+        "meet": "Medfield (7/18)",
+        "time": "17.13"
+      }
+    ],
+    "seasonPrs": {
+      "25 Freestyle": "22.12",
+      "25 Backstroke": "24.70",
+      "25 Breaststroke": "26.50",
+      "25 Butterfly": "17.13"
+    }
+  }
+}

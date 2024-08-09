@@ -1,0 +1,63 @@
+{
+  "stats": {
+    "name": "Chloe Fink",
+    "freestyle25Times": [
+      {
+        "meet": "Blue vs. Gold (6/25)",
+        "time": "26.69"
+      },
+      {
+        "meet": "Holl / Med / Mill (7/9)",
+        "time": "27.09"
+      },
+      {
+        "meet": "Westwood (7/16)",
+        "time": "37.79"
+      }
+    ],
+    "backstroke25Times": [
+      {
+        "meet": "Blue vs. Gold (6/25)",
+        "time": "25.81"
+      },
+      {
+        "meet": "Holl / Med / Mill (7/9)",
+        "time": "33.49"
+      },
+      {
+        "meet": "Medfield (7/18)",
+        "time": "31.07"
+      },
+      {
+        "meet": "Norwood (7/23)",
+        "time": "30.58"
+      }
+    ],
+    "breaststroke25Times": [
+      {
+        "meet": "Blue vs. Gold (6/25)",
+        "time": "40.44"
+      },
+      {
+        "meet": "Medfield (7/18)",
+        "time": "40.04"
+      }
+    ],
+    "butterfly25Times": [
+      {
+        "meet": "Blue vs. Gold (6/25)",
+        "time": "31.40"
+      },
+      {
+        "meet": "Norwood (7/23)",
+        "time": "29.89"
+      }
+    ],
+    "seasonPrs": {
+      "25 Freestyle": "26.69",
+      "25 Backstroke": "25.81",
+      "25 Breaststroke": "40.04",
+      "25 Butterfly": "29.89"
+    }
+  }
+}

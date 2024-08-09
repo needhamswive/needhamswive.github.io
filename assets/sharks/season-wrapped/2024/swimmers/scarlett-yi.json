@@ -1,0 +1,82 @@
+{
+  "stats": {
+    "name": "Scarlett Yi",
+    "freestyle50Times": [
+      {
+        "meet": "Blue vs. Gold (6/25)",
+        "time": "41.00"
+      },
+      {
+        "meet": "Holl / Med / Mill (7/9)",
+        "time": "38.43"
+      },
+      {
+        "meet": "Norwood (7/23)",
+        "time": "39.56"
+      },
+      {
+        "meet": "Canton (7/30)",
+        "time": "39.38"
+      },
+      {
+        "meet": "Newton (8/1)",
+        "time": "37.42"
+      }
+    ],
+    "backstroke": [
+      {
+        "meet": "Blue vs. Gold (6/25)",
+        "time": "42.05"
+      },
+      {
+        "meet": "Westwood (7/16)",
+        "time": "40.35"
+      },
+      {
+        "meet": "Medfield (7/18)",
+        "time": "39.23"
+      },
+      {
+        "meet": "Norwood (7/23)",
+        "time": "40.56"
+      },
+      {
+        "meet": "Canton (7/30)",
+        "time": "41.22"
+      },
+      {
+        "meet": "Newton (8/1)",
+        "time": "40.41"
+      }
+    ],
+    "breaststroke50Times": [
+      {
+        "meet": "Blue vs. Gold (6/25)",
+        "time": "49.34"
+      },
+      {
+        "meet": "Holl / Med / Mill (7/9)",
+        "time": "47.62"
+      },
+      {
+        "meet": "Westwood (7/16)",
+        "time": "46.12"
+      },
+      {
+        "meet": "Medfield (7/18)",
+        "time": "46.07"
+      }
+    ],
+    "butterfly50Times": [
+      {
+        "meet": "Blue vs. Gold (6/25)",
+        "time": "42.34"
+      }
+    ],
+    "seasonPrs": {
+      "50 Butterfly": "42.34",
+      "50 Backstroke": "39.23",
+      "50 Breaststroke": "46.07"
+    }
+  }
+}

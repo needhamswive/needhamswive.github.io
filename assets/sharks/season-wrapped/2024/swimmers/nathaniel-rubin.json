@@ -1,0 +1,78 @@
+{
+  "stats": {
+    "name": "Nathaniel Rubin",
+    "freestyle50Times": [
+      {
+        "meet": "Blue vs. Gold (6/25)",
+        "time": "39.30"
+      },
+      {
+        "meet": "Westwood (7/16)",
+        "time": "40.48"
+      },
+      {
+        "meet": "Medfield (7/18)",
+        "time": "39.04"
+      },
+      {
+        "meet": "Norwood (7/23)",
+        "time": "42.84"
+      },
+      {
+        "meet": "Canton (7/30)",
+        "time": "38.23"
+      },
+      {
+        "meet": "Newton (8/1)",
+        "time": "37.35"
+      }
+    ],
+    "backstroke": [
+      {
+        "meet": "Blue vs. Gold (6/25)",
+        "time": "50.20"
+      },
+      {
+        "meet": "Holl / Med / Mill (7/9)",
+        "time": "44.41"
+      },
+      {
+        "meet": "Canton (7/30)",
+        "time": "47.41"
+      }
+    ],
+    "breaststroke50Times": [
+      {
+        "meet": "Blue vs. Gold (6/25)",
+        "time": "50.65"
+      },
+      {
+        "meet": "Westwood (7/16)",
+        "time": "51.23"
+      },
+      {
+        "meet": "Medfield (7/18)",
+        "time": "51.20"
+      },
+      {
+        "meet": "Newton (8/1)",
+        "time": "48.27"
+      }
+    ],
+    "butterfly50Times": [
+      {
+        "meet": "Holl / Med / Mill (7/9)",
+        "time": "42.31"
+      },
+      {
+        "meet": "Norwood (7/23)",
+        "time": "47.88"
+      }
+    ],
+    "seasonPrs": {
+      "50 Butterfly": "42.31",
+      "50 Backstroke": "44.41",
+      "50 Breaststroke": "48.27"
+    }
+  }
+}

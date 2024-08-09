@@ -1,0 +1,51 @@
+{
+  "stats": {
+    "name": "Nathaniel Cole",
+    "freestyle25Times": [
+      {
+        "meet": "Blue vs. Gold (6/25)",
+        "time": "23.88"
+      },
+      {
+        "meet": "Holl / Med / Mill (7/9)",
+        "time": "25.00"
+      },
+      {
+        "meet": "Newton (8/1)",
+        "time": "24.61"
+      }
+    ],
+    "backstroke25Times": [
+      {
+        "meet": "Blue vs. Gold (6/25)",
+        "time": "33.00"
+      }
+    ],
+    "breaststroke25Times": [
+      {
+        "meet": "Holl / Med / Mill (7/9)",
+        "time": "36.15"
+      },
+      {
+        "meet": "Canton (7/30)",
+        "time": "35.65"
+      }
+    ],
+    "butterfly25Times": [
+      {
+        "meet": "Canton (7/30)",
+        "time": "39.47"
+      },
+      {
+        "meet": "Newton (8/1)",
+        "time": "59.65"
+      }
+    ],
+    "seasonPrs": {
+      "25 Freestyle": "23.88",
+      "25 Backstroke": "33.00",
+      "25 Breaststroke": "35.65",
+      "25 Butterfly": "39.47"
+    }
+  }
+}

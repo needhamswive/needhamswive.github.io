@@ -1,0 +1,52 @@
+{
+  "stats": {
+    "name": "Julia Shulman",
+    "graduating": true,
+    "university": "Connecticut College",
+    "freestyle50Times": [
+      {
+        "meet": "Blue vs. Gold (6/25)",
+        "time": "26.86"
+      },
+      {
+        "meet": "Medfield (7/18)",
+        "time": "27.14"
+      }
+    ],
+    "backstroke": [
+      {
+        "meet": "Blue vs. Gold (6/25)",
+        "time": "31.57"
+      },
+      {
+        "meet": "Norwood (7/23)",
+        "time": "31.64"
+      }
+    ],
+    "breaststroke50Times": [
+      {
+        "meet": "Blue vs. Gold (6/25)",
+        "time": "41.34"
+      },
+      {
+        "meet": "Norwood (7/23)",
+        "time": "38.07"
+      }
+    ],
+    "butterfly50Times": [
+      {
+        "meet": "Blue vs. Gold (6/25)",
+        "time": "28.62"
+      },
+      {
+        "meet": "Medfield (7/18)",
+        "time": "29.79"
+      }
+    ],
+    "seasonPrs": {
+      "50 Butterfly": "28.62",
+      "50 Backstroke": "31.57",
+      "50 Breaststroke": "38.07"
+    }
+  }
+}

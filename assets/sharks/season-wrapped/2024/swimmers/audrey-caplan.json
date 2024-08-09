@@ -1,0 +1,83 @@
+{
+  "stats": {
+    "name": "Audrey Caplan",
+    "freestyle25Times": [
+      {
+        "meet": "Blue vs. Gold (6/25)",
+        "time": "18.45"
+      },
+      {
+        "meet": "Westwood (7/16)",
+        "time": "18.60"
+      }
+    ],
+    "backstroke25Times": [
+      {
+        "meet": "Blue vs. Gold (6/25)",
+        "time": "24.13"
+      },
+      {
+        "meet": "Canton (7/30)",
+        "time": "21.34"
+      }
+    ],
+    "breaststroke25Times": [
+      {
+        "meet": "Blue vs. Gold (6/25)",
+        "time": "27.32"
+      },
+      {
+        "meet": "Holl / Med / Mill (7/9)",
+        "time": "26.80"
+      },
+      {
+        "meet": "Westwood (7/16)",
+        "time": "27.23"
+      },
+      {
+        "meet": "Medfield (7/18)",
+        "time": "25.84"
+      },
+      {
+        "meet": "Norwood (7/23)",
+        "time": "39.70"
+      },
+      {
+        "meet": "Canton (7/30)",
+        "time": "24.70"
+      },
+      {
+        "meet": "Newton (8/1)",
+        "time": "24.66"
+      }
+    ],
+    "butterfly25Times": [
+      {
+        "meet": "Blue vs. Gold (6/25)",
+        "time": "21.89"
+      },
+      {
+        "meet": "Holl / Med / Mill (7/9)",
+        "time": "22.29"
+      },
+      {
+        "meet": "Medfield (7/18)",
+        "time": "23.76"
+      },
+      {
+        "meet": "Canton (7/30)",
+        "time": "23.14"
+      },
+      {
+        "meet": "Newton (8/1)",
+        "time": "22.75"
+      }
+    ],
+    "seasonPrs": {
+      "25 Freestyle": "18.45",
+      "25 Backstroke": "21.34",
+      "25 Breaststroke": "24.66",
+      "25 Butterfly": "21.89"
+    }
+  }
+}

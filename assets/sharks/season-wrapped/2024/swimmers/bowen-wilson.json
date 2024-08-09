@@ -1,0 +1,61 @@
+{
+  "stats": {
+    "name": "Bowen Wilson",
+    "freestyle25Times": [
+      {
+        "meet": "Blue vs. Gold (6/25)",
+        "time": "30.18"
+      },
+      {
+        "meet": "Holl / Med / Mill (7/9)",
+        "time": "28.46"
+      },
+      {
+        "meet": "Westwood (7/16)",
+        "time": "28.24"
+      },
+      {
+        "meet": "Medfield (7/18)",
+        "time": "38.87"
+      },
+      {
+        "meet": "Canton (7/30)",
+        "time": "27.16"
+      },
+      {
+        "meet": "Newton (8/1)",
+        "time": "27.71"
+      }
+    ],
+    "backstroke25Times": [
+      {
+        "meet": "Blue vs. Gold (6/25)",
+        "time": "34.00"
+      },
+      {
+        "meet": "Holl / Med / Mill (7/9)",
+        "time": "30.00"
+      },
+      {
+        "meet": "Westwood (7/16)",
+        "time": "44.90"
+      },
+      {
+        "meet": "Medfield (7/18)",
+        "time": "28.54"
+      },
+      {
+        "meet": "Canton (7/30)",
+        "time": "31.83"
+      },
+      {
+        "meet": "Newton (8/1)",
+        "time": "26.59"
+      }
+    ],
+    "seasonPrs": {
+      "25 Freestyle": "27.16",
+      "25 Backstroke": "26.59"
+    }
+  }
+}

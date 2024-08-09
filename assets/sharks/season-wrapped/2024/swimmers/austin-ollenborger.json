@@ -1,0 +1,70 @@
+{
+  "stats": {
+    "name": "Austin Ollenborger",
+    "freestyle50Times": [
+      {
+        "meet": "Blue vs. Gold (6/25)",
+        "time": "35.97"
+      },
+      {
+        "meet": "Newton (8/1)",
+        "time": "34.75"
+      }
+    ],
+    "backstroke": [
+      {
+        "meet": "Blue vs. Gold (6/25)",
+        "time": "46.00"
+      },
+      {
+        "meet": "Westwood (7/16)",
+        "time": "52.01"
+      },
+      {
+        "meet": "Medfield (7/18)",
+        "time": "52.67"
+      }
+    ],
+    "breaststroke50Times": [
+      {
+        "meet": "Blue vs. Gold (6/25)",
+        "time": "46.56"
+      },
+      {
+        "meet": "Norwood (7/23)",
+        "time": "45.13"
+      },
+      {
+        "meet": "Canton (7/30)",
+        "time": "42.66"
+      },
+      {
+        "meet": "Newton (8/1)",
+        "time": "41.84"
+      }
+    ],
+    "butterfly50Times": [
+      {
+        "meet": "Blue vs. Gold (6/25)",
+        "time": "46.10"
+      },
+      {
+        "meet": "Medfield (7/18)",
+        "time": "44.50"
+      },
+      {
+        "meet": "Norwood (7/23)",
+        "time": "45.00"
+      },
+      {
+        "meet": "Canton (7/30)",
+        "time": "42.72"
+      }
+    ],
+    "seasonPrs": {
+      "50 Butterfly": "42.72",
+      "50 Backstroke": "46.00",
+      "50 Breaststroke": "41.84"
+    }
+  }
+}

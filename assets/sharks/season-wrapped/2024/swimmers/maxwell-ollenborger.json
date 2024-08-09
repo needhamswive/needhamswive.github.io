@@ -1,0 +1,59 @@
+{
+  "stats": {
+    "name": "Maxwell Ollenborger",
+    "freestyle25Times": [
+      {
+        "meet": "Blue vs. Gold (6/25)",
+        "time": "19.16"
+      },
+      {
+        "meet": "Norwood (7/23)",
+        "time": "19.70"
+      },
+      {
+        "meet": "Canton (7/30)",
+        "time": "22.53"
+      },
+      {
+        "meet": "Newton (8/1)",
+        "time": "19.27"
+      }
+    ],
+    "backstroke25Times": [
+      {
+        "meet": "Blue vs. Gold (6/25)",
+        "time": "29.40"
+      },
+      {
+        "meet": "Norwood (7/23)",
+        "time": "27.17"
+      },
+      {
+        "meet": "Canton (7/30)",
+        "time": "28.10"
+      }
+    ],
+    "breaststroke25Times": [
+      {
+        "meet": "Blue vs. Gold (6/25)",
+        "time": "49.63"
+      },
+      {
+        "meet": "Newton (8/1)",
+        "time": "26.88"
+      }
+    ],
+    "butterfly25Times": [
+      {
+        "meet": "Blue vs. Gold (6/25)",
+        "time": "30.77"
+      }
+    ],
+    "seasonPrs": {
+      "25 Freestyle": "19.16",
+      "25 Backstroke": "27.17",
+      "25 Breaststroke": "26.88",
+      "25 Butterfly": "30.77"
+    }
+  }
+}

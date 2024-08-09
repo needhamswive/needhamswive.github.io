@@ -1,0 +1,50 @@
+{
+  "stats": {
+    "name": "Noah Moran",
+    "freestyle50Times": [
+      {
+        "meet": "Holl / Med / Mill (7/9)",
+        "time": "45.90"
+      },
+      {
+        "meet": "Newton (8/1)",
+        "time": "42.29"
+      }
+    ],
+    "backstroke": [
+      {
+        "meet": "Norwood (7/23)",
+        "time": "52.82"
+      },
+      {
+        "meet": "Canton (7/30)",
+        "time": "56.18"
+      }
+    ],
+    "breaststroke50Times": [
+      {
+        "meet": "Norwood (7/23)",
+        "time": "58.51"
+      },
+      {
+        "meet": "Canton (7/30)",
+        "time": "61.61"
+      }
+    ],
+    "butterfly50Times": [
+      {
+        "meet": "Holl / Med / Mill (7/9)",
+        "time": "62.69"
+      },
+      {
+        "meet": "Newton (8/1)",
+        "time": "58.51"
+      }
+    ],
+    "seasonPrs": {
+      "50 Butterfly": "58.51",
+      "50 Backstroke": "52.82",
+      "50 Breaststroke": "58.51"
+    }
+  }
+}

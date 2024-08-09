@@ -1,0 +1,56 @@
+{
+  "stats": {
+    "name": "Chloe Afzali",
+    "freestyle50Times": [
+      {
+        "meet": "Westwood (7/16)",
+        "time": "30.90"
+      }
+    ],
+    "backstroke": [
+      {
+        "meet": "Holl / Med / Mill (7/9)",
+        "time": "32.56"
+      },
+      {
+        "meet": "Westwood (7/16)",
+        "time": "33.23"
+      },
+      {
+        "meet": "Medfield (7/18)",
+        "time": "33.12"
+      },
+      {
+        "meet": "Canton (7/30)",
+        "time": "32.73"
+      },
+      {
+        "meet": "Newton (8/1)",
+        "time": "32.04"
+      }
+    ],
+    "breaststroke50Times": [
+      {
+        "meet": "Holl / Med / Mill (7/9)",
+        "time": "42.78"
+      },
+      {
+        "meet": "Medfield (7/18)",
+        "time": "39.15"
+      },
+      {
+        "meet": "Canton (7/30)",
+        "time": "39.62"
+      },
+      {
+        "meet": "Newton (8/1)",
+        "time": "39.20"
+      }
+    ],
+    "seasonPrs": {
+      "50 Butterfly": "30.90",
+      "50 Backstroke": "32.04",
+      "50 Breaststroke": "39.15"
+    }
+  }
+}

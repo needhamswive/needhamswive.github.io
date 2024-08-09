@@ -1,0 +1,61 @@
+{
+  "stats": {
+    "name": "Cole Johnson",
+    "freestyle25Times": [
+      {
+        "meet": "Blue vs. Gold (6/25)",
+        "time": "29.60"
+      },
+      {
+        "meet": "Holl / Med / Mill (7/9)",
+        "time": "24.88"
+      },
+      {
+        "meet": "Westwood (7/16)",
+        "time": "25.89"
+      },
+      {
+        "meet": "Medfield (7/18)",
+        "time": "24.17"
+      },
+      {
+        "meet": "Canton (7/30)",
+        "time": "25.76"
+      },
+      {
+        "meet": "Newton (8/1)",
+        "time": "25.02"
+      }
+    ],
+    "backstroke25Times": [
+      {
+        "meet": "Blue vs. Gold (6/25)",
+        "time": "39.44"
+      },
+      {
+        "meet": "Holl / Med / Mill (7/9)",
+        "time": "28.36"
+      },
+      {
+        "meet": "Westwood (7/16)",
+        "time": "29.11"
+      },
+      {
+        "meet": "Medfield (7/18)",
+        "time": "27.45"
+      },
+      {
+        "meet": "Canton (7/30)",
+        "time": "29.75"
+      },
+      {
+        "meet": "Newton (8/1)",
+        "time": "26.45"
+      }
+    ],
+    "seasonPrs": {
+      "25 Freestyle": "24.17",
+      "25 Backstroke": "26.45"
+    }
+  }
+}

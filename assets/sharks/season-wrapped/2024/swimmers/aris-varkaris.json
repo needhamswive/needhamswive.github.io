@@ -1,0 +1,68 @@
+{
+  "stats": {
+    "name": "Aris Varkaris",
+    "freestyle25Times": [
+      {
+        "meet": "Blue vs. Gold (6/25)",
+        "time": "32.69"
+      },
+      {
+        "meet": "Medfield (7/18)",
+        "time": "32.27"
+      },
+      {
+        "meet": "Norwood (7/23)",
+        "time": "35.25"
+      }
+    ],
+    "backstroke25Times": [
+      {
+        "meet": "Blue vs. Gold (6/25)",
+        "time": "45.16"
+      },
+      {
+        "meet": "Holl / Med / Mill (7/9)",
+        "time": "38.16"
+      },
+      {
+        "meet": "Canton (7/30)",
+        "time": "38.02"
+      },
+      {
+        "meet": "Newton (8/1)",
+        "time": "41.38"
+      }
+    ],
+    "breaststroke25Times": [
+      {
+        "meet": "Holl / Med / Mill (7/9)",
+        "time": "35.35"
+      },
+      {
+        "meet": "Westwood (7/16)",
+        "time": "41.39"
+      },
+      {
+        "meet": "Medfield (7/18)",
+        "time": "35.37"
+      },
+      {
+        "meet": "Norwood (7/23)",
+        "time": "38.78"
+      },
+      {
+        "meet": "Canton (7/30)",
+        "time": "31.36"
+      },
+      {
+        "meet": "Newton (8/1)",
+        "time": "29.65"
+      }
+    ],
+    "seasonPrs": {
+      "25 Freestyle": "32.27",
+      "25 Backstroke": "38.02",
+      "25 Breaststroke": "29.65"
+    }
+  }
+}

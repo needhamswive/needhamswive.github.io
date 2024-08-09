@@ -1,0 +1,74 @@
+{
+  "stats": {
+    "name": "Sophia Belenkiy",
+    "freestyle50Times": [
+      {
+        "meet": "Blue vs. Gold (6/25)",
+        "time": "32.87"
+      },
+      {
+        "meet": "Holl / Med / Mill (7/9)",
+        "time": "33.23"
+      },
+      {
+        "meet": "Medfield (7/18)",
+        "time": "32.73"
+      },
+      {
+        "meet": "Norwood (7/23)",
+        "time": "32.67"
+      },
+      {
+        "meet": "Canton (7/30)",
+        "time": "30.92"
+      }
+    ],
+    "backstroke": [
+      {
+        "meet": "Blue vs. Gold (6/25)",
+        "time": "35.44"
+      },
+      {
+        "meet": "Holl / Med / Mill (7/9)",
+        "time": "35.32"
+      },
+      {
+        "meet": "Westwood (7/16)",
+        "time": "34.84"
+      },
+      {
+        "meet": "Norwood (7/23)",
+        "time": "34.87"
+      }
+    ],
+    "breaststroke50Times": [
+      {
+        "meet": "Blue vs. Gold (6/25)",
+        "time": "42.82"
+      }
+    ],
+    "butterfly50Times": [
+      {
+        "meet": "Blue vs. Gold (6/25)",
+        "time": "33.75"
+      },
+      {
+        "meet": "Westwood (7/16)",
+        "time": "33.73"
+      },
+      {
+        "meet": "Medfield (7/18)",
+        "time": "33.39"
+      },
+      {
+        "meet": "Canton (7/30)",
+        "time": "32.63"
+      }
+    ],
+    "seasonPrs": {
+      "50 Butterfly": "32.63",
+      "50 Backstroke": "34.84",
+      "50 Breaststroke": "42.82"
+    }
+  }
+}

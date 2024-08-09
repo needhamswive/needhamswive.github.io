@@ -1,0 +1,62 @@
+{
+  "stats": {
+    "name": "Joshua Chen",
+    "freestyle50Times": [
+      {
+        "meet": "Westwood (7/16)",
+        "time": "36.98"
+      },
+      {
+        "meet": "Medfield (7/18)",
+        "time": "34.75"
+      },
+      {
+        "meet": "Canton (7/30)",
+        "time": "34.73"
+      },
+      {
+        "meet": "Newton (8/1)",
+        "time": "34.32"
+      }
+    ],
+    "backstroke": [
+      {
+        "meet": "Holl / Med / Mill (7/9)",
+        "time": "40.35"
+      },
+      {
+        "meet": "Medfield (7/18)",
+        "time": "41.10"
+      },
+      {
+        "meet": "Norwood (7/23)",
+        "time": "42.97"
+      }
+    ],
+    "breaststroke50Times": [
+      {
+        "meet": "Holl / Med / Mill (7/9)",
+        "time": "49.56"
+      },
+      {
+        "meet": "Canton (7/30)",
+        "time": "49.04"
+      }
+    ],
+    "butterfly50Times": [
+      {
+        "meet": "Norwood (7/23)",
+        "time": "47.36"
+      },
+      {
+        "meet": "Newton (8/1)",
+        "time": "42.31"
+      }
+    ],
+    "seasonPrs": {
+      "50 Butterfly": "42.31",
+      "50 Backstroke": "40.35",
+      "50 Breaststroke": "49.04"
+    }
+  }
+}

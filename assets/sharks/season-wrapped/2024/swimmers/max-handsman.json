@@ -1,0 +1,76 @@
+{
+  "stats": {
+    "name": "Max Handsman",
+    "freestyle25Times": [
+      {
+        "meet": "Blue vs. Gold (6/25)",
+        "time": "42.62"
+      },
+      {
+        "meet": "Holl / Med / Mill (7/9)",
+        "time": "33.92"
+      },
+      {
+        "meet": "Westwood (7/16)",
+        "time": "35.07"
+      },
+      {
+        "meet": "Medfield (7/18)",
+        "time": "35.56"
+      },
+      {
+        "meet": "Norwood (7/23)",
+        "time": "32.64"
+      },
+      {
+        "meet": "Canton (7/30)",
+        "time": "34.05"
+      },
+      {
+        "meet": "Newton (8/1)",
+        "time": "33.34"
+      }
+    ],
+    "backstroke25Times": [
+      {
+        "meet": "Blue vs. Gold (6/25)",
+        "time": "50.02"
+      },
+      {
+        "meet": "Holl / Med / Mill (7/9)",
+        "time": "45.63"
+      },
+      {
+        "meet": "Westwood (7/16)",
+        "time": "46.39"
+      },
+      {
+        "meet": "Norwood (7/23)",
+        "time": "48.70"
+      },
+      {
+        "meet": "Canton (7/30)",
+        "time": "35.73"
+      }
+    ],
+    "breaststroke25Times": [
+      {
+        "meet": "Blue vs. Gold (6/25)",
+        "time": "37.25"
+      },
+      {
+        "meet": "Medfield (7/18)",
+        "time": "39.17"
+      },
+      {
+        "meet": "Newton (8/1)",
+        "time": "35.09"
+      }
+    ],
+    "seasonPrs": {
+      "25 Freestyle": "32.64",
+      "25 Backstroke": "35.73",
+      "25 Breaststroke": "35.09"
+    }
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "stats": {
+    "name": "Winslow Salisbury-Jewell",
+    "freestyle25Times": [
+      {
+        "meet": "Blue vs. Gold (6/25)",
+        "time": "32.06"
+      },
+      {
+        "meet": "Westwood (7/16)",
+        "time": "27.58"
+      },
+      {
+        "meet": "Canton (7/30)",
+        "time": "25.20"
+      },
+      {
+        "meet": "Newton (8/1)",
+        "time": "23.03"
+      }
+    ],
+    "backstroke25Times": [
+      {
+        "meet": "Blue vs. Gold (6/25)",
+        "time": "33.90"
+      },
+      {
+        "meet": "Holl / Med / Mill (7/9)",
+        "time": "30.28"
+      }
+    ],
+    "breaststroke25Times": [
+      {
+        "meet": "Blue vs. Gold (6/25)",
+        "time": "35.69"
+      },
+      {
+        "meet": "Holl / Med / Mill (7/9)",
+        "time": "31.28"
+      },
+      {
+        "meet": "Westwood (7/16)",
+        "time": "36.70"
+      },
+      {
+        "meet": "Canton (7/30)",
+        "time": "37.95"
+      },
+      {
+        "meet": "Newton (8/1)",
+        "time": "29.74"
+      }
+    ],
+    "seasonPrs": {
+      "25 Freestyle": "23.03",
+      "25 Backstroke": "30.28",
+      "25 Breaststroke": "29.74"
+    }
+  }
+}

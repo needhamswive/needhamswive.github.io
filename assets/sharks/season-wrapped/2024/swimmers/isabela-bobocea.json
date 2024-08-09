@@ -1,0 +1,60 @@
+{
+  "stats": {
+    "name": "Isabela Bobocea",
+    "graduating": true,
+    "university": "University of Massachusetts Amherst",
+    "freestyle50Times": [
+      {
+        "meet": "Westwood (7/16)",
+        "time": "27.09"
+      },
+      {
+        "meet": "Medfield (7/18)",
+        "time": "28.03"
+      }
+    ],
+    "backstroke": [
+      {
+        "meet": "Medfield (7/18)",
+        "time": "32.37"
+      }
+    ],
+    "breaststroke50Times": [
+      {
+        "meet": "Norwood (7/23)",
+        "time": "37.90"
+      },
+      {
+        "meet": "Canton (7/30)",
+        "time": "36.04"
+      },
+      {
+        "meet": "Newton (8/1)",
+        "time": "36.17"
+      }
+    ],
+    "butterfly50Times": [
+      {
+        "meet": "Westwood (7/16)",
+        "time": "30.04"
+      },
+      {
+        "meet": "Norwood (7/23)",
+        "time": "30.67"
+      },
+      {
+        "meet": "Canton (7/30)",
+        "time": "29.59"
+      },
+      {
+        "meet": "Newton (8/1)",
+        "time": "29.12"
+      }
+    ],
+    "seasonPrs": {
+      "50 Butterfly": "29.12",
+      "50 Backstroke": "32.37",
+      "50 Breaststroke": "36.04"
+    }
+  }
+}

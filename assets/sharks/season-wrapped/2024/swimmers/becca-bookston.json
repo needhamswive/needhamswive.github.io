@@ -1,0 +1,66 @@
+{
+  "stats": {
+    "name": "Becca Bookston",
+    "freestyle50Times": [
+      {
+        "meet": "Holl / Med / Mill (7/9)",
+        "time": "49.24"
+      },
+      {
+        "meet": "Medfield (7/18)",
+        "time": "53.92"
+      },
+      {
+        "meet": "Canton (7/30)",
+        "time": "51.19"
+      },
+      {
+        "meet": "Newton (8/1)",
+        "time": "51.39"
+      }
+    ],
+    "backstroke": [
+      {
+        "meet": "Holl / Med / Mill (7/9)",
+        "time": "55.86"
+      },
+      {
+        "meet": "Westwood (7/16)",
+        "time": "55.48"
+      },
+      {
+        "meet": "Medfield (7/18)",
+        "time": "56.94"
+      },
+      {
+        "meet": "Canton (7/30)",
+        "time": "62.27"
+      }
+    ],
+    "breaststroke50Times": [
+      {
+        "meet": "Westwood (7/16)",
+        "time": "67.59"
+      },
+      {
+        "meet": "Norwood (7/23)",
+        "time": "66.42"
+      },
+      {
+        "meet": "Newton (8/1)",
+        "time": "62.16"
+      }
+    ],
+    "butterfly50Times": [
+      {
+        "meet": "Norwood (7/23)",
+        "time": "62.65"
+      }
+    ],
+    "seasonPrs": {
+      "50 Butterfly": "62.65",
+      "50 Backstroke": "55.48",
+      "50 Breaststroke": "62.16"
+    }
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "stats": {
+    "name": "Reagan Shavor",
+    "freestyle50Times": [
+      {
+        "meet": "Blue vs. Gold (6/25)",
+        "time": "30.86"
+      },
+      {
+        "meet": "Holl / Med / Mill (7/9)",
+        "time": "31.72"
+      },
+      {
+        "meet": "Westwood (7/16)",
+        "time": "31.10"
+      }
+    ],
+    "backstroke": [
+      {
+        "meet": "Blue vs. Gold (6/25)",
+        "time": "35.19"
+      },
+      {
+        "meet": "Holl / Med / Mill (7/9)",
+        "time": "35.11"
+      }
+    ],
+    "breaststroke50Times": [
+      {
+        "meet": "Blue vs. Gold (6/25)",
+        "time": "35.16"
+      },
+      {
+        "meet": "Westwood (7/16)",
+        "time": "35.89"
+      }
+    ],
+    "butterfly50Times": [
+      {
+        "meet": "Blue vs. Gold (6/25)",
+        "time": "33.64"
+      }
+    ],
+    "seasonPrs": {
+      "50 Butterfly": "33.64",
+      "50 Backstroke": "35.11",
+      "50 Breaststroke": "35.16"
+    }
+  }
+}

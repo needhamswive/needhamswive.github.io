@@ -1,0 +1,50 @@
+{
+  "stats": {
+    "name": "Neil Chen",
+    "freestyle50Times": [
+      {
+        "meet": "Blue vs. Gold (6/25)",
+        "time": "32.72"
+      }
+    ],
+    "backstroke": [
+      {
+        "meet": "Blue vs. Gold (6/25)",
+        "time": "40.97"
+      },
+      {
+        "meet": "Medfield (7/18)",
+        "time": "40.63"
+      }
+    ],
+    "breaststroke50Times": [
+      {
+        "meet": "Blue vs. Gold (6/25)",
+        "time": "44.06"
+      },
+      {
+        "meet": "Westwood (7/16)",
+        "time": "46.11"
+      },
+      {
+        "meet": "Medfield (7/18)",
+        "time": "44.89"
+      }
+    ],
+    "butterfly50Times": [
+      {
+        "meet": "Blue vs. Gold (6/25)",
+        "time": "39.63"
+      },
+      {
+        "meet": "Westwood (7/16)",
+        "time": "40.87"
+      }
+    ],
+    "seasonPrs": {
+      "50 Butterfly": "39.63",
+      "50 Backstroke": "40.63",
+      "50 Breaststroke": "44.06"
+    }
+  }
+}

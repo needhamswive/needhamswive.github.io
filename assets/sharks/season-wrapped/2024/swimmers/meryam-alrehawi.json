@@ -1,0 +1,82 @@
+{
+  "stats": {
+    "name": "Meryam Alrehawi",
+    "freestyle50Times": [
+      {
+        "meet": "Blue vs. Gold (6/25)",
+        "time": "36.25"
+      },
+      {
+        "meet": "Westwood (7/16)",
+        "time": "37.17"
+      },
+      {
+        "meet": "Norwood (7/23)",
+        "time": "37.35"
+      },
+      {
+        "meet": "Canton (7/30)",
+        "time": "34.81"
+      },
+      {
+        "meet": "Newton (8/1)",
+        "time": "33.82"
+      }
+    ],
+    "backstroke": [
+      {
+        "meet": "Blue vs. Gold (6/25)",
+        "time": "42.89"
+      },
+      {
+        "meet": "Westwood (7/16)",
+        "time": "40.83"
+      },
+      {
+        "meet": "Norwood (7/23)",
+        "time": "41.29"
+      },
+      {
+        "meet": "Canton (7/30)",
+        "time": "39.10"
+      },
+      {
+        "meet": "Newton (8/1)",
+        "time": "38.11"
+      }
+    ],
+    "breaststroke50Times": [
+      {
+        "meet": "Blue vs. Gold (6/25)",
+        "time": "46.25"
+      },
+      {
+        "meet": "Holl / Med / Mill (7/9)",
+        "time": "44.65"
+      },
+      {
+        "meet": "Medfield (7/18)",
+        "time": "47.02"
+      }
+    ],
+    "butterfly50Times": [
+      {
+        "meet": "Blue vs. Gold (6/25)",
+        "time": "39.62"
+      },
+      {
+        "meet": "Holl / Med / Mill (7/9)",
+        "time": "39.20"
+      },
+      {
+        "meet": "Medfield (7/18)",
+        "time": "39.95"
+      }
+    ],
+    "seasonPrs": {
+      "50 Butterfly": "39.20",
+      "50 Backstroke": "38.11",
+      "50 Breaststroke": "44.65"
+    }
+  }
+}
