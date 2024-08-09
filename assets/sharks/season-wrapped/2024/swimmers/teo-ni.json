@@ -1,0 +1,67 @@
+{
+  "stats": {
+    "graduating": true,
+    "university": "University of Massachusetts Amherst",
+    "name": "Teo Ni",
+    "paperPlate": "The Work Hard Party Hard Award",
+    "goldenGoggle": "Unsung Hero",
+    "seasonPrs": {
+      "50 Butterfly": "27.20",
+      "50 Freestyle": "24.46",
+      "50 Breaststroke": "33.07",
+      "50 Backstroke": "28.61"
+    },
+    "butterflyTimes": [
+      {
+        "meet": "Dedham (7/9)",
+        "result": "27.20"
+      }
+    ],
+    "freestyleTimes": [
+      {
+        "meet": "Blue vs. Gold (6/25)",
+        "result": "25.00"
+      },
+      {
+        "meet": "Holl / Med / Mill (7/9)",
+        "result": "24.56"
+      },
+      {
+        "meet": "Canton (7/30)",
+        "result": "24.72"
+      },
+      {
+        "meet": "Newton (8/1)",
+        "result": "24.46"
+      }
+    ],
+    "breaststrokeTimes": [
+      {
+        "meet": "Blue vs. Gold (6/25)",
+        "result": "34.92"
+      },
+      {
+        "meet": "Norwood (7/23)",
+        "result": "33.45"
+      },
+      {
+        "meet": "Newton (8/1)",
+        "result": "33.07"
+      }
+    ],
+    "backstrokeTimes": [
+      {
+        "meet": "Blue vs. Gold (6/25)",
+        "result": "29.92"
+      },
+      {
+        "meet": "Norwood (7/23)",
+        "result": "28.61"
+      },
+      {
+        "meet": "Canton (7/30)",
+        "result": "29.43"
+      }
+    ]
+  }
+}

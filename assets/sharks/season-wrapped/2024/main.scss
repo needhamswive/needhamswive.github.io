@@ -1,0 +1,341 @@
+---
+---
+
+* {
+  --offwhite: #f0f0f0;
+  --blue: #0c2141;
+  --gold: #958b64;
+}
+
+html, body {
+  font-family: "Figtree", "Roboto Flex", sans-serif;
+  font-size: 30px;
+  font-weight: 300;
+  height: 100dvh;
+  margin: 0;
+  overflow: hidden;
+  padding: 0;
+}
+
+b {
+  font-weight: 400;
+}
+
+br.extended {
+  line-height: 2em;
+}
+
+.noselect {
+  -webkit-touch-callout: none; /* iOS Safari */
+    -webkit-user-select: none; /* Safari */
+     -khtml-user-select: none; /* Konqueror HTML */
+       -moz-user-select: none; /* Old versions of Firefox */
+        -ms-user-select: none; /* Internet Explorer/Edge */
+            user-select: none; /* Non-prefixed version, currently supported by Chrome, Edge, Opera and Firefox */
+}
+
+.blue {
+  color: var(--blue);
+}
+
+.gold {
+  color: var(--gold);
+}
+
+.font-small {
+  font-size: 24px;
+}
+
+.hidden {
+  display: none;
+}
+
+.container-outer {
+  display: table;
+  height: 100%;
+  left: 0;
+  top: 0;
+  width: 100%;
+
+  .container-middle {
+    display: table-cell;
+    vertical-align: middle;
+
+    .container-inner {
+      background-color: var(--offwhite);
+      color: var(--blue);
+      height: 100dvh;
+      margin-left: auto;
+      margin-right: auto;
+      max-height: 930px;
+      max-width: 450px;
+      position: relative;
+    }
+  }
+}
+
+#backward, #forward {
+  height: 100%;
+  position: absolute;
+  top: 0px;
+  width: 50%;
+}
+
+#backward {
+  left: 5px;
+  z-index: 2;
+}
+
+#forward {
+  right: 5px;
+  z-index: 2;
+}
+
+.meters-container {
+  display: flex;
+  height: 3px;
+  left: 0;
+  overflow: hidden;
+  position: absolute;
+  top: 5px;
+  width: calc(100% - 3px);
+  z-index: 1;
+}
+
+.meter {
+  background: #929ba3;
+  border-radius: 3px;
+  flex-grow: 1;
+  margin-left: 3px;
+}
+
+.meter span {
+  display: block;
+  height: 100%;
+}
+
+.progress-done {
+  border-radius: 3px;
+  background-color: #ffffff;
+}
+
+.progress-active {
+  animation: progressBar 10s linear;
+  animation-fill-mode: both;
+  border-radius: 3px;
+  background-color: #ffffff;
+}
+
+@keyframes progressBar {
+  0% { width: 0; }
+  100% { width: 100%; }
+}
+
+.slide {
+  display: none;
+  height: calc(100% - 18px);
+  padding: 13px 5px 5px 5px;
+  position: relative;
+  text-align: center;
+  width: calc(100% - 10px);
+
+  &.active {
+    display: inline-block;
+  }
+
+  table {
+    width: 100%;
+
+    &.two-columned {
+      td:nth-child(1) {
+        padding-right: 5px;
+        text-align: right;
+      }
+
+      td:nth-child(2) {
+        padding-left: 5px;
+        text-align: left;
+      }
+
+      &.split-33-66 {
+        td:nth-child(1) { width: 33% }
+        td:nth-child(2) { width: 66% }
+      }
+
+      &.split-40-60 {
+        td:nth-child(1) { width: 40% }
+        td:nth-child(2) { width: 60% }
+      }
+
+      &.season-best {
+        td:nth-child(1) { text-align: center; width: 60% }
+        td:nth-child(2) { text-align: center; width: 40% }
+      }
+
+      &.stroke-times {
+        td:nth-child(1) { text-align: center; width: 70% }
+        td:nth-child(2) { text-align: center; width: 30% }
+      }
+    }
+
+    &#dual-meet-scores {
+      margin: auto;
+      max-width: 95%;
+    }
+  }
+
+  &[data-name="welcome"] {
+    background-color: var(--offwhite);
+
+    img {
+      height: 200px;
+      left: 50%;
+      margin-left: -100px;
+      margin-top: -100px;
+      position: absolute;
+      top: 20%;
+      width: 200px;
+    }
+
+    .title {
+      left: 50%;
+      position: absolute;
+      top: 50%;
+      transform: translateX(-50%) translateY(-50%);
+      width: 400px;
+    }
+  }
+}
+
+.slide-content {
+  left: calc(50% - 5px);
+  margin-left: 5px;
+  margin-right: 5px;
+  position: absolute;
+  top: 50%;
+  transform: translateX(-50%) translateY(-50%);
+  width: calc(100% - 10px);
+
+  &.wide {
+    left: 50%;
+    margin: 0px;
+    width: 100%;
+  }
+}
+
+// http://jtauber.github.io/articles/css-hexagon.html
+.hex-container {
+  position: absolute;
+  top: 13px;
+
+  &.bottom {
+    bottom: 3px;
+    top: unset;
+
+    .hex {
+      margin-bottom: 2px;
+    }
+
+    .hex:nth-child(2n) {
+      margin-top: -27px;
+    }
+  }
+
+  &.right {
+    position: absolute;
+    right: 18px;
+
+    .hex-row {
+      clear: right;
+
+      .hex {
+        float: right;
+      }
+    }
+  }
+
+  .hex-row {
+    clear: left;
+    height: 54px;
+  }
+
+  .hex {
+    float: left;
+    margin-bottom: -25px;
+    margin-right: -13px;
+
+    &:nth-child(2n) {
+      margin-top: 27px;
+    }
+
+    &[data-color="blue"] {
+      border-color: var(--blue);
+      color: var(--blue);
+
+      .middle {
+        background-color: var(--blue);
+      }
+
+      .middle-cover {
+        background-color: var(--blue);
+      }
+    }
+
+    &[data-color="gold"] {
+      border-color: var(--gold);
+      color: var(--gold);
+
+      .middle {
+        background-color: var(--gold);
+      }
+
+      .middle-cover {
+        background-color: var(--gold);
+      }
+    }
+
+    &[data-color="white"] {
+      border-color: var(--offwhite);
+      color: var(--offwhite);
+
+      .middle {
+        background-color: var(--offwhite);
+      }
+
+      .middle-cover {
+        background-color: var(--offwhite);
+      }
+    }
+
+    .left {
+      border-bottom: 26px solid transparent;
+      border-right: 15px solid;
+      border-top: 26px solid transparent;
+      float: left;
+      width: 0;
+    }
+
+    .middle {
+      float: left;
+      height: 52px;
+      position: relative;
+      width: 30px;
+    }
+
+    .middle-cover {
+      position: absolute;
+      top: 2px;
+      left: -1px;
+      width: 32px;
+      height: 48px;
+    }
+
+    .right {
+      border-bottom: 26px solid transparent;
+      border-left: 15px solid;
+      border-top: 26px solid transparent;
+      float: left;
+      width: 0;
+    }
+  }
+}

@@ -1,0 +1,334 @@
+<!DOCTYPE html>
+<head>
+  <!-- Required meta tags -->
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, height=device-height, initial-scale=1, shrink-to-fit=no">
+
+	<!-- Favicon-->
+	<link rel="shortcut icon" href="/favicon.ico">
+
+	<!-- Author Meta -->
+	<meta name="author" content="Zibing Zhang">
+	<!-- Meta Description -->
+	<meta name="description" content=>
+	<!-- Meta Keyword -->
+	<meta name="keywords" content=>
+	<!-- Meta Character Set -->
+	<meta charset="UTF-8">
+
+  <!-- Stop Robots -->
+  <meta name="robots" content="noindex, nofollow">
+
+	<!-- Site Title -->
+	<title>2024 Season Wrapped</title>
+
+	<!-- Fonts -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Dosis:wght@200;300&family=Figtree:wght@300;400&family=Roboto+Flex:opsz,wght@8..144,300;8..144,500&display=swap" rel="stylesheet">
+
+	<!-- CSS -->
+  <link rel="stylesheet" href="/assets/sharks/season-wrapped/2024/main.css">
+
+  <!-- JS -->
+  <script src="/assets/sharks/season-wrapped/2024/main.js"></script>
+</head>
+
+<body class="noselect">
+  <template id="hex-template">
+    <div class="hex">
+      <div class="left"></div>
+      <div class="middle">
+        <div class="middle-cover"></div>
+      </div>
+      <div class="right"></div>
+    </div>
+  </template>
+
+  <div class="container-outer">
+    <div class="container-middle">
+      <div class="container-inner">
+        <div id="backward"></div>
+        <div id="forward"></div>
+        <div class="meters-container"></div>
+
+        <div class="slide" data-name="welcome">
+          <img src="/assets/images/rockets.png">
+          <div class="title blue">
+            Needham Sharks
+            <br>
+            Wrapped
+            <br>
+            <br>
+            <span class="font-small replacement-name"></span>
+          </div>
+        </div>
+
+        <div class="slide always-visible" data-name="team-summary">
+          <div class="slide-content">
+            Congratulations on an amazing season!
+            <br>
+            <br>
+            <div class="font-small">
+              We finished the season with a
+              <br>
+              <span class="gold"><b>10 &ndash; 0</b></span> <b>dual meet record</b>
+              <br>
+              <span class="gold"><b>1<sup>st</sup></b></span> place for the <b> Girls Mile Swim</b>
+              <br>
+              <span class="gold"><b>2<sup>nd</sup></b></span> place for the <b> Boys Mile Swim</b>
+              <br>
+              <span class="gold"><b>1<sup>st</sup></b></span> place at <b>Championships</b>
+            </div>
+          </div>
+        </div>
+
+        <div class="slide always-visible" data-name="dual-meet-scores">
+          <div class="slide-content wide">
+            <b>Dual Meet Scores</b>
+            <br>
+            <br>
+            <table id="dual-meet-scores" class="font-small">
+              <tr>
+                <td>7/2</td>
+                <td>Natick</td>
+                <td>324</td>
+                <td>&ndash;</td>
+                <td>117</td>
+              </tr>
+              <tr>
+                <td>7/9</td>
+                <td>Holl / Med / Mill</td>
+                <td>243</td>
+                <td>&ndash;</td>
+                <td>88</td>
+              </tr>
+              <tr>
+                <td>7/16</td>
+                <td>Westwood</td>
+                <td>296</td>
+                <td>&ndash;</td>
+                <td>154</td>
+              </tr>
+              <tr>
+                <td>7/18</td>
+                <td>Medfield</td>
+                <td>349</td>
+                <td>&ndash;</td>
+                <td>96</td>
+              </tr>
+              <tr>
+                <td>7/23</td>
+                <td>Norwood</td>
+                <td>350</td>
+                <td>&ndash;</td>
+                <td>74</td>
+              </tr>
+              <tr>
+                <td>7/25</td>
+                <td>Walpole</td>
+                <td>276</td>
+                <td>&ndash;</td>
+                <td>192</td>
+              </tr>
+              <tr>
+                <td>7/30</td>
+                <td>Canton</td>
+                <td>337</td>
+                <td>&ndash;</td>
+                <td>138</td>
+              </tr>
+              <tr>
+                <td>8/1</td>
+                <td>Newton</td>
+                <td>254.5</td>
+                <td>&ndash;</td>
+                <td>218.5</td>
+              </tr>
+              <tr>
+                <td>8/6</td>
+                <td>Dedham</td>
+                <td>351</td>
+                <td>&ndash;</td>
+                <td>88</td>
+              </tr>
+              <tr>
+                <td>8/8</td>
+                <td>Sherborn</td>
+                <td>241</td>
+                <td>&ndash;</td>
+                <td>236</td>
+              </tr>
+            </table>
+          </div>
+        </div>
+
+        <div class="slide always-visible" data-name="transition-1">
+          <div class="slide-content">
+            We couldn't have done it without you 💙💛
+            <br>
+            <br>
+            Let's look at some of your stats from this season
+          </div>
+        </div>
+
+        <div class="slide" data-name="season-best">
+          <div class="slide-content">
+            Great work this season!
+            <br>
+            Here are your season PRs
+            <br>
+            <br>
+            <table class="two-columned season-best font-small">
+              <template class="template-event-and-result">
+                <tr>
+                  <td class="gold">
+                    <span class="replacement-event"></span>
+                  </td>
+                  <td>
+                    <span class="replacement-result"></span>
+                  </td>
+                </tr>
+              </template>
+            </table>
+          </div>
+        </div>
+
+        <div class="slide" data-name="butterfly-times">
+          <div class="slide-content">
+            Butterfly Times
+            <br>
+            <br>
+            <table class="two-columned stroke-times font-small">
+              <template class="template-meet-and-result">
+                <tr>
+                  <td class="gold">
+                    <span class="replacement-meet"></span>
+                  </td>
+                  <td>
+                    <span class="replacement-result"></span>
+                  </td>
+                </tr>
+              </template>
+            </table>
+          </div>
+        </div>
+
+        <div class="slide" data-name="freestyle-times">
+          <div class="slide-content">
+            Freestyle Times
+            <br>
+            <br>
+            <table class="two-columned stroke-times font-small">
+              <template class="template-meet-and-result">
+                <tr>
+                  <td class="gold">
+                    <span class="replacement-meet"></span>
+                  </td>
+                  <td>
+                    <span class="replacement-result"></span>
+                  </td>
+                </tr>
+              </template>
+            </table>
+          </div>
+        </div>
+
+        <div class="slide" data-name="breaststroke-times">
+          <div class="slide-content">
+            Breaststroke Times
+            <br>
+            <br>
+            <table class="two-columned stroke-times font-small">
+              <template class="template-meet-and-result">
+                <tr>
+                  <td class="gold">
+                    <span class="replacement-meet"></span>
+                  </td>
+                  <td>
+                    <span class="replacement-result"></span>
+                  </td>
+                </tr>
+              </template>
+            </table>
+          </div>
+        </div>
+
+        <div class="slide" data-name="backstroke-times">
+          <div class="slide-content">
+            Backstroke Times
+            <br>
+            <br>
+            <table class="two-columned stroke-times font-small">
+              <template class="template-meet-and-result">
+                <tr>
+                  <td class="gold">
+                    <span class="replacement-meet"></span>
+                  </td>
+                  <td>
+                    <span class="replacement-result"></span>
+                  </td>
+                </tr>
+              </template>
+            </table>
+          </div>
+        </div>
+
+        <div class="slide always-visible" data-name="transition-2">
+          <div class="slide-content">
+            And now onto awards...
+          </div>
+        </div>
+
+        <div class="slide" data-name="paper-plate">
+          <div class="slide-content">
+            Your <span class="gold"><b>2024 Paper Plate</b></span> is
+            <br>
+            <br>
+            <span class="replacement-award"></span>
+          </div>
+        </div>
+
+        <div class="slide" data-name="golden-goggle">
+          <div class="slide-content">
+            You really stood out this season
+            <br>
+            <br>
+            Congratulations on the
+            <br>
+            <span class="gold"><b><span class="replacement-award"></span></b></span>
+            <br>
+            <b>Golden Goggles Award</b>
+          </div>
+        </div>
+
+        <div class="slide" data-name="special-message">
+          <div class="slide-content">
+            <span class="replacement-message"></span>
+          </div>
+        </div>
+
+
+        <div class="slide" data-name="goodbye">
+          <div class="slide-content">
+            We can't wait to see you next season!
+          </div>
+        </div>
+
+        <div class="slide" data-name="goodbye-senior">
+          <div class="slide-content">
+            Thank you so much for being a part of Sharks 🦈
+            <br>
+            We'll miss you next season ❤️
+            <br>
+            <br>
+            We wish you all the best at
+            <br>
+            <span class="replacement-university"></span>
+            <br>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</body>
