@@ -71,6 +71,60 @@ const HEX_DESIGN_DEFINITIONS = [
       "bottom right": [2, 1],
     },
   },
+  {
+    slideNames: ["season-best"],
+    colors: ["blue", "gold"],
+    corners: {
+      "top left": [5, 3, 1],
+      "top right": [1],
+      "bottom left": [3, 1],
+      "bottom right": [2, 1],
+    },
+  },
+  {
+    slideNames: ["25-butterfly-times", "50-butterfly-times"],
+    colors: ["blue", "gold"],
+    corners: {
+      "top left": [4, 3, 1],
+    },
+  },
+  {
+    slideNames: ["25-freestyle-times", "50-freestyle-times"],
+    colors: ["blue", "gold"],
+    corners: {
+      "top right": [4, 3, 1],
+    },
+  },
+  {
+    slideNames: ["25-breaststroke-times", "50-breaststroke-times"],
+    colors: ["blue", "gold"],
+    corners: {
+      "bottom right": [4, 3, 1],
+    },
+  },
+  {
+    slideNames: ["25-backstroke-times", "50-backstroke-times"],
+    colors: ["blue", "gold"],
+    corners: {
+      "bottom left": [4, 3, 1],
+    },
+  },
+  {
+    slideNames: ["paper-plate"],
+    colors: ["blue", "gold"],
+    corners: {
+      "top left": [2, 1],
+      "bottom right": [2, 1],
+    },
+  },
+  {
+    slideNames: ["swimmer-of-the-week"],
+    colors: ["blue", "gold"],
+    corners: {
+      "top right": [2, 1],
+      "bottom left": [2, 1],
+    },
+  },
 ];
 
 let meters = [];
@@ -374,12 +428,9 @@ function preprocessSwimmer(swimmer) {
     });
   }
 
-  if (stats.goldenGoggle) {
+  if (stats.paperPlate || stats.swimmerOfTheWeek || stats.goldenGoggle) {
     slides.push({
-      name: "golden-goggle",
-      basicReplacements: {
-        award: stats.goldenGoggle,
-      },
+      name: "transition-2",
     });
   }
 
@@ -395,6 +446,15 @@ function preprocessSwimmer(swimmer) {
   if (stats.swimmerOfTheWeek) {
     slides.push({
       name: "swimmer-of-the-week",
+    });
+  }
+
+  if (stats.goldenGoggle) {
+    slides.push({
+      name: "golden-goggle",
+      basicReplacements: {
+        award: stats.goldenGoggle,
+      },
     });
   }
 
