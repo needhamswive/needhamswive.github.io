@@ -1,6 +1,7 @@
 {
   "stats": {
     "name": "Ella Culp",
+    "paperPlate": "Sweet As A Strawberry Award",
     "freestyle50Times": [
       {
         "meet": "Blue vs. Gold (6/25)",
@@ -11,7 +12,7 @@
         "time": "34.42"
       }
     ],
-    "backstroke": [
+    "backstroke50Times": [
       {
         "meet": "Blue vs. Gold (6/25)",
         "time": "39.66"

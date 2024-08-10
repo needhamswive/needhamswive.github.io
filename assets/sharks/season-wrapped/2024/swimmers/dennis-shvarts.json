@@ -1,13 +1,14 @@
 {
   "stats": {
     "name": "Dennis Shvarts",
+    "paperPlate": "Secret Weapon Swimmer",
     "freestyle50Times": [
       {
         "meet": "Holl / Med / Mill (7/9)",
         "time": "29.82"
       }
     ],
-    "backstroke": [
+    "backstroke50Times": [
       {
         "meet": "Norwood (7/23)",
         "time": "39.18"

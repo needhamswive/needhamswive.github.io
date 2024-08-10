@@ -3,6 +3,7 @@
     "name": "Ori Fux",
     "graduating": true,
     "university": "University of Massachusetts Amherst",
+    "paperPlate": "The World Traveler Award",
     "freestyle50Times": [
       {
         "meet": "Blue vs. Gold (6/25)",
@@ -13,7 +14,7 @@
         "time": "28.47"
       }
     ],
-    "backstroke": [
+    "backstroke50Times": [
       {
         "meet": "Blue vs. Gold (6/25)",
         "time": "32.42"

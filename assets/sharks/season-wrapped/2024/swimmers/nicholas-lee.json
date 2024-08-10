@@ -1,6 +1,8 @@
 {
   "stats": {
     "name": "Nicholas Lee",
+    "paperPlate": "Thing 2 Award",
+    "swimmerOfTheWeek": true,
     "freestyle50Times": [
       {
         "meet": "Westwood (7/16)",

@@ -1,6 +1,8 @@
 {
   "stats": {
     "name": "Robert Bookston",
+    "paperPlate": "Sassy But Classy Award",
+    "swimmerOfTheWeek": true,
     "freestyle50Times": [
       {
         "meet": "Holl / Med / Mill (7/9)",
@@ -15,7 +17,7 @@
         "time": "41.26"
       }
     ],
-    "backstroke": [
+    "backstroke50Times": [
       {
         "meet": "Medfield (7/18)",
         "time": "53.95"

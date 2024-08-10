@@ -1,6 +1,7 @@
 {
   "stats": {
     "name": "Luke Allen",
+    "paperPlate": "Miniature 13-14 Award",
     "freestyle50Times": [
       {
         "meet": "Blue vs. Gold (6/25)",
@@ -15,7 +16,7 @@
         "time": "31.23"
       }
     ],
-    "backstroke": [
+    "backstroke50Times": [
       {
         "meet": "Blue vs. Gold (6/25)",
         "time": "36.24"

@@ -1,6 +1,8 @@
 {
   "stats": {
     "name": "Norah Mullen",
+    "paperPlate": "The Princess and the Frog Award",
+    "swimmerOfTheWeek": true,
     "freestyle50Times": [
       {
         "meet": "Blue vs. Gold (6/25)",
@@ -15,7 +17,7 @@
         "time": "32.42"
       }
     ],
-    "backstroke": [
+    "backstroke50Times": [
       {
         "meet": "Blue vs. Gold (6/25)",
         "time": "36.59"

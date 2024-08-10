@@ -1,13 +1,14 @@
 {
   "stats": {
     "name": "Nathaniel Avissar",
+    "paperPlate": "The Super Troper Award",
     "freestyle50Times": [
       {
         "meet": "Blue vs. Gold (6/25)",
         "time": "34.34"
       }
     ],
-    "backstroke": [
+    "backstroke50Times": [
       {
         "meet": "Blue vs. Gold (6/25)",
         "time": "41.87"

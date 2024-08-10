@@ -1,6 +1,7 @@
 {
   "stats": {
     "name": "Ryan Cashman",
+    "paperPlate": "Caleb Dressel Award",
     "freestyle50Times": [
       {
         "meet": "Holl / Med / Mill (7/9)",
@@ -23,7 +24,7 @@
         "time": "33.83"
       }
     ],
-    "backstroke": [
+    "backstroke50Times": [
       {
         "meet": "Holl / Med / Mill (7/9)",
         "time": "42.79"

@@ -1,6 +1,7 @@
 {
   "stats": {
     "name": "Rebecca Hwang",
+    "paperPlate": "The I Love CRA Award",
     "freestyle50Times": [
       {
         "meet": "Westwood (7/16)",
@@ -11,7 +12,7 @@
         "time": "27.70"
       }
     ],
-    "backstroke": [
+    "backstroke50Times": [
       {
         "meet": "Westwood (7/16)",
         "time": "29.12"

@@ -1,6 +1,7 @@
 {
   "stats": {
     "name": "Charles Huang",
+    "paperPlate": "Bro-some Swimming Award",
     "freestyle50Times": [
       {
         "meet": "Blue vs. Gold (6/25)",
@@ -15,7 +16,7 @@
         "time": "27.91"
       }
     ],
-    "backstroke": [
+    "backstroke50Times": [
       {
         "meet": "Blue vs. Gold (6/25)",
         "time": "32.91"

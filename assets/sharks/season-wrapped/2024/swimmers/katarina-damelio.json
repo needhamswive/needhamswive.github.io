@@ -1,6 +1,7 @@
 {
   "stats": {
     "name": "Katarina D'Amelio",
+    "paperPlate": "Little Miss Yapper Award",
     "freestyle50Times": [
       {
         "meet": "Blue vs. Gold (6/25)",
@@ -11,7 +12,7 @@
         "time": "34.48"
       }
     ],
-    "backstroke": [
+    "backstroke50Times": [
       {
         "meet": "Blue vs. Gold (6/25)",
         "time": "42.78"

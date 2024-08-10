@@ -1,6 +1,7 @@
 {
   "stats": {
     "name": "Shiven Patel",
+    "paperPlate": "Most likely to Swim as a 15-18 Boy",
     "freestyle50Times": [
       {
         "meet": "Blue vs. Gold (6/25)",
@@ -23,7 +24,7 @@
         "time": "33.43"
       }
     ],
-    "backstroke": [
+    "backstroke50Times": [
       {
         "meet": "Blue vs. Gold (6/25)",
         "time": "48.74"

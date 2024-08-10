@@ -3,6 +3,7 @@
     "name": "Julia Shulman",
     "graduating": true,
     "university": "Connecticut College",
+    "paperPlate": "The July 4th Parade Enthusiast Award",
     "freestyle50Times": [
       {
         "meet": "Blue vs. Gold (6/25)",
@@ -13,7 +14,7 @@
         "time": "27.14"
       }
     ],
-    "backstroke": [
+    "backstroke50Times": [
       {
         "meet": "Blue vs. Gold (6/25)",
         "time": "31.57"

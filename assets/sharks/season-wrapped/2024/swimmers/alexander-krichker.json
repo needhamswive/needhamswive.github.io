@@ -1,6 +1,7 @@
 {
   "stats": {
     "name": "Alexander Krichker",
+    "paperPlate": "Most Dependable Swimmer Award",
     "freestyle50Times": [
       {
         "meet": "Westwood (7/16)",
@@ -15,7 +16,7 @@
         "time": "28.23"
       }
     ],
-    "backstroke": [
+    "backstroke50Times": [
       {
         "meet": "Westwood (7/16)",
         "time": "32.70"

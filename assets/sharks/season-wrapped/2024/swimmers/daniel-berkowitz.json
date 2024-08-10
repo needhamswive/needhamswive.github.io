@@ -1,6 +1,7 @@
 {
   "stats": {
     "name": "Daniel Berkowitz",
+    "paperPlate": "No Goggles, No Problem Award",
     "freestyle50Times": [
       {
         "meet": "Blue vs. Gold (6/25)",
@@ -15,7 +16,7 @@
         "time": "44.24"
       }
     ],
-    "backstroke": [
+    "backstroke50Times": [
       {
         "meet": "Holl / Med / Mill (7/9)",
         "time": "61.87"

@@ -1,6 +1,8 @@
 {
   "stats": {
     "name": "Lucy Jacobson",
+    "paperPlate": "The Sharks and Minnows Champion Award",
+    "swimmerOfTheWeek": true,
     "freestyle50Times": [
       {
         "meet": "Blue vs. Gold (6/25)",
@@ -15,7 +17,7 @@
         "time": "27.15"
       }
     ],
-    "backstroke": [
+    "backstroke50Times": [
       {
         "meet": "Blue vs. Gold (6/25)",
         "time": "32.56"

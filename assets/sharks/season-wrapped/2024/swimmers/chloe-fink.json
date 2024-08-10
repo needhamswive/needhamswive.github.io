@@ -1,6 +1,8 @@
 {
   "stats": {
     "name": "Chloe Fink",
+    "paperPlate": "Olympic Champion Award",
+    "swimmerOfTheWeek": true,
     "freestyle25Times": [
       {
         "meet": "Blue vs. Gold (6/25)",

@@ -1,6 +1,8 @@
 {
   "stats": {
     "name": "Vincent Dannenberg",
+    "paperPlate": "Team Player Award",
+    "swimmerOfTheWeek": true,
     "freestyle50Times": [
       {
         "meet": "Blue vs. Gold (6/25)",
@@ -23,7 +25,7 @@
         "time": "37.58"
       }
     ],
-    "backstroke": [
+    "backstroke50Times": [
       {
         "meet": "Blue vs. Gold (6/25)",
         "time": "46.97"

@@ -1,6 +1,7 @@
 {
   "stats": {
     "name": "Madeline Weirup",
+    "paperPlate": "The I Love USA Award",
     "freestyle50Times": [
       {
         "meet": "Blue vs. Gold (6/25)",
@@ -23,7 +24,7 @@
         "time": "36.10"
       }
     ],
-    "backstroke": [
+    "backstroke50Times": [
       {
         "meet": "Blue vs. Gold (6/25)",
         "time": "40.99"

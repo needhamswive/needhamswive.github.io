@@ -1,6 +1,9 @@
 {
   "stats": {
     "name": "Isaac Wallace",
+    "paperPlate": "The \"Just Keep Swimming\" Award",
+    "swimmerOfTheWeek": true,
+    "goldenGoggles": "Rookie of the Year",
     "freestyle50Times": [
       {
         "meet": "Norwood (7/23)",

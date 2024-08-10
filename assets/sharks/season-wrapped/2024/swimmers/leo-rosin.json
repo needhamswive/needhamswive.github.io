@@ -1,6 +1,8 @@
 {
   "stats": {
     "name": "Leo Rosin",
+    "paperPlate": "The Glow Up Award",
+    "swimmerOfTheWeek": true,
     "freestyle50Times": [
       {
         "meet": "Norwood (7/23)",
@@ -11,7 +13,7 @@
         "time": "29.92"
       }
     ],
-    "backstroke": [
+    "backstroke50Times": [
       {
         "meet": "Westwood (7/16)",
         "time": "38.42"

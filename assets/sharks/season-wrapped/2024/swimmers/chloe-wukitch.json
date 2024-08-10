@@ -3,6 +3,7 @@
     "name": "Chloe Wukitch",
     "graduating": true,
     "university": "Fairfield University",
+    "paperPlate": "The Bathroom Police Award",
     "freestyle50Times": [
       {
         "meet": "Norwood (7/23)",
@@ -13,7 +14,7 @@
         "time": "26.78"
       }
     ],
-    "backstroke": [
+    "backstroke50Times": [
       {
         "meet": "Holl / Med / Mill (7/9)",
         "time": "29.41"

@@ -1,6 +1,7 @@
 {
   "stats": {
     "name": "Becca Bookston",
+    "paperPlate": "Thing two Award",
     "freestyle50Times": [
       {
         "meet": "Holl / Med / Mill (7/9)",
@@ -19,7 +20,7 @@
         "time": "51.39"
       }
     ],
-    "backstroke": [
+    "backstroke50Times": [
       {
         "meet": "Holl / Med / Mill (7/9)",
         "time": "55.86"

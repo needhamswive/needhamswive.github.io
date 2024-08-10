@@ -1,6 +1,7 @@
 {
   "stats": {
     "name": "Carolyn Simmons",
+    "paperPlate": "The Dancing Queen Award",
     "freestyle50Times": [
       {
         "meet": "Blue vs. Gold (6/25)",
@@ -15,7 +16,7 @@
         "time": "26.82"
       }
     ],
-    "backstroke": [
+    "backstroke50Times": [
       {
         "meet": "Norwood (7/23)",
         "time": "30.14"

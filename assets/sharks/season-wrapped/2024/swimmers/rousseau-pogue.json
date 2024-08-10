@@ -1,13 +1,14 @@
 {
   "stats": {
     "name": "Rousseau Pogue",
+    "paperPlate": "Any Stroke? Anytime! Award",
     "freestyle50Times": [
       {
         "meet": "Norwood (7/23)",
         "time": "40.94"
       }
     ],
-    "backstroke": [
+    "backstroke50Times": [
       {
         "meet": "Westwood (7/16)",
         "time": "46.84"

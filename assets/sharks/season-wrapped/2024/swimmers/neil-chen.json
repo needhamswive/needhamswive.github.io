@@ -1,13 +1,14 @@
 {
   "stats": {
     "name": "Neil Chen",
+    "paperPlate": "Best Positive Attitude",
     "freestyle50Times": [
       {
         "meet": "Blue vs. Gold (6/25)",
         "time": "32.72"
       }
     ],
-    "backstroke": [
+    "backstroke50Times": [
       {
         "meet": "Blue vs. Gold (6/25)",
         "time": "40.97"

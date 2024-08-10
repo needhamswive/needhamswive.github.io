@@ -285,27 +285,60 @@ function preprocessSwimmer(swimmer) {
   slides.push({
     name: "season-best",
     templateReplacements: [{
-      name: "event-and-result",
+      name: "event-and-time",
       sets: Object.keys(stats.seasonPrs)
         .map(event => { return {
           "event": event,
-          "result": stats.seasonPrs[event],
+          "time": stats.seasonPrs[event],
       }}),
     }],
   });
 
-  slides.push({
-    name: "paper-plate",
-    basicReplacements: {
-      award: stats.paperPlate,
-    },
-  });
+  if (stats.butterfly25Times) {
+    slides.push({
+      name: "25-butterfly-times",
+      templateReplacements: [{
+        name: "meet-and-time",
+        sets: stats.butterfly25Times,
+      }],
+    });
+  }
+
+  if (stats.freestyle25Times) {
+    slides.push({
+      name: "25-freestyle-times",
+      templateReplacements: [{
+        name: "meet-and-time",
+        sets: stats.freestyle25Times,
+      }],
+    });
+  }
+
+  if (stats.breaststroke25Times) {
+    slides.push({
+      name: "25-breaststroke-times",
+      templateReplacements: [{
+        name: "meet-and-time",
+        sets: stats.breaststroke25Times,
+      }],
+    });
+  }
+
+  if (stats.backstroke25Times) {
+    slides.push({
+      name: "25-backstroke-times",
+      templateReplacements: [{
+        name: "meet-and-time",
+        sets: stats.backstroke25Times,
+      }],
+    });
+  }
 
   if (stats.butterfly50Times) {
     slides.push({
       name: "50-butterfly-times",
       templateReplacements: [{
-        name: "meet-and-result",
+        name: "meet-and-time",
         sets: stats.butterfly50Times,
       }],
     });
@@ -315,7 +348,7 @@ function preprocessSwimmer(swimmer) {
     slides.push({
       name: "50-freestyle-times",
       templateReplacements: [{
-        name: "meet-and-result",
+        name: "meet-and-time",
         sets: stats.freestyle50Times,
       }],
     });
@@ -325,7 +358,7 @@ function preprocessSwimmer(swimmer) {
     slides.push({
       name: "50-breaststroke-times",
       templateReplacements: [{
-        name: "meet-and-result",
+        name: "meet-and-time",
         sets: stats.breaststroke50Times,
       }],
     });
@@ -335,7 +368,7 @@ function preprocessSwimmer(swimmer) {
     slides.push({
       name: "50-backstroke-times",
       templateReplacements: [{
-        name: "meet-and-result",
+        name: "meet-and-time",
         sets: stats.backstroke50Times,
       }],
     });
@@ -347,6 +380,21 @@ function preprocessSwimmer(swimmer) {
       basicReplacements: {
         award: stats.goldenGoggle,
       },
+    });
+  }
+
+  if (stats.paperPlate) {
+    slides.push({
+      name: "paper-plate",
+      basicReplacements: {
+        award: stats.paperPlate,
+      },
+    });
+  }
+
+  if (stats.swimmerOfTheWeek) {
+    slides.push({
+      name: "swimmer-of-the-week",
     });
   }
 
@@ -392,6 +440,7 @@ function processSwimmerBasicReplacements(slide, metadata) {
 }
 
 function processSwimmerTemplateReplacements(slide, metadata) {
+  console.log(slide, metadata);
   if (!metadata.templateReplacements) {
     return;
   }

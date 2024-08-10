@@ -1,6 +1,7 @@
 {
   "stats": {
     "name": "Madeleine Rowe",
+    "paperPlate": "The I Love Swimming Award",
     "freestyle50Times": [
       {
         "meet": "Blue vs. Gold (6/25)",
@@ -23,7 +24,7 @@
         "time": "30.48"
       }
     ],
-    "backstroke": [
+    "backstroke50Times": [
       {
         "meet": "Blue vs. Gold (6/25)",
         "time": "36.63"

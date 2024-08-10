@@ -3,6 +3,7 @@
     "name": "Sophie Guarrera",
     "graduating": true,
     "university": "University of Richmond",
+    "paperPlate": "The Shark Attack Award",
     "freestyle50Times": [
       {
         "meet": "Westwood (7/16)",
@@ -13,7 +14,7 @@
         "time": "29.42"
       }
     ],
-    "backstroke": [
+    "backstroke50Times": [
       {
         "meet": "Norwood (7/23)",
         "time": "33.38"

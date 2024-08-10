@@ -1,13 +1,14 @@
 {
   "stats": {
     "name": "Chloe Afzali",
+    "paperPlate": "Most Likely to Drive Across New England to be at a Swim Meet",
     "freestyle50Times": [
       {
         "meet": "Westwood (7/16)",
         "time": "30.90"
       }
     ],
-    "backstroke": [
+    "backstroke50Times": [
       {
         "meet": "Holl / Med / Mill (7/9)",
         "time": "32.56"

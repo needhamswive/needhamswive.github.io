@@ -1,6 +1,9 @@
 {
   "stats": {
     "name": "Emma Cheung",
+    "paperPlate": "Unbeatable Underwaters Award",
+    "swimmerOfTheWeek": true,
+    "goldenGoggles": "Team MVP",
     "freestyle50Times": [
       {
         "meet": "Norwood (7/23)",
@@ -11,7 +14,7 @@
         "time": "28.30"
       }
     ],
-    "backstroke": [
+    "backstroke50Times": [
       {
         "meet": "Westwood (7/16)",
         "time": "31.60"

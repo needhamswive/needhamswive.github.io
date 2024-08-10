@@ -1,6 +1,7 @@
 {
   "stats": {
     "name": "Noah Moran",
+    "paperPlate": "Water Bug Award",
     "freestyle50Times": [
       {
         "meet": "Holl / Med / Mill (7/9)",
@@ -11,7 +12,7 @@
         "time": "42.29"
       }
     ],
-    "backstroke": [
+    "backstroke50Times": [
       {
         "meet": "Norwood (7/23)",
         "time": "52.82"

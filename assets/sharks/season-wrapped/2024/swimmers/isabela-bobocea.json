@@ -3,6 +3,8 @@
     "name": "Isabela Bobocea",
     "graduating": true,
     "university": "University of Massachusetts Amherst",
+    "paperPlate": "The AM Practice Award",
+    "swimmerOfTheWeek": true,
     "freestyle50Times": [
       {
         "meet": "Westwood (7/16)",
@@ -13,7 +15,7 @@
         "time": "28.03"
       }
     ],
-    "backstroke": [
+    "backstroke50Times": [
       {
         "meet": "Medfield (7/18)",
         "time": "32.37"

@@ -1,6 +1,7 @@
 {
   "stats": {
     "name": "Ashton Kim",
+    "paperPlate": "The Injury Prone Award",
     "freestyle50Times": [
       {
         "meet": "Blue vs. Gold (6/25)",
@@ -19,7 +20,7 @@
         "time": "26.60"
       }
     ],
-    "backstroke": [
+    "backstroke50Times": [
       {
         "meet": "Blue vs. Gold (6/25)",
         "time": "41.53"

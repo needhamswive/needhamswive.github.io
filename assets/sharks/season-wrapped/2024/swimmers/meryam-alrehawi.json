@@ -1,6 +1,8 @@
 {
   "stats": {
     "name": "Meryam Alrehawi",
+    "paperPlate": "The Superwomen Award",
+    "swimmerOfTheWeek": true,
     "freestyle50Times": [
       {
         "meet": "Blue vs. Gold (6/25)",
@@ -23,7 +25,7 @@
         "time": "33.82"
       }
     ],
-    "backstroke": [
+    "backstroke50Times": [
       {
         "meet": "Blue vs. Gold (6/25)",
         "time": "42.89"

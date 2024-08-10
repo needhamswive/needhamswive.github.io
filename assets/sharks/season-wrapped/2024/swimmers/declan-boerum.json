@@ -1,6 +1,7 @@
 {
   "stats": {
     "name": "Declan Boerum",
+    "paperPlate": "Cool As A Cucumber Award",
     "freestyle50Times": [
       {
         "meet": "Blue vs. Gold (6/25)",
@@ -23,7 +24,7 @@
         "time": "41.07"
       }
     ],
-    "backstroke": [
+    "backstroke50Times": [
       {
         "meet": "Blue vs. Gold (6/25)",
         "time": "57.15"

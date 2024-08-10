@@ -1,6 +1,7 @@
 {
   "stats": {
     "name": "Scarlett Yi",
+    "paperPlate": "Most Likely to Read an Entire Book at a Swim Meet",
     "freestyle50Times": [
       {
         "meet": "Blue vs. Gold (6/25)",
@@ -23,7 +24,7 @@
         "time": "37.42"
       }
     ],
-    "backstroke": [
+    "backstroke50Times": [
       {
         "meet": "Blue vs. Gold (6/25)",
         "time": "42.05"

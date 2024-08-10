@@ -1,6 +1,7 @@
 {
   "stats": {
     "name": "Carrie Zhang",
+    "paperPlate": "Most Supportive Teammate and Swimmer",
     "freestyle50Times": [
       {
         "meet": "Norwood (7/23)",
@@ -11,7 +12,7 @@
         "time": "32.51"
       }
     ],
-    "backstroke": [
+    "backstroke50Times": [
       {
         "meet": "Holl / Med / Mill (7/9)",
         "time": "37.15"

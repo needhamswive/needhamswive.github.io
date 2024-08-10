@@ -1,6 +1,7 @@
 {
   "stats": {
     "name": "Madeline Vacanti",
+    "paperPlate": "Most Likely to Win her Heat Award",
     "freestyle50Times": [
       {
         "meet": "Blue vs. Gold (6/25)",
@@ -23,7 +24,7 @@
         "time": "26.39"
       }
     ],
-    "backstroke": [
+    "backstroke50Times": [
       {
         "meet": "Blue vs. Gold (6/25)",
         "time": "32.78"

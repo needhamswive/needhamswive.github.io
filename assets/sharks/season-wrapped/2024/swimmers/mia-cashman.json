@@ -1,6 +1,7 @@
 {
   "stats": {
     "name": "Mia Cashman",
+    "paperPlate": "Thing one Award",
     "freestyle50Times": [
       {
         "meet": "Westwood (7/16)",
@@ -19,7 +20,7 @@
         "time": "39.70"
       }
     ],
-    "backstroke": [
+    "backstroke50Times": [
       {
         "meet": "Holl / Med / Mill (7/9)",
         "time": "44.97"

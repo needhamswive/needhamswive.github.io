@@ -1,6 +1,7 @@
 {
   "stats": {
     "name": "Noah Nikaido",
+    "paperPlate": "Firecracker Award",
     "freestyle50Times": [
       {
         "meet": "Blue vs. Gold (6/25)",
@@ -27,7 +28,7 @@
         "time": "43.01"
       }
     ],
-    "backstroke": [
+    "backstroke50Times": [
       {
         "meet": "Blue vs. Gold (6/25)",
         "time": "50.07"

@@ -14,53 +14,53 @@
     "butterfly50Times": [
       {
         "meet": "Dedham (7/9)",
-        "result": "27.20"
+        "time": "27.20"
       }
     ],
     "freestyle50Times": [
       {
         "meet": "Blue vs. Gold (6/25)",
-        "result": "25.00"
+        "time": "25.00"
       },
       {
         "meet": "Holl / Med / Mill (7/9)",
-        "result": "24.56"
+        "time": "24.56"
       },
       {
         "meet": "Canton (7/30)",
-        "result": "24.72"
+        "time": "24.72"
       },
       {
         "meet": "Newton (8/1)",
-        "result": "24.46"
+        "time": "24.46"
       }
     ],
     "breaststroke50Times": [
       {
         "meet": "Blue vs. Gold (6/25)",
-        "result": "34.92"
+        "time": "34.92"
       },
       {
         "meet": "Norwood (7/23)",
-        "result": "33.45"
+        "time": "33.45"
       },
       {
         "meet": "Newton (8/1)",
-        "result": "33.07"
+        "time": "33.07"
       }
     ],
     "backstroke50Times": [
       {
         "meet": "Blue vs. Gold (6/25)",
-        "result": "29.92"
+        "time": "29.92"
       },
       {
         "meet": "Norwood (7/23)",
-        "result": "28.61"
+        "time": "28.61"
       },
       {
         "meet": "Canton (7/30)",
-        "result": "29.43"
+        "time": "29.43"
       }
     ]
   }

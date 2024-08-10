@@ -1,6 +1,8 @@
 {
   "stats": {
     "name": "Paige Ingrando",
+    "paperPlate": "The Relays Are the Best Award",
+    "swimmerOfTheWeek": true,
     "freestyle50Times": [
       {
         "meet": "Medfield (7/18)",
@@ -11,7 +13,7 @@
         "time": "30.13"
       }
     ],
-    "backstroke": [
+    "backstroke50Times": [
       {
         "meet": "Norwood (7/23)",
         "time": "34.37"

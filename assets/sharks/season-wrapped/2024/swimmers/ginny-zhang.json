@@ -1,6 +1,7 @@
 {
   "stats": {
     "name": "Ginny Zhang",
+    "paperPlate": "Medley Master Award",
     "freestyle50Times": [
       {
         "meet": "Holl / Med / Mill (7/9)",
@@ -15,7 +16,7 @@
         "time": "33.39"
       }
     ],
-    "backstroke": [
+    "backstroke50Times": [
       {
         "meet": "Medfield (7/18)",
         "time": "43.45"

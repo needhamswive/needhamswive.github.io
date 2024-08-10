@@ -1,6 +1,8 @@
 {
   "stats": {
     "name": "Quinn Collins",
+    "paperPlate": "Silent (kinda) but Deadly Swimmer",
+    "goldenGoggles": "Sportsmanship",
     "freestyle50Times": [
       {
         "meet": "Blue vs. Gold (6/25)",
@@ -15,7 +17,7 @@
         "time": "29.02"
       }
     ],
-    "backstroke": [
+    "backstroke50Times": [
       {
         "meet": "Blue vs. Gold (6/25)",
         "time": "34.10"

@@ -1,6 +1,8 @@
 {
   "stats": {
     "name": "Joshua Chen",
+    "paperPlate": "The Ready To Rumble Award",
+    "swimmerOfTheWeek": true,
     "freestyle50Times": [
       {
         "meet": "Westwood (7/16)",
@@ -19,7 +21,7 @@
         "time": "34.32"
       }
     ],
-    "backstroke": [
+    "backstroke50Times": [
       {
         "meet": "Holl / Med / Mill (7/9)",
         "time": "40.35"

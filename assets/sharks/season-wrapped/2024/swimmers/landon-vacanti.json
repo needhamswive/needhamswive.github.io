@@ -1,6 +1,9 @@
 {
   "stats": {
     "name": "Landon Vacanti",
+    "paperPlate": "The Above and Beyond Award",
+    "swimmerOfTheWeek": true,
+    "goldenGoggles": "Most Improved",
     "freestyle25Times": [
       {
         "meet": "Blue vs. Gold (6/25)",

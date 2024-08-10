@@ -1,6 +1,7 @@
 {
   "stats": {
     "name": "Aiden Afzali",
+    "paperPlate": "Future Red Sox Star Award",
     "freestyle50Times": [
       {
         "meet": "Norwood (7/23)",
@@ -11,7 +12,7 @@
         "time": "31.03"
       }
     ],
-    "backstroke": [
+    "backstroke50Times": [
       {
         "meet": "Holl / Med / Mill (7/9)",
         "time": "34.31"

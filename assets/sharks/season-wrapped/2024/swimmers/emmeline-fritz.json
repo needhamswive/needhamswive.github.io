@@ -1,6 +1,8 @@
 {
   "stats": {
     "name": "Emmeline Fritz",
+    "paperPlate": "The Ray of Sunshine Award",
+    "swimmerOfTheWeek": true,
     "freestyle50Times": [
       {
         "meet": "Blue vs. Gold (6/25)",
@@ -19,7 +21,7 @@
         "time": "33.40"
       }
     ],
-    "backstroke": [
+    "backstroke50Times": [
       {
         "meet": "Blue vs. Gold (6/25)",
         "time": "38.97"

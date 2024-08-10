@@ -1,6 +1,8 @@
 {
   "stats": {
     "name": "Jake Paulete",
+    "paperPlate": "Future Sharks Coach Award",
+    "swimmerOfTheWeek": true,
     "freestyle50Times": [
       {
         "meet": "Blue vs. Gold (6/25)",
@@ -15,7 +17,7 @@
         "time": "41.20"
       }
     ],
-    "backstroke": [
+    "backstroke50Times": [
       {
         "meet": "Blue vs. Gold (6/25)",
         "time": "51.00"

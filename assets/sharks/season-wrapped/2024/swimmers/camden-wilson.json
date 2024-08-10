@@ -1,6 +1,8 @@
 {
   "stats": {
     "name": "Camden Wilson",
+    "paperPlate": "Coach Chloe's Assistant Award",
+    "swimmerOfTheWeek": true,
     "freestyle50Times": [
       {
         "meet": "Blue vs. Gold (6/25)",
@@ -19,7 +21,7 @@
         "time": "29.49"
       }
     ],
-    "backstroke": [
+    "backstroke50Times": [
       {
         "meet": "Blue vs. Gold (6/25)",
         "time": "36.12"

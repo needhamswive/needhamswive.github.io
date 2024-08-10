@@ -1,6 +1,7 @@
 {
   "stats": {
     "name": "Nora Horton",
+    "paperPlate": "The Fudgesicle Award",
     "freestyle50Times": [
       {
         "meet": "Blue vs. Gold (6/25)",
@@ -19,7 +20,7 @@
         "time": "30.09"
       }
     ],
-    "backstroke": [
+    "backstroke50Times": [
       {
         "meet": "Blue vs. Gold (6/25)",
         "time": "40.81"

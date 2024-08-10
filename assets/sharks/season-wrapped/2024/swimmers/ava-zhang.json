@@ -1,13 +1,14 @@
 {
   "stats": {
     "name": "Ava Zhang",
+    "paperPlate": "Undercover 11-12 Award",
     "freestyle50Times": [
       {
         "meet": "Norwood (7/23)",
         "time": "46.26"
       }
     ],
-    "backstroke": [
+    "backstroke50Times": [
       {
         "meet": "Westwood (7/16)",
         "time": "51.44"

@@ -1,13 +1,14 @@
 {
   "stats": {
     "name": "Theodore Dildine",
+    "paperPlate": "Best Hype Man Award",
     "freestyle50Times": [
       {
         "meet": "Blue vs. Gold (6/25)",
         "time": "39.87"
       }
     ],
-    "backstroke": [
+    "backstroke50Times": [
       {
         "meet": "Blue vs. Gold (6/25)",
         "time": "42.68"

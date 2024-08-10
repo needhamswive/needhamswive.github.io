@@ -1,6 +1,7 @@
 {
   "stats": {
     "name": "Allison Manning",
+    "paperPlate": "Future Sharks Swim Coach and Rosemary Lifeguard",
     "freestyle50Times": [
       {
         "meet": "Blue vs. Gold (6/25)",
@@ -23,7 +24,7 @@
         "time": "29.73"
       }
     ],
-    "backstroke": [
+    "backstroke50Times": [
       {
         "meet": "Blue vs. Gold (6/25)",
         "time": "34.03"

@@ -1,13 +1,14 @@
 {
   "stats": {
     "name": "Eidan Kodraty",
+    "paperPlate": "Little Miss Sunshine Award",
     "freestyle50Times": [
       {
         "meet": "Blue vs. Gold (6/25)",
         "time": "43.92"
       }
     ],
-    "backstroke": [
+    "backstroke50Times": [
       {
         "meet": "Blue vs. Gold (6/25)",
         "time": "57.41"

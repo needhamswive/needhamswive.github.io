@@ -1,6 +1,7 @@
 {
   "stats": {
     "name": "Sophia Tolokh",
+    "paperPlate": "The 110% Award",
     "freestyle50Times": [
       {
         "meet": "Norwood (7/23)",
@@ -11,7 +12,7 @@
         "time": "26.82"
       }
     ],
-    "backstroke": [
+    "backstroke50Times": [
       {
         "meet": "Westwood (7/16)",
         "time": "29.73"

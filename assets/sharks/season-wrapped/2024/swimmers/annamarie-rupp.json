@@ -3,6 +3,7 @@
     "name": "Annamarie Rupp",
     "graduating": true,
     "university": "Villanova University",
+    "paperPlate": "The Personal Fan Club Award",
     "freestyle50Times": [
       {
         "meet": "Holl / Med / Mill (7/9)",
@@ -17,7 +18,7 @@
         "time": "29.16"
       }
     ],
-    "backstroke": [
+    "backstroke50Times": [
       {
         "meet": "Norwood (7/23)",
         "time": "34.67"
