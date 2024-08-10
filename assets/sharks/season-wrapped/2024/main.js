@@ -19,8 +19,10 @@ const HEX_DESIGN_DEFINITIONS = [
     slideNames: ["welcome"],
     colors: ["blue", "blue", "blue", "gold"],
     corners: {
-      "top left": [5, 3, 1],
-      "bottom right": [7, 5, 1],
+      "top left": [1],
+      "top right": [1],
+      "bottom left": [3, 1],
+      "bottom right": [3, 1],
     },
   },
   {
@@ -114,6 +116,7 @@ const HEX_DESIGN_DEFINITIONS = [
     colors: ["blue", "gold"],
     corners: {
       "top left": [2, 1],
+      "top right": [2, 1],
       "bottom right": [2, 1],
     },
   },
@@ -123,6 +126,16 @@ const HEX_DESIGN_DEFINITIONS = [
     corners: {
       "top right": [2, 1],
       "bottom left": [2, 1],
+      "bottom right": [2, 1],
+    },
+  },
+  {
+    slideNames: ["golden-goggle"],
+    colors: ["blue", "gold"],
+    corners: {
+      "top left": [2, 1],
+      "bottom left": [2, 1],
+      "bottom right": [2, 1],
     },
   },
 ];
