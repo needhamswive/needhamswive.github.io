@@ -471,6 +471,15 @@ function preprocessSwimmer(swimmer) {
     });
   }
 
+  if (stats.championEvents) {
+    slides.push({
+      name: "champion-events",
+      basicReplacements: {
+        events: stats.championEvents.join("<br>"),
+      },
+    });
+  }
+
   if (stats.graduating) {
     slides.push({
       name: "goodbye-senior",

@@ -1,8 +1,7 @@
 {
   "stats": {
     "name": "Claire Roach",
-    "paperPlate": "Undefeated champion award",
-    "goldenGoggles": "Most Improved",
+    "paperPlate": "Undefeated Champion Award",
     "freestyle25Times": [
       {
         "meet": "Blue vs. Gold (6/25)",
@@ -80,6 +79,10 @@
       "25 Backstroke": "19.53",
       "25 Breaststroke": "29.24",
       "25 Butterfly": "20.56"
-    }
+    },
+    "championEvents": [
+      "8 & Under 50 Yd Freestyle",
+      "8 & Under 50 Yd Backstroke"
+    ]
   }
 }

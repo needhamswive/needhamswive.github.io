@@ -2,7 +2,7 @@
   "stats": {
     "name": "Kate Liu",
     "paperPlate": "The Gold Getter Award",
-    "goldenGoggles": "Shark Attack",
+    "swimmerOfTheWeek": true,
     "backstroke25Times": [
       {
         "meet": "Westwood (7/16)",
@@ -37,6 +37,10 @@
       "25 Backstroke": "17.21",
       "25 Breaststroke": "20.05",
       "25 Butterfly": "16.34"
-    }
+    },
+    "championEvents": [
+      "8 & Under 25 Yd Butterfly",
+      "8 & Under 25 Yd Breaststroke"
+    ]
   }
 }

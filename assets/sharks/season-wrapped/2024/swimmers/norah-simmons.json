@@ -2,6 +2,7 @@
   "stats": {
     "name": "Norah Simmons",
     "paperPlate": "Most Dedicated Shark Award",
+    "goldenGoggles": "Shark Attack",
     "swimmerOfTheWeek": true,
     "freestyle50Times": [
       {
@@ -41,6 +42,10 @@
     ],
     "seasonPrs": {
       "50 Butterfly": "27.98"
-    }
+    },
+    "championEvents": [
+      "13 & 14 50 Yd Butterfly",
+      "13 & 14 50 Yd Freestyle"
+    ]
   }
 }

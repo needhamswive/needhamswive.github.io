@@ -71,6 +71,9 @@
       "25 Backstroke": "17.29",
       "25 Breaststroke": "18.56",
       "25 Butterfly": "16.03"
-    }
+    },
+    "championEvents": [
+      "9 & 10 25 Yd Breaststroke"
+    ]
   }
 }

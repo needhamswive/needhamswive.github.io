@@ -1,7 +1,7 @@
 {
   "stats": {
     "name": "Julian Carlson",
-    "paperPlate": "The Thoughtful Gift Giving Award?",
+    "paperPlate": "The Thoughtful Gift Giving Award",
     "freestyle50Times": [
       {
         "meet": "Norwood (7/23)",
@@ -35,6 +35,9 @@
     "seasonPrs": {
       "50 Butterfly": "25.13",
       "50 Breaststroke": "27.10"
-    }
+    },
+    "championEvents": [
+      "15 & Over 50 Yd Breaststroke"
+    ]
   }
 }

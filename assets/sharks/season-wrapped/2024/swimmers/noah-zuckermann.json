@@ -39,6 +39,9 @@
       "50 Butterfly": "25.35",
       "50 Backstroke": "25.05",
       "50 Breaststroke": "37.90"
-    }
+    },
+    "championEvents": [
+      "15 & Over 50 Yd Backstroke"
+    ]
   }
 }
