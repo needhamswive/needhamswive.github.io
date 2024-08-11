@@ -32,6 +32,10 @@
       {
         "meet": "Newton (8/1)",
         "time": "49.62"
+      },
+      {
+        "meet": "Championships (8/10)",
+        "time": "43.2"
       }
     ],
     "breaststroke50Times": [
@@ -56,11 +60,15 @@
       {
         "meet": "Canton (7/30)",
         "time": "49.58"
+      },
+      {
+        "meet": "Championships (8/10)",
+        "time": "46.19"
       }
     ],
     "seasonPrs": {
       "50 Butterfly": "44.43",
-      "50 Backstroke": "44.97",
+      "50 Backstroke": "43.20",
       "50 Breaststroke": "58.42"
     }
   }

@@ -1,9 +1,9 @@
 {
   "stats": {
     "name": "Sabine Richmond",
+    "goldenGoggles": "Coaches Award",
     "paperPlate": "Hardest Worker",
     "swimmerOfTheWeek": true,
-    "goldenGoggles": "Coaches Award",
     "freestyle50Times": [
       {
         "meet": "Blue vs. Gold (6/25)",
@@ -48,6 +48,10 @@
       {
         "meet": "Canton (7/30)",
         "time": "44.98"
+      },
+      {
+        "meet": "Championships (8/10)",
+        "time": "45.89"
       }
     ],
     "butterfly50Times": [
@@ -58,10 +62,14 @@
       {
         "meet": "Westwood (7/16)",
         "time": "49.48"
+      },
+      {
+        "meet": "Championships (8/10)",
+        "time": "43.88"
       }
     ],
     "seasonPrs": {
-      "50 Butterfly": "46.74",
+      "50 Butterfly": "43.88",
       "50 Backstroke": "50.06",
       "50 Breaststroke": "44.98"
     }

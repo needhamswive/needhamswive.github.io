@@ -2,6 +2,7 @@
   "stats": {
     "name": "Norah Simmons",
     "paperPlate": "Most Dedicated Shark Award",
+    "swimmerOfTheWeek": true,
     "freestyle50Times": [
       {
         "meet": "Norwood (7/23)",
@@ -14,6 +15,10 @@
       {
         "meet": "Newton (8/1)",
         "time": "27.36"
+      },
+      {
+        "meet": "Championships (8/10)",
+        "time": "25.88"
       }
     ],
     "butterfly50Times": [
@@ -28,10 +33,14 @@
       {
         "meet": "Newton (8/1)",
         "time": "29.05"
+      },
+      {
+        "meet": "Championships (8/10)",
+        "time": "27.98"
       }
     ],
     "seasonPrs": {
-      "50 Butterfly": "29.04"
+      "50 Butterfly": "27.98"
     }
   }
 }

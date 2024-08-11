@@ -2,6 +2,7 @@
   "stats": {
     "name": "Aiden Afzali",
     "paperPlate": "Future Red Sox Star Award",
+    "swimmerOfTheWeek": true,
     "freestyle50Times": [
       {
         "meet": "Norwood (7/23)",
@@ -13,6 +14,10 @@
       }
     ],
     "backstroke50Times": [
+      {
+        "meet": "Championships (8/10)",
+        "time": "33.39"
+      },
       {
         "meet": "Holl / Med / Mill (7/9)",
         "time": "34.31"
@@ -48,10 +53,14 @@
       {
         "meet": "Newton (8/1)",
         "time": "33.71"
+      },
+      {
+        "meet": "Championships (8/10)",
+        "time": "33.59"
       }
     ],
     "seasonPrs": {
-      "50 Butterfly": "33.71",
+      "50 Butterfly": "33.59",
       "50 Backstroke": "33.12",
       "50 Breaststroke": "40.08"
     }

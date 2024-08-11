@@ -1,8 +1,8 @@
 {
   "stats": {
     "name": "Catherine Tolokh",
-    "paperPlate": "Need for Speed Award",
     "goldenGoggles": "Rookie of the Year",
+    "paperPlate": "Need for Speed Award",
     "freestyle25Times": [
       {
         "meet": "Blue vs. Gold (6/25)",
@@ -27,6 +27,10 @@
       {
         "meet": "Newton (8/1)",
         "time": "17.16"
+      },
+      {
+        "meet": "Championships (8/10)",
+        "time": "17.79"
       }
     ],
     "backstroke25Times": [
@@ -59,6 +63,10 @@
       {
         "meet": "Newton (8/1)",
         "time": "23.14"
+      },
+      {
+        "meet": "Championships (8/10)",
+        "time": "25.74"
       }
     ],
     "butterfly25Times": [

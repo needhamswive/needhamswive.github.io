@@ -2,6 +2,7 @@
   "stats": {
     "name": "Kate Liu",
     "paperPlate": "The Gold Getter Award",
+    "goldenGoggles": "Shark Attack",
     "backstroke25Times": [
       {
         "meet": "Westwood (7/16)",
@@ -16,12 +17,20 @@
       {
         "meet": "Medfield (7/18)",
         "time": "20.38"
+      },
+      {
+        "meet": "Championships (8/10)",
+        "time": "20.97"
       }
     ],
     "butterfly25Times": [
       {
         "meet": "Medfield (7/18)",
         "time": "16.34"
+      },
+      {
+        "meet": "Championships (8/10)",
+        "time": "16.58"
       }
     ],
     "seasonPrs": {

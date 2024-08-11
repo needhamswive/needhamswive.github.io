@@ -1,6 +1,7 @@
 {
   "stats": {
     "name": "Sareena Martin",
+    "paperPlate": "Smiles for Miles",
     "freestyle25Times": [
       {
         "meet": "Blue vs. Gold (6/25)",
@@ -31,6 +32,10 @@
       {
         "meet": "Newton (8/1)",
         "time": "30.91"
+      },
+      {
+        "meet": "Championships (8/10)",
+        "time": "33.18"
       }
     ],
     "breaststroke25Times": [

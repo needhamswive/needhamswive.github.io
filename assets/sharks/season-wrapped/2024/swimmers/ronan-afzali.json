@@ -2,6 +2,7 @@
   "stats": {
     "name": "Ronan Afzali",
     "paperPlate": "Fearless Fighter Award",
+    "swimmerOfTheWeek": true,
     "freestyle25Times": [
       {
         "meet": "Holl / Med / Mill (7/9)",
@@ -36,6 +37,10 @@
       {
         "meet": "Newton (8/1)",
         "time": "24.48"
+      },
+      {
+        "meet": "Championships (8/10)",
+        "time": "33.78"
       }
     ],
     "breaststroke25Times": [

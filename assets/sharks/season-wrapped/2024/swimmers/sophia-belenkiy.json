@@ -46,6 +46,10 @@
       {
         "meet": "Blue vs. Gold (6/25)",
         "time": "42.82"
+      },
+      {
+        "meet": "Championships (8/10)",
+        "time": "39.85"
       }
     ],
     "butterfly50Times": [
@@ -64,12 +68,16 @@
       {
         "meet": "Canton (7/30)",
         "time": "32.63"
+      },
+      {
+        "meet": "Championships (8/10)",
+        "time": "32.05"
       }
     ],
     "seasonPrs": {
-      "50 Butterfly": "32.63",
+      "50 Butterfly": "32.05",
       "50 Backstroke": "34.84",
-      "50 Breaststroke": "42.82"
+      "50 Breaststroke": "39.85"
     }
   }
 }

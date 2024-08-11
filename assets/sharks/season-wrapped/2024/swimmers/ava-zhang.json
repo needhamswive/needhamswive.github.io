@@ -1,7 +1,7 @@
 {
   "stats": {
     "name": "Ava Zhang",
-    "paperPlate": "Undercover 11-12 Award",
+    "paperPlate": "little Miss Undercover 11-12 Award",
     "freestyle50Times": [
       {
         "meet": "Norwood (7/23)",
@@ -16,6 +16,10 @@
       {
         "meet": "Newton (8/1)",
         "time": "50.16"
+      },
+      {
+        "meet": "Championships (8/10)",
+        "time": "49.82"
       }
     ],
     "breaststroke50Times": [
@@ -30,6 +34,10 @@
       {
         "meet": "Newton (8/1)",
         "time": "51.38"
+      },
+      {
+        "meet": "Championships (8/10)",
+        "time": "50.96"
       }
     ],
     "butterfly50Times": [
@@ -44,8 +52,8 @@
     ],
     "seasonPrs": {
       "50 Butterfly": "51.39",
-      "50 Backstroke": "50.16",
-      "50 Breaststroke": "51.38"
+      "50 Backstroke": "49.82",
+      "50 Breaststroke": "50.96"
     }
   }
 }

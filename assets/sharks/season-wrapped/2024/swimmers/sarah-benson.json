@@ -10,6 +10,10 @@
       {
         "meet": "Holl / Med / Mill (7/9)",
         "time": "29.21"
+      },
+      {
+        "meet": "Championships (8/10)",
+        "time": "27.5"
       }
     ],
     "backstroke25Times": [
@@ -51,7 +55,7 @@
       }
     ],
     "seasonPrs": {
-      "25 Freestyle": "29.21",
+      "25 Freestyle": "27.50",
       "25 Backstroke": "37.23",
       "25 Breaststroke": "32.82",
       "25 Butterfly": "35.04"

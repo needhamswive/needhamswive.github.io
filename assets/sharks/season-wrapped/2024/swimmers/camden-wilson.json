@@ -3,6 +3,7 @@
     "name": "Camden Wilson",
     "paperPlate": "Coach Chloe's Assistant Award",
     "swimmerOfTheWeek": true,
+    "goldenGoggles": "Team MVP",
     "freestyle50Times": [
       {
         "meet": "Blue vs. Gold (6/25)",
@@ -19,6 +20,10 @@
       {
         "meet": "Newton (8/1)",
         "time": "29.49"
+      },
+      {
+        "meet": "Championships (8/10)",
+        "time": "29.3"
       }
     ],
     "backstroke50Times": [
@@ -41,6 +46,10 @@
       {
         "meet": "Newton (8/1)",
         "time": "35.31"
+      },
+      {
+        "meet": "Championships (8/10)",
+        "time": "36.66"
       }
     ],
     "breaststroke50Times": [

@@ -12,19 +12,26 @@
         "time": "31.73"
       }
     ],
-    "breaststroke50Times": [
+    "backstroke50Times": [
       {
-        "meet": "Holl / Med / Mill (7/9)",
-        "time": "39.43"
-      },
+        "meet": "Championships (8/10)",
+        "time": "33.67"
+      }
+    ],
+    "breaststroke50Times": [
       {
         "meet": "Medfield (7/18)",
         "time": "40.35"
+      },
+      {
+        "meet": "Championships (8/10)",
+        "time": "38.64"
       }
     ],
     "seasonPrs": {
       "50 Butterfly": "31.18",
-      "50 Breaststroke": "39.43"
+      "50 Backstroke": "33.67",
+      "50 Breaststroke": "38.64"
     }
   }
 }

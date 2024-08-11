@@ -1,9 +1,9 @@
 {
   "stats": {
     "name": "Isaac Wallace",
-    "paperPlate": "The \"Just Keep Swimming\" Award",
-    "swimmerOfTheWeek": true,
     "goldenGoggles": "Rookie of the Year",
+    "paperPlate": "The Mr. Motivation Award",
+    "swimmerOfTheWeek": true,
     "freestyle50Times": [
       {
         "meet": "Norwood (7/23)",
@@ -39,7 +39,11 @@
       },
       {
         "meet": "Newton (8/1)",
-        "time": "17.59"
+        "time": "18.59"
+      },
+      {
+        "meet": "Championships (8/10)",
+        "time": "18.96"
       }
     ],
     "butterfly25Times": [
@@ -53,7 +57,11 @@
       },
       {
         "meet": "Newton (8/1)",
-        "time": "14.46"
+        "time": "16.46"
+      },
+      {
+        "meet": "Championships (8/10)",
+        "time": "16.7"
       }
     ],
     "seasonPrs": {
@@ -61,8 +69,8 @@
       "50 Breaststroke": "42.00",
       "25 Freestyle": "14.31",
       "25 Backstroke": "17.29",
-      "25 Breaststroke": "17.59",
-      "25 Butterfly": "14.46"
+      "25 Breaststroke": "18.56",
+      "25 Butterfly": "16.03"
     }
   }
 }

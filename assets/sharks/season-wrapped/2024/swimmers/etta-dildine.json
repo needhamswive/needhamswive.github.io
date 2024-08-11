@@ -18,6 +18,10 @@
       {
         "meet": "Norwood (7/23)",
         "time": "22.79"
+      },
+      {
+        "meet": "Championships (8/10)",
+        "time": "22.35"
       }
     ],
     "backstroke25Times": [
@@ -42,6 +46,10 @@
       {
         "meet": "Medfield (7/18)",
         "time": "27.89"
+      },
+      {
+        "meet": "Championships (8/10)",
+        "time": "28.96"
       }
     ],
     "butterfly25Times": [
@@ -55,7 +63,7 @@
       }
     ],
     "seasonPrs": {
-      "25 Freestyle": "22.79",
+      "25 Freestyle": "22.35",
       "25 Backstroke": "28.46",
       "25 Breaststroke": "27.30",
       "25 Butterfly": "31.62"

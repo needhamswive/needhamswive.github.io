@@ -2,10 +2,21 @@
   "stats": {
     "name": "Noah Zuckermann",
     "paperPlate": "The Futures Legend Award",
+    "swimmerOfTheWeek": true,
+    "freestyle50Times": [
+      {
+        "meet": "Championships (8/10)",
+        "time": "22.95"
+      }
+    ],
     "backstroke50Times": [
       {
         "meet": "Newton (8/1)",
         "time": "26.23"
+      },
+      {
+        "meet": "Championships (8/10)",
+        "time": "25.05"
       }
     ],
     "breaststroke50Times": [
@@ -25,9 +36,9 @@
       }
     ],
     "seasonPrs": {
-      "50 Backstroke": "26.23",
-      "50 Breaststroke": "37.90",
-      "50 Butterfly": "25.35"
+      "50 Butterfly": "25.35",
+      "50 Backstroke": "25.05",
+      "50 Breaststroke": "37.90"
     }
   }
 }

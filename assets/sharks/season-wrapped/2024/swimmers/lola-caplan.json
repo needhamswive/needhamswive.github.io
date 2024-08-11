@@ -24,6 +24,10 @@
       {
         "meet": "Blue vs. Gold (6/25)",
         "time": "22.84"
+      },
+      {
+        "meet": "Championships (8/10)",
+        "time": "22.26"
       }
     ],
     "breaststroke25Times": [
@@ -46,6 +50,10 @@
       {
         "meet": "Newton (8/1)",
         "time": "24.70"
+      },
+      {
+        "meet": "Championships (8/10)",
+        "time": "24.57"
       }
     ],
     "butterfly25Times": [
@@ -60,7 +68,7 @@
     ],
     "seasonPrs": {
       "25 Freestyle": "18.90",
-      "25 Backstroke": "22.84",
+      "25 Backstroke": "22.26",
       "25 Breaststroke": "24.15",
       "25 Butterfly": "24.13"
     }

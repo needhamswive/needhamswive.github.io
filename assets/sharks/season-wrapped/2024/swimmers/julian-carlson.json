@@ -16,17 +16,25 @@
       {
         "meet": "Canton (7/30)",
         "time": "28.35"
+      },
+      {
+        "meet": "Championships (8/10)",
+        "time": "27.1"
       }
     ],
     "butterfly50Times": [
       {
         "meet": "Canton (7/30)",
         "time": "25.15"
+      },
+      {
+        "meet": "Championships (8/10)",
+        "time": "25.13"
       }
     ],
     "seasonPrs": {
-      "50 Butterfly": "25.15",
-      "50 Breaststroke": "28.23"
+      "50 Butterfly": "25.13",
+      "50 Breaststroke": "27.10"
     }
   }
 }

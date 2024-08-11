@@ -1,7 +1,7 @@
 {
   "stats": {
     "name": "Robert Desrosiers",
-    "paperPlate": "The Butterfly Butter-WHY Award",
+    "paperPlate": "The Butterfly King Award",
     "freestyle50Times": [
       {
         "meet": "Blue vs. Gold (6/25)",
@@ -24,6 +24,10 @@
       {
         "meet": "Newton (8/1)",
         "time": "46.05"
+      },
+      {
+        "meet": "Championships (8/10)",
+        "time": "45.87"
       }
     ],
     "breaststroke50Times": [
@@ -64,11 +68,15 @@
       {
         "meet": "Canton (7/30)",
         "time": "49.25"
+      },
+      {
+        "meet": "Championships (8/10)",
+        "time": "44.58"
       }
     ],
     "seasonPrs": {
-      "50 Butterfly": "48.69",
-      "50 Backstroke": "45.99",
+      "50 Butterfly": "44.58",
+      "50 Backstroke": "45.87",
       "50 Breaststroke": "50.40"
     }
   }

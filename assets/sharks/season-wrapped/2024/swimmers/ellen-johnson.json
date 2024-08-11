@@ -26,6 +26,10 @@
       {
         "meet": "Newton (8/1)",
         "time": "22.88"
+      },
+      {
+        "meet": "Championships (8/10)",
+        "time": "23.73"
       }
     ],
     "backstroke25Times": [
@@ -54,6 +58,10 @@
       {
         "meet": "Newton (8/1)",
         "time": "28.03"
+      },
+      {
+        "meet": "Championships (8/10)",
+        "time": "27.81"
       }
     ],
     "butterfly25Times": [
@@ -65,7 +73,7 @@
     "seasonPrs": {
       "25 Freestyle": "22.88",
       "25 Backstroke": "34.57",
-      "25 Breaststroke": "27.91",
+      "25 Breaststroke": "27.81",
       "25 Butterfly": "37.84"
     }
   }

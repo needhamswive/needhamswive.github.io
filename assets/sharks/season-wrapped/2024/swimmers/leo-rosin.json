@@ -3,6 +3,7 @@
     "name": "Leo Rosin",
     "paperPlate": "The Glow Up Award",
     "swimmerOfTheWeek": true,
+    "goldenGoggles": "Coaches Award",
     "freestyle50Times": [
       {
         "meet": "Norwood (7/23)",
@@ -29,6 +30,10 @@
       {
         "meet": "Newton (8/1)",
         "time": "35.72"
+      },
+      {
+        "meet": "Championships (8/10)",
+        "time": "36.52"
       }
     ],
     "breaststroke50Times": [
@@ -39,6 +44,10 @@
       {
         "meet": "Newton (8/1)",
         "time": "32.17"
+      },
+      {
+        "meet": "Championships (8/10)",
+        "time": "32.22"
       }
     ],
     "butterfly50Times": [

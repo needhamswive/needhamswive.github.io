@@ -2,6 +2,7 @@
   "stats": {
     "name": "Pierce Boerum",
     "paperPlate": "The Fast As Lightning Award",
+    "swimmerOfTheWeek": true,
     "freestyle25Times": [
       {
         "meet": "Blue vs. Gold (6/25)",
@@ -42,6 +43,10 @@
       {
         "meet": "Medfield (7/18)",
         "time": "27.28"
+      },
+      {
+        "meet": "Championships (8/10)",
+        "time": "26.3"
       }
     ],
     "butterfly25Times": [
@@ -72,12 +77,16 @@
       {
         "meet": "Newton (8/1)",
         "time": "23.81"
+      },
+      {
+        "meet": "Championships (8/10)",
+        "time": "22.85"
       }
     ],
     "seasonPrs": {
       "25 Freestyle": "21.23",
       "25 Backstroke": "25.19",
-      "25 Breaststroke": "27.28",
+      "25 Breaststroke": "26.30",
       "25 Butterfly": "20.94"
     }
   }

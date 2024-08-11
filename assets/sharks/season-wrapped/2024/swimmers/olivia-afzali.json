@@ -1,8 +1,8 @@
 {
   "stats": {
     "name": "Olivia Afzali",
-    "paperPlate": "The Laffy Taffy Award",
     "goldenGoggles": "Unsung Hero",
+    "paperPlate": "The Laffy Taffy Award",
     "freestyle25Times": [
       {
         "meet": "Norwood (7/23)",
@@ -29,6 +29,10 @@
       {
         "meet": "Newton (8/1)",
         "time": "19.15"
+      },
+      {
+        "meet": "Championships (8/10)",
+        "time": "20.1"
       }
     ],
     "breaststroke25Times": [
@@ -39,6 +43,10 @@
       {
         "meet": "Newton (8/1)",
         "time": "21.49"
+      },
+      {
+        "meet": "Championships (8/10)",
+        "time": "23.62"
       }
     ],
     "butterfly25Times": [

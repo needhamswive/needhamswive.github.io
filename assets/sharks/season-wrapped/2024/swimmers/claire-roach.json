@@ -1,6 +1,8 @@
 {
   "stats": {
     "name": "Claire Roach",
+    "paperPlate": "Undefeated champion award",
+    "goldenGoggles": "Most Improved",
     "freestyle25Times": [
       {
         "meet": "Blue vs. Gold (6/25)",
@@ -9,6 +11,10 @@
       {
         "meet": "Canton (7/30)",
         "time": "17.34"
+      },
+      {
+        "meet": "Championships (8/10)",
+        "time": "16.08"
       }
     ],
     "backstroke25Times": [
@@ -35,6 +41,10 @@
       {
         "meet": "Newton (8/1)",
         "time": "19.53"
+      },
+      {
+        "meet": "Championships (8/10)",
+        "time": "20.86"
       }
     ],
     "breaststroke25Times": [
@@ -66,7 +76,7 @@
       }
     ],
     "seasonPrs": {
-      "25 Freestyle": "17.34",
+      "25 Freestyle": "16.08",
       "25 Backstroke": "19.53",
       "25 Breaststroke": "29.24",
       "25 Butterfly": "20.56"

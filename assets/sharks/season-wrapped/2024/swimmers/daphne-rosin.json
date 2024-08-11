@@ -11,6 +11,10 @@
       {
         "meet": "Holl / Med / Mill (7/9)",
         "time": "24.36"
+      },
+      {
+        "meet": "Championships (8/10)",
+        "time": "21.1"
       }
     ],
     "backstroke25Times": [
@@ -29,6 +33,10 @@
       {
         "meet": "Canton (7/30)",
         "time": "27.31"
+      },
+      {
+        "meet": "Championships (8/10)",
+        "time": "25.92"
       }
     ],
     "breaststroke25Times": [
@@ -76,8 +84,8 @@
       }
     ],
     "seasonPrs": {
-      "25 Freestyle": "24.36",
-      "25 Backstroke": "27.31",
+      "25 Freestyle": "21.10",
+      "25 Backstroke": "25.92",
       "25 Breaststroke": "33.81",
       "25 Butterfly": "28.94"
     }

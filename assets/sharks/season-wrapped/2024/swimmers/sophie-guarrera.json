@@ -12,6 +12,10 @@
       {
         "meet": "Medfield (7/18)",
         "time": "29.42"
+      },
+      {
+        "meet": "Championships (8/10)",
+        "time": "27.24"
       }
     ],
     "backstroke50Times": [
@@ -30,10 +34,14 @@
       {
         "meet": "Medfield (7/18)",
         "time": "30.72"
+      },
+      {
+        "meet": "Championships (8/10)",
+        "time": "29.23"
       }
     ],
     "seasonPrs": {
-      "50 Butterfly": "30.72",
+      "50 Butterfly": "29.23",
       "50 Backstroke": "33.38",
       "50 Breaststroke": "42.41"
     }

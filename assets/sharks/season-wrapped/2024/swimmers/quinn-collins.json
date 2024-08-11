@@ -1,8 +1,8 @@
 {
   "stats": {
     "name": "Quinn Collins",
-    "paperPlate": "Silent (kinda) but Deadly Swimmer",
     "goldenGoggles": "Sportsmanship",
+    "paperPlate": "The Breaststroke Beast",
     "freestyle50Times": [
       {
         "meet": "Blue vs. Gold (6/25)",
@@ -15,6 +15,10 @@
       {
         "meet": "Norwood (7/23)",
         "time": "29.02"
+      },
+      {
+        "meet": "Championships (8/10)",
+        "time": "27.75"
       }
     ],
     "backstroke50Times": [
@@ -39,6 +43,10 @@
       {
         "meet": "Newton (8/1)",
         "time": "34.05"
+      },
+      {
+        "meet": "Championships (8/10)",
+        "time": "34.47"
       }
     ],
     "butterfly50Times": [

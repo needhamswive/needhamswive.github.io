@@ -1,9 +1,9 @@
 {
   "stats": {
     "name": "Landon Vacanti",
+    "goldenGoggles": "Most Improved",
     "paperPlate": "The Above and Beyond Award",
     "swimmerOfTheWeek": true,
-    "goldenGoggles": "Most Improved",
     "freestyle25Times": [
       {
         "meet": "Blue vs. Gold (6/25)",
@@ -48,6 +48,10 @@
       {
         "meet": "Newton (8/1)",
         "time": "22.82"
+      },
+      {
+        "meet": "Championships (8/10)",
+        "time": "24.64"
       }
     ],
     "butterfly25Times": [
@@ -74,6 +78,10 @@
       {
         "meet": "Newton (8/1)",
         "time": "20.81"
+      },
+      {
+        "meet": "Championships (8/10)",
+        "time": "23.24"
       }
     ],
     "seasonPrs": {

@@ -1,7 +1,7 @@
 {
   "stats": {
     "name": "Katherine Lim",
-    "paperPlate": "Little Miss hates Backstroke Award",
+    "paperPlate": "Little Miss hates the cold award",
     "freestyle50Times": [
       {
         "meet": "Blue vs. Gold (6/25)",
@@ -28,6 +28,10 @@
       {
         "meet": "Canton (7/30)",
         "time": "45.02"
+      },
+      {
+        "meet": "Championships (8/10)",
+        "time": "46.64"
       }
     ],
     "breaststroke50Times": [
@@ -72,10 +76,14 @@
       {
         "meet": "Newton (8/1)",
         "time": "40.15"
+      },
+      {
+        "meet": "Championships (8/10)",
+        "time": "38.64"
       }
     ],
     "seasonPrs": {
-      "50 Butterfly": "40.15",
+      "50 Butterfly": "38.64",
       "50 Backstroke": "45.02",
       "50 Breaststroke": "48.27"
     }

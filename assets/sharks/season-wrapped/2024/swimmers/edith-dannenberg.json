@@ -1,7 +1,7 @@
 {
   "stats": {
     "name": "Edith Dannenberg",
-    "paperPlate": "Tough As Nails Award",
+    "paperPlate": "little Miss Tough As Nails Award",
     "freestyle50Times": [
       {
         "meet": "Blue vs. Gold (6/25)",
@@ -14,6 +14,10 @@
       {
         "meet": "Norwood (7/23)",
         "time": "44.63"
+      },
+      {
+        "meet": "Championships (8/10)",
+        "time": "43.21"
       }
     ],
     "backstroke50Times": [
@@ -32,6 +36,10 @@
       {
         "meet": "Medfield (7/18)",
         "time": "56.95"
+      },
+      {
+        "meet": "Championships (8/10)",
+        "time": "53.37"
       }
     ],
     "breaststroke50Times": [

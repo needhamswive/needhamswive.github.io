@@ -1,6 +1,7 @@
 {
   "stats": {
     "name": "Anna Wallace",
+    "paperPlate": "Understated champ award",
     "freestyle25Times": [
       {
         "meet": "Blue vs. Gold (6/25)",
@@ -21,6 +22,10 @@
       {
         "meet": "Newton (8/1)",
         "time": "22.98"
+      },
+      {
+        "meet": "Championships (8/10)",
+        "time": "22.03"
       }
     ],
     "backstroke25Times": [
@@ -43,6 +48,10 @@
       {
         "meet": "Newton (8/1)",
         "time": "27.00"
+      },
+      {
+        "meet": "Championships (8/10)",
+        "time": "26.03"
       }
     ],
     "breaststroke25Times": [
@@ -52,7 +61,7 @@
       }
     ],
     "seasonPrs": {
-      "25 Freestyle": "22.04",
+      "25 Freestyle": "22.03",
       "25 Backstroke": "25.19",
       "25 Breaststroke": "40.96"
     }

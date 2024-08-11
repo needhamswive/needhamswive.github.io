@@ -28,6 +28,10 @@
       {
         "meet": "Norwood (7/23)",
         "time": "27.10"
+      },
+      {
+        "meet": "Championships (8/10)",
+        "time": "25.25"
       }
     ],
     "breaststroke50Times": [
@@ -56,11 +60,15 @@
       {
         "meet": "Medfield (7/18)",
         "time": "26.71"
+      },
+      {
+        "meet": "Championships (8/10)",
+        "time": "25.56"
       }
     ],
     "seasonPrs": {
-      "50 Butterfly": "26.09",
-      "50 Backstroke": "27.10",
+      "50 Butterfly": "25.56",
+      "50 Backstroke": "25.25",
       "50 Breaststroke": "33.26"
     }
   }

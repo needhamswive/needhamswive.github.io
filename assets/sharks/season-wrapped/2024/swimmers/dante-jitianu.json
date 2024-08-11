@@ -32,18 +32,26 @@
       {
         "meet": "Canton (7/30)",
         "time": "31.50"
+      },
+      {
+        "meet": "Championships (8/10)",
+        "time": "31.26"
       }
     ],
     "breaststroke25Times": [
       {
         "meet": "Newton (8/1)",
         "time": "32.84"
+      },
+      {
+        "meet": "Championships (8/10)",
+        "time": "32.12"
       }
     ],
     "seasonPrs": {
       "25 Freestyle": "27.12",
-      "25 Backstroke": "31.50",
-      "25 Breaststroke": "32.84"
+      "25 Backstroke": "31.26",
+      "25 Breaststroke": "32.12"
     }
   }
 }

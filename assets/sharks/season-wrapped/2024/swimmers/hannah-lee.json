@@ -14,6 +14,10 @@
       {
         "meet": "Canton (7/30)",
         "time": "15.59"
+      },
+      {
+        "meet": "Championships (8/10)",
+        "time": "15.48"
       }
     ],
     "backstroke25Times": [
@@ -38,6 +42,10 @@
       {
         "meet": "Norwood (7/23)",
         "time": "19.78"
+      },
+      {
+        "meet": "Championships (8/10)",
+        "time": "19.79"
       }
     ],
     "butterfly25Times": [
@@ -47,7 +55,7 @@
       }
     ],
     "seasonPrs": {
-      "25 Freestyle": "15.59",
+      "25 Freestyle": "15.48",
       "25 Backstroke": "18.19",
       "25 Breaststroke": "19.78",
       "25 Butterfly": "21.13"
