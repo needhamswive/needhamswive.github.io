@@ -87,28 +87,28 @@ const HEX_DESIGN_DEFINITIONS = [
     slideNames: ["25-butterfly-times", "50-butterfly-times"],
     colors: ["blue", "gold"],
     corners: {
-      "top left": [4, 3, 1],
+      "top left": [3, 1],
     },
   },
   {
     slideNames: ["25-freestyle-times", "50-freestyle-times"],
     colors: ["blue", "gold"],
     corners: {
-      "top right": [4, 3, 1],
+      "top right": [3, 1],
     },
   },
   {
     slideNames: ["25-breaststroke-times", "50-breaststroke-times"],
     colors: ["blue", "gold"],
     corners: {
-      "bottom right": [4, 3, 1],
+      "bottom right": [3, 1],
     },
   },
   {
     slideNames: ["25-backstroke-times", "50-backstroke-times"],
     colors: ["blue", "gold"],
     corners: {
-      "bottom left": [4, 3, 1],
+      "bottom left": [3, 1],
     },
   },
   {
