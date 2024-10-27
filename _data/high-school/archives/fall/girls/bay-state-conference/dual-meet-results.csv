@@ -1,4 +1,49 @@
 year,school-1,school-2,score-1,score-2,school-1-result
+2024,Braintree,Brookline,79,89,L
+2024,Braintree,Framingham,82,92,L
+2024,Braintree,Milton,76,97,L
+2024,Braintree,Natick,83,97,L
+2024,Braintree,Needham,81,103,L
+2024,Braintree,Newton North,70,91,L
+2024,Braintree,Walpole,101,74,W
+2024,Braintree,Wellesley,74,94,L
+2024,Braintree,Weymouth,79,89,L
+2024,Brookline,Framingham,91,84,W
+2024,Brookline,Milton,85,95,L
+2024,Brookline,Natick,100,78,W
+2024,Brookline,Needham,97,89,W
+2024,Brookline,Newton North,104,82,W
+2024,Brookline,Walpole,55,35,W
+2024,Brookline,Wellesley,81,99,L
+2024,Brookline,Weymouth,98,66,W
+2024,Framingham,Milton,87,97,L
+2024,Framingham,Natick,94,89,W
+2024,Framingham,Needham,85,99,L
+2024,Framingham,Newton North,88,96,L
+2024,Framingham,Walpole,,,
+2024,Framingham,Wellesley,73,99,L
+2024,Framingham,Weymouth,,,
+2024,Milton,Natick,91,81,W
+2024,Milton,Needham,91,94,L
+2024,Milton,Newton North,97,89,W
+2024,Milton,Walpole,,,
+2024,Milton,Wellesley,96,89,W
+2024,Milton,Weymouth,,,
+2024,Natick,Needham,83,93,L
+2024,Natick,Newton North,81,97,L
+2024,Natick,Walpole,81,50,W
+2024,Natick,Wellesley,79,93,L
+2024,Natick,Weymouth,90,85,W
+2024,Needham,Newton North,98,88,W
+2024,Needham,Walpole,92,44,W
+2024,Needham,Wellesley,88,96,L
+2024,Needham,Weymouth,96,68,W
+2024,Newton North,Walpole,85,54,W
+2024,Newton North,Wellesley,86,95,L
+2024,Newton North,Weymouth,85,74,W
+2024,Walpole,Wellesley,43,85,L
+2024,Walpole,Weymouth,78,86,L
+2024,Wellesley,Weymouth,91,70,W
 2023,Braintree,Brookline,83,101,L
 2023,Braintree,Framingham,102,84,W
 2023,Braintree,Milton,80,106,L
