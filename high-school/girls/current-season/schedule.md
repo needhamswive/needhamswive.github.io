@@ -3,7 +3,7 @@ title: Schedule
 classes: wide
 ---
 
-<iframe src="https://docs.google.com/document/d/e/2PACX-1vT65v72fYPqqUn3zLMl0AyW6kP57POruGZQxo6wsD5lrfVV-AazHOa8AGl9-Edxr-NxhE2Z0_uixsFu/pub?embedded=true" style="width: 100%; height: 80vh"></iframe>
+<iframe src="https://docs.google.com/document/d/1jO-LLNNPI8k0ROlbvRkwMkVaUlRgjyq-IytpnMTTkc4/edit?tab=t.0" style="width: 100%; height: 80vh"></iframe>
 
 ## Dive Weeks[^VoluntaryDiveWeeks]
 
@@ -11,15 +11,14 @@ For a diver to compete officially, their first dive must be in the specified gro
 
 |      Week      |  Group  |
 |:--------------:|:-------:|
-| 9/3   -- 9/16  | forward |
-| 9/17  -- 9/23  |  back   |
-| 9/24  -- 9/30  | inward  |
-| 10/1  -- 10/7  |  twist  |
-| 10/8  -- 10/14 | reverse |
-| 10/15 -- 10/21 | forward |
-| 10/22 -- 10/28 |  back   |
-| 10/29 -- 11/4  | inward  |
-| 11/5  -- 11/11 |  twist  |
-| 11/12 -- 11/18 | reverse |
+| 9/1   -- 9/14  | forward |
+| 9/15  -- 9/21  |  back   |
+| 9/22  -- 9/28  | inward  |
+| 9/29  -- 10/5  |  twist  |
+| 10/6  -- 10/12 | reverse |
+| 10/13 -- 10/19 | forward |
+| 10/20 -- 10/26 |  back   |
+| 10/27 -- 11/2  | inward  |
+| 11/3  -- 11/9 |  twist  |
 
-[^VoluntaryDiveWeeks]: [Voluntary dive weeks](https://miaa.net/wp-content/uploads/2023/09/Voluntary-Dive-Weeks-2023-2024.pdf)
+[^VoluntaryDiveWeeks]: [Voluntary dive weeks](https://www.miaa.net/swimming-diving)
