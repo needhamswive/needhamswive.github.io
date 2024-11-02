@@ -11,8 +11,56 @@ general-citations:
     link: https://miaa.net/wp-content/uploads/2022/11/Fall-2022-South-Sectional-Swim-ProgramA.pdf
   - name: RachelWaldstein
     display: Head Coach Rachel Waldstein
+  - name: ZibingZhang
+    display: Assistant Swim Coach Zibing Zhang
 
 by-school-year:
+  - school-year: 2024-2025
+    dual-meets:
+      - school: Acton-Boxborough
+        score: 85 - 98
+        result: L
+        citations: ArbiterSports
+      - school: Braintree
+        score: 103 - 81
+        result: W
+        citations: ArbiterSports
+      - school: Brookline
+        score: 89 - 97
+        result: L
+        citations: ArbiterSports
+      - school: Framingham
+        score: 99 - 85
+        result: W
+        citations: ArbiterSports
+      - school: Milton
+        score: 94 - 91
+        result: W
+        citations: ArbiterSports
+      - school: Natick
+        score: 93 - 83
+        result: W
+        citations: ArbiterSports
+      - school: Newton North
+        score: 98 - 88
+        result: W
+        citations: ArbiterSports
+      - school: Walpole
+        score: 92 - 44
+        result: W
+        citations: ArbiterSports
+      - school: Wellesley
+        score: 88 - 96
+        result: L
+        citations: ArbiterSports
+      - school: Weymouth
+        score: 96 - 68
+        result: W
+        citations: ZibingZhang
+    championships:
+      - name: Bay State Conference
+        place: 3
+        citations: BSCSchoolRankings
   - school-year: 2023-2024
     dual-meets:
       - school: Acton-Boxborough
