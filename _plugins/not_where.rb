@@ -4,7 +4,9 @@ module Jekyll
     def not_where(input, property, target_value = nil)
       ary = input
 
-      if ary.empty?
+      if ary == nil
+        []
+      elsif ary.empty?
         []
       elsif target_value.nil?
         ary.select do |item|
