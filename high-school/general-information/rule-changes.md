@@ -3,6 +3,7 @@ title: NFHS Rule Changes
 toc: true
 ---
 
+[^20242025]: <https://www.nfhs.org/sports-resource-content/swimming-and-diving-rules-changes-2024-25/>
 [^20232024]: <https://www.nfhs.org/sports-resource-content/swimming-and-diving-rules-changes-2023-24/>
 [^20222023]: <https://www.nfhs.org/sports-resource-content/swimming-and-diving-rules-changes-2022-23/>
 [^20212022]: <https://www.nfhs.org/sports-resource-content/swimming-and-diving-rules-changes-2021-22/>
@@ -14,6 +15,18 @@ toc: true
 [^20142015]: <https://www.nfhs.org/sports-resource-content/swimming-and-diving-rules-changes-2014-15/>
 
 The list of rule changes to swimming and diving from the National Federation of State High School Associations (NFHS) are as follows:
+
+## 2024 &ndash; 2025
+
+[^20242025] \
+__4-1-4__: Removes the word “clerical” from the description of the official’s authority over a meet through the completion of any reports that are responsive to actions occurring while the referee has jurisdiction.
+<br>
+__Rationale__: The referee will do what is necessary to ensure meet outcomes and related details are appropriate and accurate. The authority of the referee in this context is broad and is not limited to clerical authority only.
+
+__4-2-2e__: Removes language that permits an announcement of a disqualification on the basis of a Rule 3-2-2 violation to be made by the public address announcer if the coach cannot be located.
+<br>
+__Rationale__: This change in language brings Rule 4-4-2e in line with notification protocols when violations of Rule 3-3-2 are detected. When the violation involves improper suit coverage, a public announcement is not appropriate.
+
 
 ## 2023 &ndash; 2024
 
