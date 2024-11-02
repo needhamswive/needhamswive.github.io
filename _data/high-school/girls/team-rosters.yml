@@ -1,3 +1,99 @@
+- school-year: 2024-2025
+  coaches:
+    - title: Head Coach
+      name: Kate Curtin
+    - title: Assistant Swim Coach
+      name: Caleigh Wukitch
+    - title: Assistant Swim Coach
+      name: Zibing Zhang
+    - title: Assistant Dive Coach
+      name: Elisabeth McQuaid
+  students:
+    - name: Lucy Aswad
+      grade: 12
+      diver: true
+    - name: Rebecca Hwang
+      grade: 12
+      captain: true
+      swimmer: true
+    - name: Isabelle Lemaire
+      grade: 12
+      diver: true
+    - name: Norah Mullen
+      grade: 12
+      swimmer: true
+    - name: Lyudmila Piatkov
+      grade: 12
+      captain: true
+      swimmer: true
+    - name: Julia Rowe
+      grade: 12
+      captain: true
+      swimmer: true
+    - name: Riley Serlenga
+      grade: 12
+      swimmer: true
+    - name: Courtney Tobin
+      grade: 12
+      diver: true
+    - name: Emma Zhang
+      grade: 12
+      captain: true
+      swimmer: true
+    - name: Natalie Guarrera
+      grade: 11
+      swimmer: true
+    - name: Paige Ingrando
+      grade: 11
+      swimmer: true
+    - name: Haley Larson
+      grade: 11
+      diver: true
+    - name: Emma Manning
+      grade: 11
+      swimmer: true
+    - name: Talia Muzikant
+      grade: 11
+      diver: true
+    - name: Genevieve Smith
+      grade: 11
+      swimmer: true
+    - name: Sophia Belenkiy
+      grade: 10
+      swimmer: true
+    - name: Lara Bobocea
+      grade: 10
+      swimmer: true
+    - name: Emmeline Fritz
+      grade: 10
+      swimmer: true
+    - name: Nora Horton
+      grade: 10
+      swimmer: true
+    - name: Tessa Jones
+      grade: 10
+      swimmer: true
+    - name: Madeline Weirup
+      grade: 10
+      swimmer: true
+    - name: Chloe Afzali
+      grade: 9
+      swimmer: true
+    - name: Grace Flanagan
+      grade: 9
+      swimmer: true
+    - name: Andrea Qie
+      grade: 9
+      swimmer: true
+    - name: Madeleine Rowe
+      grade: 9
+      swimmer: true
+    - name: Bryden Tobin
+      grade: 9
+      swimmer: true
+    - name: Carrie Zhang
+      grade: 9
+      swimmer: true
 - school-year: 2023-2024
   coaches:
     - title: Head Coach
