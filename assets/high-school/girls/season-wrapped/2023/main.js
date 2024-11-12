@@ -92,8 +92,8 @@ const HEX_DESIGN_DEFINITIONS = [
     slideNames: ["record-breaker"],
     colors: ["blue", "gold"],
     corners: {
-      "top left": [5, 3, 1],
-      "bottom right": [7, 5, 1],
+      "top left": [5, 1],
+      "bottom right": [7, 3, 1],
     },
   },
   {
