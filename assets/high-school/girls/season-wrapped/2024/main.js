@@ -45,8 +45,10 @@ window.addEventListener(
     }
 
     const athlete = await athleteResponse.json();
+
     activeSlideIndex = slides.indexOf(activeSlide);
 
+    processAthlete(athlete);
     setupProgressBar();
     setupNavigation();
     setupBubbles();
@@ -54,6 +56,41 @@ window.addEventListener(
   },
   false
 );
+
+const ANDREA = "Andrea Qie";
+const CLARA = "Clara Eilenberg";
+
+function processAthlete(athlete) {
+  document.getElementById("name").innerHTML = athlete.name;
+  document.getElementById("class").innerHTML = 2037 - athlete.grade;
+
+  if (athlete.name !== ANDREA) {
+    removeSlide("school-record");
+  }
+
+  console.log(athlete);
+
+  if (athlete.name === CLARA) {
+    removeSlide("goodbye");
+    removeSlide("goodbye-senior");
+  } else if (athlete.grade === 12) {
+    removeSlide("goodbye");
+    removeSlide("goodbye-clara");
+  } else {
+    removeSlide("goodbye-clara");
+    removeSlide("goodbye-senior");
+  }
+
+  if (athlete.has_2023_wrapped) {
+    document.getElementById("previous-season-wrapped-link").href += `?student=${athlete.name.toLowerCase().replace(" ", "-")}`;
+  } else {
+    removeSlide("previous-wrapped");
+  }
+}
+
+function removeSlide(slideName) {
+  slides = slides.filter(slide => slide.name != slideName);
+}
 
 function setupProgressBar() {
   const meterContainer = document.getElementsByClassName("meters-container")[0];

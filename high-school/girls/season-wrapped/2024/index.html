@@ -32,7 +32,8 @@
 
   <!-- JS -->
   <script src="/assets/high-school/girls/season-wrapped/2024/main.js"></script>
-  <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.6/dist/chart.umd.min.js"></script>
+  <!-- <script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/4.4.1/chart.min.js" integrity="sha512-L0Shl7nXXzIlBSUUPpxrokqq4ojqgZFQczTYlGjzONGTDAcLremjwaWv5A+EDLnxhQzY5xUZPWLOLqYRkY0Cbw==" crossorigin="anonymous" referrerpolicy="no-referrer"></script> -->
 </head>
 
 <body class="noselect">
@@ -55,16 +56,17 @@
         <div id="forward"></div>
         <div class="meters-container"></div>
 
-        <div class="slide active" data-name="welcome">
+        <div class="slide" data-name="welcome">
           <div class="slide-content">
             <span class="orange">Needham High School</span>
             <br>
             <span class="lilac">Girls Swim &amp; Dive</span>
             <br>
             <span class="red">2024 Wrapped</span>
+            <br><br>
+            <b id="name" class="font-sm"></b>
             <br>
-            <br>
-            <b class="font-small">Andrea Qie</b>
+            <span class="font-sm">Class of <span id="class"></span></span>
           </div>
         </div>
 
@@ -74,14 +76,14 @@
             <hr>
             <span class="orange">We ended the season with a</span>
             <br>
-            <div class="font-small">
-              <span class="lilac">7 &ndash; 3</span> <b>dual meet record</b>
+            <div class="font-sm">
+              <span class="lilac">7 &ndash; 3</span> dual meet record
               <br>
-              <span class="lilac">2nd place</span> at <b>Bay State Conference</b>
+              <span class="lilac">2nd place</span> at Bay State Conference
               <br>
-              <span class="lilac">2nd place</span> at <b>South Sectionals</b>
+              <span class="lilac">2nd place</span> at South Sectionals
               <br>
-              <span class="lilac">3rd place</span> at <b>Division I States</b>
+              <span class="lilac">3rd place</span> at Division I States
             </div>
           </div>
         </div>
@@ -90,7 +92,7 @@
           <div class="slide-content">
             <b class="red">Dual Meet Scores</b>
             <hr>
-            <table id="dual-meet-scores" class="font-small">
+            <table id="dual-meet-scores" class="font-sm">
               <tr>
                 <td class="orange">9/6</td>
                 <td>Framingham</td>
@@ -185,7 +187,7 @@
 
         <div class="slide" data-name="sectionals-qualified">
           <div class="slide-content">
-            <span class="font-small">You qualified for <b class="red">sectionals</b> in</span>
+            <span class="font-sm">You qualified for <b class="red">sectionals</b> in</span>
             <hr>
             <b>
               <div class="rotate-colors">
@@ -206,7 +208,7 @@
 
         <div class="slide" data-name="states-qualified">
           <div class="slide-content">
-            <span class="font-small">You qualified for <b class="red">states</b> in</span>
+            <span class="font-sm">You qualified for <b class="red">states</b> in</span>
             <hr>
             <b>
               <div class="rotate-colors">
@@ -232,10 +234,24 @@
           </div>
         </div>
 
-        <div class="slide" data-name="dive-radar-chart">
+        <div class="slide active" data-name="dive-radar-chart">
           <div class="slide-content">
             <b class="red">Dive Group Specialty</b>
             <canvas id="dive-radar-chart"></canvas>
+          </div>
+        </div>
+
+        <div class="slide" data-name="school-record">
+          <div class="slide-content">
+            <span class="red">Congrats on setting 2 school records!</span>
+            <br><br>
+            <b class="lilac">200 Yard IM</b>
+            <br>
+            <span class="font-sm orange">2:07.41</span>
+            <br><br>
+            <b class="lilac">100 Yard Butterfly</b>
+            <br>
+            <span class="font-sm orange">57.11</span>
           </div>
         </div>
 
@@ -245,21 +261,29 @@
           </div>
         </div>
 
+        <div class="slide" data-name="goodbye-clara">
+          <div class="slide-content">
+            <span class="red">We will miss you next year <span style="white-space: nowrap;">:(</span></span>
+            <br><br>
+            <span class="lilac">We hope you enjoy the rest of your stay in the US!</span>
+            <br>
+          </div>
+        </div>
+
         <div class="slide" data-name="goodbye-senior">
           <div class="slide-content">
-            <span class="red">We will miss you next year :(</span>
-            <br>
-            <br>
+            <span class="red">We will miss you next year <span style="white-space: nowrap;">:(</span></span>
+            <br><br>
             <span class="lilac">Wishing you all the best for the rest of your senior year!</span>
             <br>
           </div>
         </div>
 
-        <div class="slide" data-name="dive-radar-chart">
+        <div class="slide disabled" data-name="previous-wrapped">
           <div class="slide-content">
-            <a href="/high-school/girls/season-wrapped/2023/?student=isabela-bobocea">Click here</a>
+            <a id="previous-season-wrapped-link" class="red" href="/high-school/girls/season-wrapped/2023/">Click here</a>
             <br>
-            for last season's wrapped
+            <span class="lilac">for last season's wrapped</span>
           </div>
         </div>
       </div>
