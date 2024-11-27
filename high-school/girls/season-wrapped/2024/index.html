@@ -1,0 +1,268 @@
+<!DOCTYPE html>
+<head>
+  <!-- Required meta tags -->
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, height=device-height, initial-scale=1, shrink-to-fit=no">
+
+	<!-- Favicon-->
+	<link rel="shortcut icon" href="/favicon.ico">
+
+	<!-- Author Meta -->
+	<meta name="author" content="Zibing Zhang">
+	<!-- Meta Description -->
+	<meta name="description" content=>
+	<!-- Meta Keyword -->
+	<meta name="keywords" content=>
+	<!-- Meta Character Set -->
+	<meta charset="UTF-8">
+
+  <!-- Stop Robots -->
+  <meta name="robots" content="noindex, nofollow">
+
+	<!-- Site Title -->
+	<title>2024 Season Wrapped</title>
+
+	<!-- Fonts -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Figtree:ital,wght@0,300..900;1,300..900&display=swap" rel="stylesheet">
+
+	<!-- CSS -->
+  <link rel="stylesheet" href="/assets/high-school/girls/season-wrapped/2024/main.css">
+
+  <!-- JS -->
+  <script src="/assets/high-school/girls/season-wrapped/2024/main.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+</head>
+
+<body class="noselect">
+  <template id="hex-template">
+    <div class="hex">
+      <div class="left"></div>
+      <div class="middle">
+        <div class="middle-cover"></div>
+      </div>
+      <div class="right"></div>
+    </div>
+  </template>
+
+  <div class="container-outer">
+    <div class="container-middle">
+      <div class="container-inner">
+        <div id="background"></div>
+
+        <div id="backward"></div>
+        <div id="forward"></div>
+        <div class="meters-container"></div>
+
+        <div class="slide active" data-name="welcome">
+          <div class="slide-content">
+            <span class="orange">Needham High School</span>
+            <br>
+            <span class="lilac">Girls Swim &amp; Dive</span>
+            <br>
+            <span class="red">2024 Wrapped</span>
+            <br>
+            <br>
+            <b class="font-small">Andrea Qie</b>
+          </div>
+        </div>
+
+        <div class="slide" data-name="team-summary">
+          <div class="slide-content">
+            <b class="red">Congratulations on an amazing season!</b>
+            <hr>
+            <span class="orange">We ended the season with a</span>
+            <br>
+            <div class="font-small">
+              <span class="lilac">7 &ndash; 3</span> <b>dual meet record</b>
+              <br>
+              <span class="lilac">2nd place</span> at <b>Bay State Conference</b>
+              <br>
+              <span class="lilac">2nd place</span> at <b>South Sectionals</b>
+              <br>
+              <span class="lilac">3rd place</span> at <b>Division I States</b>
+            </div>
+          </div>
+        </div>
+
+        <div class="slide" data-name="dual-meet-scores">
+          <div class="slide-content">
+            <b class="red">Dual Meet Scores</b>
+            <hr>
+            <table id="dual-meet-scores" class="font-small">
+              <tr>
+                <td class="orange">9/6</td>
+                <td>Framingham</td>
+                <td class="lilac"><b>99</b></td>
+                <td>&ndash;</td>
+                <td>85</td>
+              </tr>
+              <tr>
+                <td class="orange">9/10</td>
+                <td>Milton</td>
+                <td class="lilac"><b>94</b></td>
+                <td>&ndash;</td>
+                <td>91</td>
+              </tr>
+              <tr>
+                <td class="orange">9/17</td>
+                <td>Braintree</td>
+                <td class="lilac"><b>103</b></td>
+                <td>&ndash;</td>
+                <td>81</td>
+              </tr>
+              <tr>
+                <td class="orange">9/24</td>
+                <td>Acton-Boxboro</td>
+                <td>85</td>
+                <td>&ndash;</td>
+                <td class="lilac"><b>98</b></td>
+              </tr>
+              <tr>
+                <td class="orange">9/27</td>
+                <td>Newton&nbsp;North</td>
+                <td class="lilac"><b>98</b></td>
+                <td>&ndash;</td>
+                <td>88</td>
+              </tr>
+              <tr>
+                <td class="orange">10/1</td>
+                <td>Brookline</td>
+                <td>89</td>
+                <td>&ndash;</td>
+                <td class="lilac"><b>97</b></td>
+              </tr>
+              <tr>
+                <td class="orange">10/8</td>
+                <td>Walpole</td>
+                <td class="lilac"><b>92</b></td>
+                <td>&ndash;</td>
+                <td>44</td>
+              </tr>
+              <tr>
+                <td class="orange">10/15</td>
+                <td>Natick</td>
+                <td class="lilac"><b>93</b></td>
+                <td>&ndash;</td>
+                <td>83</td>
+              </tr>
+              <tr>
+                <td class="orange">10/18</td>
+                <td>Weymouth</td>
+                <td class="lilac"><b>96</b></td>
+                <td>&ndash;</td>
+                <td>68</td>
+              </tr>
+              <tr>
+                <td class="orange">10/22</td>
+                <td>Wellesley</td>
+                <td>88</td>
+                <td>&ndash;</td>
+                <td class="lilac"><b>96</b></td>
+              </tr>
+            </table>
+          </div>
+        </div>
+
+        <div id="slide" class="slide" data-name="transition">
+          <div class="slide-content">
+            <span class="red">We couldn't have done it without you!</span>
+            <br>
+            <br>
+            <span class="lilac">Let's look at some of your stats from this season</span>
+          </div>
+        </div>
+
+        <div class="slide" data-name="practice-summary">
+          <div class="slide-content">
+            You attended <b class="red">40 practices</b>
+            <br>
+            <br>
+            That's a <span class="lilac">99%</span> practice attendance!
+          </div>
+        </div>
+
+        <div class="slide" data-name="sectionals-qualified">
+          <div class="slide-content">
+            <span class="font-small">You qualified for <b class="red">sectionals</b> in</span>
+            <hr>
+            <b>
+              <div class="rotate-colors">
+                <div class="color">200 Yard IM</div>
+                <div class="color">200 Yard Freestyle</div>
+                <div class="color">50 Yard Freestyle</div>
+                <div class="color">1 Meter Diving</div>
+                <div class="color">1 Meter Diving</div>
+                <div class="color">100 Yard Butterfly</div>
+                <div class="color">100 Yard Freestyle</div>
+                <div class="color">500 Yard Freestyle</div>
+                <div class="color">100 Yard Backstroke</div>
+                <div class="color">100 Yard Breaststroke</div>
+              </div>
+            </b>
+          </div>
+        </div>
+
+        <div class="slide" data-name="states-qualified">
+          <div class="slide-content">
+            <span class="font-small">You qualified for <b class="red">states</b> in</span>
+            <hr>
+            <b>
+              <div class="rotate-colors">
+                <div class="color">200 Yard IM</div>
+                <div class="color">200 Yard Freestyle</div>
+                <div class="color">50 Yard Freestyle</div>
+                <div class="color">1 Meter Diving</div>
+                <div class="color">1 Meter Diving</div>
+                <div class="color">100 Yard Butterfly</div>
+                <div class="color">100 Yard Freestyle</div>
+                <div class="color">500 Yard Freestyle</div>
+                <div class="color">100 Yard Backstroke</div>
+                <div class="color">100 Yard Breaststroke</div>
+              </div>
+            </b>
+          </div>
+        </div>
+
+        <div class="slide" data-name="swim-radar-chart">
+          <div class="slide-content">
+            <b class="red">Stroke Specialty</b>
+            <canvas id="swim-radar-chart"></canvas>
+          </div>
+        </div>
+
+        <div class="slide" data-name="dive-radar-chart">
+          <div class="slide-content">
+            <b class="red">Dive Group Specialty</b>
+            <canvas id="dive-radar-chart"></canvas>
+          </div>
+        </div>
+
+        <div class="slide" data-name="goodbye">
+          <div class="slide-content">
+            <span class="red">We can't wait to see you next season!</span>
+          </div>
+        </div>
+
+        <div class="slide" data-name="goodbye-senior">
+          <div class="slide-content">
+            <span class="red">We will miss you next year :(</span>
+            <br>
+            <br>
+            <span class="lilac">Wishing you all the best for the rest of your senior year!</span>
+            <br>
+          </div>
+        </div>
+
+        <div class="slide" data-name="dive-radar-chart">
+          <div class="slide-content">
+            <a href="/high-school/girls/season-wrapped/2023/?student=isabela-bobocea">Click here</a>
+            <br>
+            for last season's wrapped
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</body>
