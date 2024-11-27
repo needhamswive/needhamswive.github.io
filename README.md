@@ -13,7 +13,7 @@ $ bundle config set --local path vendor/bundle
 $ bundle install
 
 # Serve with hot reloading
-$ bundle exec jekyll serve --port 4000 --force_polling --incremental
+$ bundle exec jekyll serve --port 4000 --force_polling --incremental --host 0.0.0.0
 
 # Build into directory
 $ bundle exec jekyll build --verbose
