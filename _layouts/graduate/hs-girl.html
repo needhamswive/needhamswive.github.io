@@ -1,0 +1,190 @@
+---
+layout: single
+---
+
+<style>
+  table td:nth-child(2) {
+    text-align: center;
+  }
+</style>
+
+<h1>{{ page.athlete }}</h1>
+
+{% assign last-season-year = page.last-season-year | append: "" %}
+
+{% assign events = site.data.high-school.event-order.individual-results %}
+
+{% assign general-information = site.data.high-school.girls.graduates[last-season-year].general-information %}
+
+{% assign file-name = page.athlete | downcase | replace: " ", "-" | replace: "'", "" %}
+{% assign athlete-information = site.data.high-school.girls.graduates[last-season-year].information[file-name] %}
+{% assign swims = site.data.high-school.girls.graduates[last-season-year].swims[file-name] %}
+
+{% assign years = athlete-information.years-participated %}
+
+{% assign dual-meet-wins = 0 %}
+{% assign dual-meet-losses = 0 %}
+{% for year in years %}
+  {% assign dual-meets-for-year = general-information.dual-meets | where: "year", year | first %}
+  {% assign dual-meet-wins = dual-meet-wins | plus: dual-meets-for-year.wins %}
+  {% assign dual-meet-losses = dual-meet-losses | plus: dual-meets-for-year.losses %}
+{% endfor %}
+
+{% assign swims-individual = swims | filter_individual %}
+{% assign swims-relay = swims | filter_relay %}
+{% assign swims-points = swims | map: "points" | total %}
+
+{% assign first-place-finishes = swims | where: "place", 1 %}
+{% assign second-place-finishes = swims | where: "place", 2 %}
+{% assign third-place-finishes = swims | where: "place", 3 %}
+
+{% assign points-scored = swims-points %}
+
+<table>
+  <thead>
+    <tr>
+      <th colspan="2">Overall Statistics</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Years on the Team</td>
+      <td>{{ years | size }}</td>
+    </tr>
+    <tr>
+      <td>Dual Meet Wins</td>
+      <td>{{ dual-meet-wins }}</td>
+    </tr>
+    <tr>
+      <td>Dual Meet Losses</td>
+      <td>{{ dual-meet-losses }}</td>
+    </tr>
+    {% assign swims-individual-count = swims-individual | size %}
+    {% if swims-individual-count > 0 %}
+      <tr>
+        <td>Individual Events Swam</td>
+        <td>{{ swims-individual-count }}</td>
+      </tr>
+    {% endif %}
+    {% assign swims-relay-count = swims-relay | size %}
+    {% if swims-relay-count > 0 %}
+      <tr>
+        <td>Relay Events Swam</td>
+        <td>{{ swims-relay-count }}</td>
+      </tr>
+    {% endif %}
+    <tr>
+      <td>Points Scored</td>
+      <td>{{ points-scored }}</td>
+    </tr>
+    {% assign first-place-finishes-count = first-place-finishes | size %}
+    {% if first-place-finishes-count > 0 %}
+      <tr>
+        <td>1<sup>st</sup> Place Finishes</td>
+        <td>{{ first-place-finishes-count }}</td>
+      </tr>
+    {% endif %}
+    {% assign second-place-finishes-count = second-place-finishes | size %}
+    {% if second-place-finishes-count > 0 %}
+      <tr>
+        <td>2<sup>nt</sup> Place Finishes</td>
+        <td>{{ second-place-finishes-count }}</td>
+      </tr>
+    {% endif %}
+    {% assign third-place-finishes-count = third-place-finishes | size %}
+    {% if third-place-finishes-count > 0 %}
+      <tr>
+        <td>3<sup>rd</sup> Place Finishes</td>
+        <td>{{ third-place-finishes-count }}</td>
+      </tr>
+    {% endif %}
+  </tbody>
+</table>
+
+{% assign total-swims-count = swims-individual-count | plus: swims-relay-count %}
+{% if total-swims-count > 0 %}
+  <h2>Swimming</h2>
+
+  <h3>Summary</h3>
+
+  <table>
+    <thead>
+      <tr>
+        <th colspan="2">Total Swims</th>
+      </tr>
+    </thead>
+    <tbody>
+      {% for event in events %}
+        {% assign swims-for-event = swims | where: "event", event %}
+        {% if swims-for-event.size > 0 %}
+          <tr>
+            <td>{{ event }}</td>
+            <td>{{ swims-for-event.size }}</td>
+          </tr>
+        {% endif %}
+      {% endfor %}
+    </tbody>
+  </table>
+
+  <table>
+    <thead>
+      <tr>
+        <th colspan="2">Best Times</th>
+      </tr>
+    </thead>
+    <tbody>
+      {% for event in events %}
+        {% assign swims-for-event = swims | where: "event", event | map: "time" | compact | sort %}
+        {% assign size = swims-for-event | size %}
+        {% if size > 0 %}
+          {% assign top-time = swims-for-event | first %}
+          <tr>
+            <td>{{ event }}</td>
+            <td>{{ top-time | format_time }}</td>
+          </tr>
+        {% endif %}
+      {% endfor %}
+    </tbody>
+  </table>
+
+  <h3>All Results</h3>
+
+  <table>
+    <thead>
+      <tr>
+        <th>Event</th>
+        <th>Time</th>
+        <th>Date</th>
+        <th>Meet</th>
+        <th>Splits</th>
+        <th>DQ</th>
+        <th>Sectionals Qualified</th>
+        <th>States Qualified</th>
+      </tr>
+    </thead>
+    <tbody>
+      {% for event in events %}
+        {% assign swims-for-event = swims | where: "event", event %}
+        {% for swim in swims-for-event %}
+          <tr>
+            <td>{{ swim.event | format_cell }}{% if swim.first-leg == "TRUE" %}*{% endif %}</td>
+            <td>{{ swim.time | format_time }}</td>
+            <td>{{ swim.date }}</td>
+            <td>{{ swim.meet | format_cell }}</td>
+            {% assign splits-string = "" %}
+            {% assign splits = swim.splits | split: "/" %}
+            {% for split in splits %}
+              {% assign formatted-split = split | format_time %}
+              {% assign splits-string = splits-string | append: formatted-split | append: "&nbsp;" %}
+            {% endfor %}
+            <td>{{ splits-string }}</td>
+            <td style="text-align: center;">{% if swim.dq == "TRUE" %}x{% endif %}</td>
+            <td style="text-align: center;">{% if swim.sectionals-qualifier == "TRUE" %}x{% endif %}</td>
+            <td style="text-align: center;">{% if swim.states-qualifier == "TRUE" %}x{% endif %}</td>
+          </tr>
+        {% endfor %}
+      {% endfor %}
+    </tbody>
+  </table>
+  <sup>* First leg</sup>
+{% endif %}

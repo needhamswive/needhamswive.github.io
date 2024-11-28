@@ -1,7 +1,11 @@
 module Jekyll
   module FilterRelayFilter
     def filter_relay(input)
-      return input.select{ |item| item["event"].include? "Split" }
+      if input.nil?
+        return nil
+      else
+        return input.select{ |item| item["event"].include? "Split" }
+      end
     end
   end
 end

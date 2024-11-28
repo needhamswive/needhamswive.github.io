@@ -275,12 +275,17 @@ defaults:
       path: high-school/girls/graduates
     values:
       breadcrumbs: false
+      layout: graduate/hs-girl
       sidebar:
         nav: none
   - scope:
       path: high-school/girls/graduates/2024
     values:
-      layout: graduate/2024-hs-girl
+      last-season-year: 2024
+  - scope:
+      path: high-school/girls/graduates/2025
+    values:
+      last-season-year: 2025
   - scope:
       path: high-school/boys
     values:
