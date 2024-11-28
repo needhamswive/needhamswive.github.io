@@ -21,8 +21,8 @@ event	time	splits	place	points	date	meet	dq	sectionals-qualifier	states-qualifie
 100 Breaststroke	77.74	/41.03	3	3	10/03/2022	Braintree	FALSE	TRUE	FALSE
 100 Breaststroke	77.94	37.18/40.85			10/14/2022	Newton North	FALSE	TRUE	FALSE
 100 Breaststroke	80.59	37.89/42.50			10/21/2022	Walpole	FALSE	FALSE	FALSE
-100 Buttefly	64.09	29.80/34.12	2	4	09/12/2023	Walpole	FALSE	TRUE	TRUE
-100 Buttefly	64.65	30.10/34.53	1	6	10/17/2023	Weymouth	FALSE	TRUE	TRUE
+100 Butterfly	64.09	29.80/34.12	2	4	09/12/2023	Walpole	FALSE	TRUE	TRUE
+100 Butterfly	64.65	30.10/34.53	1	6	10/17/2023	Weymouth	FALSE	TRUE	TRUE
 100 Freestyle	57.15				09/28/2021	Brookline	FALSE	TRUE	TRUE
 100 Freestyle	57.35				09/10/2021	Weymouth	FALSE	TRUE	TRUE
 100 Freestyle Split	54.42	25.88/28.54	1	10	11/05/2023	Sectionals	FALSE	FALSE	FALSE
@@ -97,7 +97,7 @@ event	time	splits	place	points	date	meet	dq	sectionals-qualifier	states-qualifie
 50 Backstroke Split	30.66		1	2	10/13/2023	Natick	FALSE	FALSE	FALSE
 50 Backstroke Split	30.85		1	2	09/26/2023	Braintree	FALSE	FALSE	FALSE
 50 Backstroke Split	31.81		1	2	10/21/2022	Walpole	FALSE	FALSE	FALSE
-50 Buttefly Split	29.50		1	2	10/09/2023	Framingham	FALSE	FALSE	FALSE
+50 Butterfly Split	29.50		1	2	10/09/2023	Framingham	FALSE	FALSE	FALSE
 50 Freestyle	26.01		2	4	10/02/2023	Newton North	FALSE	TRUE	TRUE
 50 Freestyle	26.89		3	3	09/26/2023	Braintree	FALSE	TRUE	FALSE
 50 Freestyle	27.00		1	6	10/07/2022	Framingham	FALSE	TRUE	TRUE
