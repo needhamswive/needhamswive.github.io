@@ -44,13 +44,13 @@ event	time	splits	place	points	date	meet	dq	sectionals-qualifier	states-qualifie
 100 Freestyle Split	63.13				09/10/2021	Weymouth	FALSE	FALSE	FALSE
 100 Freestyle Split	63.21				10/21/2022	Walpole	FALSE	FALSE	FALSE
 100 Freestyle Split	63.69				10/18/2022	Natick	FALSE	FALSE	FALSE
-100 Freestyle Split	63.85		4	0	09/20/2022	Milton	FALSE	FALSE	FALSE	TRUE
+100 Freestyle Split	63.85		4		09/20/2022	Milton	FALSE	FALSE	FALSE	TRUE
 100 Freestyle Split	64.32				10/08/2021	Walpole	FALSE	FALSE	FALSE
 100 Freestyle Split	64.63				09/13/2022	Weymouth	FALSE	FALSE	FALSE
 200 Freestyle	129.18	30.06/32.69/33.45/32.98	11	6	10/29/2022	Bay State Conference	FALSE	TRUE	TRUE
 200 Freestyle	129.78	29.01/31.00/36.35/33.42	4	2	10/05/2023	Brookline	FALSE	TRUE	TRUE
 200 Freestyle	130.58	29.94/32.73/34.03/33.88	15	2	11/13/2022	States	FALSE	TRUE	TRUE
-200 Freestyle	131.10	29.61/32.69/34.43/34.37	17	0	11/06/2022	Sectionals	FALSE	TRUE	FALSE
+200 Freestyle	131.10	29.61/32.69/34.43/34.37	17		11/06/2022	Sectionals	FALSE	TRUE	FALSE
 200 Freestyle	131.87	29.60/33.28/34.82/33.79	3	3	10/13/2023	Natick	FALSE	TRUE	FALSE
 200 Freestyle	131.96	29.25/33.01/34.86/34.86	14	3	10/29/2023	Bay State Conference	FALSE	TRUE	FALSE
 200 Freestyle	133.23	29.29/33.37/35.16/35.41	5	1	10/20/2023	Wellesley	FALSE	FALSE	FALSE
@@ -61,7 +61,7 @@ event	time	splits	place	points	date	meet	dq	sectionals-qualifier	states-qualifie
 200 Freestyle	134.32				10/15/2021	Braintree	FALSE	FALSE	FALSE
 200 Freestyle	135.04	30.50/34.06/36.46/35.90	1	6	10/07/2022	Framingham	FALSE	FALSE	FALSE
 200 Freestyle	135.16				09/10/2021	Weymouth	FALSE	FALSE	FALSE
-200 Freestyle	136.07	29.90/33.72/35.85/36.72	6	0	10/20/2022	Wellesley	FALSE	FALSE	FALSE
+200 Freestyle	136.07	29.90/33.72/35.85/36.72	6		10/20/2022	Wellesley	FALSE	FALSE	FALSE
 200 Freestyle	136.52	30.78/34.61/36.25/34.67	5	1	09/15/2022	Acton-Boxborough	FALSE	FALSE	FALSE
 200 Freestyle	138.19	30.51/35.87/36.03/	5	1	10/14/2022	Newton North	FALSE	FALSE	FALSE
 50 Butterfly Split	27.69		4	7.5	11/11/2023	States	FALSE	FALSE	FALSE
@@ -93,7 +93,7 @@ event	time	splits	place	points	date	meet	dq	sectionals-qualifier	states-qualifie
 50 Butterfly Split	29.22				09/28/2021	Brookline	FALSE	FALSE	FALSE
 50 Butterfly Split	29.25				10/15/2021	Braintree	FALSE	FALSE	FALSE
 50 Butterfly Split	30.00				09/14/2021	Natick	FALSE	FALSE	FALSE
-50 Butterfly Split			4	0	10/07/2022	Framingham	FALSE	FALSE	FALSE
+50 Butterfly Split			4		10/07/2022	Framingham	FALSE	FALSE	FALSE
 50 Freestyle	26.70		11	6	11/05/2023	Sectionals	FALSE	TRUE	TRUE
 50 Freestyle	26.92		12	5	11/11/2023	States	FALSE	TRUE	FALSE
 50 Freestyle	27.09		2	4	09/12/2023	Walpole	FALSE	TRUE	FALSE
@@ -105,7 +105,7 @@ event	time	splits	place	points	date	meet	dq	sectionals-qualifier	states-qualifie
 50 Freestyle Split	26.34		6	6.5	10/29/2023	Bay State Conference	FALSE	FALSE	FALSE
 50 Freestyle Split	26.57		1	2	10/17/2023	Weymouth	FALSE	FALSE	FALSE
 50 Freestyle Split	26.67		2	1	10/20/2023	Wellesley	FALSE	FALSE	FALSE
-50 Freestyle Split	26.72		4	0	10/02/2023	Newton North	FALSE	FALSE	FALSE
+50 Freestyle Split	26.72		4		10/02/2023	Newton North	FALSE	FALSE	FALSE
 50 Freestyle Split	27.07		3	0.5	09/29/2023	Acton-Boxborough	FALSE	FALSE	FALSE
 50 Freestyle Split	27.71		3	0.5	10/05/2023	Brookline	FALSE	FALSE	FALSE
 50 Freestyle Split	27.86				10/19/2021	Newton North	FALSE	FALSE	FALSE
@@ -115,7 +115,7 @@ event	time	splits	place	points	date	meet	dq	sectionals-qualifier	states-qualifie
 50 Freestyle Split	28.03				10/22/2021	Wellesley	FALSE	FALSE	FALSE
 50 Freestyle Split	28.04		1	2	10/13/2023	Natick	FALSE	FALSE	FALSE
 50 Freestyle Split	28.08				10/15/2021	Braintree	FALSE	FALSE	FALSE
-50 Freestyle Split	28.25		4	0	10/20/2022	Wellesley	FALSE	FALSE	FALSE
+50 Freestyle Split	28.25		4		10/20/2022	Wellesley	FALSE	FALSE	FALSE
 50 Freestyle Split	28.27				09/21/2021	Framingham	FALSE	FALSE	FALSE
 50 Freestyle Split	28.27		3	0.5	09/28/2022	Brookline	FALSE	FALSE	FALSE	TRUE
 50 Freestyle Split	28.28		3	0.5	09/26/2023	Braintree	FALSE	FALSE	FALSE
@@ -128,6 +128,6 @@ event	time	splits	place	points	date	meet	dq	sectionals-qualifier	states-qualifie
 50 Freestyle Split	28.89		2	1	09/20/2022	Milton	FALSE	FALSE	FALSE	TRUE
 50 Freestyle Split	28.89				10/21/2022	Walpole	FALSE	FALSE	FALSE	TRUE
 50 Freestyle Split	29.06				09/14/2021	Natick	FALSE	FALSE	FALSE
-50 Freestyle Split	29.07		4	0	10/14/2022	Newton North	FALSE	FALSE	FALSE	TRUE
+50 Freestyle Split	29.07		4		10/14/2022	Newton North	FALSE	FALSE	FALSE	TRUE
 500 Freestyle	358.03	68.75/70.43/72.00/73.44/73.29	1	6	10/09/2023	Framingham	FALSE	TRUE	FALSE
 500 Freestyle	363.28	69.09/72.60/73.82/75.36/72.43	2	4	10/03/2022	Braintree	FALSE	FALSE	FALSE

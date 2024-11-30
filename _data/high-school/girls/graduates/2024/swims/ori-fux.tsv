@@ -4,13 +4,13 @@ event	time	splits	place	points	date	meet	dq	sectionals-qualifier	states-qualifie
 100 Backstroke	64.09	31.14/32.95	7	12	11/05/2023	Sectionals	FALSE	TRUE	TRUE
 100 Backstroke	64.42	31.15/33.27	12	5	11/11/2023	States	FALSE	TRUE	TRUE
 100 Backstroke	64.76	31.37/33.39	15	2	11/13/2022	States	FALSE	TRUE	TRUE
-100 Backstroke	64.88	31.12/33.76	17	0	11/14/2021	States	FALSE	TRUE	TRUE
+100 Backstroke	64.88	31.12/33.76	17		11/14/2021	States	FALSE	TRUE	TRUE
 100 Backstroke	64.98		10	7	10/29/2021	Bay State Conference	FALSE	TRUE	TRUE
 100 Backstroke	65.34	31.12/34.22	12	5	11/07/2021	Sectionals	FALSE	TRUE	TRUE
 100 Backstroke	65.50	31.93/33.57	3	3	10/20/2023	Wellesley	FALSE	TRUE	TRUE
 100 Backstroke	65.69	31.44/34.25	7	12	10/29/2023	Bay State Conference	FALSE	TRUE	TRUE
 100 Backstroke	65.73	31.56/34.07	2	4	10/03/2022	Braintree	FALSE	TRUE	TRUE
-100 Backstroke	66.78	32.47/34.36	6	0	10/20/2022	Wellesley	FALSE	TRUE	TRUE
+100 Backstroke	66.78	32.47/34.36	6		10/20/2022	Wellesley	FALSE	TRUE	TRUE
 100 Backstroke	66.87		3	3	09/28/2022	Brookline	FALSE	TRUE	TRUE
 100 Backstroke	67.36	32.69/34.78			10/07/2022	Framingham	FALSE	TRUE	TRUE
 100 Backstroke	67.41	32.78/34.51	3	3	10/05/2023	Brookline	FALSE	TRUE	TRUE
@@ -34,7 +34,7 @@ event	time	splits	place	points	date	meet	dq	sectionals-qualifier	states-qualifie
 100 Freestyle	60.26	28.44/31.82			10/18/2022	Natick	FALSE	TRUE	FALSE
 100 Freestyle	60.84	28.74/31.85	2	4	09/12/2023	Walpole	FALSE	FALSE	FALSE
 100 Freestyle	61.24	29.06/31.90	3	3	09/29/2023	Acton-Boxborough	FALSE	FALSE	FALSE
-100 Freestyle	61.72	29.28/32.44	6	0	09/15/2022	Acton-Boxborough	FALSE	FALSE	FALSE
+100 Freestyle	61.72	29.28/32.44	6		09/15/2022	Acton-Boxborough	FALSE	FALSE	FALSE
 100 Freestyle	61.75				10/08/2021	Walpole	FALSE	FALSE	FALSE
 100 Freestyle	62.27				10/22/2021	Wellesley	FALSE	FALSE	FALSE
 100 Freestyle	62.82				09/21/2021	Framingham	FALSE	FALSE	FALSE
@@ -44,16 +44,16 @@ event	time	splits	place	points	date	meet	dq	sectionals-qualifier	states-qualifie
 100 Freestyle Split	59.68		2	1	10/17/2023	Weymouth	FALSE	FALSE	FALSE
 100 Freestyle Split	59.74	28.07/31.67	3	0.5	10/20/2023	Wellesley	FALSE	FALSE	FALSE
 100 Freestyle Split	59.76		2	1	09/26/2023	Braintree	FALSE	FALSE	FALSE
-100 Freestyle Split	60.57		4	0	09/19/2023	Milton	FALSE	FALSE	FALSE
+100 Freestyle Split	60.57		4		09/19/2023	Milton	FALSE	FALSE	FALSE
 100 Freestyle Split	60.68		3	0.5	09/29/2023	Acton-Boxborough	FALSE	FALSE	FALSE
 100 Freestyle Split	61.07		3	0.5	09/20/2022	Milton	FALSE	FALSE	FALSE
 100 Freestyle Split	61.22		2	1	10/13/2023	Natick	FALSE	FALSE	FALSE	TRUE
 100 Freestyle Split	61.58		2	1	10/09/2023	Framingham	FALSE	FALSE	FALSE
 100 Freestyle Split	61.80		3	0.5	10/05/2023	Brookline	FALSE	FALSE	FALSE
-100 Freestyle Split	62.05		4	0	09/15/2022	Acton-Boxborough	FALSE	FALSE	FALSE
+100 Freestyle Split	62.05		4		09/15/2022	Acton-Boxborough	FALSE	FALSE	FALSE
 100 Freestyle Split	62.14				10/05/2021	Milton	FALSE	FALSE	FALSE
 100 Freestyle Split	62.20				10/07/2022	Framingham	FALSE	FALSE	FALSE
-100 Freestyle Split	62.25		4	0	10/20/2022	Wellesley	FALSE	FALSE	FALSE
+100 Freestyle Split	62.25		4		10/20/2022	Wellesley	FALSE	FALSE	FALSE
 100 Freestyle Split	62.61		3	0.5	09/28/2022	Brookline	FALSE	FALSE	FALSE
 100 Freestyle Split	62.69				09/13/2022	Weymouth	FALSE	FALSE	FALSE
 100 Freestyle Split	62.70				10/14/2022	Newton North	FALSE	FALSE	FALSE	TRUE
@@ -82,7 +82,7 @@ event	time	splits	place	points	date	meet	dq	sectionals-qualifier	states-qualifie
 200 Individual Medley	150.08	32.10/36.78/47.15/32.83	5	1	09/15/2022	Acton-Boxborough	FALSE	TRUE	TRUE
 200 Individual Medley	150.18	32.00/35.40/46.93/34.67	1	6	10/09/2023	Framingham	FALSE	TRUE	FALSE
 200 Individual Medley	150.48	32.74/36.36//	2	4	10/14/2022	Newton North	FALSE	TRUE	FALSE
-50 Backstroke Split	30.15		4	0	09/15/2022	Acton-Boxborough	FALSE	FALSE	FALSE
+50 Backstroke Split	30.15		4	09/15/2022	Acton-Boxborough	FALSE	FALSE	FALSE
 50 Backstroke Split	30.25		6	6.5	10/29/2022	Bay State Conference	FALSE	FALSE	FALSE
 50 Backstroke Split	30.77				10/22/2021	Wellesley	FALSE	FALSE	FALSE
 50 Backstroke Split	30.80		5	7	10/29/2023	Bay State Conference	FALSE	FALSE	FALSE
@@ -110,7 +110,7 @@ event	time	splits	place	points	date	meet	dq	sectionals-qualifier	states-qualifie
 50 Freestyle Split	27.68				10/22/2021	Wellesley	FALSE	FALSE	FALSE
 50 Freestyle Split	28.21				10/21/2022	Walpole	FALSE	FALSE	FALSE
 50 Freestyle Split	28.44				10/18/2022	Natick	FALSE	FALSE	FALSE
-50 Freestyle Split	28.71		4	0	10/20/2022	Wellesley	FALSE	FALSE	FALSE	TRUE
+50 Freestyle Split	28.71		4		10/20/2022	Wellesley	FALSE	FALSE	FALSE	TRUE
 50 Freestyle Split	28.81		3	0.5	09/12/2023	Walpole	FALSE	FALSE	FALSE	TRUE
 50 Freestyle Split	28.85		3	0.5	09/26/2023	Braintree	FALSE	FALSE	FALSE	TRUE
 50 Freestyle Split	29.34				09/13/2022	Weymouth	FALSE	FALSE	FALSE

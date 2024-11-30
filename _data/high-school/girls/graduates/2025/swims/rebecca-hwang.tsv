@@ -62,7 +62,7 @@ event	time	splits	place	points	date	meet	dq	sectionals-qualifier	states-qualifie
 100 Freestyle Split	59.75		2	1	09/24/2024	Acton-Boxborough	FALSE	FALSE	FALSE	FALSE
 100 Freestyle Split	60.41		2	1	09/27/2024	Newton North	FALSE	FALSE	FALSE	FALSE
 100 Freestyle Split	60.54		1	2	10/09/2023	Framingham	FALSE	FALSE	FALSE	FALSE
-100 Freestyle Split	60.69		4	0	09/15/2022	Acton-Boxborough	FALSE	FALSE	FALSE	FALSE
+100 Freestyle Split	60.69		4		09/15/2022	Acton-Boxborough	FALSE	FALSE	FALSE	FALSE
 100 Freestyle Split	61.25				10/18/2024	Weymouth	FALSE	FALSE	FALSE	TRUE
 100 Freestyle Split	61.53		1	2	10/08/2024	Walpole	FALSE	FALSE	FALSE	FALSE
 100 Freestyle Split	61.57		3	0.5	09/10/2024	Milton	FALSE	FALSE	FALSE	FALSE
@@ -132,7 +132,7 @@ event	time	splits	place	points	date	meet	dq	sectionals-qualifier	states-qualifie
 50 Freestyle	26.94		2	4	10/05/2023	Brookline	FALSE	TRUE	FALSE	FALSE
 50 Freestyle	27.21		3	3	10/03/2022	Braintree	FALSE	TRUE	FALSE	FALSE
 50 Freestyle	27.29		3	3	09/12/2023	Walpole	FALSE	TRUE	FALSE	FALSE
-50 Freestyle	27.54		6	0	10/14/2022	Newton North	FALSE	FALSE	FALSE	FALSE
+50 Freestyle	27.54		6		10/14/2022	Newton North	FALSE	FALSE	FALSE	FALSE
 50 Freestyle	29.06				09/28/2021	Brookline	FALSE	FALSE	FALSE	FALSE
 50 Freestyle Split	24.57		3	8	11/10/2024	States	FALSE	FALSE	FALSE	FALSE
 50 Freestyle Split	24.7		1	10	11/03/2024	Sectionals	FALSE	FALSE	FALSE	FALSE
