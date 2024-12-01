@@ -279,6 +279,13 @@ defaults:
       sidebar:
         nav: none
   - scope:
+      path: high-school/girls/graduates/directory
+    values:
+      breadcrumbs: false
+      layout: single
+      sidebar:
+        nav: none
+  - scope:
       path: high-school/girls/graduates/2024
     values:
       last-season-year: 2024
