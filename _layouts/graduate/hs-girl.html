@@ -12,13 +12,14 @@ layout: single
 
 {% assign last-season-year = page.last-season-year | append: "" %}
 
-{% assign events = site.data.high-school.event-order.individual-results %}
+{% assign swim-events = site.data.high-school.event-order.individual-swim-results %}
+{% assign dive-events = site.data.high-school.event-order.overall-dive-results %}
+{% assign dive-numbers = site.data.high-school.event-order.individual-dive-results %}
 
 {% assign general-information = site.data.high-school.girls.graduates[last-season-year].general-information %}
 
 {% assign file-name = page.athlete | downcase | replace: " ", "-" | replace: "'", "" %}
 {% assign athlete-information = site.data.high-school.girls.graduates[last-season-year].information[file-name] %}
-{% assign swims = site.data.high-school.girls.graduates[last-season-year].swims[file-name] %}
 
 {% assign years = athlete-information.years-participated %}
 
@@ -30,15 +31,41 @@ layout: single
   {% assign dual-meet-losses = dual-meet-losses | plus: dual-meets-for-year.losses %}
 {% endfor %}
 
-{% assign swims-individual = swims | filter_individual %}
-{% assign swims-relay = swims | filter_relay %}
+
+
+{% assign swims = site.data.high-school.girls.graduates[last-season-year].swims[file-name] %}
+
+{% assign swims-individual-count = swims | filter_individual | size %}
+{% assign swims-relay-count = swims | filter_relay | size %}
+
+{% assign swims-count = swims | size %}
+
 {% assign swims-points = swims | map: "points" | total %}
 
-{% assign first-place-finishes = swims | where: "place", 1 %}
-{% assign second-place-finishes = swims | where: "place", 2 %}
-{% assign third-place-finishes = swims | where: "place", 3 %}
+{% assign swims-first-place-finishes-count = swims | where: "place", 1 | size %}
+{% assign swims-second-place-finishes-count = swims | where: "place", 2 | size %}
+{% assign swims-third-place-finishes-count = swims | where: "place", 3 | size %}
 
-{% assign points-scored = swims-points %}
+
+
+{% assign dives-overall = site.data.high-school.girls.graduates[last-season-year].dives.overall[file-name] %}
+{% assign dives-overall-count = dives-overall | size %}
+
+{% assign dives-individual = site.data.high-school.girls.graduates[last-season-year].dives.individual[file-name] %}
+{% assign dives-individual-count = dives-individual | size %}
+
+{% assign dives-points = dives-overall | map: "points" | total %}
+
+{% assign dives-first-place-finishes-count = dives-overall | where: "place", 1 | size %}
+{% assign dives-second-place-finishes-count = dives-overall | where: "place", 2 | size %}
+{% assign dives-third-place-finishes-count = dives-overall | where: "place", 3 | size %}
+
+
+
+{% assign points-scored = swims-points | plus: dives-points %}
+{% assign first-place-finishes-count = swims-first-place-finishes-count | plus: dives-first-place-finishes-count %}
+{% assign second-place-finishes-count = swims-second-place-finishes-count | plus: dives-second-place-finishes-count %}
+{% assign third-place-finishes-count = swims-third-place-finishes-count | plus: dives-third-place-finishes-count %}
 
 <table>
   <thead>
@@ -59,14 +86,12 @@ layout: single
       <td>Dual Meet Losses</td>
       <td>{{ dual-meet-losses }}</td>
     </tr>
-    {% assign swims-individual-count = swims-individual | size %}
     {% if swims-individual-count > 0 %}
       <tr>
         <td>Individual Events Swam</td>
         <td>{{ swims-individual-count }}</td>
       </tr>
     {% endif %}
-    {% assign swims-relay-count = swims-relay | size %}
     {% if swims-relay-count > 0 %}
       <tr>
         <td>Relay Events Swam</td>
@@ -77,21 +102,18 @@ layout: single
       <td>Points Scored</td>
       <td>{{ points-scored }}</td>
     </tr>
-    {% assign first-place-finishes-count = first-place-finishes | size %}
     {% if first-place-finishes-count > 0 %}
       <tr>
         <td>1<sup>st</sup> Place Finishes</td>
         <td>{{ first-place-finishes-count }}</td>
       </tr>
     {% endif %}
-    {% assign second-place-finishes-count = second-place-finishes | size %}
     {% if second-place-finishes-count > 0 %}
       <tr>
         <td>2<sup>nt</sup> Place Finishes</td>
         <td>{{ second-place-finishes-count }}</td>
       </tr>
     {% endif %}
-    {% assign third-place-finishes-count = third-place-finishes | size %}
     {% if third-place-finishes-count > 0 %}
       <tr>
         <td>3<sup>rd</sup> Place Finishes</td>
@@ -101,8 +123,27 @@ layout: single
   </tbody>
 </table>
 
-{% assign total-swims-count = swims-individual-count | plus: swims-relay-count %}
-{% if total-swims-count > 0 %}
+<h2>Data Files</h2>
+
+<ul>
+{% if swims-count > 0 %}
+  <li>
+    <a href="https://github.com/needhamswive/needhamswive.github.io/blob/master/_data/high-school/girls/graduates/{{ last-season-year }}/swims/{{ file-name }}.tsv">Swim Results</a>
+  </li>
+{% endif %}
+{% if dives-overall-count > 0 %}
+  <li>
+    <a href="https://github.com/needhamswive/needhamswive.github.io/blob/master/_data/high-school/girls/graduates/{{ last-season-year }}/dives/overall/{{ file-name }}.tsv">Overall Dive Results</a>
+  </li>
+{% endif %}
+{% if dives-individual-count > 0 %}
+  <li>
+    <a href="https://github.com/needhamswive/needhamswive.github.io/blob/master/_data/high-school/girls/graduates/{{ last-season-year }}/dives/individual/{{ file-name }}.tsv">Individual Dive Results</a>
+  </li>
+{% endif %}
+</ul>
+
+{% if swims-count > 0 %}
   <h2>Swimming</h2>
 
   <h3>Summary</h3>
@@ -114,7 +155,7 @@ layout: single
       </tr>
     </thead>
     <tbody>
-      {% for event in events %}
+      {% for event in swim-events %}
         {% assign swims-for-event = swims | where: "event", event %}
         {% if swims-for-event.size > 0 %}
           <tr>
@@ -133,7 +174,7 @@ layout: single
       </tr>
     </thead>
     <tbody>
-      {% for event in events %}
+      {% for event in swim-events %}
         {% assign swims-for-event = swims | where: "event", event | map: "time" | compact | sort %}
         {% assign size = swims-for-event | size %}
         {% if size > 0 %}
@@ -163,7 +204,7 @@ layout: single
       </tr>
     </thead>
     <tbody>
-      {% for event in events %}
+      {% for event in swim-events %}
         {% assign swims-for-event = swims | where: "event", event %}
         {% for swim in swims-for-event %}
           <tr>
@@ -187,4 +228,78 @@ layout: single
     </tbody>
   </table>
   <sup>* First leg</sup>
+{% endif %}
+
+{% if dives-overall-count > 0 %}
+  <h2>Diving</h2>
+
+  <h3>Summary</h3>
+
+  <h3>All Results</h3>
+
+  <table>
+    <thead>
+      <tr>
+        <th>Format</th>
+        <th>Score</th>
+        <th>Date</th>
+        <th>Meet</th>
+        <th>Sectionals Qualified</th>
+        <th>States Qualified</th>
+      </tr>
+    </thead>
+    <tbody>
+      {% for event in dive-events %}
+        {% assign dives-for-event = dives-overall | where: "event", event %}
+        {% for dive in dives-for-event %}
+          <tr>
+            <td>{{ dive.event | format_cell }}{% if swim.first-leg == "TRUE" %}*{% endif %}</td>
+            <td>{{ dive.score }}</td>
+            <td>{{ dive.date }}</td>
+            <td>{{ dive.meet | format_cell }}</td>
+            <td style="text-align: center;">{% if dive.sectionals-qualifier == "TRUE" %}x{% endif %}</td>
+            <td style="text-align: center;">{% if dive.states-qualifier == "TRUE" %}x{% endif %}</td>
+          </tr>
+        {% endfor %}
+      {% endfor %}
+    </tbody>
+  </table>
+
+  <table>
+    <thead>
+      <tr>
+        <th>Dive Number</th>
+        <th>Degree of Difficulty</th>
+        <th>Score 1</th>
+        <th>Score 2</th>
+        <th>Score 3</th>
+        <th>Score 4</th>
+        <th>Score 5</th>
+        <th>No Score</th>
+        <th>Total Score</th>
+        <th>Date</th>
+        <th>Meet</th>
+      </tr>
+    </thead>
+    <tbody>
+      {% for dive-number in dive-numbers %}
+        {% assign dives-for-number = dives-individual | where: "number", dive-number %}
+        {% for dive in dives-for-number %}
+          <tr>
+            <td>{{ dive.number }}</td>
+            <td>{{ dive.degree-of-difficulty }}</td>
+            <td>{{ dive.score-1 }}</td>
+            <td>{{ dive.score-2 }}</td>
+            <td>{{ dive.score-3 }}</td>
+            <td>{{ dive.score-4 }}</td>
+            <td>{{ dive.score-5 }}</td>
+            <td style="text-align: center;">{% if dive.no-score == "TRUE" %}x{% endif %}</td>
+            <td>{{ dive.total-score }}</td>
+            <td>{{ dive.date }}</td>
+            <td>{{ dive.meet | format_cell }}</td>
+          </tr>
+        {% endfor %}
+      {% endfor %}
+    </tbody>
+  </table>
 {% endif %}

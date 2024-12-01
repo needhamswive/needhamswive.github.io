@@ -63,8 +63,7 @@ dual-meet-results:
   - 100 Backstroke
   - 100 Breaststroke
   - 400 Freestyle Relay
-individual-results:
-  - 1 Meter Diving
+individual-swim-results:
   - 200 Individual Medley
   - 200 Freestyle
   - 50 Freestyle
@@ -78,3 +77,32 @@ individual-results:
   - 50 Butterfly Split
   - 50 Freestyle Split
   - 100 Freestyle Split
+overall-dive-results:
+  - 6 Dives
+  - 5 Dives
+  - 8 Dives
+  - 11 Dives
+individual-dive-results:
+  - 101B
+  - 101C
+  - 102B
+  - 103B
+  - 103C
+  - 104C
+  - 201A
+  - 201B
+  - 201C
+  - 202A
+  - 204C
+  - 301C
+  - 302C
+  - 401B
+  - 401C
+  - 402C
+  - 403C
+  - 5122D
+  - 5124D
+  - 5211A
+  - 5221D
+  - 5223D
+  - 5225D
