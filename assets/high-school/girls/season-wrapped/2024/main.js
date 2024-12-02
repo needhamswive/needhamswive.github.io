@@ -52,23 +52,94 @@ window.addEventListener(
     setupProgressBar();
     setupNavigation();
     setupBubbles();
-    setupCharts();
   },
   false
 );
 
+const BEAD_COLORS = ["blue", "gold", "white"];
 const ANDREA = "Andrea Qie";
 const CLARA = "Clara Eilenberg";
 
 function processAthlete(athlete) {
   document.getElementById("name").innerHTML = athlete.name;
   document.getElementById("class").innerHTML = 2037 - athlete.grade;
+  document.getElementById("practices-attended").innerHTML = athlete.practices_attended;
+  document.getElementById("practice-percentage").innerHTML = athlete.practice_percentage;
+
+  for (const color of BEAD_COLORS) {
+    const beadCount = athlete[`${color}_beads`];
+    if (beadCount > 0) {
+      document.getElementById(`${color}-beads`).innerHTML = beadCount;
+    } else {
+      const element = document.getElementById(`${color}-beads-row`);
+      element.parentElement.removeChild(element);
+    }
+  }
+
+  if (athlete.sectionals_qualified) {
+    const element = document.getElementById("sectionals-qualified-events");
+    for (const event of athlete.sectionals_qualified) {
+      const eventElement = document.createElement("div");
+      eventElement.classList.add("color");
+      eventElement.innerHTML = event;
+      element.appendChild(eventElement);
+    }
+  } else {
+    removeSlide("sectionals-qualified");
+  }
+
+  if (athlete.states_qualified) {
+    const element = document.getElementById("states-qualified-events");
+    for (const event of athlete.states_qualified) {
+      const eventElement = document.createElement("div");
+      eventElement.classList.add("color");
+      eventElement.innerHTML = event;
+      element.appendChild(eventElement);
+    }
+  } else {
+    removeSlide("states-qualified");
+  }
 
   if (athlete.name !== ANDREA) {
     removeSlide("school-record");
   }
 
-  console.log(athlete);
+  if (athlete.swim_categories) {
+    for (const i in athlete.swim_categories) {
+      if (athlete.swim_categories[i] == "0.00") {
+        athlete.swim_categories[i] = 1;
+      } else {
+        // Map from 0-10 to 1-10
+        athlete.swim_categories[i] = 0.9 * athlete.swim_categories[i] + 1;
+      }
+    }
+
+    new Chart(document.getElementById("swim-radar-chart"), {
+      type: "radar",
+      data: {
+        labels: ["Fly", "Back", "Breast", "Free", "IM"],
+        datasets: [{
+          data: athlete.swim_categories,
+          borderWidth: 1
+        }],
+      },
+      options: chartOptions,
+    });
+    removeSlide("dive-radar-chart");
+  } else {
+    new Chart(document.getElementById("dive-radar-chart"), {
+      type: "radar",
+      data: {
+        labels: ["Forward", "Backward", "Reverse", "Inward", "Twisting"],
+        datasets: [{
+          data: athlete.dive_categories,
+          borderWidth: 1
+        }],
+      },
+      options: chartOptions,
+    });
+    removeSlide("swim-radar-chart");
+  }
 
   if (athlete.name === CLARA) {
     removeSlide("goodbye");
@@ -85,6 +156,13 @@ function processAthlete(athlete) {
     document.getElementById("previous-season-wrapped-link").href += `?student=${athlete.name.toLowerCase().replace(" ", "-")}`;
   } else {
     removeSlide("previous-wrapped");
+  }
+
+  if (athlete.grade === 12) {
+    document.getElementById("senior-summary-link").href += `${athlete.name.toLowerCase().replace(" ", "-")}/`;
+  } else {
+    const element = document.getElementById("senior-summary-link");
+    element.parentElement.removeChild(element);
   }
 }
 
@@ -190,37 +268,39 @@ function resetTimer() {
   progressBarStartTime = Date.now();
 }
 
-const bubbleColors = [
+// https://codepen.io/mazaka/pen/PoMQKwp
+const NUM_OF_BUBBLES = 30;
+const BUBBLE_COLORS = [
   "rgb(215, 195, 255, .3)",  // purple
   "rgb(255, 203, 230, .3)",  // red
   "rgb(255, 188, 188, .3)"   // orange
 ];
-
 const Direction = Object.freeze({
   UP: "up",
   DOWN: "down",
 });
 
+
 function setupBubbles() {
   const background = document.getElementById("background");
+  const shuffledIndexes = shuffleArray([...Array(NUM_OF_BUBBLES / 2).keys()]);
 
-  for (let i = 0; i < 10; i++) {
+  for (let i = 0; i < NUM_OF_BUBBLES / 2; i++) {
     background.appendChild(bubble(Direction.UP, i));
   }
 
-  for (let i = 0; i < 10; i++) {
+  for (let i = 0; i < NUM_OF_BUBBLES / 2; i++) {
     background.appendChild(bubble(Direction.DOWN, i));
   }
-
 
   function bubble(direction, i) {
     const bubble = document.createElement("div");
     const size  = 50 * random() + 30;
 
-    bubble.style.left = `${100 * random()}%`;
+    bubble.style.left = `${10 * (random() + shuffledIndexes[i]) % 100}%`;
     bubble.style.width = bubble.style.height = `${size}px`;
-    bubble.style.backgroundColor = bubbleColors[Math.floor(3 * random())];
-    bubble.style.animationDelay = `${4 * random() + 1.5 * i}s`;
+    bubble.style.backgroundColor = BUBBLE_COLORS[Math.floor(3 * random())];
+    bubble.style.animationDelay = `${3 * random() + 2 * i}s`;
     bubble.style.animationDuration = `${20 * random() + 30}s`;
 
     if (direction == Direction.UP) {
@@ -256,31 +336,14 @@ const chartOptions = {
   },
 };
 
-function setupCharts() {
-  new Chart(document.getElementById("swim-radar-chart"), {
-    type: "radar",
-    data: {
-      labels: ["Fly", "Back", "Breast", "Free", "IM"],
-      datasets: [{
-        data: [10, 3, 5, 9, 10],
-        borderWidth: 1
-      }],
-    },
-    options: chartOptions,
-  });
-
-  new Chart(document.getElementById("dive-radar-chart"), {
-    type: "radar",
-    data: {
-      labels: ["Forward", "Backward", "Reverse", "Inward", "Twisting"],
-      datasets: [{
-        data: [10, 7, 2, 9, 10],
-        borderWidth: 1
-      }],
-    },
-    options: chartOptions,
-  });
-
+// https://stackoverflow.com/a/12646864
+function shuffleArray(array) {
+  const shuffledArray = [...array];
+  for (let i = shuffledArray.length - 1; i >= 0; i--) {
+    const j = Math.floor(random() * (i + 1));
+    [shuffledArray[i], shuffledArray[j]] = [shuffledArray[j], shuffledArray[i]];
+  }
+  return shuffledArray;
 }
 
 // https://stackoverflow.com/a/47593316
