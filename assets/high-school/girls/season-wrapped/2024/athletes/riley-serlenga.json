@@ -1,5 +1,17 @@
 {
   "name": "Riley Serlenga",
   "grade": 12,
+  "practices_attended": 43,
+  "practice_percentage": "90.70%",
+  "blue_beads": 1,
+  "gold_beads": 1,
+  "white_beads": 7,
+  "swim_categories": [
+    "5.88",
+    "0.59",
+    "4.71",
+    "10.00",
+    "1.18"
+  ],
   "has_2023_wrapped": true
 }

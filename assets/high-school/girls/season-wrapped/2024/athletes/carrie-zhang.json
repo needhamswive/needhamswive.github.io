@@ -1,5 +1,17 @@
 {
   "name": "Carrie Zhang",
   "grade": 9,
+  "practices_attended": 43,
+  "practice_percentage": "95.35%",
+  "blue_beads": 9,
+  "gold_beads": 11,
+  "white_beads": 7,
+  "swim_categories": [
+    "0.00",
+    "0.00",
+    "9.52",
+    "10.00",
+    "0.95"
+  ],
   "has_2023_wrapped": false
 }

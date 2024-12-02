@@ -1,5 +1,23 @@
 {
   "name": "Chloe Afzali",
   "grade": 9,
+  "practices_attended": 53,
+  "practice_percentage": "98.11%",
+  "blue_beads": 27,
+  "gold_beads": 17,
+  "white_beads": 7,
+  "sectionals_qualified": [
+    "100 Breaststroke"
+  ],
+  "states_qualified": [
+    "100 Backstroke"
+  ],
+  "swim_categories": [
+    "0.00",
+    "10.00",
+    "3.18",
+    "7.73",
+    "1.36"
+  ],
   "has_2023_wrapped": false
 }

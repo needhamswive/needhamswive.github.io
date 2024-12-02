@@ -1,5 +1,17 @@
 {
   "name": "Madeline Weirup",
   "grade": 10,
+  "practices_attended": 43,
+  "practice_percentage": "93.02%",
+  "blue_beads": 0,
+  "gold_beads": 8,
+  "white_beads": 7,
+  "swim_categories": [
+    "0.00",
+    "0.77",
+    "0.38",
+    "10.00",
+    "0.38"
+  ],
   "has_2023_wrapped": true
 }

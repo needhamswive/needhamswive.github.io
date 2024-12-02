@@ -1,5 +1,17 @@
 {
   "name": "Lara Bobocea",
   "grade": 10,
+  "practices_attended": 43,
+  "practice_percentage": "90.70%",
+  "blue_beads": 0,
+  "gold_beads": 12,
+  "white_beads": 7,
+  "swim_categories": [
+    "1.90",
+    "2.38",
+    "0.95",
+    "10.00",
+    "0.95"
+  ],
   "has_2023_wrapped": true
 }

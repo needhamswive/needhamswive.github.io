@@ -1,5 +1,20 @@
 {
   "name": "Lucy Aswad",
   "grade": 12,
+  "practices_attended": 39,
+  "practice_percentage": "84.62%",
+  "blue_beads": 8,
+  "gold_beads": 2,
+  "white_beads": 11,
+  "states_qualified": [
+    "1 Meter Diving"
+  ],
+  "dive_categories": [
+    "7.50",
+    "8.00",
+    "4.00",
+    "10.00",
+    "8.50"
+  ],
   "has_2023_wrapped": true
 }

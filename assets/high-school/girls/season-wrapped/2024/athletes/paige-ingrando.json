@@ -1,5 +1,23 @@
 {
   "name": "Paige Ingrando",
   "grade": 11,
+  "practices_attended": 53,
+  "practice_percentage": "94.34%",
+  "blue_beads": 40,
+  "gold_beads": 9,
+  "white_beads": 7,
+  "sectionals_qualified": [
+    "100 Freestyle"
+  ],
+  "states_qualified": [
+    "100 Breaststroke"
+  ],
+  "swim_categories": [
+    "0.40",
+    "0.00",
+    "7.60",
+    "10.00",
+    "2.40"
+  ],
   "has_2023_wrapped": true
 }

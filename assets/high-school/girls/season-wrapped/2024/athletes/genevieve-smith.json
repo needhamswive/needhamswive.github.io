@@ -1,5 +1,20 @@
 {
   "name": "Genevieve Smith",
   "grade": 11,
+  "practices_attended": 53,
+  "practice_percentage": "96.23%",
+  "blue_beads": 24,
+  "gold_beads": 9,
+  "white_beads": 7,
+  "sectionals_qualified": [
+    "200 Individual Medley"
+  ],
+  "swim_categories": [
+    "0.00",
+    "2.33",
+    "0.00",
+    "10.00",
+    "3.00"
+  ],
   "has_2023_wrapped": true
 }

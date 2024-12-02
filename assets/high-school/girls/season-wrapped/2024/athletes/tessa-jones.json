@@ -1,5 +1,20 @@
 {
   "name": "Tessa Jones",
   "grade": 10,
+  "practices_attended": 53,
+  "practice_percentage": "84.91%",
+  "blue_beads": 16,
+  "gold_beads": 5,
+  "white_beads": 7,
+  "sectionals_qualified": [
+    "50 Freestyle"
+  ],
+  "swim_categories": [
+    "0.00",
+    "0.77",
+    "0.00",
+    "10.00",
+    "0.00"
+  ],
   "has_2023_wrapped": true
 }

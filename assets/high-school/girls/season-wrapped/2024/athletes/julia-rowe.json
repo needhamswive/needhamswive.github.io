@@ -1,5 +1,24 @@
 {
   "name": "Julia Rowe",
   "grade": 12,
+  "practices_attended": 53,
+  "practice_percentage": "94.34%",
+  "blue_beads": 25,
+  "gold_beads": 5,
+  "white_beads": 7,
+  "sectionals_qualified": [
+    "500 Freestyle"
+  ],
+  "states_qualified": [
+    "200 Freestyle",
+    "100 Butterfly"
+  ],
+  "swim_categories": [
+    "5.00",
+    "0.00",
+    "0.00",
+    "10.00",
+    "0.00"
+  ],
   "has_2023_wrapped": true
 }

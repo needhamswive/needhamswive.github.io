@@ -1,5 +1,17 @@
 {
   "name": "Bryden Tobin",
   "grade": 9,
+  "practices_attended": 43,
+  "practice_percentage": "86.05%",
+  "blue_beads": 0,
+  "gold_beads": 10,
+  "white_beads": 7,
+  "swim_categories": [
+    "0.00",
+    "0.00",
+    "7.14",
+    "10.00",
+    "0.00"
+  ],
   "has_2023_wrapped": false
 }

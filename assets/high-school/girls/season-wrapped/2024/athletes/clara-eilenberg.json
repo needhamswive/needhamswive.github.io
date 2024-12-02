@@ -1,5 +1,17 @@
 {
   "name": "Clara Eilenberg",
   "grade": 11,
-  "has_2023_wrapped": true
+  "practices_attended": 31,
+  "practice_percentage": "70.97%",
+  "blue_beads": 0,
+  "gold_beads": 1,
+  "white_beads": 7,
+  "dive_categories": [
+    "10.00",
+    "9.29",
+    "1.43",
+    "7.14",
+    "4.29"
+  ],
+  "has_2023_wrapped": false
 }

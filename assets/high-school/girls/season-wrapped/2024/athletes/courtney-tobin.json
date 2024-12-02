@@ -1,5 +1,17 @@
 {
   "name": "Courtney Tobin",
   "grade": 12,
+  "practices_attended": 31,
+  "practice_percentage": "70.97%",
+  "blue_beads": 0,
+  "gold_beads": 1,
+  "white_beads": 7,
+  "dive_categories": [
+    "7.50",
+    "4.17",
+    "8.33",
+    "10.00",
+    "2.50"
+  ],
   "has_2023_wrapped": true
 }

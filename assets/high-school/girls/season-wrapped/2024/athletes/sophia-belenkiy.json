@@ -1,5 +1,20 @@
 {
   "name": "Sophia Belenkiy",
   "grade": 10,
+  "practices_attended": 53,
+  "practice_percentage": "92.45%",
+  "blue_beads": 20,
+  "gold_beads": 14,
+  "white_beads": 7,
+  "states_qualified": [
+    "50 Freestyle"
+  ],
+  "swim_categories": [
+    "3.55",
+    "0.32",
+    "0.00",
+    "10.00",
+    "0.00"
+  ],
   "has_2023_wrapped": true
 }

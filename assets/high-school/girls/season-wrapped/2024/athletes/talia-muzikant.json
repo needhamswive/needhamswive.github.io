@@ -1,5 +1,17 @@
 {
   "name": "Talia Muzikant",
   "grade": 11,
+  "practices_attended": 31,
+  "practice_percentage": "77.42%",
+  "blue_beads": 0,
+  "gold_beads": 1,
+  "white_beads": 7,
+  "dive_categories": [
+    "10.00",
+    "8.75",
+    "0.00",
+    "4.38",
+    "6.25"
+  ],
   "has_2023_wrapped": true
 }

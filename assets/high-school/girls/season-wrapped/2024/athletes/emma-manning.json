@@ -1,5 +1,20 @@
 {
   "name": "Emma Manning",
   "grade": 11,
+  "practices_attended": 53,
+  "practice_percentage": "92.45%",
+  "blue_beads": 20,
+  "gold_beads": 3,
+  "white_beads": 7,
+  "sectionals_qualified": [
+    "50 Freestyle"
+  ],
+  "swim_categories": [
+    "0.00",
+    "0.98",
+    "0.00",
+    "10.00",
+    "0.00"
+  ],
   "has_2023_wrapped": true
 }

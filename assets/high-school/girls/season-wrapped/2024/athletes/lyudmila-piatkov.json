@@ -1,5 +1,21 @@
 {
   "name": "Lyudmila Piatkov",
   "grade": 12,
+  "practices_attended": 53,
+  "practice_percentage": "83.02%",
+  "blue_beads": 31,
+  "gold_beads": 1,
+  "white_beads": 7,
+  "states_qualified": [
+    "200 Freestyle",
+    "500 Freestyle"
+  ],
+  "swim_categories": [
+    "0.00",
+    "0.70",
+    "0.00",
+    "10.00",
+    "0.47"
+  ],
   "has_2023_wrapped": true
 }

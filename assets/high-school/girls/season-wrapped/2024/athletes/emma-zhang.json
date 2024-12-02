@@ -1,5 +1,17 @@
 {
   "name": "Emma Zhang",
   "grade": 12,
+  "practices_attended": 43,
+  "practice_percentage": "95.35%",
+  "blue_beads": 2,
+  "gold_beads": 7,
+  "white_beads": 7,
+  "swim_categories": [
+    "0.00",
+    "0.86",
+    "0.29",
+    "10.00",
+    "0.29"
+  ],
   "has_2023_wrapped": true
 }

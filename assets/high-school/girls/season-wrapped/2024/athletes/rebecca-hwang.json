@@ -1,5 +1,28 @@
 {
   "name": "Rebecca Hwang",
   "grade": 12,
+  "practices_attended": 53,
+  "practice_percentage": "79.25%",
+  "blue_beads": 52,
+  "gold_beads": 11,
+  "white_beads": 7,
+  "sectionals_qualified": [
+    "500 Freestyle"
+  ],
+  "states_qualified": [
+    "200 Freestyle",
+    "200 Individual Medley",
+    "50 Freestyle",
+    "100 Freestyle",
+    "100 Backstroke",
+    "100 Breaststroke"
+  ],
+  "swim_categories": [
+    "0.00",
+    "3.03",
+    "0.91",
+    "10.00",
+    "1.82"
+  ],
   "has_2023_wrapped": true
 }

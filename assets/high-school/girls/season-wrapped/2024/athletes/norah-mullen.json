@@ -1,5 +1,17 @@
 {
   "name": "Norah Mullen",
   "grade": 12,
+  "practices_attended": 43,
+  "practice_percentage": "86.05%",
+  "blue_beads": 3,
+  "gold_beads": 4,
+  "white_beads": 7,
+  "swim_categories": [
+    "0.56",
+    "10.00",
+    "0.00",
+    "10.00",
+    "0.56"
+  ],
   "has_2023_wrapped": true
 }

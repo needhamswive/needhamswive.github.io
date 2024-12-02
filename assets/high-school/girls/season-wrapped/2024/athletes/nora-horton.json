@@ -1,5 +1,17 @@
 {
   "name": "Nora Horton",
   "grade": 10,
+  "practices_attended": 43,
+  "practice_percentage": "88.37%",
+  "blue_beads": 3,
+  "gold_beads": 9,
+  "white_beads": 7,
+  "swim_categories": [
+    "0.00",
+    "0.00",
+    "10.00",
+    "10.00",
+    "0.59"
+  ],
   "has_2023_wrapped": true
 }

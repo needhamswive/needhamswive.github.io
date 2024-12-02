@@ -1,5 +1,25 @@
 {
   "name": "Madeleine Rowe",
   "grade": 9,
+  "practices_attended": 53,
+  "practice_percentage": "94.34%",
+  "blue_beads": 34,
+  "gold_beads": 13,
+  "white_beads": 7,
+  "sectionals_qualified": [
+    "200 Individual Medley",
+    "100 Butterfly"
+  ],
+  "states_qualified": [
+    "200 Freestyle",
+    "500 Freestyle"
+  ],
+  "swim_categories": [
+    "1.62",
+    "0.00",
+    "0.00",
+    "10.00",
+    "0.81"
+  ],
   "has_2023_wrapped": false
 }
