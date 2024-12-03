@@ -168,7 +168,7 @@ function processAthlete(athlete) {
   if (athlete.grade === 12) {
     document.getElementById("senior-summary-link").href += `${athlete.name.toLowerCase().replace(" ", "-")}/`;
   } else {
-    const element = document.getElementById("senior-summary-link");
+    const element = document.getElementById("senior-summary");
     element.parentElement.removeChild(element);
   }
 }
