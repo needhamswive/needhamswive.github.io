@@ -40,6 +40,9 @@
       grade: 12
       captain: true
       swimmer: true
+    - name: Clara Eilenberg
+      grade: 11
+      diver: true
     - name: Natalie Guarrera
       grade: 11
       swimmer: true
