@@ -109,7 +109,6 @@ function processAthlete(athlete) {
       if (athlete.swim_categories[i] == "0.00") {
         athlete.swim_categories[i] = 1;
       } else {
-        // Map from 0-10 to 1-10
         athlete.swim_categories[i] = 0.9 * athlete.swim_categories[i] + 1;
       }
     }
@@ -127,6 +126,14 @@ function processAthlete(athlete) {
     });
     removeSlide("dive-radar-chart");
   } else {
+    for (const i in athlete.dive_categories) {
+      if (athlete.dive_categories[i] == "0.00") {
+        athlete.dive_categories[i] = 1;
+      } else {
+        athlete.dive_categories[i] = 0.9 * athlete.dive_categories[i] + 1;
+      }
+    }
+
     new Chart(document.getElementById("dive-radar-chart"), {
       type: "radar",
       data: {
