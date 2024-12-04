@@ -172,6 +172,12 @@ function processAthlete(athlete) {
     removeSlide("swim-radar-chart");
   }
 
+  if (athlete.superlative) {
+    document.getElementById("superlative").innerHTML = athlete.superlative;
+  } else {
+    removeSlide("superlative");
+  }
+
   if (athlete.name === CLARA) {
     removeSlide("goodbye");
     removeSlide("goodbye-senior");
