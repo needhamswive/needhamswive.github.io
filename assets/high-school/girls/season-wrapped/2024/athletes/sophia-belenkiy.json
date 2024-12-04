@@ -4,10 +4,10 @@
   "swimmer": true,
   "practices_attended": 52,
   "practice_percentage": "94.23%",
-  "individual_swims": 21,
+  "individual_swims": 22,
   "relay_swims": 22,
   "meets": 12,
-  "points": "54.5 points",
+  "points": "55.5 points",
   "blue_beads": 20,
   "gold_beads": 14,
   "white_beads": 7,
@@ -15,8 +15,8 @@
     "50 Freestyle"
   ],
   "swim_categories": [
-    "5.38",
-    "0.77",
+    "5.00",
+    "0.71",
     "0.00",
     "10.00",
     "0.00"
