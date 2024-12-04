@@ -1,8 +1,12 @@
 {
   "name": "Lucy Aswad",
   "grade": 12,
+  "diver": true,
   "practices_attended": 39,
   "practice_percentage": "84.62%",
+  "individual_dives": 76,
+  "meets": 11,
+  "points": "78 points",
   "blue_beads": 8,
   "gold_beads": 13,
   "white_beads": 7,

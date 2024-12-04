@@ -71,9 +71,33 @@ function processAthlete(athlete) {
     if (beadCount > 0) {
       document.getElementById(`${color}-beads`).innerHTML = beadCount;
     } else {
-      const element = document.getElementById(`${color}-beads-row`);
-      element.parentElement.removeChild(element);
+      removeElement(`${color}-beads-row`);
     }
+  }
+
+  if (athlete.swimmer) {
+    document.getElementById("individual-swims").innerHTML = athlete.individual_swims;
+    document.getElementById("relay-swims").innerHTML = athlete.relay_swims;
+    document.getElementById("meets-swimmer").innerHTML = athlete.meets;
+
+    if (athlete.points) {
+      document.getElementById("points-swimmer-number").innerHTML = athlete.points;
+    } else {
+      removeElement("points-swimmer");
+    }
+
+    removeSlide("dives-summary");
+  } else {
+    document.getElementById("individual-dives").innerHTML = athlete.individual_dives;
+    document.getElementById("meets-diver").innerHTML = athlete.meets;
+
+    if (athlete.points) {
+      document.getElementById("points-diver-number").innerHTML = athlete.points;
+    } else {
+      removeElement("points-diver");
+    }
+
+    removeSlide("swims-summary");
   }
 
   if (athlete.sectionals_qualified) {
@@ -104,7 +128,7 @@ function processAthlete(athlete) {
     removeSlide("school-record");
   }
 
-  if (athlete.swim_categories) {
+  if (athlete.swimmer) {
     for (const i in athlete.swim_categories) {
       if (athlete.swim_categories[i] == "0.00") {
         athlete.swim_categories[i] = 1;
@@ -168,13 +192,17 @@ function processAthlete(athlete) {
   if (athlete.grade === 12) {
     document.getElementById("senior-summary-link").href += `${athlete.name.toLowerCase().replace(" ", "-")}/`;
   } else {
-    const element = document.getElementById("senior-summary");
-    element.parentElement.removeChild(element);
+    removeElement("senior-summary");
   }
 }
 
 function removeSlide(slideName) {
   slides = slides.filter(slide => slide.name != slideName);
+}
+
+function removeElement(id) {
+  const element = document.getElementById(id);
+  element.parentElement.removeChild(element);
 }
 
 function setupProgressBar() {

@@ -1,8 +1,12 @@
 {
   "name": "Talia Muzikant",
   "grade": 11,
+  "diver": true,
   "practices_attended": 31,
   "practice_percentage": "77.42%",
+  "individual_dives": 47,
+  "meets": 8,
+  "points": "5 points",
   "blue_beads": 0,
   "gold_beads": 3,
   "white_beads": 7,

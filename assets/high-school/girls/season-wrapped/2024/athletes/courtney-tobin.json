@@ -1,8 +1,12 @@
 {
   "name": "Courtney Tobin",
   "grade": 12,
+  "diver": true,
   "practices_attended": 31,
   "practice_percentage": "70.97%",
+  "individual_dives": 39,
+  "meets": 7,
+  "points": "6 points",
   "blue_beads": 0,
   "gold_beads": 3,
   "white_beads": 7,

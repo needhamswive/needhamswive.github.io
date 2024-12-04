@@ -1,8 +1,11 @@
 {
   "name": "Haley Larson",
   "grade": 11,
+  "diver": true,
   "practices_attended": 31,
   "practice_percentage": "80.65%",
+  "individual_dives": 42,
+  "meets": 8,
   "blue_beads": 0,
   "gold_beads": 11,
   "white_beads": 7,
