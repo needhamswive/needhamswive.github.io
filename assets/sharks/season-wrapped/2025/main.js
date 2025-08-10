@@ -64,7 +64,7 @@ const HEX_DESIGN_DEFINITIONS = [
     },
   },
   {
-    slideNames: ["goodbye", "goodbye-senior"],
+    slideNames: ["goodbye", "goodbye-senior", "previous-wrapped", "champion-events"],
     colors: ["blue", "gold"],
     corners: {
       "top left": [2, 1],
