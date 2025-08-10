@@ -155,7 +155,7 @@ const swimmerName = new URLSearchParams(window.location.search).get("swimmer");
 console.log(swimmerName);
 const swimmerPath =
   window.location.origin +
-  `/assets/sharks/season-wrapped/2024/swimmers/${swimmerName}.json`;
+  `/assets/sharks/season-wrapped/2025/swimmers/${swimmerName}.json`;
 const swimmerRequest = fetch(swimmerPath);
 
 let random = mulberry32(cyrb128(swimmerName)[0]);
@@ -361,82 +361,82 @@ function preprocessSwimmer(swimmer) {
     }],
   });
 
-  if (stats.butterfly25Times) {
+  if (stats.fly25Times) {
     slides.push({
       name: "25-butterfly-times",
       templateReplacements: [{
         name: "meet-and-time",
-        sets: stats.butterfly25Times,
+        sets: stats.fly25Times,
       }],
     });
   }
 
-  if (stats.freestyle25Times) {
+  if (stats.free25Times) {
     slides.push({
       name: "25-freestyle-times",
       templateReplacements: [{
         name: "meet-and-time",
-        sets: stats.freestyle25Times,
+        sets: stats.free25Times,
       }],
     });
   }
 
-  if (stats.breaststroke25Times) {
+  if (stats.breast25Times) {
     slides.push({
       name: "25-breaststroke-times",
       templateReplacements: [{
         name: "meet-and-time",
-        sets: stats.breaststroke25Times,
+        sets: stats.breast25Times,
       }],
     });
   }
 
-  if (stats.backstroke25Times) {
+  if (stats.back25Times) {
     slides.push({
       name: "25-backstroke-times",
       templateReplacements: [{
         name: "meet-and-time",
-        sets: stats.backstroke25Times,
+        sets: stats.back25Times,
       }],
     });
   }
 
-  if (stats.butterfly50Times) {
+  if (stats.fly50Times) {
     slides.push({
       name: "50-butterfly-times",
       templateReplacements: [{
         name: "meet-and-time",
-        sets: stats.butterfly50Times,
+        sets: stats.fly50Times,
       }],
     });
   }
 
-  if (stats.freestyle50Times) {
+  if (stats.free50Times) {
     slides.push({
       name: "50-freestyle-times",
       templateReplacements: [{
         name: "meet-and-time",
-        sets: stats.freestyle50Times,
+        sets: stats.free50Times,
       }],
     });
   }
 
-  if (stats.breaststroke50Times) {
+  if (stats.breast50Times) {
     slides.push({
       name: "50-breaststroke-times",
       templateReplacements: [{
         name: "meet-and-time",
-        sets: stats.breaststroke50Times,
+        sets: stats.breast50Times,
       }],
     });
   }
 
-  if (stats.backstroke50Times) {
+  if (stats.back50Times) {
     slides.push({
       name: "50-backstroke-times",
       templateReplacements: [{
         name: "meet-and-time",
-        sets: stats.backstroke50Times,
+        sets: stats.back50Times,
       }],
     });
   }
