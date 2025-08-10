@@ -75,7 +75,7 @@ title: Needham Sharks Wrapped Directory
 - [Ory Kandinov](../2024?swimmer=ory-kandinov)
 - [Ashton Kim](../2024?swimmer=ashton-kim)
 - [Eidan Kodraty](../2024?swimmer=eidan-kodraty)
-- [Alexander Krichker](../2024?swimmer=alexander-krichker)
+- [Alexandr Krichker](../2024?swimmer=alexandr-krichker)
 - [Hannah Lee](../2024?swimmer=hannah-lee)
 - [Nicholas Lee](../2024?swimmer=nicholas-lee)
 - [Elizabeth Lim](../2024?swimmer=elizabeth-lim)
