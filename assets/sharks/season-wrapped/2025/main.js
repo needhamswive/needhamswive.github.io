@@ -441,7 +441,7 @@ function preprocessSwimmer(swimmer) {
     });
   }
 
-  if (stats.paperPlate || stats.swimmerOfTheWeek || stats.goldenGoggle) {
+  if (stats.paperPlate || stats.swimmerOfTheWeek || stats.goldenGoggles) {
     slides.push({
       name: "transition-2",
     });
@@ -462,11 +462,11 @@ function preprocessSwimmer(swimmer) {
     });
   }
 
-  if (stats.goldenGoggle) {
+  if (stats.goldenGoggles) {
     slides.push({
       name: "golden-goggle",
       basicReplacements: {
-        award: stats.goldenGoggle,
+        award: stats.goldenGoggles,
       },
     });
   }
