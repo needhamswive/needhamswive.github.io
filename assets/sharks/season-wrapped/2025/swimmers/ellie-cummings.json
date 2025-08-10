@@ -1,0 +1,62 @@
+{
+  "name": "Ellie Cummings",
+  "paperPlate": "Little Miss Cutie Pie",
+  "fly50Times": [
+    {
+      "meet": "Blue vs. Gold (7/1)",
+      "time": "67.07"
+    },
+    {
+      "meet": "Canton (7/17)",
+      "time": "66.27"
+    }
+  ],
+  "free50Times": [
+    {
+      "meet": "Blue vs. Gold (7/1)",
+      "time": "45.94"
+    },
+    {
+      "meet": "Holl / Med / Mill (7/8)",
+      "time": "47.92"
+    },
+    {
+      "meet": "Westwood (7/10)",
+      "time": "48.35"
+    },
+    {
+      "meet": "Natick (7/15)",
+      "time": "44.34"
+    }
+  ],
+  "breast50Times": [
+    {
+      "meet": "Blue vs. Gold (7/1)",
+      "time": "68.06"
+    },
+    {
+      "meet": "Holl / Med / Mill (7/8)",
+      "time": "65.31"
+    },
+    {
+      "meet": "Natick (7/15)",
+      "time": "64.56"
+    }
+  ],
+  "back50Times": [
+    {
+      "meet": "Westwood (7/10)",
+      "time": "55.41"
+    },
+    {
+      "meet": "Canton (7/17)",
+      "time": "57.17"
+    }
+  ],
+  "seasonPrs": {
+    "50 Butterfly": "66.27",
+    "50 Freestyle": "44.34",
+    "50 Breaststroke": "64.56",
+    "50 Backstroke": "55.41"
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "name": "Katarina D'Amelio",
+  "paperPlate": "Power Puff Girls Award",
+  "2024Wrapped": true,
+  "fly50Times": [
+    {
+      "meet": "Blue vs. Gold (7/1)",
+      "time": "41.33"
+    },
+    {
+      "meet": "Norwood (7/24)",
+      "time": "39.91"
+    },
+    {
+      "meet": "Dedham (8/5)",
+      "time": "39.33"
+    },
+    {
+      "meet": "Sherborn (8/7)",
+      "time": "38.07"
+    },
+    {
+      "meet": "Championships (8/9)",
+      "time": "38.14"
+    }
+  ],
+  "free50Times": [
+    {
+      "meet": "Blue vs. Gold (7/1)",
+      "time": "33.50"
+    },
+    {
+      "meet": "Dedham (8/5)",
+      "time": "36.88"
+    },
+    {
+      "meet": "Sherborn (8/7)",
+      "time": "34.17"
+    },
+    {
+      "meet": "Championships (8/9)",
+      "time": "33.94"
+    }
+  ],
+  "breast50Times": [
+    {
+      "meet": "Blue vs. Gold (7/1)",
+      "time": "50.60"
+    }
+  ],
+  "back50Times": [
+    {
+      "meet": "Norwood (7/24)",
+      "time": "42.39"
+    }
+  ],
+  "seasonPrs": {
+    "50 Butterfly": "38.07",
+    "50 Freestyle": "33.50",
+    "50 Breaststroke": "50.60",
+    "50 Backstroke": "42.39"
+  }
+}

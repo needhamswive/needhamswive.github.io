@@ -1,0 +1,103 @@
+{
+  "name": "Liam Kermani",
+  "paperPlate": "Butterfly Boss",
+  "swimmerOfTheWeek": true,
+  "fly25Times": [
+    {
+      "meet": "Blue vs. Gold (7/1)",
+      "time": "35.46"
+    },
+    {
+      "meet": "Westwood (7/10)",
+      "time": "37.00"
+    },
+    {
+      "meet": "Canton (7/17)",
+      "time": "36.75"
+    },
+    {
+      "meet": "Walpole (7/29)",
+      "time": "30.40"
+    },
+    {
+      "meet": "Dedham (8/5)",
+      "time": "34.44"
+    }
+  ],
+  "free25Times": [
+    {
+      "meet": "Blue vs. Gold (7/1)",
+      "time": "29.78"
+    },
+    {
+      "meet": "Holl / Med / Mill (7/8)",
+      "time": "26.42"
+    },
+    {
+      "meet": "Natick (7/15)",
+      "time": "33.98"
+    },
+    {
+      "meet": "Walpole (7/29)",
+      "time": "24.70"
+    },
+    {
+      "meet": "Sherborn (8/7)",
+      "time": "24.11"
+    },
+    {
+      "meet": "Championships (8/9)",
+      "time": "23.91"
+    }
+  ],
+  "breast25Times": [
+    {
+      "meet": "Blue vs. Gold (7/1)",
+      "time": "39.49"
+    },
+    {
+      "meet": "Natick (7/15)",
+      "time": "35.60"
+    },
+    {
+      "meet": "Canton (7/17)",
+      "time": "41.30"
+    },
+    {
+      "meet": "Medfield (7/31)",
+      "time": "34.24"
+    },
+    {
+      "meet": "Dedham (8/5)",
+      "time": "32.09"
+    }
+  ],
+  "back25Times": [
+    {
+      "meet": "Blue vs. Gold (7/1)",
+      "time": "32.95"
+    },
+    {
+      "meet": "Holl / Med / Mill (7/8)",
+      "time": "29.22"
+    },
+    {
+      "meet": "Westwood (7/10)",
+      "time": "31.23"
+    },
+    {
+      "meet": "Sherborn (8/7)",
+      "time": "30.73"
+    },
+    {
+      "meet": "Championships (8/9)",
+      "time": "30.46"
+    }
+  ],
+  "seasonPrs": {
+    "25 Butterfly": "30.40",
+    "25 Freestyle": "23.91",
+    "25 Breaststroke": "32.09",
+    "25 Backstroke": "29.22"
+  }
+}

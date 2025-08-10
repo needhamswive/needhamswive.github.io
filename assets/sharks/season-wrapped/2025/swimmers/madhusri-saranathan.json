@@ -1,0 +1,95 @@
+{
+  "name": "MadhuSri Saranathan",
+  "paperPlate": "The Laughy-Taffy Award",
+  "swimmerOfTheWeek": true,
+  "fly50Times": [
+    {
+      "meet": "Blue vs. Gold (7/1)",
+      "time": "55.72"
+    },
+    {
+      "meet": "Westwood (7/10)",
+      "time": "50.88"
+    },
+    {
+      "meet": "Medfield (7/31)",
+      "time": "50.91"
+    },
+    {
+      "meet": "Sherborn (8/7)",
+      "time": "48.35"
+    }
+  ],
+  "free50Times": [
+    {
+      "meet": "Blue vs. Gold (7/1)",
+      "time": "42.03"
+    },
+    {
+      "meet": "Holl / Med / Mill (7/8)",
+      "time": "39.38"
+    },
+    {
+      "meet": "Canton (7/17)",
+      "time": "42.48"
+    },
+    {
+      "meet": "Norwood (7/24)",
+      "time": "39.44"
+    },
+    {
+      "meet": "Medfield (7/31)",
+      "time": "39.66"
+    },
+    {
+      "meet": "Championships (8/9)",
+      "time": "38.71"
+    }
+  ],
+  "breast50Times": [
+    {
+      "meet": "Blue vs. Gold (7/1)",
+      "time": "116.15"
+    },
+    {
+      "meet": "Westwood (7/10)",
+      "time": "54.43"
+    },
+    {
+      "meet": "Norwood (7/24)",
+      "time": "53.51"
+    },
+    {
+      "meet": "Medfield (7/31)",
+      "time": "53.65"
+    }
+  ],
+  "back50Times": [
+    {
+      "meet": "Holl / Med / Mill (7/8)",
+      "time": "49.41"
+    },
+    {
+      "meet": "Canton (7/17)",
+      "time": "53.20"
+    },
+    {
+      "meet": "Medfield (7/31)",
+      "time": "50.37"
+    },
+    {
+      "meet": "Sherborn (8/7)",
+      "time": "46.92"
+    },
+    {
+      "meet": "Championships (8/9)",
+      "time": "48.93"
+    }
+  ],
+  "seasonPrs": {
+    "50 Butterfly": "48.35",
+    "50 Freestyle": "38.71",
+    "50 Breaststroke": "53.51",
+    "50 Backstroke": "46.92"
+  }
+}

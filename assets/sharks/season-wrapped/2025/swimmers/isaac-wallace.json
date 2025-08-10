@@ -1,0 +1,103 @@
+{
+  "name": "Isaac Wallace",
+  "paperPlate": "Stroke Mixologist Award",
+  "2024Wrapped": true,
+  "fly50Times": [
+    {
+      "meet": "Blue vs. Gold (7/1)",
+      "time": "33.01"
+    },
+    {
+      "meet": "Holl / Med / Mill (7/8)",
+      "time": "33.70"
+    },
+    {
+      "meet": "Natick (7/15)",
+      "time": "33.29"
+    },
+    {
+      "meet": "Newton (7/22)",
+      "time": "33.04"
+    },
+    {
+      "meet": "Medfield (7/31)",
+      "time": "34.12"
+    },
+    {
+      "meet": "Dedham (8/5)",
+      "time": "34.45"
+    },
+    {
+      "meet": "Sherborn (8/7)",
+      "time": "32.41"
+    },
+    {
+      "meet": "Championships (8/9)",
+      "time": "32.28"
+    }
+  ],
+  "free50Times": [
+    {
+      "meet": "Blue vs. Gold (7/1)",
+      "time": "30.26"
+    },
+    {
+      "meet": "Westwood (7/10)",
+      "time": "30.51"
+    },
+    {
+      "meet": "Medfield (7/31)",
+      "time": "29.32"
+    }
+  ],
+  "breast50Times": [
+    {
+      "meet": "Blue vs. Gold (7/1)",
+      "time": "38.97"
+    },
+    {
+      "meet": "Westwood (7/10)",
+      "time": "38.88"
+    },
+    {
+      "meet": "Natick (7/15)",
+      "time": "38.35"
+    },
+    {
+      "meet": "Newton (7/22)",
+      "time": "38.70"
+    },
+    {
+      "meet": "Medfield (7/31)",
+      "time": "39.05"
+    },
+    {
+      "meet": "Dedham (8/5)",
+      "time": "40.47"
+    },
+    {
+      "meet": "Sherborn (8/7)",
+      "time": "38.00"
+    },
+    {
+      "meet": "Championships (8/9)",
+      "time": "36.39"
+    }
+  ],
+  "back50Times": [
+    {
+      "meet": "Holl / Med / Mill (7/8)",
+      "time": "36.11"
+    },
+    {
+      "meet": "Medfield (7/31)",
+      "time": "35.26"
+    }
+  ],
+  "seasonPrs": {
+    "50 Butterfly": "32.28",
+    "50 Freestyle": "29.32",
+    "50 Breaststroke": "36.39",
+    "50 Backstroke": "35.26"
+  }
+}

@@ -1,0 +1,83 @@
+{
+  "name": "Daniel Berkowitz",
+  "paperPlate": "The No Goggles, No Problem Award",
+  "2024Wrapped": true,
+  "fly50Times": [
+    {
+      "meet": "Blue vs. Gold (7/1)",
+      "time": "47.91"
+    },
+    {
+      "meet": "Natick (7/15)",
+      "time": "45.37"
+    },
+    {
+      "meet": "Walpole (7/29)",
+      "time": "44.51"
+    }
+  ],
+  "free50Times": [
+    {
+      "meet": "Blue vs. Gold (7/1)",
+      "time": "41.10"
+    },
+    {
+      "meet": "Natick (7/15)",
+      "time": "38.56"
+    },
+    {
+      "meet": "Canton (7/17)",
+      "time": "40.64"
+    },
+    {
+      "meet": "Dedham (8/5)",
+      "time": "37.40"
+    },
+    {
+      "meet": "Sherborn (8/7)",
+      "time": "36.78"
+    },
+    {
+      "meet": "Championships (8/9)",
+      "time": "36.39"
+    }
+  ],
+  "breast50Times": [
+    {
+      "meet": "Blue vs. Gold (7/1)",
+      "time": "49.04"
+    },
+    {
+      "meet": "Canton (7/17)",
+      "time": "51.62"
+    },
+    {
+      "meet": "Walpole (7/29)",
+      "time": "45.60"
+    },
+    {
+      "meet": "Dedham (8/5)",
+      "time": "46.33"
+    },
+    {
+      "meet": "Sherborn (8/7)",
+      "time": "45.94"
+    },
+    {
+      "meet": "Championships (8/9)",
+      "time": "46.74"
+    }
+  ],
+  "back50Times": [
+    {
+      "meet": "Medfield (7/31)",
+      "time": "47.75"
+    }
+  ],
+  "seasonPrs": {
+    "50 Butterfly": "44.51",
+    "50 Freestyle": "36.39",
+    "50 Breaststroke": "45.60",
+    "50 Backstroke": "47.75"
+  }
+}

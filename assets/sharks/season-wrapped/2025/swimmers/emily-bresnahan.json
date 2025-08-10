@@ -1,0 +1,111 @@
+{
+  "name": "Emily Bresnahan",
+  "paperPlate": "The Silly Goose Award",
+  "2024Wrapped": true,
+  "fly25Times": [
+    {
+      "meet": "Blue vs. Gold (7/1)",
+      "time": "25.26"
+    },
+    {
+      "meet": "Natick (7/15)",
+      "time": "33.57"
+    },
+    {
+      "meet": "Canton (7/17)",
+      "time": "26.01"
+    },
+    {
+      "meet": "Newton (7/22)",
+      "time": "26.35"
+    },
+    {
+      "meet": "Medfield (7/31)",
+      "time": "25.94"
+    }
+  ],
+  "free25Times": [
+    {
+      "meet": "Blue vs. Gold (7/1)",
+      "time": "20.90"
+    },
+    {
+      "meet": "Westwood (7/10)",
+      "time": "20.34"
+    },
+    {
+      "meet": "Norwood (7/24)",
+      "time": "22.95"
+    },
+    {
+      "meet": "Walpole (7/29)",
+      "time": "22.38"
+    }
+  ],
+  "breast25Times": [
+    {
+      "meet": "Holl / Med / Mill (7/8)",
+      "time": "26.27"
+    },
+    {
+      "meet": "Norwood (7/24)",
+      "time": "27.94"
+    },
+    {
+      "meet": "Walpole (7/29)",
+      "time": "30.66"
+    },
+    {
+      "meet": "Dedham (8/5)",
+      "time": "28.34"
+    },
+    {
+      "meet": "Sherborn (8/7)",
+      "time": "26.08"
+    },
+    {
+      "meet": "Championships (8/9)",
+      "time": "27.43"
+    }
+  ],
+  "back25Times": [
+    {
+      "meet": "Holl / Med / Mill (7/8)",
+      "time": "23.22"
+    },
+    {
+      "meet": "Natick (7/15)",
+      "time": "25.82"
+    },
+    {
+      "meet": "Canton (7/17)",
+      "time": "29.80"
+    },
+    {
+      "meet": "Newton (7/22)",
+      "time": "26.77"
+    },
+    {
+      "meet": "Medfield (7/31)",
+      "time": "26.25"
+    },
+    {
+      "meet": "Dedham (8/5)",
+      "time": "26.96"
+    },
+    {
+      "meet": "Sherborn (8/7)",
+      "time": "24.71"
+    },
+    {
+      "meet": "Championships (8/9)",
+      "time": "24.45"
+    }
+  ],
+  "seasonPrs": {
+    "25 Butterfly": "25.26",
+    "25 Freestyle": "20.34",
+    "25 Breaststroke": "26.08",
+    "25 Backstroke": "23.22"
+  }
+}

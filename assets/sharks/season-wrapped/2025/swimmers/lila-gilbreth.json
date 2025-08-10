@@ -1,0 +1,76 @@
+{
+  "name": "Lila Gilbreth",
+  "paperPlate": "Power Puff Girls Award",
+  "swimmerOfTheWeek": true,
+  "2024Wrapped": true,
+  "fly50Times": [
+    {
+      "meet": "Blue vs. Gold (7/1)",
+      "time": "46.41"
+    }
+  ],
+  "free50Times": [
+    {
+      "meet": "Natick (7/15)",
+      "time": "32.50"
+    },
+    {
+      "meet": "Canton (7/17)",
+      "time": "36.90"
+    },
+    {
+      "meet": "Newton (7/22)",
+      "time": "34.65"
+    },
+    {
+      "meet": "Dedham (8/5)",
+      "time": "33.96"
+    },
+    {
+      "meet": "Sherborn (8/7)",
+      "time": "32.74"
+    },
+    {
+      "meet": "Championships (8/9)",
+      "time": "32.19"
+    }
+  ],
+  "breast50Times": [
+    {
+      "meet": "Blue vs. Gold (7/1)",
+      "time": "43.04"
+    },
+    {
+      "meet": "Dedham (8/5)",
+      "time": "43.99"
+    },
+    {
+      "meet": "Sherborn (8/7)",
+      "time": "42.59"
+    },
+    {
+      "meet": "Championships (8/9)",
+      "time": "42.66"
+    }
+  ],
+  "back50Times": [
+    {
+      "meet": "Natick (7/15)",
+      "time": "40.10"
+    },
+    {
+      "meet": "Canton (7/17)",
+      "time": "44.14"
+    },
+    {
+      "meet": "Newton (7/22)",
+      "time": "42.00"
+    }
+  ],
+  "seasonPrs": {
+    "50 Butterfly": "46.41",
+    "50 Freestyle": "32.19",
+    "50 Breaststroke": "42.59",
+    "50 Backstroke": "40.10"
+  }
+}

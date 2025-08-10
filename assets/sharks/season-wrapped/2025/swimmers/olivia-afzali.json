@@ -1,0 +1,107 @@
+{
+  "name": "Olivia Afzali",
+  "paperPlate": "The Sassiest Shark Award",
+  "2024Wrapped": true,
+  "fly25Times": [
+    {
+      "meet": "Blue vs. Gold (7/1)",
+      "time": "19.88"
+    },
+    {
+      "meet": "Holl / Med / Mill (7/8)",
+      "time": "21.71"
+    },
+    {
+      "meet": "Walpole (7/29)",
+      "time": "19.01"
+    }
+  ],
+  "free25Times": [
+    {
+      "meet": "Blue vs. Gold (7/1)",
+      "time": "16.03"
+    },
+    {
+      "meet": "Westwood (7/10)",
+      "time": "16.94"
+    },
+    {
+      "meet": "Newton (7/22)",
+      "time": "16.30"
+    },
+    {
+      "meet": "Medfield (7/31)",
+      "time": "16.53"
+    },
+    {
+      "meet": "Dedham (8/5)",
+      "time": "17.34"
+    },
+    {
+      "meet": "Sherborn (8/7)",
+      "time": "16.41"
+    },
+    {
+      "meet": "Championships (8/9)",
+      "time": "16.57"
+    }
+  ],
+  "breast25Times": [
+    {
+      "meet": "Blue vs. Gold (7/1)",
+      "time": "21.69"
+    },
+    {
+      "meet": "Holl / Med / Mill (7/8)",
+      "time": "19.92"
+    },
+    {
+      "meet": "Canton (7/17)",
+      "time": "21.56"
+    },
+    {
+      "meet": "Newton (7/22)",
+      "time": "21.58"
+    },
+    {
+      "meet": "Norwood (7/24)",
+      "time": "21.50"
+    },
+    {
+      "meet": "Walpole (7/29)",
+      "time": "19.76"
+    },
+    {
+      "meet": "Dedham (8/5)",
+      "time": "23.05"
+    },
+    {
+      "meet": "Sherborn (8/7)",
+      "time": "20.03"
+    },
+    {
+      "meet": "Championships (8/9)",
+      "time": "21.05"
+    }
+  ],
+  "back25Times": [
+    {
+      "meet": "Westwood (7/10)",
+      "time": "20.24"
+    },
+    {
+      "meet": "Canton (7/17)",
+      "time": "19.64"
+    },
+    {
+      "meet": "Norwood (7/24)",
+      "time": "20.44"
+    }
+  ],
+  "seasonPrs": {
+    "25 Butterfly": "19.01",
+    "25 Freestyle": "16.03",
+    "25 Breaststroke": "19.76",
+    "25 Backstroke": "19.64"
+  }
+}

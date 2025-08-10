@@ -1,0 +1,86 @@
+{
+  "name": "Camden Wilson",
+  "paperPlate": "The Ready to Rumble Award",
+  "2024Wrapped": true,
+  "fly50Times": [
+    {
+      "meet": "Natick (7/15)",
+      "time": "31.92"
+    },
+    {
+      "meet": "Norwood (7/24)",
+      "time": "33.15"
+    },
+    {
+      "meet": "Dedham (8/5)",
+      "time": "33.47"
+    }
+  ],
+  "free50Times": [
+    {
+      "meet": "Holl / Med / Mill (7/8)",
+      "time": "27.67"
+    },
+    {
+      "meet": "Westwood (7/10)",
+      "time": "27.15"
+    },
+    {
+      "meet": "Newton (7/22)",
+      "time": "26.81"
+    },
+    {
+      "meet": "Sherborn (8/7)",
+      "time": "27.25"
+    },
+    {
+      "meet": "Championships (8/9)",
+      "time": "26.45"
+    }
+  ],
+  "breast50Times": [
+    {
+      "meet": "Norwood (7/24)",
+      "time": "38.17"
+    },
+    {
+      "meet": "Dedham (8/5)",
+      "time": "38.40"
+    }
+  ],
+  "back50Times": [
+    {
+      "meet": "Holl / Med / Mill (7/8)",
+      "time": "31.48"
+    },
+    {
+      "meet": "Westwood (7/10)",
+      "time": "31.37"
+    },
+    {
+      "meet": "Natick (7/15)",
+      "time": "31.75"
+    },
+    {
+      "meet": "Newton (7/22)",
+      "time": "30.28"
+    },
+    {
+      "meet": "Sherborn (8/7)",
+      "time": "30.91"
+    },
+    {
+      "meet": "Championships (8/9)",
+      "time": "30.27"
+    }
+  ],
+  "seasonPrs": {
+    "50 Butterfly": "31.92",
+    "50 Freestyle": "26.45",
+    "50 Breaststroke": "38.17",
+    "50 Backstroke": "30.27"
+  },
+  "championEvents": [
+    "11 & 12 5025 Yd Freestyle"
+  ]
+}

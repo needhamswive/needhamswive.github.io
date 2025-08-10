@@ -1,0 +1,118 @@
+{
+  "name": "Alicia Tung",
+  "paperPlate": "The Dancing Queen Award",
+  "fly25Times": [
+    {
+      "meet": "Blue vs. Gold (7/1)",
+      "time": "30.25"
+    }
+  ],
+  "free25Times": [
+    {
+      "meet": "Blue vs. Gold (7/1)",
+      "time": "26.70"
+    },
+    {
+      "meet": "Holl / Med / Mill (7/8)",
+      "time": "24.39"
+    },
+    {
+      "meet": "Natick (7/15)",
+      "time": "23.93"
+    },
+    {
+      "meet": "Canton (7/17)",
+      "time": "25.16"
+    },
+    {
+      "meet": "Newton (7/22)",
+      "time": "23.52"
+    },
+    {
+      "meet": "Norwood (7/24)",
+      "time": "24.16"
+    },
+    {
+      "meet": "Medfield (7/31)",
+      "time": "24.50"
+    },
+    {
+      "meet": "Dedham (8/5)",
+      "time": "24.47"
+    },
+    {
+      "meet": "Sherborn (8/7)",
+      "time": "23.95"
+    },
+    {
+      "meet": "Championships (8/9)",
+      "time": "25.19"
+    }
+  ],
+  "breast25Times": [
+    {
+      "meet": "Blue vs. Gold (7/1)",
+      "time": "35.12"
+    },
+    {
+      "meet": "Westwood (7/10)",
+      "time": "31.72"
+    },
+    {
+      "meet": "Natick (7/15)",
+      "time": "33.84"
+    },
+    {
+      "meet": "Canton (7/17)",
+      "time": "34.28"
+    },
+    {
+      "meet": "Norwood (7/24)",
+      "time": "34.66"
+    },
+    {
+      "meet": "Walpole (7/29)",
+      "time": "32.25"
+    }
+  ],
+  "back25Times": [
+    {
+      "meet": "Blue vs. Gold (7/1)",
+      "time": "28.13"
+    },
+    {
+      "meet": "Holl / Med / Mill (7/8)",
+      "time": "27.66"
+    },
+    {
+      "meet": "Westwood (7/10)",
+      "time": "26.26"
+    },
+    {
+      "meet": "Newton (7/22)",
+      "time": "28.03"
+    },
+    {
+      "meet": "Walpole (7/29)",
+      "time": "25.46"
+    },
+    {
+      "meet": "Dedham (8/5)",
+      "time": "28.18"
+    },
+    {
+      "meet": "Sherborn (8/7)",
+      "time": "23.93"
+    },
+    {
+      "meet": "Championships (8/9)",
+      "time": "26.17"
+    }
+  ],
+  "seasonPrs": {
+    "25 Butterfly": "30.25",
+    "25 Freestyle": "23.52",
+    "25 Breaststroke": "31.72",
+    "25 Backstroke": "23.93"
+  }
+}

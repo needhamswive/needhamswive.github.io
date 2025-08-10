@@ -1,0 +1,63 @@
+{
+  "name": "Addie Davidson",
+  "paperPlate": "Sassy but Classy",
+  "2024Wrapped": true,
+  "fly25Times": [
+    {
+      "meet": "Holl / Med / Mill (7/8)",
+      "time": "22.88"
+    }
+  ],
+  "free25Times": [
+    {
+      "meet": "Blue vs. Gold (7/1)",
+      "time": "22.81"
+    },
+    {
+      "meet": "Holl / Med / Mill (7/8)",
+      "time": "19.89"
+    },
+    {
+      "meet": "Westwood (7/10)",
+      "time": "20.59"
+    },
+    {
+      "meet": "Natick (7/15)",
+      "time": "22.41"
+    },
+    {
+      "meet": "Canton (7/17)",
+      "time": "25.75"
+    }
+  ],
+  "breast25Times": [
+    {
+      "meet": "Blue vs. Gold (7/1)",
+      "time": "31.93"
+    }
+  ],
+  "back25Times": [
+    {
+      "meet": "Blue vs. Gold (7/1)",
+      "time": "28.03"
+    },
+    {
+      "meet": "Westwood (7/10)",
+      "time": "26.88"
+    },
+    {
+      "meet": "Natick (7/15)",
+      "time": "26.30"
+    },
+    {
+      "meet": "Canton (7/17)",
+      "time": "32.04"
+    }
+  ],
+  "seasonPrs": {
+    "25 Butterfly": "22.88",
+    "25 Freestyle": "19.89",
+    "25 Breaststroke": "31.93",
+    "25 Backstroke": "26.30"
+  }
+}

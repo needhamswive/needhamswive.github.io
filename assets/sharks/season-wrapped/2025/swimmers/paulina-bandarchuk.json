@@ -1,0 +1,106 @@
+{
+  "name": "Paulina Bandarchuk",
+  "paperPlate": "Little Miss Diva",
+  "fly50Times": [
+    {
+      "meet": "Westwood (7/10)",
+      "time": "57.14"
+    },
+    {
+      "meet": "Natick (7/15)",
+      "time": "54.94"
+    },
+    {
+      "meet": "Canton (7/17)",
+      "time": "62.30"
+    },
+    {
+      "meet": "Walpole (7/29)",
+      "time": "54.39"
+    }
+  ],
+  "free50Times": [
+    {
+      "meet": "Blue vs. Gold (7/1)",
+      "time": "53.84"
+    },
+    {
+      "meet": "Canton (7/17)",
+      "time": "53.54"
+    },
+    {
+      "meet": "Newton (7/22)",
+      "time": "44.50"
+    },
+    {
+      "meet": "Medfield (7/31)",
+      "time": "47.88"
+    }
+  ],
+  "breast50Times": [
+    {
+      "meet": "Holl / Med / Mill (7/8)",
+      "time": "53.76"
+    },
+    {
+      "meet": "Westwood (7/10)",
+      "time": "55.80"
+    },
+    {
+      "meet": "Newton (7/22)",
+      "time": "57.23"
+    },
+    {
+      "meet": "Norwood (7/24)",
+      "time": "55.23"
+    },
+    {
+      "meet": "Dedham (8/5)",
+      "time": "56.34"
+    },
+    {
+      "meet": "Sherborn (8/7)",
+      "time": "54.60"
+    },
+    {
+      "meet": "Championships (8/9)",
+      "time": "53.71"
+    }
+  ],
+  "back50Times": [
+    {
+      "meet": "Holl / Med / Mill (7/8)",
+      "time": "49.64"
+    },
+    {
+      "meet": "Natick (7/15)",
+      "time": "47.81"
+    },
+    {
+      "meet": "Norwood (7/24)",
+      "time": "51.69"
+    },
+    {
+      "meet": "Walpole (7/29)",
+      "time": "50.27"
+    },
+    {
+      "meet": "Dedham (8/5)",
+      "time": "49.00"
+    },
+    {
+      "meet": "Sherborn (8/7)",
+      "time": "52.11"
+    },
+    {
+      "meet": "Championships (8/9)",
+      "time": "51.28"
+    }
+  ],
+  "seasonPrs": {
+    "50 Butterfly": "54.39",
+    "50 Freestyle": "44.50",
+    "50 Breaststroke": "53.71",
+    "50 Backstroke": "47.81"
+  }
+}

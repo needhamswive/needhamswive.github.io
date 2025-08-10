@@ -1,0 +1,92 @@
+{
+  "name": "Grace Lohnes",
+  "paperPlate": "The Cool as a Cucumber Award",
+  "swimmerOfTheWeek": true,
+  "2024Wrapped": true,
+  "fly25Times": [
+    {
+      "meet": "Blue vs. Gold (7/1)",
+      "time": "34.58"
+    },
+    {
+      "meet": "Medfield (7/31)",
+      "time": "30.06"
+    }
+  ],
+  "free25Times": [
+    {
+      "meet": "Blue vs. Gold (7/1)",
+      "time": "27.42"
+    },
+    {
+      "meet": "Holl / Med / Mill (7/8)",
+      "time": "24.14"
+    },
+    {
+      "meet": "Natick (7/15)",
+      "time": "24.12"
+    },
+    {
+      "meet": "Canton (7/17)",
+      "time": "26.34"
+    },
+    {
+      "meet": "Dedham (8/5)",
+      "time": "24.05"
+    },
+    {
+      "meet": "Sherborn (8/7)",
+      "time": "24.79"
+    },
+    {
+      "meet": "Championships (8/9)",
+      "time": "24.76"
+    }
+  ],
+  "breast25Times": [
+    {
+      "meet": "Blue vs. Gold (7/1)",
+      "time": "40.48"
+    },
+    {
+      "meet": "Natick (7/15)",
+      "time": "35.82"
+    },
+    {
+      "meet": "Canton (7/17)",
+      "time": "39.04"
+    },
+    {
+      "meet": "Walpole (7/29)",
+      "time": "35.25"
+    }
+  ],
+  "back25Times": [
+    {
+      "meet": "Holl / Med / Mill (7/8)",
+      "time": "32.11"
+    },
+    {
+      "meet": "Walpole (7/29)",
+      "time": "22.20"
+    },
+    {
+      "meet": "Dedham (8/5)",
+      "time": "24.97"
+    },
+    {
+      "meet": "Sherborn (8/7)",
+      "time": "25.47"
+    },
+    {
+      "meet": "Championships (8/9)",
+      "time": "23.76"
+    }
+  ],
+  "seasonPrs": {
+    "25 Butterfly": "30.06",
+    "25 Freestyle": "24.05",
+    "25 Breaststroke": "35.25",
+    "25 Backstroke": "22.20"
+  }
+}

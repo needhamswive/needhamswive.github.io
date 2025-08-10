@@ -1,0 +1,70 @@
+{
+  "name": "Ellen Johnson",
+  "2024Wrapped": true,
+  "fly50Times": [
+    {
+      "meet": "Westwood (7/10)",
+      "time": "69.81"
+    },
+    {
+      "meet": "Canton (7/17)",
+      "time": "66.44"
+    }
+  ],
+  "free50Times": [
+    {
+      "meet": "Westwood (7/10)",
+      "time": "51.91"
+    },
+    {
+      "meet": "Natick (7/15)",
+      "time": "52.09"
+    },
+    {
+      "meet": "Canton (7/17)",
+      "time": "58.09"
+    },
+    {
+      "meet": "Newton (7/22)",
+      "time": "53.23"
+    },
+    {
+      "meet": "Norwood (7/24)",
+      "time": "55.35"
+    },
+    {
+      "meet": "Dedham (8/5)",
+      "time": "49.25"
+    },
+    {
+      "meet": "Sherborn (8/7)",
+      "time": "52.77"
+    }
+  ],
+  "breast50Times": [
+    {
+      "meet": "Natick (7/15)",
+      "time": "57.16"
+    },
+    {
+      "meet": "Dedham (8/5)",
+      "time": "57.66"
+    }
+  ],
+  "back50Times": [
+    {
+      "meet": "Norwood (7/24)",
+      "time": "63.06"
+    },
+    {
+      "meet": "Sherborn (8/7)",
+      "time": "64.41"
+    }
+  ],
+  "seasonPrs": {
+    "50 Butterfly": "66.44",
+    "50 Freestyle": "49.25",
+    "50 Breaststroke": "57.16",
+    "50 Backstroke": "63.06"
+  }
+}

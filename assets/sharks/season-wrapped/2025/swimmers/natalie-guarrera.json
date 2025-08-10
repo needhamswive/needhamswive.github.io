@@ -1,0 +1,78 @@
+{
+  "name": "Natalie Guarrera",
+  "paperPlate": "The Little Miss Underwaters Award",
+  "2024Wrapped": true,
+  "fly50Times": [
+    {
+      "meet": "Blue vs. Gold (7/1)",
+      "time": "29.75"
+    },
+    {
+      "meet": "Holl / Med / Mill (7/8)",
+      "time": "29.29"
+    },
+    {
+      "meet": "Newton (7/22)",
+      "time": "28.04"
+    },
+    {
+      "meet": "Walpole (7/29)",
+      "time": "28.92"
+    },
+    {
+      "meet": "Sherborn (8/7)",
+      "time": "28.30"
+    },
+    {
+      "meet": "Championships (8/9)",
+      "time": "28.49"
+    }
+  ],
+  "free50Times": [
+    {
+      "meet": "Blue vs. Gold (7/1)",
+      "time": "27.91"
+    },
+    {
+      "meet": "Natick (7/15)",
+      "time": "28.47"
+    },
+    {
+      "meet": "Newton (7/22)",
+      "time": "27.35"
+    },
+    {
+      "meet": "Sherborn (8/7)",
+      "time": "27.23"
+    }
+  ],
+  "breast50Times": [
+    {
+      "meet": "Blue vs. Gold (7/1)",
+      "time": "39.20"
+    },
+    {
+      "meet": "Natick (7/15)",
+      "time": "39.28"
+    }
+  ],
+  "back50Times": [
+    {
+      "meet": "Holl / Med / Mill (7/8)",
+      "time": "31.17"
+    },
+    {
+      "meet": "Championships (8/9)",
+      "time": "29.98"
+    }
+  ],
+  "seasonPrs": {
+    "50 Butterfly": "28.04",
+    "50 Freestyle": "27.23",
+    "50 Breaststroke": "39.20",
+    "50 Backstroke": "29.98"
+  },
+  "championEvents": [
+    "15 & Over 50 Yd Butterfly"
+  ]
+}

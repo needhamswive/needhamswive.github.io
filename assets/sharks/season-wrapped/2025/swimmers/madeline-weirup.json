@@ -1,0 +1,59 @@
+{
+  "name": "Madeline Weirup",
+  "paperPlate": "The Goal Setter and Go Getter Award",
+  "2024Wrapped": true,
+  "fly50Times": [
+    {
+      "meet": "Blue vs. Gold (7/1)",
+      "time": "43.03"
+    }
+  ],
+  "free50Times": [
+    {
+      "meet": "Blue vs. Gold (7/1)",
+      "time": "35.08"
+    },
+    {
+      "meet": "Holl / Med / Mill (7/8)",
+      "time": "34.63"
+    },
+    {
+      "meet": "Natick (7/15)",
+      "time": "34.97"
+    },
+    {
+      "meet": "Sherborn (8/7)",
+      "time": "35.38"
+    }
+  ],
+  "breast50Times": [
+    {
+      "meet": "Blue vs. Gold (7/1)",
+      "time": "44.76"
+    }
+  ],
+  "back50Times": [
+    {
+      "meet": "Holl / Med / Mill (7/8)",
+      "time": "39.81"
+    },
+    {
+      "meet": "Natick (7/15)",
+      "time": "39.19"
+    },
+    {
+      "meet": "Norwood (7/24)",
+      "time": "40.76"
+    },
+    {
+      "meet": "Sherborn (8/7)",
+      "time": "38.85"
+    }
+  ],
+  "seasonPrs": {
+    "50 Butterfly": "43.03",
+    "50 Freestyle": "34.63",
+    "50 Breaststroke": "44.76",
+    "50 Backstroke": "38.85"
+  }
+}

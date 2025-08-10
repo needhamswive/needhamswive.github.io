@@ -1,0 +1,63 @@
+{
+  "name": "Aida Huffenus",
+  "paperPlate": "The Chlorine Queen Award",
+  "2024Wrapped": true,
+  "fly50Times": [
+    {
+      "meet": "Walpole (7/29)",
+      "time": "42.62"
+    },
+    {
+      "meet": "Sherborn (8/7)",
+      "time": "43.66"
+    }
+  ],
+  "free50Times": [
+    {
+      "meet": "Norwood (7/24)",
+      "time": "37.66"
+    },
+    {
+      "meet": "Walpole (7/29)",
+      "time": "35.93"
+    }
+  ],
+  "breast50Times": [
+    {
+      "meet": "Newton (7/22)",
+      "time": "44.20"
+    },
+    {
+      "meet": "Dedham (8/5)",
+      "time": "44.89"
+    },
+    {
+      "meet": "Championships (8/9)",
+      "time": "43.73"
+    }
+  ],
+  "back50Times": [
+    {
+      "meet": "Newton (7/22)",
+      "time": "46.49"
+    },
+    {
+      "meet": "Medfield (7/31)",
+      "time": "46.53"
+    },
+    {
+      "meet": "Dedham (8/5)",
+      "time": "42.88"
+    },
+    {
+      "meet": "Sherborn (8/7)",
+      "time": "44.00"
+    }
+  ],
+  "seasonPrs": {
+    "50 Butterfly": "42.62",
+    "50 Freestyle": "35.93",
+    "50 Breaststroke": "43.73",
+    "50 Backstroke": "42.88"
+  }
+}

@@ -1,0 +1,127 @@
+{
+  "name": "Ronan Afzali",
+  "paperPlate": "Thing 1",
+  "goldenGoggles": "Unsung Hero",
+  "2024Wrapped": true,
+  "fly25Times": [
+    {
+      "meet": "Blue vs. Gold (7/1)",
+      "time": "26.87"
+    },
+    {
+      "meet": "Holl / Med / Mill (7/8)",
+      "time": "28.99"
+    },
+    {
+      "meet": "Westwood (7/10)",
+      "time": "26.69"
+    },
+    {
+      "meet": "Canton (7/17)",
+      "time": "26.40"
+    },
+    {
+      "meet": "Newton (7/22)",
+      "time": "24.81"
+    },
+    {
+      "meet": "Walpole (7/29)",
+      "time": "22.58"
+    },
+    {
+      "meet": "Dedham (8/5)",
+      "time": "24.81"
+    },
+    {
+      "meet": "Sherborn (8/7)",
+      "time": "22.84"
+    }
+  ],
+  "free25Times": [
+    {
+      "meet": "Blue vs. Gold (7/1)",
+      "time": "20.22"
+    },
+    {
+      "meet": "Natick (7/15)",
+      "time": "20.22"
+    },
+    {
+      "meet": "Norwood (7/24)",
+      "time": "19.89"
+    },
+    {
+      "meet": "Medfield (7/31)",
+      "time": "18.88"
+    },
+    {
+      "meet": "Dedham (8/5)",
+      "time": "19.84"
+    }
+  ],
+  "breast25Times": [
+    {
+      "meet": "Blue vs. Gold (7/1)",
+      "time": "29.96"
+    },
+    {
+      "meet": "Holl / Med / Mill (7/8)",
+      "time": "30.03"
+    },
+    {
+      "meet": "Natick (7/15)",
+      "time": "27.92"
+    },
+    {
+      "meet": "Norwood (7/24)",
+      "time": "28.04"
+    },
+    {
+      "meet": "Walpole (7/29)",
+      "time": "25.93"
+    },
+    {
+      "meet": "Sherborn (8/7)",
+      "time": "24.74"
+    },
+    {
+      "meet": "Championships (8/9)",
+      "time": "25.36"
+    }
+  ],
+  "back25Times": [
+    {
+      "meet": "Blue vs. Gold (7/1)",
+      "time": "23.63"
+    },
+    {
+      "meet": "Westwood (7/10)",
+      "time": "24.26"
+    },
+    {
+      "meet": "Canton (7/17)",
+      "time": "24.50"
+    },
+    {
+      "meet": "Newton (7/22)",
+      "time": "22.59"
+    },
+    {
+      "meet": "Medfield (7/31)",
+      "time": "22.69"
+    },
+    {
+      "meet": "Championships (8/9)",
+      "time": "21.20"
+    }
+  ],
+  "seasonPrs": {
+    "25 Butterfly": "22.58",
+    "25 Freestyle": "18.88",
+    "25 Breaststroke": "24.74",
+    "25 Backstroke": "21.20"
+  },
+  "championEvents": [
+    "8 & Under 25 Yd Backstroke"
+  ]
+}

@@ -1,0 +1,100 @@
+{
+  "name": "Shawn Martin",
+  "paperPlate": "Diving Master Award",
+  "swimmerOfTheWeek": true,
+  "2024Wrapped": true,
+  "fly50Times": [
+    {
+      "meet": "Blue vs. Gold (7/1)",
+      "time": "63.25"
+    },
+    {
+      "meet": "Walpole (7/29)",
+      "time": "68.34"
+    }
+  ],
+  "free50Times": [
+    {
+      "meet": "Blue vs. Gold (7/1)",
+      "time": "52.30"
+    },
+    {
+      "meet": "Holl / Med / Mill (7/8)",
+      "time": "52.11"
+    },
+    {
+      "meet": "Westwood (7/10)",
+      "time": "49.90"
+    },
+    {
+      "meet": "Natick (7/15)",
+      "time": "50.38"
+    },
+    {
+      "meet": "Newton (7/22)",
+      "time": "52.98"
+    },
+    {
+      "meet": "Norwood (7/24)",
+      "time": "49.46"
+    },
+    {
+      "meet": "Medfield (7/31)",
+      "time": "48.69"
+    },
+    {
+      "meet": "Sherborn (8/7)",
+      "time": "48.55"
+    }
+  ],
+  "breast50Times": [
+    {
+      "meet": "Blue vs. Gold (7/1)",
+      "time": "63.37"
+    },
+    {
+      "meet": "Walpole (7/29)",
+      "time": "59.94"
+    },
+    {
+      "meet": "Dedham (8/5)",
+      "time": "59.30"
+    }
+  ],
+  "back50Times": [
+    {
+      "meet": "Holl / Med / Mill (7/8)",
+      "time": "58.53"
+    },
+    {
+      "meet": "Westwood (7/10)",
+      "time": "59.38"
+    },
+    {
+      "meet": "Natick (7/15)",
+      "time": "65.44"
+    },
+    {
+      "meet": "Norwood (7/24)",
+      "time": "57.50"
+    },
+    {
+      "meet": "Medfield (7/31)",
+      "time": "61.41"
+    },
+    {
+      "meet": "Dedham (8/5)",
+      "time": "64.41"
+    },
+    {
+      "meet": "Sherborn (8/7)",
+      "time": "61.91"
+    }
+  ],
+  "seasonPrs": {
+    "50 Butterfly": "63.25",
+    "50 Freestyle": "48.55",
+    "50 Breaststroke": "59.30",
+    "50 Backstroke": "57.50"
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "name": "Jacob Avissar",
+  "paperPlate": "Breastroke Master",
+  "2024Wrapped": true,
+  "fly50Times": [
+    {
+      "meet": "Blue vs. Gold (7/1)",
+      "time": "79.59"
+    },
+    {
+      "meet": "Holl / Med / Mill (7/8)",
+      "time": "67.06"
+    }
+  ],
+  "free50Times": [
+    {
+      "meet": "Blue vs. Gold (7/1)",
+      "time": "56.97"
+    }
+  ],
+  "back50Times": [
+    {
+      "meet": "Holl / Med / Mill (7/8)",
+      "time": "60.81"
+    }
+  ],
+  "seasonPrs": {
+    "50 Butterfly": "67.06",
+    "50 Freestyle": "56.97",
+    "50 Backstroke": "60.81"
+  }
+}

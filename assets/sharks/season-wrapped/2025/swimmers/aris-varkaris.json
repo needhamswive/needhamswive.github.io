@@ -1,0 +1,79 @@
+{
+  "name": "Aris Varkaris",
+  "paperPlate": "The Any Stroke? Any Time! Award",
+  "2024Wrapped": true,
+  "fly25Times": [
+    {
+      "meet": "Blue vs. Gold (7/1)",
+      "time": "36.01"
+    },
+    {
+      "meet": "Westwood (7/10)",
+      "time": "38.30"
+    }
+  ],
+  "free25Times": [
+    {
+      "meet": "Blue vs. Gold (7/1)",
+      "time": "32.19"
+    },
+    {
+      "meet": "Natick (7/15)",
+      "time": "28.43"
+    },
+    {
+      "meet": "Canton (7/17)",
+      "time": "28.94"
+    },
+    {
+      "meet": "Newton (7/22)",
+      "time": "27.39"
+    },
+    {
+      "meet": "Norwood (7/24)",
+      "time": "26.60"
+    }
+  ],
+  "breast25Times": [
+    {
+      "meet": "Blue vs. Gold (7/1)",
+      "time": "30.28"
+    },
+    {
+      "meet": "Holl / Med / Mill (7/8)",
+      "time": "29.98"
+    },
+    {
+      "meet": "Canton (7/17)",
+      "time": "32.20"
+    },
+    {
+      "meet": "Newton (7/22)",
+      "time": "29.71"
+    },
+    {
+      "meet": "Norwood (7/24)",
+      "time": "27.53"
+    }
+  ],
+  "back25Times": [
+    {
+      "meet": "Holl / Med / Mill (7/8)",
+      "time": "37.94"
+    },
+    {
+      "meet": "Westwood (7/10)",
+      "time": "33.79"
+    },
+    {
+      "meet": "Natick (7/15)",
+      "time": "34.97"
+    }
+  ],
+  "seasonPrs": {
+    "25 Butterfly": "36.01",
+    "25 Freestyle": "26.60",
+    "25 Breaststroke": "27.53",
+    "25 Backstroke": "33.79"
+  }
+}

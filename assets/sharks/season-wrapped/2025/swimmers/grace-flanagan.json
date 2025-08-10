@@ -1,0 +1,47 @@
+{
+  "name": "Grace Flanagan",
+  "paperPlate": "The Lucky Charm Award",
+  "free50Times": [
+    {
+      "meet": "Canton (7/17)",
+      "time": "34.41"
+    },
+    {
+      "meet": "Newton (7/22)",
+      "time": "28.98"
+    },
+    {
+      "meet": "Medfield (7/31)",
+      "time": "31.25"
+    }
+  ],
+  "breast50Times": [
+    {
+      "meet": "Canton (7/17)",
+      "time": "45.35"
+    },
+    {
+      "meet": "Medfield (7/31)",
+      "time": "41.94"
+    }
+  ],
+  "back50Times": [
+    {
+      "meet": "Canton (7/17)",
+      "time": "42.85"
+    },
+    {
+      "meet": "Newton (7/22)",
+      "time": "36.82"
+    },
+    {
+      "meet": "Norwood (7/24)",
+      "time": "37.26"
+    }
+  ],
+  "seasonPrs": {
+    "50 Freestyle": "28.98",
+    "50 Breaststroke": "41.94",
+    "50 Backstroke": "36.82"
+  }
+}

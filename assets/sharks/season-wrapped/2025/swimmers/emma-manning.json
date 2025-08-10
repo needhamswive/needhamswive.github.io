@@ -1,0 +1,79 @@
+{
+  "name": "Emma Manning",
+  "paperPlate": "The Ray of Sunshine Award",
+  "2024Wrapped": true,
+  "fly50Times": [
+    {
+      "meet": "Blue vs. Gold (7/1)",
+      "time": "32.54"
+    },
+    {
+      "meet": "Holl / Med / Mill (7/8)",
+      "time": "31.91"
+    },
+    {
+      "meet": "Natick (7/15)",
+      "time": "31.47"
+    },
+    {
+      "meet": "Medfield (7/31)",
+      "time": "36.24"
+    },
+    {
+      "meet": "Sherborn (8/7)",
+      "time": "31.16"
+    },
+    {
+      "meet": "Championships (8/9)",
+      "time": "31.82"
+    }
+  ],
+  "free50Times": [
+    {
+      "meet": "Blue vs. Gold (7/1)",
+      "time": "29.38"
+    },
+    {
+      "meet": "Holl / Med / Mill (7/8)",
+      "time": "29.60"
+    },
+    {
+      "meet": "Natick (7/15)",
+      "time": "29.44"
+    },
+    {
+      "meet": "Newton (7/22)",
+      "time": "29.49"
+    }
+  ],
+  "breast50Times": [
+    {
+      "meet": "Blue vs. Gold (7/1)",
+      "time": "42.09"
+    }
+  ],
+  "back50Times": [
+    {
+      "meet": "Holl / Med / Mill (7/8)",
+      "time": "33.39"
+    },
+    {
+      "meet": "Newton (7/22)",
+      "time": "33.55"
+    },
+    {
+      "meet": "Sherborn (8/7)",
+      "time": "33.34"
+    },
+    {
+      "meet": "Championships (8/9)",
+      "time": "33.07"
+    }
+  ],
+  "seasonPrs": {
+    "50 Butterfly": "31.16",
+    "50 Freestyle": "29.38",
+    "50 Breaststroke": "42.09",
+    "50 Backstroke": "33.07"
+  }
+}

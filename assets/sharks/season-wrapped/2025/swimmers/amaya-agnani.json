@@ -1,0 +1,76 @@
+{
+  "name": "Amaya Agnani",
+  "paperPlate": "Tough Cookie",
+  "swimmerOfTheWeek": true,
+  "free25Times": [
+    {
+      "meet": "Holl / Med / Mill (7/8)",
+      "time": "34.45"
+    },
+    {
+      "meet": "Westwood (7/10)",
+      "time": "35.00"
+    },
+    {
+      "meet": "Canton (7/17)",
+      "time": "31.01"
+    },
+    {
+      "meet": "Newton (7/22)",
+      "time": "33.50"
+    },
+    {
+      "meet": "Walpole (7/29)",
+      "time": "33.53"
+    },
+    {
+      "meet": "Sherborn (8/7)",
+      "time": "33.79"
+    },
+    {
+      "meet": "Championships (8/9)",
+      "time": "29.35"
+    }
+  ],
+  "breast25Times": [
+    {
+      "meet": "Natick (7/15)",
+      "time": "63.85"
+    },
+    {
+      "meet": "Canton (7/17)",
+      "time": "72.06"
+    },
+    {
+      "meet": "Walpole (7/29)",
+      "time": "54.84"
+    }
+  ],
+  "back25Times": [
+    {
+      "meet": "Holl / Med / Mill (7/8)",
+      "time": "45.67"
+    },
+    {
+      "meet": "Natick (7/15)",
+      "time": "45.56"
+    },
+    {
+      "meet": "Newton (7/22)",
+      "time": "46.26"
+    },
+    {
+      "meet": "Medfield (7/31)",
+      "time": "42.50"
+    },
+    {
+      "meet": "Championships (8/9)",
+      "time": "39.17"
+    }
+  ],
+  "seasonPrs": {
+    "25 Freestyle": "29.35",
+    "25 Breaststroke": "54.84",
+    "25 Backstroke": "39.17"
+  }
+}

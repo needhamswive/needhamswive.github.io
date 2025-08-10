@@ -1,0 +1,71 @@
+{
+  "name": "Dante Jitianu",
+  "paperPlate": "The Happy Camper Award",
+  "2024Wrapped": true,
+  "fly25Times": [
+    {
+      "meet": "Blue vs. Gold (7/1)",
+      "time": "27.56"
+    },
+    {
+      "meet": "Westwood (7/10)",
+      "time": "28.09"
+    }
+  ],
+  "free25Times": [
+    {
+      "meet": "Blue vs. Gold (7/1)",
+      "time": "23.25"
+    },
+    {
+      "meet": "Holl / Med / Mill (7/8)",
+      "time": "25.35"
+    }
+  ],
+  "breast25Times": [
+    {
+      "meet": "Blue vs. Gold (7/1)",
+      "time": "26.78"
+    },
+    {
+      "meet": "Westwood (7/10)",
+      "time": "28.06"
+    },
+    {
+      "meet": "Dedham (8/5)",
+      "time": "26.64"
+    },
+    {
+      "meet": "Sherborn (8/7)",
+      "time": "26.34"
+    },
+    {
+      "meet": "Championships (8/9)",
+      "time": "26.61"
+    }
+  ],
+  "back25Times": [
+    {
+      "meet": "Holl / Med / Mill (7/8)",
+      "time": "26.38"
+    },
+    {
+      "meet": "Dedham (8/5)",
+      "time": "26.34"
+    },
+    {
+      "meet": "Sherborn (8/7)",
+      "time": "28.62"
+    },
+    {
+      "meet": "Championships (8/9)",
+      "time": "26.61"
+    }
+  ],
+  "seasonPrs": {
+    "25 Butterfly": "27.56",
+    "25 Freestyle": "23.25",
+    "25 Breaststroke": "26.34",
+    "25 Backstroke": "26.34"
+  }
+}

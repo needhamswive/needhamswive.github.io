@@ -1,0 +1,104 @@
+{
+  "name": "Kyle Botelho",
+  "paperPlate": "Secret 11-12 Award",
+  "swimmerOfTheWeek": true,
+  "fly25Times": [
+    {
+      "meet": "Blue vs. Gold (7/1)",
+      "time": "34.19"
+    }
+  ],
+  "free25Times": [
+    {
+      "meet": "Holl / Med / Mill (7/8)",
+      "time": "23.54"
+    },
+    {
+      "meet": "Westwood (7/10)",
+      "time": "24.18"
+    },
+    {
+      "meet": "Natick (7/15)",
+      "time": "22.81"
+    },
+    {
+      "meet": "Canton (7/17)",
+      "time": "24.51"
+    }
+  ],
+  "breast25Times": [
+    {
+      "meet": "Holl / Med / Mill (7/8)",
+      "time": "27.57"
+    },
+    {
+      "meet": "Canton (7/17)",
+      "time": "31.05"
+    },
+    {
+      "meet": "Medfield (7/31)",
+      "time": "65.33"
+    }
+  ],
+  "back25Times": [
+    {
+      "meet": "Natick (7/15)",
+      "time": "30.06"
+    }
+  ],
+  "free50Times": [
+    {
+      "meet": "Norwood (7/24)",
+      "time": "46.76"
+    },
+    {
+      "meet": "Walpole (7/29)",
+      "time": "47.56"
+    },
+    {
+      "meet": "Medfield (7/31)",
+      "time": "49.00"
+    },
+    {
+      "meet": "Sherborn (8/7)",
+      "time": "46.72"
+    },
+    {
+      "meet": "Championships (8/9)",
+      "time": "45.19"
+    }
+  ],
+  "breast50Times": [
+    {
+      "meet": "Newton (7/22)",
+      "time": "62.93"
+    },
+    {
+      "meet": "Sherborn (8/7)",
+      "time": "61.30"
+    },
+    {
+      "meet": "Championships (8/9)",
+      "time": "57.73"
+    }
+  ],
+  "back50Times": [
+    {
+      "meet": "Norwood (7/24)",
+      "time": "61.44"
+    },
+    {
+      "meet": "Walpole (7/29)",
+      "time": "63.50"
+    }
+  ],
+  "seasonPrs": {
+    "25 Butterfly": "34.19",
+    "25 Freestyle": "22.81",
+    "25 Breaststroke": "27.57",
+    "25 Backstroke": "30.06",
+    "50 Freestyle": "45.19",
+    "50 Breaststroke": "57.73",
+    "50 Backstroke": "61.44"
+  }
+}

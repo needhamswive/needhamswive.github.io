@@ -1,0 +1,103 @@
+{
+  "name": "Tyler Schlobohm",
+  "paperPlate": "The Storyteller Award",
+  "2024Wrapped": true,
+  "fly25Times": [
+    {
+      "meet": "Blue vs. Gold (7/1)",
+      "time": "34.10"
+    },
+    {
+      "meet": "Holl / Med / Mill (7/8)",
+      "time": "33.94"
+    },
+    {
+      "meet": "Natick (7/15)",
+      "time": "31.65"
+    },
+    {
+      "meet": "Newton (7/22)",
+      "time": "29.13"
+    }
+  ],
+  "free25Times": [
+    {
+      "meet": "Blue vs. Gold (7/1)",
+      "time": "23.38"
+    },
+    {
+      "meet": "Canton (7/17)",
+      "time": "29.34"
+    },
+    {
+      "meet": "Norwood (7/24)",
+      "time": "24.37"
+    },
+    {
+      "meet": "Dedham (8/5)",
+      "time": "24.51"
+    },
+    {
+      "meet": "Sherborn (8/7)",
+      "time": "24.98"
+    },
+    {
+      "meet": "Championships (8/9)",
+      "time": "22.61"
+    }
+  ],
+  "breast25Times": [
+    {
+      "meet": "Blue vs. Gold (7/1)",
+      "time": "34.64"
+    },
+    {
+      "meet": "Holl / Med / Mill (7/8)",
+      "time": "32.63"
+    },
+    {
+      "meet": "Westwood (7/10)",
+      "time": "32.71"
+    },
+    {
+      "meet": "Canton (7/17)",
+      "time": "37.05"
+    }
+  ],
+  "back25Times": [
+    {
+      "meet": "Westwood (7/10)",
+      "time": "27.71"
+    },
+    {
+      "meet": "Natick (7/15)",
+      "time": "33.65"
+    },
+    {
+      "meet": "Newton (7/22)",
+      "time": "33.21"
+    },
+    {
+      "meet": "Norwood (7/24)",
+      "time": "31.09"
+    },
+    {
+      "meet": "Dedham (8/5)",
+      "time": "35.47"
+    },
+    {
+      "meet": "Sherborn (8/7)",
+      "time": "29.15"
+    },
+    {
+      "meet": "Championships (8/9)",
+      "time": "28.99"
+    }
+  ],
+  "seasonPrs": {
+    "25 Butterfly": "29.13",
+    "25 Freestyle": "22.61",
+    "25 Breaststroke": "32.63",
+    "25 Backstroke": "27.71"
+  }
+}

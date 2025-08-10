@@ -1,0 +1,62 @@
+{
+  "name": "Genevieve Smith",
+  "paperPlate": "The Oxygen Enthusiast Award",
+  "fly50Times": [
+    {
+      "meet": "Newton (7/22)",
+      "time": "31.43"
+    },
+    {
+      "meet": "Norwood (7/24)",
+      "time": "31.82"
+    },
+    {
+      "meet": "Championships (8/9)",
+      "time": "31.37"
+    }
+  ],
+  "free50Times": [
+    {
+      "meet": "Blue vs. Gold (7/1)",
+      "time": "33.60"
+    },
+    {
+      "meet": "Canton (7/17)",
+      "time": "34.12"
+    },
+    {
+      "meet": "Norwood (7/24)",
+      "time": "30.32"
+    },
+    {
+      "meet": "Sherborn (8/7)",
+      "time": "29.48"
+    },
+    {
+      "meet": "Championships (8/9)",
+      "time": "29.96"
+    }
+  ],
+  "breast50Times": [
+    {
+      "meet": "Newton (7/22)",
+      "time": "39.14"
+    }
+  ],
+  "back50Times": [
+    {
+      "meet": "Canton (7/17)",
+      "time": "37.47"
+    },
+    {
+      "meet": "Sherborn (8/7)",
+      "time": "33.28"
+    }
+  ],
+  "seasonPrs": {
+    "50 Butterfly": "31.37",
+    "50 Freestyle": "29.48",
+    "50 Breaststroke": "39.14",
+    "50 Backstroke": "33.28"
+  }
+}

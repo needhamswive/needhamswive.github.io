@@ -1,0 +1,109 @@
+{
+  "name": "Emily Wu",
+  "paperPlate": "The Powerhouse Award",
+  "swimmerOfTheWeek": true,
+  "goldenGoggles": "Shark Attack",
+  "2024Wrapped": true,
+  "fly25Times": [
+    {
+      "meet": "Blue vs. Gold (7/1)",
+      "time": "17.10"
+    },
+    {
+      "meet": "Holl / Med / Mill (7/8)",
+      "time": "16.88"
+    },
+    {
+      "meet": "Newton (7/22)",
+      "time": "17.87"
+    },
+    {
+      "meet": "Norwood (7/24)",
+      "time": "18.07"
+    },
+    {
+      "meet": "Medfield (7/31)",
+      "time": "17.37"
+    },
+    {
+      "meet": "Dedham (8/5)",
+      "time": "18.18"
+    },
+    {
+      "meet": "Sherborn (8/7)",
+      "time": "16.27"
+    },
+    {
+      "meet": "Championships (8/9)",
+      "time": "17.82"
+    }
+  ],
+  "free25Times": [
+    {
+      "meet": "Blue vs. Gold (7/1)",
+      "time": "16.35"
+    },
+    {
+      "meet": "Walpole (7/29)",
+      "time": "16.56"
+    }
+  ],
+  "breast25Times": [
+    {
+      "meet": "Blue vs. Gold (7/1)",
+      "time": "22.20"
+    },
+    {
+      "meet": "Holl / Med / Mill (7/8)",
+      "time": "22.21"
+    },
+    {
+      "meet": "Westwood (7/10)",
+      "time": "23.44"
+    },
+    {
+      "meet": "Norwood (7/24)",
+      "time": "23.04"
+    },
+    {
+      "meet": "Walpole (7/29)",
+      "time": "22.69"
+    }
+  ],
+  "back25Times": [
+    {
+      "meet": "Westwood (7/10)",
+      "time": "17.93"
+    },
+    {
+      "meet": "Newton (7/22)",
+      "time": "19.15"
+    },
+    {
+      "meet": "Norwood (7/24)",
+      "time": "41.19"
+    },
+    {
+      "meet": "Medfield (7/31)",
+      "time": "18.34"
+    },
+    {
+      "meet": "Dedham (8/5)",
+      "time": "20.05"
+    },
+    {
+      "meet": "Sherborn (8/7)",
+      "time": "17.64"
+    },
+    {
+      "meet": "Championships (8/9)",
+      "time": "19.35"
+    }
+  ],
+  "seasonPrs": {
+    "25 Butterfly": "16.27",
+    "25 Freestyle": "16.35",
+    "25 Breaststroke": "22.20",
+    "25 Backstroke": "17.64"
+  }
+}

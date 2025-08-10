@@ -1,0 +1,92 @@
+{
+  "name": "Emmeline Fritz",
+  "paperPlate": "The Quietly Crushing It Award",
+  "swimmerOfTheWeek": true,
+  "2024Wrapped": true,
+  "fly50Times": [
+    {
+      "meet": "Natick (7/15)",
+      "time": "36.81"
+    },
+    {
+      "meet": "Norwood (7/24)",
+      "time": "39.22"
+    }
+  ],
+  "free50Times": [
+    {
+      "meet": "Blue vs. Gold (7/1)",
+      "time": "30.47"
+    },
+    {
+      "meet": "Holl / Med / Mill (7/8)",
+      "time": "31.44"
+    },
+    {
+      "meet": "Newton (7/22)",
+      "time": "30.19"
+    },
+    {
+      "meet": "Norwood (7/24)",
+      "time": "32.19"
+    },
+    {
+      "meet": "Dedham (8/5)",
+      "time": "32.14"
+    },
+    {
+      "meet": "Sherborn (8/7)",
+      "time": "30.94"
+    }
+  ],
+  "breast50Times": [
+    {
+      "meet": "Blue vs. Gold (7/1)",
+      "time": "49.19"
+    },
+    {
+      "meet": "Westwood (7/10)",
+      "time": "38.43"
+    },
+    {
+      "meet": "Natick (7/15)",
+      "time": "43.43"
+    },
+    {
+      "meet": "Canton (7/17)",
+      "time": "48.29"
+    }
+  ],
+  "back50Times": [
+    {
+      "meet": "Holl / Med / Mill (7/8)",
+      "time": "35.67"
+    },
+    {
+      "meet": "Westwood (7/10)",
+      "time": "35.54"
+    },
+    {
+      "meet": "Canton (7/17)",
+      "time": "40.01"
+    },
+    {
+      "meet": "Newton (7/22)",
+      "time": "38.00"
+    },
+    {
+      "meet": "Dedham (8/5)",
+      "time": "38.36"
+    },
+    {
+      "meet": "Sherborn (8/7)",
+      "time": "35.38"
+    }
+  ],
+  "seasonPrs": {
+    "50 Butterfly": "36.81",
+    "50 Freestyle": "30.19",
+    "50 Breaststroke": "38.43",
+    "50 Backstroke": "35.38"
+  }
+}

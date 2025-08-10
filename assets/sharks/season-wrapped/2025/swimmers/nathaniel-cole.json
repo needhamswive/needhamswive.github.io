@@ -1,0 +1,104 @@
+{
+  "name": "Nathaniel Cole",
+  "paperPlate": "The Aquaman Award",
+  "goldenGoggles": "Sportsmanship",
+  "2024Wrapped": true,
+  "fly25Times": [
+    {
+      "meet": "Westwood (7/10)",
+      "time": "36.49"
+    },
+    {
+      "meet": "Newton (7/22)",
+      "time": "40.25"
+    },
+    {
+      "meet": "Walpole (7/29)",
+      "time": "38.62"
+    },
+    {
+      "meet": "Dedham (8/5)",
+      "time": "32.25"
+    }
+  ],
+  "free25Times": [
+    {
+      "meet": "Blue vs. Gold (7/1)",
+      "time": "23.30"
+    },
+    {
+      "meet": "Holl / Med / Mill (7/8)",
+      "time": "22.58"
+    },
+    {
+      "meet": "Canton (7/17)",
+      "time": "26.87"
+    },
+    {
+      "meet": "Newton (7/22)",
+      "time": "23.10"
+    },
+    {
+      "meet": "Norwood (7/24)",
+      "time": "24.81"
+    },
+    {
+      "meet": "Dedham (8/5)",
+      "time": "24.59"
+    },
+    {
+      "meet": "Sherborn (8/7)",
+      "time": "23.84"
+    },
+    {
+      "meet": "Championships (8/9)",
+      "time": "22.29"
+    }
+  ],
+  "breast25Times": [
+    {
+      "meet": "Blue vs. Gold (7/1)",
+      "time": "38.38"
+    },
+    {
+      "meet": "Holl / Med / Mill (7/8)",
+      "time": "41.03"
+    },
+    {
+      "meet": "Canton (7/17)",
+      "time": "36.54"
+    },
+    {
+      "meet": "Norwood (7/24)",
+      "time": "37.31"
+    },
+    {
+      "meet": "Sherborn (8/7)",
+      "time": "30.89"
+    }
+  ],
+  "back25Times": [
+    {
+      "meet": "Westwood (7/10)",
+      "time": "30.31"
+    },
+    {
+      "meet": "Walpole (7/29)",
+      "time": "31.66"
+    },
+    {
+      "meet": "Medfield (7/31)",
+      "time": "18.50"
+    },
+    {
+      "meet": "Championships (8/9)",
+      "time": "25.74"
+    }
+  ],
+  "seasonPrs": {
+    "25 Butterfly": "32.25",
+    "25 Freestyle": "22.29",
+    "25 Breaststroke": "30.89",
+    "25 Backstroke": "18.50"
+  }
+}

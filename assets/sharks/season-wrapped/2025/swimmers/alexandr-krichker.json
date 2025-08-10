@@ -1,0 +1,109 @@
+{
+  "name": "Alexandr Krichker",
+  "paperPlate": "The Major Drama Lama Award",
+  "swimmerOfTheWeek": true,
+  "goldenGoggles": "Shark Attack",
+  "2024Wrapped": true,
+  "fly50Times": [
+    {
+      "meet": "Westwood (7/10)",
+      "time": "31.47"
+    },
+    {
+      "meet": "Natick (7/15)",
+      "time": "32.51"
+    },
+    {
+      "meet": "Walpole (7/29)",
+      "time": "31.50"
+    }
+  ],
+  "free50Times": [
+    {
+      "meet": "Holl / Med / Mill (7/8)",
+      "time": "28.34"
+    },
+    {
+      "meet": "Canton (7/17)",
+      "time": "30.76"
+    },
+    {
+      "meet": "Newton (7/22)",
+      "time": "27.09"
+    },
+    {
+      "meet": "Norwood (7/24)",
+      "time": "27.60"
+    },
+    {
+      "meet": "Medfield (7/31)",
+      "time": "26.78"
+    },
+    {
+      "meet": "Dedham (8/5)",
+      "time": "28.44"
+    },
+    {
+      "meet": "Sherborn (8/7)",
+      "time": "27.12"
+    },
+    {
+      "meet": "Championships (8/9)",
+      "time": "27.21"
+    }
+  ],
+  "breast50Times": [
+    {
+      "meet": "Holl / Med / Mill (7/8)",
+      "time": "37.31"
+    },
+    {
+      "meet": "Newton (7/22)",
+      "time": "36.88"
+    },
+    {
+      "meet": "Walpole (7/29)",
+      "time": "37.84"
+    },
+    {
+      "meet": "Dedham (8/5)",
+      "time": "39.31"
+    }
+  ],
+  "back50Times": [
+    {
+      "meet": "Westwood (7/10)",
+      "time": "31.50"
+    },
+    {
+      "meet": "Natick (7/15)",
+      "time": "30.37"
+    },
+    {
+      "meet": "Canton (7/17)",
+      "time": "34.68"
+    },
+    {
+      "meet": "Norwood (7/24)",
+      "time": "30.45"
+    },
+    {
+      "meet": "Medfield (7/31)",
+      "time": "32.22"
+    },
+    {
+      "meet": "Sherborn (8/7)",
+      "time": "31.18"
+    },
+    {
+      "meet": "Championships (8/9)",
+      "time": "30.64"
+    }
+  ],
+  "seasonPrs": {
+    "50 Butterfly": "31.47",
+    "50 Freestyle": "26.78",
+    "50 Breaststroke": "36.88",
+    "50 Backstroke": "30.37"
+  }
+}

@@ -1,0 +1,123 @@
+{
+  "name": "Hayley Forman",
+  "paperPlate": "Miss do it all",
+  "swimmerOfTheWeek": true,
+  "fly25Times": [
+    {
+      "meet": "Blue vs. Gold (7/1)",
+      "time": "44.81"
+    },
+    {
+      "meet": "Natick (7/15)",
+      "time": "45.19"
+    },
+    {
+      "meet": "Canton (7/17)",
+      "time": "46.51"
+    },
+    {
+      "meet": "Newton (7/22)",
+      "time": "42.27"
+    },
+    {
+      "meet": "Medfield (7/31)",
+      "time": "43.96"
+    },
+    {
+      "meet": "Dedham (8/5)",
+      "time": "41.41"
+    }
+  ],
+  "free25Times": [
+    {
+      "meet": "Blue vs. Gold (7/1)",
+      "time": "35.31"
+    },
+    {
+      "meet": "Holl / Med / Mill (7/8)",
+      "time": "32.27"
+    },
+    {
+      "meet": "Canton (7/17)",
+      "time": "36.45"
+    },
+    {
+      "meet": "Newton (7/22)",
+      "time": "32.37"
+    },
+    {
+      "meet": "Walpole (7/29)",
+      "time": "30.20"
+    },
+    {
+      "meet": "Dedham (8/5)",
+      "time": "28.07"
+    }
+  ],
+  "breast25Times": [
+    {
+      "meet": "Blue vs. Gold (7/1)",
+      "time": "41.47"
+    },
+    {
+      "meet": "Westwood (7/10)",
+      "time": "40.68"
+    },
+    {
+      "meet": "Natick (7/15)",
+      "time": "37.50"
+    },
+    {
+      "meet": "Norwood (7/24)",
+      "time": "38.46"
+    },
+    {
+      "meet": "Medfield (7/31)",
+      "time": "36.09"
+    },
+    {
+      "meet": "Sherborn (8/7)",
+      "time": "36.70"
+    }
+  ],
+  "back25Times": [
+    {
+      "meet": "Blue vs. Gold (7/1)",
+      "time": "34.91"
+    },
+    {
+      "meet": "Holl / Med / Mill (7/8)",
+      "time": "31.25"
+    },
+    {
+      "meet": "Westwood (7/10)",
+      "time": "31.14"
+    },
+    {
+      "meet": "Norwood (7/24)",
+      "time": "32.33"
+    },
+    {
+      "meet": "Walpole (7/29)",
+      "time": "30.02"
+    },
+    {
+      "meet": "Dedham (8/5)",
+      "time": "31.69"
+    },
+    {
+      "meet": "Sherborn (8/7)",
+      "time": "31.12"
+    },
+    {
+      "meet": "Championships (8/9)",
+      "time": "33.56"
+    }
+  ],
+  "seasonPrs": {
+    "25 Butterfly": "41.41",
+    "25 Freestyle": "28.07",
+    "25 Breaststroke": "36.09",
+    "25 Backstroke": "30.02"
+  }
+}

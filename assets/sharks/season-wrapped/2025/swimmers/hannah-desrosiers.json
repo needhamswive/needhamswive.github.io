@@ -1,0 +1,99 @@
+{
+  "name": "Hannah Desrosiers",
+  "paperPlate": "The Shark Spirit Award",
+  "2024Wrapped": true,
+  "fly25Times": [
+    {
+      "meet": "Holl / Med / Mill (7/8)",
+      "time": "26.56"
+    },
+    {
+      "meet": "Westwood (7/10)",
+      "time": "26.89"
+    },
+    {
+      "meet": "Newton (7/22)",
+      "time": "25.76"
+    },
+    {
+      "meet": "Walpole (7/29)",
+      "time": "28.53"
+    },
+    {
+      "meet": "Sherborn (8/7)",
+      "time": "31.34"
+    },
+    {
+      "meet": "Championships (8/9)",
+      "time": "26.29"
+    }
+  ],
+  "free25Times": [
+    {
+      "meet": "Natick (7/15)",
+      "time": "27.46"
+    },
+    {
+      "meet": "Walpole (7/29)",
+      "time": "25.03"
+    },
+    {
+      "meet": "Dedham (8/5)",
+      "time": "23.46"
+    },
+    {
+      "meet": "Sherborn (8/7)",
+      "time": "24.37"
+    }
+  ],
+  "breast25Times": [
+    {
+      "meet": "Holl / Med / Mill (7/8)",
+      "time": "27.53"
+    },
+    {
+      "meet": "Westwood (7/10)",
+      "time": "29.56"
+    },
+    {
+      "meet": "Newton (7/22)",
+      "time": "28.85"
+    },
+    {
+      "meet": "Norwood (7/24)",
+      "time": "29.59"
+    },
+    {
+      "meet": "Medfield (7/31)",
+      "time": "30.30"
+    },
+    {
+      "meet": "Championships (8/9)",
+      "time": "29.57"
+    }
+  ],
+  "back25Times": [
+    {
+      "meet": "Natick (7/15)",
+      "time": "26.03"
+    },
+    {
+      "meet": "Norwood (7/24)",
+      "time": "27.94"
+    },
+    {
+      "meet": "Medfield (7/31)",
+      "time": "28.75"
+    },
+    {
+      "meet": "Dedham (8/5)",
+      "time": "28.45"
+    }
+  ],
+  "seasonPrs": {
+    "25 Butterfly": "25.76",
+    "25 Freestyle": "23.46",
+    "25 Breaststroke": "27.53",
+    "25 Backstroke": "26.03"
+  }
+}

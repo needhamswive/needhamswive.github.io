@@ -1,0 +1,83 @@
+{
+  "name": "Julian Carlson",
+  "paperPlate": "The Swim Fast,Eat Faster Award",
+  "university": "Connecticut College",
+  "2024Wrapped": true,
+  "fly50Times": [
+    {
+      "meet": "Blue vs. Gold (7/1)",
+      "time": "24.38"
+    },
+    {
+      "meet": "Westwood (7/10)",
+      "time": "25.09"
+    },
+    {
+      "meet": "Walpole (7/29)",
+      "time": "24.77"
+    },
+    {
+      "meet": "Championships (8/9)",
+      "time": "24.20"
+    }
+  ],
+  "free50Times": [
+    {
+      "meet": "Blue vs. Gold (7/1)",
+      "time": "23.28"
+    },
+    {
+      "meet": "Holl / Med / Mill (7/8)",
+      "time": "22.91"
+    },
+    {
+      "meet": "Westwood (7/10)",
+      "time": "23.34"
+    },
+    {
+      "meet": "Natick (7/15)",
+      "time": "23.57"
+    },
+    {
+      "meet": "Sherborn (8/7)",
+      "time": "23.23"
+    }
+  ],
+  "breast50Times": [
+    {
+      "meet": "Blue vs. Gold (7/1)",
+      "time": "27.28"
+    },
+    {
+      "meet": "Holl / Med / Mill (7/8)",
+      "time": "27.60"
+    },
+    {
+      "meet": "Walpole (7/29)",
+      "time": "29.11"
+    },
+    {
+      "meet": "Sherborn (8/7)",
+      "time": "27.55"
+    },
+    {
+      "meet": "Championships (8/9)",
+      "time": "26.82"
+    }
+  ],
+  "back50Times": [
+    {
+      "meet": "Natick (7/15)",
+      "time": "25.90"
+    }
+  ],
+  "seasonPrs": {
+    "50 Butterfly": "24.20",
+    "50 Freestyle": "22.91",
+    "50 Breaststroke": "26.82",
+    "50 Backstroke": "25.90"
+  },
+  "championEvents": [
+    "15 & Over 50 Yd Breaststroke"
+  ]
+}

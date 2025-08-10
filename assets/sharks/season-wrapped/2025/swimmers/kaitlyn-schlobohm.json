@@ -1,0 +1,106 @@
+{
+  "name": "Kaitlyn Schlobohm",
+  "paperPlate": "Submarine Award",
+  "fly25Times": [
+    {
+      "meet": "Blue vs. Gold (7/1)",
+      "time": "49.25"
+    },
+    {
+      "meet": "Canton (7/17)",
+      "time": "62.84"
+    }
+  ],
+  "free25Times": [
+    {
+      "meet": "Blue vs. Gold (7/1)",
+      "time": "46.87"
+    },
+    {
+      "meet": "Holl / Med / Mill (7/8)",
+      "time": "34.22"
+    },
+    {
+      "meet": "Westwood (7/10)",
+      "time": "35.14"
+    },
+    {
+      "meet": "Natick (7/15)",
+      "time": "38.38"
+    },
+    {
+      "meet": "Newton (7/22)",
+      "time": "38.87"
+    },
+    {
+      "meet": "Sherborn (8/7)",
+      "time": "36.50"
+    },
+    {
+      "meet": "Championships (8/9)",
+      "time": "45.11"
+    }
+  ],
+  "breast25Times": [
+    {
+      "meet": "Blue vs. Gold (7/1)",
+      "time": "83.35"
+    },
+    {
+      "meet": "Natick (7/15)",
+      "time": "55.37"
+    },
+    {
+      "meet": "Canton (7/17)",
+      "time": "56.15"
+    },
+    {
+      "meet": "Norwood (7/24)",
+      "time": "48.35"
+    },
+    {
+      "meet": "Dedham (8/5)",
+      "time": "47.06"
+    },
+    {
+      "meet": "Sherborn (8/7)",
+      "time": "68.57"
+    }
+  ],
+  "back25Times": [
+    {
+      "meet": "Blue vs. Gold (7/1)",
+      "time": "58.35"
+    },
+    {
+      "meet": "Holl / Med / Mill (7/8)",
+      "time": "45.47"
+    },
+    {
+      "meet": "Westwood (7/10)",
+      "time": "38.51"
+    },
+    {
+      "meet": "Newton (7/22)",
+      "time": "37.58"
+    },
+    {
+      "meet": "Norwood (7/24)",
+      "time": "41.64"
+    },
+    {
+      "meet": "Dedham (8/5)",
+      "time": "38.78"
+    },
+    {
+      "meet": "Championships (8/9)",
+      "time": "40.11"
+    }
+  ],
+  "seasonPrs": {
+    "25 Butterfly": "49.25",
+    "25 Freestyle": "34.22",
+    "25 Breaststroke": "47.06",
+    "25 Backstroke": "37.58"
+  }
+}

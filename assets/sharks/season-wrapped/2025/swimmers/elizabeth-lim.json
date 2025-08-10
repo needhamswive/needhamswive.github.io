@@ -1,0 +1,123 @@
+{
+  "name": "Elizabeth Lim",
+  "paperPlate": "Torpedo Award",
+  "2024Wrapped": true,
+  "fly50Times": [
+    {
+      "meet": "Blue vs. Gold (7/1)",
+      "time": "42.08"
+    },
+    {
+      "meet": "Holl / Med / Mill (7/8)",
+      "time": "42.01"
+    },
+    {
+      "meet": "Westwood (7/10)",
+      "time": "41.95"
+    },
+    {
+      "meet": "Canton (7/17)",
+      "time": "47.89"
+    },
+    {
+      "meet": "Newton (7/22)",
+      "time": "40.94"
+    },
+    {
+      "meet": "Norwood (7/24)",
+      "time": "43.39"
+    },
+    {
+      "meet": "Walpole (7/29)",
+      "time": "41.30"
+    },
+    {
+      "meet": "Medfield (7/31)",
+      "time": "43.97"
+    },
+    {
+      "meet": "Dedham (8/5)",
+      "time": "43.80"
+    },
+    {
+      "meet": "Championships (8/9)",
+      "time": "40.58"
+    }
+  ],
+  "free50Times": [
+    {
+      "meet": "Blue vs. Gold (7/1)",
+      "time": "35.20"
+    },
+    {
+      "meet": "Natick (7/15)",
+      "time": "35.59"
+    },
+    {
+      "meet": "Walpole (7/29)",
+      "time": "34.05"
+    },
+    {
+      "meet": "Sherborn (8/7)",
+      "time": "35.08"
+    }
+  ],
+  "breast50Times": [
+    {
+      "meet": "Blue vs. Gold (7/1)",
+      "time": "48.80"
+    },
+    {
+      "meet": "Holl / Med / Mill (7/8)",
+      "time": "49.77"
+    },
+    {
+      "meet": "Natick (7/15)",
+      "time": "46.31"
+    },
+    {
+      "meet": "Canton (7/17)",
+      "time": "52.37"
+    },
+    {
+      "meet": "Walpole (7/29)",
+      "time": "48.11"
+    }
+  ],
+  "back50Times": [
+    {
+      "meet": "Westwood (7/10)",
+      "time": "40.07"
+    },
+    {
+      "meet": "Newton (7/22)",
+      "time": "41.59"
+    },
+    {
+      "meet": "Norwood (7/24)",
+      "time": "42.01"
+    },
+    {
+      "meet": "Medfield (7/31)",
+      "time": "41.41"
+    },
+    {
+      "meet": "Dedham (8/5)",
+      "time": "41.56"
+    },
+    {
+      "meet": "Sherborn (8/7)",
+      "time": "40.57"
+    },
+    {
+      "meet": "Championships (8/9)",
+      "time": "37.93"
+    }
+  ],
+  "seasonPrs": {
+    "50 Butterfly": "40.58",
+    "50 Freestyle": "34.05",
+    "50 Breaststroke": "46.31",
+    "50 Backstroke": "37.93"
+  }
+}

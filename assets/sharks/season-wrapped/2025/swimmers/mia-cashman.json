@@ -1,0 +1,107 @@
+{
+  "name": "Mia Cashman",
+  "paperPlate": "The Dash of Sass Award",
+  "2024Wrapped": true,
+  "fly50Times": [
+    {
+      "meet": "Norwood (7/24)",
+      "time": "49.57"
+    },
+    {
+      "meet": "Sherborn (8/7)",
+      "time": "45.53"
+    },
+    {
+      "meet": "Championships (8/9)",
+      "time": "44.08"
+    }
+  ],
+  "free50Times": [
+    {
+      "meet": "Blue vs. Gold (7/1)",
+      "time": "37.74"
+    },
+    {
+      "meet": "Holl / Med / Mill (7/8)",
+      "time": "36.09"
+    },
+    {
+      "meet": "Canton (7/17)",
+      "time": "43.88"
+    },
+    {
+      "meet": "Newton (7/22)",
+      "time": "36.00"
+    },
+    {
+      "meet": "Walpole (7/29)",
+      "time": "37.52"
+    },
+    {
+      "meet": "Sherborn (8/7)",
+      "time": "38.87"
+    },
+    {
+      "meet": "Championships (8/9)",
+      "time": "36.36"
+    }
+  ],
+  "breast50Times": [
+    {
+      "meet": "Blue vs. Gold (7/1)",
+      "time": "65.18"
+    },
+    {
+      "meet": "Natick (7/15)",
+      "time": "58.25"
+    },
+    {
+      "meet": "Norwood (7/24)",
+      "time": "56.22"
+    },
+    {
+      "meet": "Medfield (7/31)",
+      "time": "59.84"
+    },
+    {
+      "meet": "Dedham (8/5)",
+      "time": "56.02"
+    }
+  ],
+  "back50Times": [
+    {
+      "meet": "Holl / Med / Mill (7/8)",
+      "time": "45.79"
+    },
+    {
+      "meet": "Canton (7/17)",
+      "time": "54.98"
+    },
+    {
+      "meet": "Newton (7/22)",
+      "time": "47.04"
+    },
+    {
+      "meet": "Walpole (7/29)",
+      "time": "44.62"
+    },
+    {
+      "meet": "Medfield (7/31)",
+      "time": "50.94"
+    },
+    {
+      "meet": "Dedham (8/5)",
+      "time": "49.19"
+    },
+    {
+      "meet": "Sherborn (8/7)",
+      "time": "47.35"
+    }
+  ],
+  "seasonPrs": {
+    "50 Butterfly": "44.08",
+    "50 Freestyle": "36.00",
+    "50 Breaststroke": "56.02",
+    "50 Backstroke": "44.62"
+  }
+}

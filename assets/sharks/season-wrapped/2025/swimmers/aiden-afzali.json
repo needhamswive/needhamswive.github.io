@@ -1,0 +1,90 @@
+{
+  "name": "Aiden Afzali",
+  "paperPlate": "The Busy Bee Award",
+  "2024Wrapped": true,
+  "fly50Times": [
+    {
+      "meet": "Blue vs. Gold (7/1)",
+      "time": "32.26"
+    },
+    {
+      "meet": "Westwood (7/10)",
+      "time": "32.04"
+    },
+    {
+      "meet": "Natick (7/15)",
+      "time": "32.09"
+    },
+    {
+      "meet": "Newton (7/22)",
+      "time": "31.59"
+    },
+    {
+      "meet": "Medfield (7/31)",
+      "time": "33.35"
+    },
+    {
+      "meet": "Sherborn (8/7)",
+      "time": "31.84"
+    },
+    {
+      "meet": "Championships (8/9)",
+      "time": "30.85"
+    }
+  ],
+  "free50Times": [
+    {
+      "meet": "Blue vs. Gold (7/1)",
+      "time": "29.22"
+    },
+    {
+      "meet": "Westwood (7/10)",
+      "time": "30.05"
+    },
+    {
+      "meet": "Medfield (7/31)",
+      "time": "29.59"
+    }
+  ],
+  "breast50Times": [
+    {
+      "meet": "Blue vs. Gold (7/1)",
+      "time": "37.74"
+    },
+    {
+      "meet": "Natick (7/15)",
+      "time": "38.03"
+    },
+    {
+      "meet": "Newton (7/22)",
+      "time": "37.58"
+    },
+    {
+      "meet": "Medfield (7/31)",
+      "time": "39.72"
+    },
+    {
+      "meet": "Sherborn (8/7)",
+      "time": "37.87"
+    },
+    {
+      "meet": "Championships (8/9)",
+      "time": "35.67"
+    }
+  ],
+  "back50Times": [
+    {
+      "meet": "Medfield (7/31)",
+      "time": "33.40"
+    }
+  ],
+  "seasonPrs": {
+    "50 Butterfly": "30.85",
+    "50 Freestyle": "29.22",
+    "50 Breaststroke": "35.67",
+    "50 Backstroke": "33.40"
+  },
+  "championEvents": [
+    "11 & 12 50 Yd Breaststroke"
+  ]
+}

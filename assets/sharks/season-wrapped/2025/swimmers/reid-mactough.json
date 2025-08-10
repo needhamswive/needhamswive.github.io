@@ -1,0 +1,87 @@
+{
+  "name": "Reid Mactough",
+  "paperPlate": "The Sass and Splash Award",
+  "2024Wrapped": true,
+  "fly50Times": [
+    {
+      "meet": "Holl / Med / Mill (7/8)",
+      "time": "27.84"
+    },
+    {
+      "meet": "Canton (7/17)",
+      "time": "30.48"
+    },
+    {
+      "meet": "Newton (7/22)",
+      "time": "27.46"
+    },
+    {
+      "meet": "Dedham (8/5)",
+      "time": "28.28"
+    },
+    {
+      "meet": "Sherborn (8/7)",
+      "time": "27.62"
+    },
+    {
+      "meet": "Championships (8/9)",
+      "time": "28.03"
+    }
+  ],
+  "free50Times": [
+    {
+      "meet": "Blue vs. Gold (7/1)",
+      "time": "30.14"
+    },
+    {
+      "meet": "Westwood (7/10)",
+      "time": "27.03"
+    },
+    {
+      "meet": "Natick (7/15)",
+      "time": "26.41"
+    },
+    {
+      "meet": "Dedham (8/5)",
+      "time": "27.51"
+    },
+    {
+      "meet": "Sherborn (8/7)",
+      "time": "26.95"
+    },
+    {
+      "meet": "Championships (8/9)",
+      "time": "26.96"
+    }
+  ],
+  "breast50Times": [
+    {
+      "meet": "Natick (7/15)",
+      "time": "34.59"
+    }
+  ],
+  "back50Times": [
+    {
+      "meet": "Holl / Med / Mill (7/8)",
+      "time": "30.91"
+    },
+    {
+      "meet": "Westwood (7/10)",
+      "time": "31.78"
+    },
+    {
+      "meet": "Canton (7/17)",
+      "time": "34.76"
+    },
+    {
+      "meet": "Newton (7/22)",
+      "time": "30.45"
+    }
+  ],
+  "seasonPrs": {
+    "50 Butterfly": "27.46",
+    "50 Freestyle": "26.41",
+    "50 Breaststroke": "34.59",
+    "50 Backstroke": "30.45"
+  }
+}

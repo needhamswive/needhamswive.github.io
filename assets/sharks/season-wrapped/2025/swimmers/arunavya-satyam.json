@@ -1,0 +1,122 @@
+{
+  "name": "Arunavya Satyam",
+  "paperPlate": "The Cheerleader Award",
+  "fly25Times": [
+    {
+      "meet": "Blue vs. Gold (7/1)",
+      "time": "25.25"
+    },
+    {
+      "meet": "Westwood (7/10)",
+      "time": "27.42"
+    }
+  ],
+  "free25Times": [
+    {
+      "meet": "Blue vs. Gold (7/1)",
+      "time": "24.73"
+    },
+    {
+      "meet": "Holl / Med / Mill (7/8)",
+      "time": "23.50"
+    },
+    {
+      "meet": "Natick (7/15)",
+      "time": "26.53"
+    },
+    {
+      "meet": "Canton (7/17)",
+      "time": "26.02"
+    },
+    {
+      "meet": "Newton (7/22)",
+      "time": "24.22"
+    },
+    {
+      "meet": "Medfield (7/31)",
+      "time": "24.78"
+    },
+    {
+      "meet": "Dedham (8/5)",
+      "time": "24.75"
+    },
+    {
+      "meet": "Sherborn (8/7)",
+      "time": "21.50"
+    },
+    {
+      "meet": "Championships (8/9)",
+      "time": "23.69"
+    }
+  ],
+  "breast25Times": [
+    {
+      "meet": "Blue vs. Gold (7/1)",
+      "time": "42.27"
+    },
+    {
+      "meet": "Norwood (7/24)",
+      "time": "37.95"
+    },
+    {
+      "meet": "Walpole (7/29)",
+      "time": "32.69"
+    },
+    {
+      "meet": "Medfield (7/31)",
+      "time": "37.47"
+    }
+  ],
+  "back25Times": [
+    {
+      "meet": "Blue vs. Gold (7/1)",
+      "time": "31.82"
+    },
+    {
+      "meet": "Holl / Med / Mill (7/8)",
+      "time": "32.45"
+    },
+    {
+      "meet": "Westwood (7/10)",
+      "time": "34.78"
+    },
+    {
+      "meet": "Natick (7/15)",
+      "time": "29.96"
+    },
+    {
+      "meet": "Canton (7/17)",
+      "time": "34.41"
+    },
+    {
+      "meet": "Newton (7/22)",
+      "time": "33.35"
+    },
+    {
+      "meet": "Norwood (7/24)",
+      "time": "31.36"
+    },
+    {
+      "meet": "Walpole (7/29)",
+      "time": "29.42"
+    },
+    {
+      "meet": "Dedham (8/5)",
+      "time": "27.32"
+    },
+    {
+      "meet": "Sherborn (8/7)",
+      "time": "29.56"
+    },
+    {
+      "meet": "Championships (8/9)",
+      "time": "25.95"
+    }
+  ],
+  "seasonPrs": {
+    "25 Butterfly": "25.25",
+    "25 Freestyle": "21.50",
+    "25 Breaststroke": "32.69",
+    "25 Backstroke": "25.95"
+  }
+}

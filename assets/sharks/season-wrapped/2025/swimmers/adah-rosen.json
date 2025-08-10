@@ -1,0 +1,49 @@
+{
+  "name": "Adah Rosen",
+  "fly50Times": [
+    {
+      "meet": "Blue vs. Gold (7/1)",
+      "time": "37.31"
+    }
+  ],
+  "free50Times": [
+    {
+      "meet": "Blue vs. Gold (7/1)",
+      "time": "32.63"
+    },
+    {
+      "meet": "Holl / Med / Mill (7/8)",
+      "time": "31.95"
+    },
+    {
+      "meet": "Natick (7/15)",
+      "time": "32.19"
+    },
+    {
+      "meet": "Walpole (7/29)",
+      "time": "32.21"
+    }
+  ],
+  "breast50Times": [
+    {
+      "meet": "Blue vs. Gold (7/1)",
+      "time": "44.26"
+    },
+    {
+      "meet": "Holl / Med / Mill (7/8)",
+      "time": "44.15"
+    }
+  ],
+  "back50Times": [
+    {
+      "meet": "Natick (7/15)",
+      "time": "38.78"
+    }
+  ],
+  "seasonPrs": {
+    "50 Butterfly": "37.31",
+    "50 Freestyle": "31.95",
+    "50 Breaststroke": "44.15",
+    "50 Backstroke": "38.78"
+  }
+}

@@ -1,0 +1,95 @@
+{
+  "name": "Jackson Desrosiers",
+  "paperPlate": "Idea Machine Award",
+  "2024Wrapped": true,
+  "fly50Times": [
+    {
+      "meet": "Natick (7/15)",
+      "time": "44.09"
+    },
+    {
+      "meet": "Norwood (7/24)",
+      "time": "50.35"
+    },
+    {
+      "meet": "Medfield (7/31)",
+      "time": "53.85"
+    },
+    {
+      "meet": "Dedham (8/5)",
+      "time": "49.59"
+    },
+    {
+      "meet": "Sherborn (8/7)",
+      "time": "46.78"
+    },
+    {
+      "meet": "Championships (8/9)",
+      "time": "44.33"
+    }
+  ],
+  "free50Times": [
+    {
+      "meet": "Holl / Med / Mill (7/8)",
+      "time": "34.42"
+    },
+    {
+      "meet": "Natick (7/15)",
+      "time": "35.50"
+    },
+    {
+      "meet": "Walpole (7/29)",
+      "time": "36.16"
+    }
+  ],
+  "breast50Times": [
+    {
+      "meet": "Westwood (7/10)",
+      "time": "49.71"
+    },
+    {
+      "meet": "Newton (7/22)",
+      "time": "46.78"
+    },
+    {
+      "meet": "Dedham (8/5)",
+      "time": "52.12"
+    },
+    {
+      "meet": "Sherborn (8/7)",
+      "time": "48.70"
+    },
+    {
+      "meet": "Championships (8/9)",
+      "time": "47.16"
+    }
+  ],
+  "back50Times": [
+    {
+      "meet": "Holl / Med / Mill (7/8)",
+      "time": "43.17"
+    },
+    {
+      "meet": "Westwood (7/10)",
+      "time": "44.15"
+    },
+    {
+      "meet": "Newton (7/22)",
+      "time": "44.58"
+    },
+    {
+      "meet": "Norwood (7/24)",
+      "time": "45.72"
+    },
+    {
+      "meet": "Walpole (7/29)",
+      "time": "45.28"
+    }
+  ],
+  "seasonPrs": {
+    "50 Butterfly": "44.09",
+    "50 Freestyle": "34.42",
+    "50 Breaststroke": "46.78",
+    "50 Backstroke": "43.17"
+  }
+}

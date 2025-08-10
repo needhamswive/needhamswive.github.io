@@ -1,0 +1,64 @@
+{
+  "name": "Carolyn Simmons",
+  "paperPlate": "The Live Laugh Love Sharks Award",
+  "university": "Bates College",
+  "2024Wrapped": true,
+  "fly50Times": [
+    {
+      "meet": "Blue vs. Gold (7/1)",
+      "time": "29.27"
+    },
+    {
+      "meet": "Holl / Med / Mill (7/8)",
+      "time": "30.05"
+    },
+    {
+      "meet": "Canton (7/17)",
+      "time": "32.48"
+    }
+  ],
+  "free50Times": [
+    {
+      "meet": "Blue vs. Gold (7/1)",
+      "time": "27.38"
+    },
+    {
+      "meet": "Holl / Med / Mill (7/8)",
+      "time": "27.66"
+    },
+    {
+      "meet": "Newton (7/22)",
+      "time": "26.25"
+    },
+    {
+      "meet": "Walpole (7/29)",
+      "time": "26.80"
+    }
+  ],
+  "breast50Times": [
+    {
+      "meet": "Blue vs. Gold (7/1)",
+      "time": "40.97"
+    }
+  ],
+  "back50Times": [
+    {
+      "meet": "Canton (7/17)",
+      "time": "33.11"
+    },
+    {
+      "meet": "Newton (7/22)",
+      "time": "29.50"
+    },
+    {
+      "meet": "Walpole (7/29)",
+      "time": "30.30"
+    }
+  ],
+  "seasonPrs": {
+    "50 Butterfly": "29.27",
+    "50 Freestyle": "26.25",
+    "50 Breaststroke": "40.97",
+    "50 Backstroke": "29.50"
+  }
+}

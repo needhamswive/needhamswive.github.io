@@ -1,0 +1,87 @@
+{
+  "name": "Etta Dildine",
+  "paperPlate": "Practice Pro",
+  "2024Wrapped": true,
+  "fly25Times": [
+    {
+      "meet": "Holl / Med / Mill (7/8)",
+      "time": "27.39"
+    },
+    {
+      "meet": "Natick (7/15)",
+      "time": "26.66"
+    },
+    {
+      "meet": "Canton (7/17)",
+      "time": "29.39"
+    },
+    {
+      "meet": "Newton (7/22)",
+      "time": "25.95"
+    },
+    {
+      "meet": "Norwood (7/24)",
+      "time": "26.91"
+    },
+    {
+      "meet": "Walpole (7/29)",
+      "time": "28.21"
+    }
+  ],
+  "free25Times": [
+    {
+      "meet": "Norwood (7/24)",
+      "time": "21.71"
+    },
+    {
+      "meet": "Dedham (8/5)",
+      "time": "20.40"
+    },
+    {
+      "meet": "Championships (8/9)",
+      "time": "20.25"
+    }
+  ],
+  "breast25Times": [
+    {
+      "meet": "Holl / Med / Mill (7/8)",
+      "time": "27.11"
+    },
+    {
+      "meet": "Natick (7/15)",
+      "time": "26.91"
+    },
+    {
+      "meet": "Canton (7/17)",
+      "time": "28.07"
+    },
+    {
+      "meet": "Newton (7/22)",
+      "time": "25.51"
+    },
+    {
+      "meet": "Walpole (7/29)",
+      "time": "26.02"
+    },
+    {
+      "meet": "Dedham (8/5)",
+      "time": "26.13"
+    },
+    {
+      "meet": "Championships (8/9)",
+      "time": "24.96"
+    }
+  ],
+  "back25Times": [
+    {
+      "meet": "Walpole (7/29)",
+      "time": "28.03"
+    }
+  ],
+  "seasonPrs": {
+    "25 Butterfly": "25.95",
+    "25 Freestyle": "20.25",
+    "25 Breaststroke": "24.96",
+    "25 Backstroke": "28.03"
+  }
+}

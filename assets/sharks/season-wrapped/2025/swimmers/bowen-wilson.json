@@ -1,0 +1,99 @@
+{
+  "name": "Bowen Wilson",
+  "paperPlate": "Stuck like Velcro",
+  "2024Wrapped": true,
+  "fly25Times": [
+    {
+      "meet": "Holl / Med / Mill (7/8)",
+      "time": "34.51"
+    },
+    {
+      "meet": "Norwood (7/24)",
+      "time": "28.06"
+    },
+    {
+      "meet": "Medfield (7/31)",
+      "time": "29.33"
+    },
+    {
+      "meet": "Dedham (8/5)",
+      "time": "33.28"
+    }
+  ],
+  "free25Times": [
+    {
+      "meet": "Westwood (7/10)",
+      "time": "23.37"
+    },
+    {
+      "meet": "Canton (7/17)",
+      "time": "30.15"
+    },
+    {
+      "meet": "Newton (7/22)",
+      "time": "22.35"
+    },
+    {
+      "meet": "Walpole (7/29)",
+      "time": "22.06"
+    },
+    {
+      "meet": "Sherborn (8/7)",
+      "time": "21.11"
+    }
+  ],
+  "breast25Times": [
+    {
+      "meet": "Holl / Med / Mill (7/8)",
+      "time": "39.23"
+    },
+    {
+      "meet": "Natick (7/15)",
+      "time": "38.75"
+    },
+    {
+      "meet": "Norwood (7/24)",
+      "time": "41.84"
+    },
+    {
+      "meet": "Medfield (7/31)",
+      "time": "31.57"
+    }
+  ],
+  "back25Times": [
+    {
+      "meet": "Westwood (7/10)",
+      "time": "27.84"
+    },
+    {
+      "meet": "Natick (7/15)",
+      "time": "30.50"
+    },
+    {
+      "meet": "Canton (7/17)",
+      "time": "35.52"
+    },
+    {
+      "meet": "Newton (7/22)",
+      "time": "26.71"
+    },
+    {
+      "meet": "Walpole (7/29)",
+      "time": "25.38"
+    },
+    {
+      "meet": "Sherborn (8/7)",
+      "time": "25.60"
+    },
+    {
+      "meet": "Championships (8/9)",
+      "time": "24.20"
+    }
+  ],
+  "seasonPrs": {
+    "25 Butterfly": "28.06",
+    "25 Freestyle": "21.11",
+    "25 Breaststroke": "31.57",
+    "25 Backstroke": "24.20"
+  }
+}

@@ -1,0 +1,102 @@
+{
+  "name": "Saoirse Houston",
+  "paperPlate": "Cool as a Cucumber Award",
+  "fly50Times": [
+    {
+      "meet": "Natick (7/15)",
+      "time": "53.50"
+    },
+    {
+      "meet": "Canton (7/17)",
+      "time": "60.72"
+    },
+    {
+      "meet": "Medfield (7/31)",
+      "time": "54.07"
+    }
+  ],
+  "free50Times": [
+    {
+      "meet": "Blue vs. Gold (7/1)",
+      "time": "34.10"
+    },
+    {
+      "meet": "Holl / Med / Mill (7/8)",
+      "time": "39.22"
+    },
+    {
+      "meet": "Westwood (7/10)",
+      "time": "39.87"
+    },
+    {
+      "meet": "Newton (7/22)",
+      "time": "38.32"
+    },
+    {
+      "meet": "Norwood (7/24)",
+      "time": "42.29"
+    },
+    {
+      "meet": "Walpole (7/29)",
+      "time": "41.22"
+    },
+    {
+      "meet": "Dedham (8/5)",
+      "time": "42.03"
+    },
+    {
+      "meet": "Sherborn (8/7)",
+      "time": "38.50"
+    },
+    {
+      "meet": "Championships (8/9)",
+      "time": "37.61"
+    }
+  ],
+  "breast50Times": [
+    {
+      "meet": "Westwood (7/10)",
+      "time": "55.09"
+    },
+    {
+      "meet": "Canton (7/17)",
+      "time": "61.30"
+    },
+    {
+      "meet": "Norwood (7/24)",
+      "time": "53.44"
+    },
+    {
+      "meet": "Walpole (7/29)",
+      "time": "50.81"
+    },
+    {
+      "meet": "Dedham (8/5)",
+      "time": "52.68"
+    },
+    {
+      "meet": "Sherborn (8/7)",
+      "time": "52.06"
+    },
+    {
+      "meet": "Championships (8/9)",
+      "time": "49.75"
+    }
+  ],
+  "back50Times": [
+    {
+      "meet": "Holl / Med / Mill (7/8)",
+      "time": "49.30"
+    },
+    {
+      "meet": "Natick (7/15)",
+      "time": "51.65"
+    }
+  ],
+  "seasonPrs": {
+    "50 Butterfly": "53.50",
+    "50 Freestyle": "34.10",
+    "50 Breaststroke": "49.75",
+    "50 Backstroke": "49.30"
+  }
+}

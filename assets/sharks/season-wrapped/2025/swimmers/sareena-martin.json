@@ -1,0 +1,111 @@
+{
+  "name": "Sareena Martin",
+  "paperPlate": "Coach's Assistant Award",
+  "2024Wrapped": true,
+  "fly25Times": [
+    {
+      "meet": "Blue vs. Gold (7/1)",
+      "time": "29.71"
+    },
+    {
+      "meet": "Norwood (7/24)",
+      "time": "28.88"
+    },
+    {
+      "meet": "Walpole (7/29)",
+      "time": "26.77"
+    }
+  ],
+  "free25Times": [
+    {
+      "meet": "Blue vs. Gold (7/1)",
+      "time": "24.94"
+    },
+    {
+      "meet": "Holl / Med / Mill (7/8)",
+      "time": "23.44"
+    },
+    {
+      "meet": "Westwood (7/10)",
+      "time": "25.21"
+    },
+    {
+      "meet": "Natick (7/15)",
+      "time": "25.94"
+    },
+    {
+      "meet": "Canton (7/17)",
+      "time": "27.50"
+    },
+    {
+      "meet": "Newton (7/22)",
+      "time": "25.95"
+    },
+    {
+      "meet": "Medfield (7/31)",
+      "time": "24.66"
+    },
+    {
+      "meet": "Sherborn (8/7)",
+      "time": "25.67"
+    },
+    {
+      "meet": "Championships (8/9)",
+      "time": "25.30"
+    }
+  ],
+  "breast25Times": [
+    {
+      "meet": "Blue vs. Gold (7/1)",
+      "time": "33.35"
+    },
+    {
+      "meet": "Holl / Med / Mill (7/8)",
+      "time": "32.21"
+    },
+    {
+      "meet": "Canton (7/17)",
+      "time": "37.89"
+    },
+    {
+      "meet": "Newton (7/22)",
+      "time": "33.27"
+    },
+    {
+      "meet": "Norwood (7/24)",
+      "time": "35.18"
+    },
+    {
+      "meet": "Walpole (7/29)",
+      "time": "34.00"
+    },
+    {
+      "meet": "Sherborn (8/7)",
+      "time": "29.81"
+    },
+    {
+      "meet": "Championships (8/9)",
+      "time": "31.56"
+    }
+  ],
+  "back25Times": [
+    {
+      "meet": "Westwood (7/10)",
+      "time": "31.51"
+    },
+    {
+      "meet": "Natick (7/15)",
+      "time": "31.41"
+    },
+    {
+      "meet": "Medfield (7/31)",
+      "time": "31.06"
+    }
+  ],
+  "seasonPrs": {
+    "25 Butterfly": "26.77",
+    "25 Freestyle": "23.44",
+    "25 Breaststroke": "29.81",
+    "25 Backstroke": "31.06"
+  }
+}

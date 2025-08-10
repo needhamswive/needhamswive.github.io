@@ -1,0 +1,91 @@
+{
+  "name": "Jason Wang",
+  "paperPlate": "The Busy Bee Award",
+  "fly25Times": [
+    {
+      "meet": "Blue vs. Gold (7/1)",
+      "time": "36.48"
+    },
+    {
+      "meet": "Westwood (7/10)",
+      "time": "35.59"
+    },
+    {
+      "meet": "Canton (7/17)",
+      "time": "41.18"
+    },
+    {
+      "meet": "Newton (7/22)",
+      "time": "31.45"
+    },
+    {
+      "meet": "Norwood (7/24)",
+      "time": "36.34"
+    },
+    {
+      "meet": "Walpole (7/29)",
+      "time": "31.28"
+    },
+    {
+      "meet": "Dedham (8/5)",
+      "time": "35.14"
+    },
+    {
+      "meet": "Sherborn (8/7)",
+      "time": "32.41"
+    }
+  ],
+  "free25Times": [
+    {
+      "meet": "Blue vs. Gold (7/1)",
+      "time": "27.17"
+    },
+    {
+      "meet": "Westwood (7/10)",
+      "time": "25.55"
+    },
+    {
+      "meet": "Canton (7/17)",
+      "time": "30.03"
+    },
+    {
+      "meet": "Walpole (7/29)",
+      "time": "22.83"
+    },
+    {
+      "meet": "Medfield (7/31)",
+      "time": "20.87"
+    },
+    {
+      "meet": "Dedham (8/5)",
+      "time": "24.06"
+    },
+    {
+      "meet": "Sherborn (8/7)",
+      "time": "23.11"
+    }
+  ],
+  "breast25Times": [
+    {
+      "meet": "Blue vs. Gold (7/1)",
+      "time": "32.56"
+    },
+    {
+      "meet": "Newton (7/22)",
+      "time": "31.07"
+    },
+    {
+      "meet": "Norwood (7/24)",
+      "time": "33.14"
+    },
+    {
+      "meet": "Medfield (7/31)",
+      "time": "29.10"
+    }
+  ],
+  "seasonPrs": {
+    "25 Butterfly": "31.28",
+    "25 Freestyle": "20.87",
+    "25 Breaststroke": "29.10"
+  }
+}

@@ -1,0 +1,103 @@
+{
+  "name": "Calais Linzmeyer",
+  "paperPlate": "The Carebear Award",
+  "2024Wrapped": true,
+  "fly25Times": [
+    {
+      "meet": "Blue vs. Gold (7/1)",
+      "time": "27.15"
+    },
+    {
+      "meet": "Westwood (7/10)",
+      "time": "24.65"
+    },
+    {
+      "meet": "Natick (7/15)",
+      "time": "29.06"
+    },
+    {
+      "meet": "Medfield (7/31)",
+      "time": "24.53"
+    },
+    {
+      "meet": "Dedham (8/5)",
+      "time": "24.71"
+    },
+    {
+      "meet": "Sherborn (8/7)",
+      "time": "25.43"
+    },
+    {
+      "meet": "Championships (8/9)",
+      "time": "23.67"
+    }
+  ],
+  "free25Times": [
+    {
+      "meet": "Blue vs. Gold (7/1)",
+      "time": "25.59"
+    },
+    {
+      "meet": "Holl / Med / Mill (7/8)",
+      "time": "23.15"
+    },
+    {
+      "meet": "Canton (7/17)",
+      "time": "25.19"
+    },
+    {
+      "meet": "Walpole (7/29)",
+      "time": "22.78"
+    }
+  ],
+  "breast25Times": [
+    {
+      "meet": "Blue vs. Gold (7/1)",
+      "time": "29.57"
+    },
+    {
+      "meet": "Holl / Med / Mill (7/8)",
+      "time": "28.01"
+    },
+    {
+      "meet": "Westwood (7/10)",
+      "time": "24.75"
+    },
+    {
+      "meet": "Canton (7/17)",
+      "time": "31.28"
+    },
+    {
+      "meet": "Walpole (7/29)",
+      "time": "27.28"
+    },
+    {
+      "meet": "Dedham (8/5)",
+      "time": "29.62"
+    },
+    {
+      "meet": "Sherborn (8/7)",
+      "time": "27.00"
+    },
+    {
+      "meet": "Championships (8/9)",
+      "time": "26.48"
+    }
+  ],
+  "back25Times": [
+    {
+      "meet": "Natick (7/15)",
+      "time": "28.32"
+    },
+    {
+      "meet": "Medfield (7/31)",
+      "time": "26.63"
+    }
+  ],
+  "seasonPrs": {
+    "25 Butterfly": "23.67",
+    "25 Freestyle": "22.78",
+    "25 Breaststroke": "24.75",
+    "25 Backstroke": "26.63"
+  }
+}

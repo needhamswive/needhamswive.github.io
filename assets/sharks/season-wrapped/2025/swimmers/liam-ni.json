@@ -1,0 +1,115 @@
+{
+  "name": "Liam Ni",
+  "paperPlate": "The Fish out of Water Award",
+  "2024Wrapped": true,
+  "fly50Times": [
+    {
+      "meet": "Blue vs. Gold (7/1)",
+      "time": "28.84"
+    },
+    {
+      "meet": "Holl / Med / Mill (7/8)",
+      "time": "28.72"
+    },
+    {
+      "meet": "Westwood (7/10)",
+      "time": "28.79"
+    },
+    {
+      "meet": "Natick (7/15)",
+      "time": "28.72"
+    },
+    {
+      "meet": "Canton (7/17)",
+      "time": "31.20"
+    },
+    {
+      "meet": "Newton (7/22)",
+      "time": "27.69"
+    },
+    {
+      "meet": "Norwood (7/24)",
+      "time": "31.25"
+    },
+    {
+      "meet": "Medfield (7/31)",
+      "time": "29.37"
+    },
+    {
+      "meet": "Dedham (8/5)",
+      "time": "28.95"
+    },
+    {
+      "meet": "Sherborn (8/7)",
+      "time": "27.70"
+    },
+    {
+      "meet": "Championships (8/9)",
+      "time": "27.36"
+    }
+  ],
+  "free50Times": [
+    {
+      "meet": "Blue vs. Gold (7/1)",
+      "time": "26.76"
+    },
+    {
+      "meet": "Holl / Med / Mill (7/8)",
+      "time": "25.94"
+    },
+    {
+      "meet": "Canton (7/17)",
+      "time": "28.85"
+    },
+    {
+      "meet": "Norwood (7/24)",
+      "time": "27.42"
+    },
+    {
+      "meet": "Medfield (7/31)",
+      "time": "26.61"
+    },
+    {
+      "meet": "Sherborn (8/7)",
+      "time": "26.24"
+    }
+  ],
+  "breast50Times": [
+    {
+      "meet": "Blue vs. Gold (7/1)",
+      "time": "37.31"
+    },
+    {
+      "meet": "Medfield (7/31)",
+      "time": "36.74"
+    }
+  ],
+  "back50Times": [
+    {
+      "meet": "Westwood (7/10)",
+      "time": "29.47"
+    },
+    {
+      "meet": "Natick (7/15)",
+      "time": "29.34"
+    },
+    {
+      "meet": "Newton (7/22)",
+      "time": "29.12"
+    },
+    {
+      "meet": "Dedham (8/5)",
+      "time": "29.41"
+    },
+    {
+      "meet": "Championships (8/9)",
+      "time": "28.19"
+    }
+  ],
+  "seasonPrs": {
+    "50 Butterfly": "27.36",
+    "50 Freestyle": "25.94",
+    "50 Breaststroke": "36.74",
+    "50 Backstroke": "28.19"
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "name": "Hannah Lee",
+  "paperPlate": "Power Puff Girls Award",
+  "2024Wrapped": true,
+  "fly50Times": [
+    {
+      "meet": "Blue vs. Gold (7/1)",
+      "time": "44.75"
+    },
+    {
+      "meet": "Natick (7/15)",
+      "time": "47.87"
+    },
+    {
+      "meet": "Norwood (7/24)",
+      "time": "49.51"
+    },
+    {
+      "meet": "Medfield (7/31)",
+      "time": "48.92"
+    }
+  ],
+  "free50Times": [
+    {
+      "meet": "Blue vs. Gold (7/1)",
+      "time": "33.22"
+    },
+    {
+      "meet": "Canton (7/17)",
+      "time": "37.20"
+    },
+    {
+      "meet": "Championships (8/9)",
+      "time": "32.70"
+    }
+  ],
+  "breast50Times": [
+    {
+      "meet": "Blue vs. Gold (7/1)",
+      "time": "42.73"
+    },
+    {
+      "meet": "Canton (7/17)",
+      "time": "45.91"
+    },
+    {
+      "meet": "Newton (7/22)",
+      "time": "55.47"
+    },
+    {
+      "meet": "Medfield (7/31)",
+      "time": "42.62"
+    },
+    {
+      "meet": "Championships (8/9)",
+      "time": "39.60"
+    }
+  ],
+  "back50Times": [
+    {
+      "meet": "Natick (7/15)",
+      "time": "41.72"
+    },
+    {
+      "meet": "Norwood (7/24)",
+      "time": "41.49"
+    },
+    {
+      "meet": "Walpole (7/29)",
+      "time": "40.69"
+    }
+  ],
+  "seasonPrs": {
+    "50 Butterfly": "44.75",
+    "50 Freestyle": "32.70",
+    "50 Breaststroke": "39.60",
+    "50 Backstroke": "40.69"
+  }
+}

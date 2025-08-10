@@ -1,0 +1,103 @@
+{
+  "name": "Dennis Shvarts",
+  "paperPlate": "The Poolside Prankster Award",
+  "2024Wrapped": true,
+  "fly50Times": [
+    {
+      "meet": "Blue vs. Gold (7/1)",
+      "time": "29.06"
+    },
+    {
+      "meet": "Holl / Med / Mill (7/8)",
+      "time": "29.12"
+    },
+    {
+      "meet": "Newton (7/22)",
+      "time": "28.98"
+    },
+    {
+      "meet": "Norwood (7/24)",
+      "time": "30.20"
+    },
+    {
+      "meet": "Medfield (7/31)",
+      "time": "31.00"
+    },
+    {
+      "meet": "Championships (8/9)",
+      "time": "29.78"
+    }
+  ],
+  "free50Times": [
+    {
+      "meet": "Blue vs. Gold (7/1)",
+      "time": "27.58"
+    },
+    {
+      "meet": "Westwood (7/10)",
+      "time": "26.53"
+    },
+    {
+      "meet": "Natick (7/15)",
+      "time": "27.59"
+    },
+    {
+      "meet": "Canton (7/17)",
+      "time": "30.35"
+    },
+    {
+      "meet": "Newton (7/22)",
+      "time": "27.48"
+    },
+    {
+      "meet": "Norwood (7/24)",
+      "time": "28.94"
+    },
+    {
+      "meet": "Walpole (7/29)",
+      "time": "27.27"
+    },
+    {
+      "meet": "Dedham (8/5)",
+      "time": "28.77"
+    }
+  ],
+  "breast50Times": [
+    {
+      "meet": "Blue vs. Gold (7/1)",
+      "time": "35.84"
+    },
+    {
+      "meet": "Natick (7/15)",
+      "time": "34.97"
+    },
+    {
+      "meet": "Dedham (8/5)",
+      "time": "36.15"
+    },
+    {
+      "meet": "Championships (8/9)",
+      "time": "33.70"
+    }
+  ],
+  "back50Times": [
+    {
+      "meet": "Holl / Med / Mill (7/8)",
+      "time": "37.78"
+    },
+    {
+      "meet": "Westwood (7/10)",
+      "time": "35.87"
+    },
+    {
+      "meet": "Walpole (7/29)",
+      "time": "35.65"
+    }
+  ],
+  "seasonPrs": {
+    "50 Butterfly": "28.98",
+    "50 Freestyle": "26.53",
+    "50 Breaststroke": "33.70",
+    "50 Backstroke": "35.65"
+  }
+}

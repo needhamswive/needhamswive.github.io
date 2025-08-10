@@ -1,0 +1,36 @@
+{
+  "name": "Reid Shavor",
+  "paperPlate": "See You Next Year Award!",
+  "2024Wrapped": true,
+  "fly50Times": [
+    {
+      "meet": "Blue vs. Gold (7/1)",
+      "time": "32.72"
+    },
+    {
+      "meet": "Holl / Med / Mill (7/8)",
+      "time": "32.64"
+    }
+  ],
+  "free50Times": [
+    {
+      "meet": "Blue vs. Gold (7/1)",
+      "time": "30.14"
+    }
+  ],
+  "breast50Times": [
+    {
+      "meet": "Blue vs. Gold (7/1)",
+      "time": "37.08"
+    },
+    {
+      "meet": "Holl / Med / Mill (7/8)",
+      "time": "37.51"
+    }
+  ],
+  "seasonPrs": {
+    "50 Butterfly": "32.64",
+    "50 Freestyle": "30.14",
+    "50 Breaststroke": "37.08"
+  }
+}

@@ -1,0 +1,95 @@
+{
+  "name": "Emma Cheung",
+  "paperPlate": "The World Traveler Award",
+  "2024Wrapped": true,
+  "fly50Times": [
+    {
+      "meet": "Natick (7/15)",
+      "time": "30.28"
+    },
+    {
+      "meet": "Canton (7/17)",
+      "time": "34.01"
+    },
+    {
+      "meet": "Newton (7/22)",
+      "time": "30.39"
+    },
+    {
+      "meet": "Walpole (7/29)",
+      "time": "30.99"
+    },
+    {
+      "meet": "Sherborn (8/7)",
+      "time": "30.18"
+    }
+  ],
+  "free50Times": [
+    {
+      "meet": "Westwood (7/10)",
+      "time": "28.04"
+    },
+    {
+      "meet": "Norwood (7/24)",
+      "time": "28.54"
+    },
+    {
+      "meet": "Dedham (8/5)",
+      "time": "29.09"
+    }
+  ],
+  "breast50Times": [
+    {
+      "meet": "Holl / Med / Mill (7/8)",
+      "time": "36.58"
+    },
+    {
+      "meet": "Natick (7/15)",
+      "time": "35.47"
+    },
+    {
+      "meet": "Norwood (7/24)",
+      "time": "37.25"
+    },
+    {
+      "meet": "Dedham (8/5)",
+      "time": "36.93"
+    },
+    {
+      "meet": "Championships (8/9)",
+      "time": "35.97"
+    }
+  ],
+  "back50Times": [
+    {
+      "meet": "Westwood (7/10)",
+      "time": "30.49"
+    },
+    {
+      "meet": "Canton (7/17)",
+      "time": "35.07"
+    },
+    {
+      "meet": "Newton (7/22)",
+      "time": "36.88"
+    },
+    {
+      "meet": "Walpole (7/29)",
+      "time": "30.76"
+    },
+    {
+      "meet": "Sherborn (8/7)",
+      "time": "30.94"
+    },
+    {
+      "meet": "Championships (8/9)",
+      "time": "30.39"
+    }
+  ],
+  "seasonPrs": {
+    "50 Butterfly": "30.18",
+    "50 Freestyle": "28.04",
+    "50 Breaststroke": "35.47",
+    "50 Backstroke": "30.39"
+  }
+}

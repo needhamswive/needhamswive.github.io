@@ -1,0 +1,21 @@
+{
+  "name": "Abel Haller",
+  "paperPlate": "The Retirement Party Award",
+  "university": "Wheaton College",
+  "free50Times": [
+    {
+      "meet": "Newton (7/22)",
+      "time": "22.84"
+    }
+  ],
+  "breast50Times": [
+    {
+      "meet": "Newton (7/22)",
+      "time": "29.69"
+    }
+  ],
+  "seasonPrs": {
+    "50 Freestyle": "22.84",
+    "50 Breaststroke": "29.69"
+  }
+}

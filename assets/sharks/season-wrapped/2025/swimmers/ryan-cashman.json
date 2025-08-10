@@ -1,0 +1,91 @@
+{
+  "name": "Ryan Cashman",
+  "paperPlate": "The Assisstant Deputy Aquatic Specialist Award",
+  "2024Wrapped": true,
+  "fly50Times": [
+    {
+      "meet": "Norwood (7/24)",
+      "time": "45.67"
+    },
+    {
+      "meet": "Medfield (7/31)",
+      "time": "44.74"
+    },
+    {
+      "meet": "Sherborn (8/7)",
+      "time": "43.56"
+    }
+  ],
+  "free50Times": [
+    {
+      "meet": "Blue vs. Gold (7/1)",
+      "time": "31.12"
+    },
+    {
+      "meet": "Holl / Med / Mill (7/8)",
+      "time": "34.42"
+    },
+    {
+      "meet": "Canton (7/17)",
+      "time": "38.74"
+    },
+    {
+      "meet": "Newton (7/22)",
+      "time": "33.25"
+    },
+    {
+      "meet": "Walpole (7/29)",
+      "time": "34.67"
+    },
+    {
+      "meet": "Dedham (8/5)",
+      "time": "35.84"
+    },
+    {
+      "meet": "Sherborn (8/7)",
+      "time": "35.47"
+    },
+    {
+      "meet": "Championships (8/9)",
+      "time": "34.30"
+    }
+  ],
+  "breast50Times": [
+    {
+      "meet": "Norwood (7/24)",
+      "time": "61.26"
+    },
+    {
+      "meet": "Medfield (7/31)",
+      "time": "56.21"
+    },
+    {
+      "meet": "Dedham (8/5)",
+      "time": "58.07"
+    }
+  ],
+  "back50Times": [
+    {
+      "meet": "Canton (7/17)",
+      "time": "53.24"
+    },
+    {
+      "meet": "Newton (7/22)",
+      "time": "46.50"
+    },
+    {
+      "meet": "Walpole (7/29)",
+      "time": "44.70"
+    },
+    {
+      "meet": "Championships (8/9)",
+      "time": "42.48"
+    }
+  ],
+  "seasonPrs": {
+    "50 Butterfly": "43.56",
+    "50 Freestyle": "31.12",
+    "50 Breaststroke": "56.21",
+    "50 Backstroke": "42.48"
+  }
+}

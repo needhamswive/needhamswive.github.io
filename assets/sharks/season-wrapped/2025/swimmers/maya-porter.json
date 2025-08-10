@@ -1,0 +1,105 @@
+{
+  "name": "Maya Porter",
+  "paperPlate": "The Brownie Lover Award",
+  "swimmerOfTheWeek": true,
+  "goldenGoggles": "Sportsmanship",
+  "2024Wrapped": true,
+  "fly50Times": [
+    {
+      "meet": "Blue vs. Gold (7/1)",
+      "time": "32.17"
+    },
+    {
+      "meet": "Dedham (8/5)",
+      "time": "32.97"
+    }
+  ],
+  "free50Times": [
+    {
+      "meet": "Blue vs. Gold (7/1)",
+      "time": "28.70"
+    },
+    {
+      "meet": "Holl / Med / Mill (7/8)",
+      "time": "27.89"
+    },
+    {
+      "meet": "Canton (7/17)",
+      "time": "31.94"
+    },
+    {
+      "meet": "Newton (7/22)",
+      "time": "27.96"
+    },
+    {
+      "meet": "Sherborn (8/7)",
+      "time": "28.03"
+    }
+  ],
+  "breast50Times": [
+    {
+      "meet": "Blue vs. Gold (7/1)",
+      "time": "37.58"
+    },
+    {
+      "meet": "Holl / Med / Mill (7/8)",
+      "time": "35.61"
+    },
+    {
+      "meet": "Westwood (7/10)",
+      "time": "36.34"
+    },
+    {
+      "meet": "Natick (7/15)",
+      "time": "37.03"
+    },
+    {
+      "meet": "Canton (7/17)",
+      "time": "40.70"
+    },
+    {
+      "meet": "Norwood (7/24)",
+      "time": "38.51"
+    },
+    {
+      "meet": "Dedham (8/5)",
+      "time": "39.25"
+    },
+    {
+      "meet": "Sherborn (8/7)",
+      "time": "36.56"
+    },
+    {
+      "meet": "Championships (8/9)",
+      "time": "36.21"
+    }
+  ],
+  "back50Times": [
+    {
+      "meet": "Westwood (7/10)",
+      "time": "32.59"
+    },
+    {
+      "meet": "Natick (7/15)",
+      "time": "33.72"
+    },
+    {
+      "meet": "Newton (7/22)",
+      "time": "31.02"
+    },
+    {
+      "meet": "Norwood (7/24)",
+      "time": "32.57"
+    },
+    {
+      "meet": "Championships (8/9)",
+      "time": "32.72"
+    }
+  ],
+  "seasonPrs": {
+    "50 Butterfly": "32.17",
+    "50 Freestyle": "27.89",
+    "50 Breaststroke": "35.61",
+    "50 Backstroke": "31.02"
+  }
+}

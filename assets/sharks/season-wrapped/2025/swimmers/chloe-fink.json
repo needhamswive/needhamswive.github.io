@@ -1,0 +1,67 @@
+{
+  "name": "Chloe Fink",
+  "paperPlate": "Eyes on the Prize",
+  "2024Wrapped": true,
+  "fly25Times": [
+    {
+      "meet": "Blue vs. Gold (7/1)",
+      "time": "22.36"
+    },
+    {
+      "meet": "Holl / Med / Mill (7/8)",
+      "time": "22.50"
+    },
+    {
+      "meet": "Westwood (7/10)",
+      "time": "23.67"
+    },
+    {
+      "meet": "Canton (7/17)",
+      "time": "24.04"
+    }
+  ],
+  "free25Times": [
+    {
+      "meet": "Blue vs. Gold (7/1)",
+      "time": "22.91"
+    },
+    {
+      "meet": "Holl / Med / Mill (7/8)",
+      "time": "20.67"
+    }
+  ],
+  "breast25Times": [
+    {
+      "meet": "Blue vs. Gold (7/1)",
+      "time": "27.42"
+    },
+    {
+      "meet": "Westwood (7/10)",
+      "time": "27.51"
+    },
+    {
+      "meet": "Natick (7/15)",
+      "time": "29.31"
+    },
+    {
+      "meet": "Canton (7/17)",
+      "time": "31.45"
+    }
+  ],
+  "back25Times": [
+    {
+      "meet": "Blue vs. Gold (7/1)",
+      "time": "27.72"
+    },
+    {
+      "meet": "Natick (7/15)",
+      "time": "23.59"
+    }
+  ],
+  "seasonPrs": {
+    "25 Butterfly": "22.36",
+    "25 Freestyle": "20.67",
+    "25 Breaststroke": "27.42",
+    "25 Backstroke": "23.59"
+  }
+}

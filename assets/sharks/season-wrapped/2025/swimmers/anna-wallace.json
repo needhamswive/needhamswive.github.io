@@ -1,0 +1,87 @@
+{
+  "name": "Anna Wallace",
+  "paperPlate": "The Social Butterfly Award",
+  "2024Wrapped": true,
+  "fly25Times": [
+    {
+      "meet": "Holl / Med / Mill (7/8)",
+      "time": "29.54"
+    },
+    {
+      "meet": "Walpole (7/29)",
+      "time": "26.26"
+    },
+    {
+      "meet": "Dedham (8/5)",
+      "time": "26.59"
+    },
+    {
+      "meet": "Sherborn (8/7)",
+      "time": "26.59"
+    }
+  ],
+  "free25Times": [
+    {
+      "meet": "Westwood (7/10)",
+      "time": "26.40"
+    },
+    {
+      "meet": "Natick (7/15)",
+      "time": "22.29"
+    },
+    {
+      "meet": "Newton (7/22)",
+      "time": "22.65"
+    },
+    {
+      "meet": "Medfield (7/31)",
+      "time": "20.53"
+    }
+  ],
+  "breast25Times": [
+    {
+      "meet": "Westwood (7/10)",
+      "time": "32.22"
+    },
+    {
+      "meet": "Newton (7/22)",
+      "time": "31.81"
+    },
+    {
+      "meet": "Medfield (7/31)",
+      "time": "33.16"
+    },
+    {
+      "meet": "Dedham (8/5)",
+      "time": "33.00"
+    },
+    {
+      "meet": "Sherborn (8/7)",
+      "time": "31.87"
+    },
+    {
+      "meet": "Championships (8/9)",
+      "time": "30.05"
+    }
+  ],
+  "back25Times": [
+    {
+      "meet": "Holl / Med / Mill (7/8)",
+      "time": "32.44"
+    },
+    {
+      "meet": "Natick (7/15)",
+      "time": "30.42"
+    },
+    {
+      "meet": "Walpole (7/29)",
+      "time": "27.30"
+    }
+  ],
+  "seasonPrs": {
+    "25 Butterfly": "26.26",
+    "25 Freestyle": "20.53",
+    "25 Breaststroke": "30.05",
+    "25 Backstroke": "27.30"
+  }
+}

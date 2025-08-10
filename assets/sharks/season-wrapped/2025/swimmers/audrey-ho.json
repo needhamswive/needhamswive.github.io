@@ -1,0 +1,82 @@
+{
+  "name": "Audrey Ho",
+  "paperPlate": "Busy Bee",
+  "fly25Times": [
+    {
+      "meet": "Natick (7/15)",
+      "time": "35.19"
+    },
+    {
+      "meet": "Canton (7/17)",
+      "time": "30.93"
+    },
+    {
+      "meet": "Walpole (7/29)",
+      "time": "28.40"
+    },
+    {
+      "meet": "Sherborn (8/7)",
+      "time": "31.76"
+    },
+    {
+      "meet": "Championships (8/9)",
+      "time": "34.61"
+    }
+  ],
+  "free25Times": [
+    {
+      "meet": "Blue vs. Gold (7/1)",
+      "time": "31.50"
+    },
+    {
+      "meet": "Newton (7/22)",
+      "time": "28.07"
+    }
+  ],
+  "breast25Times": [
+    {
+      "meet": "Blue vs. Gold (7/1)",
+      "time": "36.16"
+    },
+    {
+      "meet": "Natick (7/15)",
+      "time": "35.78"
+    },
+    {
+      "meet": "Canton (7/17)",
+      "time": "33.41"
+    },
+    {
+      "meet": "Newton (7/22)",
+      "time": "28.98"
+    },
+    {
+      "meet": "Walpole (7/29)",
+      "time": "27.06"
+    },
+    {
+      "meet": "Sherborn (8/7)",
+      "time": "26.69"
+    },
+    {
+      "meet": "Championships (8/9)",
+      "time": "28.04"
+    }
+  ],
+  "back25Times": [
+    {
+      "meet": "Blue vs. Gold (7/1)",
+      "time": "32.21"
+    },
+    {
+      "meet": "Medfield (7/31)",
+      "time": "28.50"
+    }
+  ],
+  "seasonPrs": {
+    "25 Butterfly": "28.40",
+    "25 Freestyle": "28.07",
+    "25 Breaststroke": "26.69",
+    "25 Backstroke": "28.50"
+  }
+}

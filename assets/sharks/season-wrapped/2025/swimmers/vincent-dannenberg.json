@@ -1,0 +1,111 @@
+{
+  "name": "Vincent Dannenberg",
+  "paperPlate": "The inVINCEable Award",
+  "2024Wrapped": true,
+  "fly50Times": [
+    {
+      "meet": "Westwood (7/10)",
+      "time": "43.38"
+    },
+    {
+      "meet": "Natick (7/15)",
+      "time": "47.47"
+    },
+    {
+      "meet": "Medfield (7/31)",
+      "time": "44.66"
+    },
+    {
+      "meet": "Dedham (8/5)",
+      "time": "44.30"
+    }
+  ],
+  "free50Times": [
+    {
+      "meet": "Blue vs. Gold (7/1)",
+      "time": "33.18"
+    },
+    {
+      "meet": "Holl / Med / Mill (7/8)",
+      "time": "33.15"
+    },
+    {
+      "meet": "Newton (7/22)",
+      "time": "32.53"
+    },
+    {
+      "meet": "Sherborn (8/7)",
+      "time": "31.99"
+    },
+    {
+      "meet": "Championships (8/9)",
+      "time": "30.72"
+    }
+  ],
+  "breast50Times": [
+    {
+      "meet": "Blue vs. Gold (7/1)",
+      "time": "47.62"
+    },
+    {
+      "meet": "Natick (7/15)",
+      "time": "51.03"
+    },
+    {
+      "meet": "Canton (7/17)",
+      "time": "54.30"
+    },
+    {
+      "meet": "Norwood (7/24)",
+      "time": "54.04"
+    },
+    {
+      "meet": "Medfield (7/31)",
+      "time": "50.03"
+    },
+    {
+      "meet": "Dedham (8/5)",
+      "time": "50.34"
+    }
+  ],
+  "back50Times": [
+    {
+      "meet": "Holl / Med / Mill (7/8)",
+      "time": "45.00"
+    },
+    {
+      "meet": "Westwood (7/10)",
+      "time": "43.69"
+    },
+    {
+      "meet": "Canton (7/17)",
+      "time": "51.00"
+    },
+    {
+      "meet": "Newton (7/22)",
+      "time": "45.18"
+    },
+    {
+      "meet": "Norwood (7/24)",
+      "time": "41.89"
+    },
+    {
+      "meet": "Walpole (7/29)",
+      "time": "43.03"
+    },
+    {
+      "meet": "Sherborn (8/7)",
+      "time": "43.50"
+    },
+    {
+      "meet": "Championships (8/9)",
+      "time": "42.91"
+    }
+  ],
+  "seasonPrs": {
+    "50 Butterfly": "43.38",
+    "50 Freestyle": "30.72",
+    "50 Breaststroke": "47.62",
+    "50 Backstroke": "41.89"
+  }
+}

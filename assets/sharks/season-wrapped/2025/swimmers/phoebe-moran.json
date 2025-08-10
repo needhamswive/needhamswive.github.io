@@ -1,0 +1,95 @@
+{
+  "name": "Phoebe Moran",
+  "paperPlate": "The Just Keep Swimming Award",
+  "swimmerOfTheWeek": true,
+  "fly50Times": [
+    {
+      "meet": "Blue vs. Gold (7/1)",
+      "time": "60.10"
+    },
+    {
+      "meet": "Westwood (7/10)",
+      "time": "56.74"
+    }
+  ],
+  "free50Times": [
+    {
+      "meet": "Blue vs. Gold (7/1)",
+      "time": "46.83"
+    },
+    {
+      "meet": "Holl / Med / Mill (7/8)",
+      "time": "49.34"
+    },
+    {
+      "meet": "Westwood (7/10)",
+      "time": "49.76"
+    },
+    {
+      "meet": "Newton (7/22)",
+      "time": "46.82"
+    },
+    {
+      "meet": "Norwood (7/24)",
+      "time": "52.71"
+    },
+    {
+      "meet": "Walpole (7/29)",
+      "time": "49.91"
+    },
+    {
+      "meet": "Medfield (7/31)",
+      "time": "47.50"
+    },
+    {
+      "meet": "Sherborn (8/7)",
+      "time": "45.90"
+    },
+    {
+      "meet": "Championships (8/9)",
+      "time": "47.34"
+    }
+  ],
+  "breast50Times": [
+    {
+      "meet": "Blue vs. Gold (7/1)",
+      "time": "69.38"
+    },
+    {
+      "meet": "Holl / Med / Mill (7/8)",
+      "time": "70.81"
+    },
+    {
+      "meet": "Medfield (7/31)",
+      "time": "71.58"
+    }
+  ],
+  "back50Times": [
+    {
+      "meet": "Newton (7/22)",
+      "time": "56.89"
+    },
+    {
+      "meet": "Norwood (7/24)",
+      "time": "58.98"
+    },
+    {
+      "meet": "Walpole (7/29)",
+      "time": "59.75"
+    },
+    {
+      "meet": "Sherborn (8/7)",
+      "time": "50.23"
+    },
+    {
+      "meet": "Championships (8/9)",
+      "time": "52.31"
+    }
+  ],
+  "seasonPrs": {
+    "50 Butterfly": "56.74",
+    "50 Freestyle": "45.90",
+    "50 Breaststroke": "69.38",
+    "50 Backstroke": "50.23"
+  }
+}

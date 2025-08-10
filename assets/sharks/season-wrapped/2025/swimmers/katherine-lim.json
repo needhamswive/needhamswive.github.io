@@ -1,0 +1,116 @@
+{
+  "name": "Katherine Lim",
+  "paperPlate": "The Rising Star Award",
+  "goldenGoggles": "Unsung Hero",
+  "2024Wrapped": true,
+  "fly50Times": [
+    {
+      "meet": "Canton (7/17)",
+      "time": "41.62"
+    },
+    {
+      "meet": "Newton (7/22)",
+      "time": "37.00"
+    },
+    {
+      "meet": "Norwood (7/24)",
+      "time": "40.64"
+    },
+    {
+      "meet": "Walpole (7/29)",
+      "time": "39.32"
+    },
+    {
+      "meet": "Dedham (8/5)",
+      "time": "40.76"
+    },
+    {
+      "meet": "Sherborn (8/7)",
+      "time": "38.69"
+    },
+    {
+      "meet": "Championships (8/9)",
+      "time": "37.69"
+    }
+  ],
+  "free50Times": [
+    {
+      "meet": "Blue vs. Gold (7/1)",
+      "time": "34.25"
+    },
+    {
+      "meet": "Holl / Med / Mill (7/8)",
+      "time": "35.24"
+    },
+    {
+      "meet": "Westwood (7/10)",
+      "time": "34.01"
+    },
+    {
+      "meet": "Newton (7/22)",
+      "time": "35.47"
+    },
+    {
+      "meet": "Norwood (7/24)",
+      "time": "38.91"
+    },
+    {
+      "meet": "Medfield (7/31)",
+      "time": "37.78"
+    }
+  ],
+  "breast50Times": [
+    {
+      "meet": "Blue vs. Gold (7/1)",
+      "time": "46.97"
+    },
+    {
+      "meet": "Natick (7/15)",
+      "time": "46.09"
+    },
+    {
+      "meet": "Medfield (7/31)",
+      "time": "49.39"
+    },
+    {
+      "meet": "Dedham (8/5)",
+      "time": "51.52"
+    },
+    {
+      "meet": "Sherborn (8/7)",
+      "time": "48.16"
+    },
+    {
+      "meet": "Championships (8/9)",
+      "time": "47.81"
+    }
+  ],
+  "back50Times": [
+    {
+      "meet": "Holl / Med / Mill (7/8)",
+      "time": "42.03"
+    },
+    {
+      "meet": "Westwood (7/10)",
+      "time": "42.50"
+    },
+    {
+      "meet": "Natick (7/15)",
+      "time": "42.84"
+    },
+    {
+      "meet": "Canton (7/17)",
+      "time": "47.41"
+    },
+    {
+      "meet": "Walpole (7/29)",
+      "time": "42.30"
+    }
+  ],
+  "seasonPrs": {
+    "50 Butterfly": "37.00",
+    "50 Freestyle": "34.01",
+    "50 Breaststroke": "46.09",
+    "50 Backstroke": "42.03"
+  }
+}

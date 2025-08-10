@@ -1,0 +1,63 @@
+{
+  "name": "Leandro Bailon",
+  "paperPlate": "The Honorary Needham Resident Award",
+  "university": "Wheaton College",
+  "fly50Times": [
+    {
+      "meet": "Blue vs. Gold (7/1)",
+      "time": "25.21"
+    },
+    {
+      "meet": "Walpole (7/29)",
+      "time": "25.51"
+    },
+    {
+      "meet": "Sherborn (8/7)",
+      "time": "25.16"
+    }
+  ],
+  "free50Times": [
+    {
+      "meet": "Blue vs. Gold (7/1)",
+      "time": "23.38"
+    },
+    {
+      "meet": "Walpole (7/29)",
+      "time": "32.49"
+    },
+    {
+      "meet": "Sherborn (8/7)",
+      "time": "23.78"
+    }
+  ],
+  "breast50Times": [
+    {
+      "meet": "Blue vs. Gold (7/1)",
+      "time": "32.54"
+    },
+    {
+      "meet": "Holl / Med / Mill (7/8)",
+      "time": "31.72"
+    },
+    {
+      "meet": "Natick (7/15)",
+      "time": "31.47"
+    },
+    {
+      "meet": "Walpole (7/29)",
+      "time": "31.65"
+    }
+  ],
+  "back50Times": [
+    {
+      "meet": "Natick (7/15)",
+      "time": "25.78"
+    }
+  ],
+  "seasonPrs": {
+    "50 Butterfly": "25.16",
+    "50 Freestyle": "23.38",
+    "50 Breaststroke": "31.47",
+    "50 Backstroke": "25.78"
+  }
+}

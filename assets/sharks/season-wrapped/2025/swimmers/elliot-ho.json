@@ -1,0 +1,55 @@
+{
+  "name": "Elliot Ho",
+  "paperPlate": "Small but Mighty",
+  "free25Times": [
+    {
+      "meet": "Blue vs. Gold (7/1)",
+      "time": "42.16"
+    },
+    {
+      "meet": "Natick (7/15)",
+      "time": "46.91"
+    },
+    {
+      "meet": "Canton (7/17)",
+      "time": "40.38"
+    },
+    {
+      "meet": "Newton (7/22)",
+      "time": "37.24"
+    },
+    {
+      "meet": "Dedham (8/5)",
+      "time": "26.03"
+    },
+    {
+      "meet": "Sherborn (8/7)",
+      "time": "32.79"
+    },
+    {
+      "meet": "Championships (8/9)",
+      "time": "30.94"
+    }
+  ],
+  "breast25Times": [
+    {
+      "meet": "Blue vs. Gold (7/1)",
+      "time": "57.04"
+    },
+    {
+      "meet": "Canton (7/17)",
+      "time": "59.30"
+    }
+  ],
+  "back25Times": [
+    {
+      "meet": "Blue vs. Gold (7/1)",
+      "time": "58.80"
+    }
+  ],
+  "seasonPrs": {
+    "25 Freestyle": "26.03",
+    "25 Breaststroke": "57.04",
+    "25 Backstroke": "58.80"
+  }
+}

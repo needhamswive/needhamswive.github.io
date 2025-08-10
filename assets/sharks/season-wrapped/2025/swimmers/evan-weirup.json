@@ -1,0 +1,87 @@
+{
+  "name": "Evan Weirup",
+  "paperPlate": "Where's Evan?",
+  "swimmerOfTheWeek": true,
+  "fly25Times": [
+    {
+      "meet": "Blue vs. Gold (7/1)",
+      "time": "48.48"
+    }
+  ],
+  "free25Times": [
+    {
+      "meet": "Blue vs. Gold (7/1)",
+      "time": "40.84"
+    },
+    {
+      "meet": "Holl / Med / Mill (7/8)",
+      "time": "37.10"
+    },
+    {
+      "meet": "Natick (7/15)",
+      "time": "33.40"
+    },
+    {
+      "meet": "Medfield (7/31)",
+      "time": "32.60"
+    },
+    {
+      "meet": "Dedham (8/5)",
+      "time": "29.84"
+    },
+    {
+      "meet": "Sherborn (8/7)",
+      "time": "33.30"
+    },
+    {
+      "meet": "Championships (8/9)",
+      "time": "29.76"
+    }
+  ],
+  "breast25Times": [
+    {
+      "meet": "Blue vs. Gold (7/1)",
+      "time": "61.28"
+    },
+    {
+      "meet": "Westwood (7/10)",
+      "time": "45.41"
+    }
+  ],
+  "back25Times": [
+    {
+      "meet": "Blue vs. Gold (7/1)",
+      "time": "99.90"
+    },
+    {
+      "meet": "Holl / Med / Mill (7/8)",
+      "time": "37.98"
+    },
+    {
+      "meet": "Westwood (7/10)",
+      "time": "43.12"
+    },
+    {
+      "meet": "Medfield (7/31)",
+      "time": "52.82"
+    },
+    {
+      "meet": "Dedham (8/5)",
+      "time": "36.25"
+    },
+    {
+      "meet": "Sherborn (8/7)",
+      "time": "33.84"
+    },
+    {
+      "meet": "Championships (8/9)",
+      "time": "35.31"
+    }
+  ],
+  "seasonPrs": {
+    "25 Butterfly": "48.48",
+    "25 Freestyle": "29.76",
+    "25 Breaststroke": "45.41",
+    "25 Backstroke": "33.84"
+  }
+}

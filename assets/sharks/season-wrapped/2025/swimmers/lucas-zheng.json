@@ -1,0 +1,69 @@
+{
+  "name": "Lucas Zheng",
+  "paperPlate": "The Boomerang Award",
+  "fly50Times": [
+    {
+      "meet": "Newton (7/22)",
+      "time": "24.00"
+    },
+    {
+      "meet": "Norwood (7/24)",
+      "time": "29.51"
+    },
+    {
+      "meet": "Medfield (7/31)",
+      "time": "25.34"
+    },
+    {
+      "meet": "Sherborn (8/7)",
+      "time": "25.11"
+    },
+    {
+      "meet": "Championships (8/9)",
+      "time": "24.71"
+    }
+  ],
+  "free50Times": [
+    {
+      "meet": "Norwood (7/24)",
+      "time": "22.89"
+    },
+    {
+      "meet": "Walpole (7/29)",
+      "time": "23.49"
+    },
+    {
+      "meet": "Championships (8/9)",
+      "time": "22.15"
+    }
+  ],
+  "breast50Times": [
+    {
+      "meet": "Walpole (7/29)",
+      "time": "30.74"
+    }
+  ],
+  "back50Times": [
+    {
+      "meet": "Newton (7/22)",
+      "time": "25.94"
+    },
+    {
+      "meet": "Medfield (7/31)",
+      "time": "28.03"
+    },
+    {
+      "meet": "Sherborn (8/7)",
+      "time": "28.43"
+    }
+  ],
+  "seasonPrs": {
+    "50 Butterfly": "24.00",
+    "50 Freestyle": "22.15",
+    "50 Breaststroke": "30.74",
+    "50 Backstroke": "25.94"
+  },
+  "championEvents": [
+    "15 & Over 5025 Yd Freestyle"
+  ]
+}

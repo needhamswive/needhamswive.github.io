@@ -1,0 +1,75 @@
+{
+  "name": "Quinn Golhar",
+  "paperPlate": "The Above-the-Lane-Line Award",
+  "2024Wrapped": true,
+  "fly50Times": [
+    {
+      "meet": "Natick (7/15)",
+      "time": "41.60"
+    },
+    {
+      "meet": "Canton (7/17)",
+      "time": "43.91"
+    },
+    {
+      "meet": "Medfield (7/31)",
+      "time": "39.91"
+    },
+    {
+      "meet": "Dedham (8/5)",
+      "time": "39.48"
+    }
+  ],
+  "free50Times": [
+    {
+      "meet": "Norwood (7/24)",
+      "time": "32.51"
+    },
+    {
+      "meet": "Dedham (8/5)",
+      "time": "33.91"
+    }
+  ],
+  "breast50Times": [
+    {
+      "meet": "Canton (7/17)",
+      "time": "45.41"
+    },
+    {
+      "meet": "Medfield (7/31)",
+      "time": "41.06"
+    },
+    {
+      "meet": "Sherborn (8/7)",
+      "time": "39.96"
+    },
+    {
+      "meet": "Championships (8/9)",
+      "time": "39.48"
+    }
+  ],
+  "back50Times": [
+    {
+      "meet": "Newton (7/22)",
+      "time": "37.67"
+    },
+    {
+      "meet": "Norwood (7/24)",
+      "time": "37.81"
+    },
+    {
+      "meet": "Sherborn (8/7)",
+      "time": "35.60"
+    },
+    {
+      "meet": "Championships (8/9)",
+      "time": "37.09"
+    }
+  ],
+  "seasonPrs": {
+    "50 Butterfly": "39.48",
+    "50 Freestyle": "32.51",
+    "50 Breaststroke": "39.48",
+    "50 Backstroke": "35.60"
+  }
+}

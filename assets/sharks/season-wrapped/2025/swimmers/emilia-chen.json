@@ -1,0 +1,124 @@
+{
+  "name": "Emilia Chen",
+  "paperPlate": "Silent but Deadly",
+  "swimmerOfTheWeek": true,
+  "2024Wrapped": true,
+  "fly25Times": [
+    {
+      "meet": "Blue vs. Gold (7/1)",
+      "time": "25.62"
+    },
+    {
+      "meet": "Medfield (7/31)",
+      "time": "25.52"
+    },
+    {
+      "meet": "Sherborn (8/7)",
+      "time": "24.90"
+    }
+  ],
+  "free25Times": [
+    {
+      "meet": "Blue vs. Gold (7/1)",
+      "time": "20.78"
+    },
+    {
+      "meet": "Westwood (7/10)",
+      "time": "19.63"
+    },
+    {
+      "meet": "Natick (7/15)",
+      "time": "21.81"
+    },
+    {
+      "meet": "Canton (7/17)",
+      "time": "23.30"
+    },
+    {
+      "meet": "Newton (7/22)",
+      "time": "19.84"
+    },
+    {
+      "meet": "Norwood (7/24)",
+      "time": "19.84"
+    },
+    {
+      "meet": "Walpole (7/29)",
+      "time": "18.74"
+    },
+    {
+      "meet": "Dedham (8/5)",
+      "time": "20.03"
+    },
+    {
+      "meet": "Championships (8/9)",
+      "time": "19.42"
+    }
+  ],
+  "breast25Times": [
+    {
+      "meet": "Blue vs. Gold (7/1)",
+      "time": "27.78"
+    },
+    {
+      "meet": "Holl / Med / Mill (7/8)",
+      "time": "26.01"
+    },
+    {
+      "meet": "Westwood (7/10)",
+      "time": "27.53"
+    },
+    {
+      "meet": "Natick (7/15)",
+      "time": "26.84"
+    },
+    {
+      "meet": "Walpole (7/29)",
+      "time": "25.17"
+    },
+    {
+      "meet": "Dedham (8/5)",
+      "time": "27.49"
+    }
+  ],
+  "back25Times": [
+    {
+      "meet": "Blue vs. Gold (7/1)",
+      "time": "23.16"
+    },
+    {
+      "meet": "Holl / Med / Mill (7/8)",
+      "time": "23.40"
+    },
+    {
+      "meet": "Canton (7/17)",
+      "time": "27.16"
+    },
+    {
+      "meet": "Newton (7/22)",
+      "time": "24.83"
+    },
+    {
+      "meet": "Norwood (7/24)",
+      "time": "22.94"
+    },
+    {
+      "meet": "Medfield (7/31)",
+      "time": "23.91"
+    },
+    {
+      "meet": "Sherborn (8/7)",
+      "time": "21.08"
+    },
+    {
+      "meet": "Championships (8/9)",
+      "time": "22.35"
+    }
+  ],
+  "seasonPrs": {
+    "25 Butterfly": "24.90",
+    "25 Freestyle": "18.74",
+    "25 Breaststroke": "25.17",
+    "25 Backstroke": "21.08"
+  }
+}

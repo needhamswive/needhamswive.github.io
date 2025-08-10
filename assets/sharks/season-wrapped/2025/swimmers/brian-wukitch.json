@@ -1,0 +1,79 @@
+{
+  "name": "Brian Wukitch",
+  "paperPlate": "The Brian Runs On Dunkin Award",
+  "2024Wrapped": true,
+  "fly50Times": [
+    {
+      "meet": "Blue vs. Gold (7/1)",
+      "time": "27.33"
+    },
+    {
+      "meet": "Holl / Med / Mill (7/8)",
+      "time": "25.91"
+    },
+    {
+      "meet": "Walpole (7/29)",
+      "time": "26.94"
+    },
+    {
+      "meet": "Sherborn (8/7)",
+      "time": "25.92"
+    },
+    {
+      "meet": "Championships (8/9)",
+      "time": "25.48"
+    }
+  ],
+  "free50Times": [
+    {
+      "meet": "Blue vs. Gold (7/1)",
+      "time": "25.21"
+    }
+  ],
+  "breast50Times": [
+    {
+      "meet": "Blue vs. Gold (7/1)",
+      "time": "32.90"
+    },
+    {
+      "meet": "Holl / Med / Mill (7/8)",
+      "time": "32.63"
+    },
+    {
+      "meet": "Natick (7/15)",
+      "time": "38.33"
+    },
+    {
+      "meet": "Canton (7/17)",
+      "time": "35.22"
+    }
+  ],
+  "back50Times": [
+    {
+      "meet": "Natick (7/15)",
+      "time": "32.80"
+    },
+    {
+      "meet": "Canton (7/17)",
+      "time": "30.73"
+    },
+    {
+      "meet": "Walpole (7/29)",
+      "time": "27.42"
+    },
+    {
+      "meet": "Sherborn (8/7)",
+      "time": "26.13"
+    },
+    {
+      "meet": "Championships (8/9)",
+      "time": "25.35"
+    }
+  ],
+  "seasonPrs": {
+    "50 Butterfly": "25.48",
+    "50 Freestyle": "25.21",
+    "50 Breaststroke": "32.63",
+    "50 Backstroke": "25.35"
+  }
+}

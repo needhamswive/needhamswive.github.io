@@ -1,0 +1,94 @@
+{
+  "name": "Claire Roach",
+  "paperPlate": "Going for Gold Award",
+  "2024Wrapped": true,
+  "fly25Times": [
+    {
+      "meet": "Holl / Med / Mill (7/8)",
+      "time": "17.78"
+    },
+    {
+      "meet": "Canton (7/17)",
+      "time": "19.04"
+    },
+    {
+      "meet": "Norwood (7/24)",
+      "time": "18.43"
+    },
+    {
+      "meet": "Medfield (7/31)",
+      "time": "18.15"
+    }
+  ],
+  "free25Times": [
+    {
+      "meet": "Holl / Med / Mill (7/8)",
+      "time": "14.49"
+    },
+    {
+      "meet": "Natick (7/15)",
+      "time": "15.34"
+    },
+    {
+      "meet": "Canton (7/17)",
+      "time": "16.02"
+    },
+    {
+      "meet": "Newton (7/22)",
+      "time": "15.53"
+    },
+    {
+      "meet": "Norwood (7/24)",
+      "time": "15.82"
+    },
+    {
+      "meet": "Walpole (7/29)",
+      "time": "14.30"
+    },
+    {
+      "meet": "Championships (8/9)",
+      "time": "14.94"
+    }
+  ],
+  "breast25Times": [
+    {
+      "meet": "Westwood (7/10)",
+      "time": "20.09"
+    },
+    {
+      "meet": "Newton (7/22)",
+      "time": "23.38"
+    },
+    {
+      "meet": "Medfield (7/31)",
+      "time": "22.01"
+    }
+  ],
+  "back25Times": [
+    {
+      "meet": "Westwood (7/10)",
+      "time": "17.77"
+    },
+    {
+      "meet": "Natick (7/15)",
+      "time": "17.03"
+    },
+    {
+      "meet": "Walpole (7/29)",
+      "time": "17.86"
+    },
+    {
+      "meet": "Championships (8/9)",
+      "time": "18.50"
+    }
+  ],
+  "seasonPrs": {
+    "25 Butterfly": "17.78",
+    "25 Freestyle": "14.30",
+    "25 Breaststroke": "20.09",
+    "25 Backstroke": "17.03"
+  },
+  "championEvents": [
+    "9 & 10 25 Yd Freestyle"
+  ]
+}

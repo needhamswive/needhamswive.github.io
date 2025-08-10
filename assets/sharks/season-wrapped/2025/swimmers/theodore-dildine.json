@@ -1,0 +1,87 @@
+{
+  "name": "Theodore Dildine",
+  "paperPlate": "Mario and Luigi Award",
+  "2024Wrapped": true,
+  "fly50Times": [
+    {
+      "meet": "Holl / Med / Mill (7/8)",
+      "time": "42.55"
+    },
+    {
+      "meet": "Westwood (7/10)",
+      "time": "42.09"
+    },
+    {
+      "meet": "Norwood (7/24)",
+      "time": "44.28"
+    },
+    {
+      "meet": "Walpole (7/29)",
+      "time": "43.74"
+    }
+  ],
+  "free50Times": [
+    {
+      "meet": "Westwood (7/10)",
+      "time": "33.16"
+    },
+    {
+      "meet": "Natick (7/15)",
+      "time": "33.10"
+    },
+    {
+      "meet": "Newton (7/22)",
+      "time": "33.76"
+    },
+    {
+      "meet": "Norwood (7/24)",
+      "time": "34.88"
+    },
+    {
+      "meet": "Walpole (7/29)",
+      "time": "33.11"
+    },
+    {
+      "meet": "Dedham (8/5)",
+      "time": "35.14"
+    }
+  ],
+  "breast50Times": [
+    {
+      "meet": "Holl / Med / Mill (7/8)",
+      "time": "44.95"
+    },
+    {
+      "meet": "Newton (7/22)",
+      "time": "44.31"
+    },
+    {
+      "meet": "Medfield (7/31)",
+      "time": "45.81"
+    },
+    {
+      "meet": "Championships (8/9)",
+      "time": "42.27"
+    }
+  ],
+  "back50Times": [
+    {
+      "meet": "Natick (7/15)",
+      "time": "41.16"
+    },
+    {
+      "meet": "Medfield (7/31)",
+      "time": "42.03"
+    },
+    {
+      "meet": "Dedham (8/5)",
+      "time": "41.91"
+    }
+  ],
+  "seasonPrs": {
+    "50 Butterfly": "42.09",
+    "50 Freestyle": "33.10",
+    "50 Breaststroke": "42.27",
+    "50 Backstroke": "41.16"
+  }
+}

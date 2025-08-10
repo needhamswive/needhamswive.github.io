@@ -1,0 +1,107 @@
+{
+  "name": "Lais Caixeta",
+  "paperPlate": "Superwomen Award",
+  "swimmerOfTheWeek": true,
+  "fly50Times": [
+    {
+      "meet": "Blue vs. Gold (7/1)",
+      "time": "55.67"
+    },
+    {
+      "meet": "Holl / Med / Mill (7/8)",
+      "time": "54.30"
+    },
+    {
+      "meet": "Westwood (7/10)",
+      "time": "52.00"
+    },
+    {
+      "meet": "Canton (7/17)",
+      "time": "61.16"
+    },
+    {
+      "meet": "Walpole (7/29)",
+      "time": "53.07"
+    },
+    {
+      "meet": "Sherborn (8/7)",
+      "time": "49.36"
+    },
+    {
+      "meet": "Championships (8/9)",
+      "time": "51.40"
+    }
+  ],
+  "free50Times": [
+    {
+      "meet": "Blue vs. Gold (7/1)",
+      "time": "42.55"
+    },
+    {
+      "meet": "Holl / Med / Mill (7/8)",
+      "time": "40.20"
+    },
+    {
+      "meet": "Natick (7/15)",
+      "time": "40.62"
+    },
+    {
+      "meet": "Norwood (7/24)",
+      "time": "41.97"
+    },
+    {
+      "meet": "Walpole (7/29)",
+      "time": "45.58"
+    }
+  ],
+  "breast50Times": [
+    {
+      "meet": "Blue vs. Gold (7/1)",
+      "time": "53.09"
+    },
+    {
+      "meet": "Natick (7/15)",
+      "time": "52.08"
+    },
+    {
+      "meet": "Canton (7/17)",
+      "time": "59.07"
+    },
+    {
+      "meet": "Medfield (7/31)",
+      "time": "55.03"
+    }
+  ],
+  "back50Times": [
+    {
+      "meet": "Westwood (7/10)",
+      "time": "46.90"
+    },
+    {
+      "meet": "Newton (7/22)",
+      "time": "57.56"
+    },
+    {
+      "meet": "Norwood (7/24)",
+      "time": "48.34"
+    },
+    {
+      "meet": "Medfield (7/31)",
+      "time": "47.33"
+    },
+    {
+      "meet": "Sherborn (8/7)",
+      "time": "46.44"
+    },
+    {
+      "meet": "Championships (8/9)",
+      "time": "43.26"
+    }
+  ],
+  "seasonPrs": {
+    "50 Butterfly": "49.36",
+    "50 Freestyle": "40.20",
+    "50 Breaststroke": "52.08",
+    "50 Backstroke": "43.26"
+  }
+}

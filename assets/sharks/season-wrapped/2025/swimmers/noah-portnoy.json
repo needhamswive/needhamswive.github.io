@@ -1,0 +1,98 @@
+{
+  "name": "Noah Portnoy",
+  "paperPlate": "Life of the Party",
+  "fly25Times": [
+    {
+      "meet": "Blue vs. Gold (7/1)",
+      "time": "26.44"
+    },
+    {
+      "meet": "Holl / Med / Mill (7/8)",
+      "time": "26.53"
+    },
+    {
+      "meet": "Natick (7/15)",
+      "time": "26.06"
+    },
+    {
+      "meet": "Canton (7/17)",
+      "time": "29.20"
+    }
+  ],
+  "free25Times": [
+    {
+      "meet": "Blue vs. Gold (7/1)",
+      "time": "19.42"
+    },
+    {
+      "meet": "Westwood (7/10)",
+      "time": "20.72"
+    },
+    {
+      "meet": "Canton (7/17)",
+      "time": "21.92"
+    },
+    {
+      "meet": "Newton (7/22)",
+      "time": "18.49"
+    },
+    {
+      "meet": "Dedham (8/5)",
+      "time": "20.28"
+    },
+    {
+      "meet": "Sherborn (8/7)",
+      "time": "19.47"
+    },
+    {
+      "meet": "Championships (8/9)",
+      "time": "18.69"
+    }
+  ],
+  "breast25Times": [
+    {
+      "meet": "Blue vs. Gold (7/1)",
+      "time": "26.08"
+    },
+    {
+      "meet": "Holl / Med / Mill (7/8)",
+      "time": "26.63"
+    },
+    {
+      "meet": "Westwood (7/10)",
+      "time": "29.84"
+    },
+    {
+      "meet": "Newton (7/22)",
+      "time": "29.12"
+    }
+  ],
+  "back25Times": [
+    {
+      "meet": "Blue vs. Gold (7/1)",
+      "time": "23.41"
+    },
+    {
+      "meet": "Natick (7/15)",
+      "time": "22.46"
+    },
+    {
+      "meet": "Dedham (8/5)",
+      "time": "25.46"
+    },
+    {
+      "meet": "Sherborn (8/7)",
+      "time": "23.15"
+    },
+    {
+      "meet": "Championships (8/9)",
+      "time": "23.35"
+    }
+  ],
+  "seasonPrs": {
+    "25 Butterfly": "26.06",
+    "25 Freestyle": "18.49",
+    "25 Breaststroke": "26.08",
+    "25 Backstroke": "22.46"
+  }
+}

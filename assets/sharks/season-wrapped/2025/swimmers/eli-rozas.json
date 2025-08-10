@@ -1,0 +1,52 @@
+{
+  "name": "Eli Rozas",
+  "paperPlate": "Sorry You Broke Your Arm Award",
+  "swimmerOfTheWeek": true,
+  "2024Wrapped": true,
+  "fly50Times": [
+    {
+      "meet": "Holl / Med / Mill (7/8)",
+      "time": "51.35"
+    }
+  ],
+  "free50Times": [
+    {
+      "meet": "Westwood (7/10)",
+      "time": "40.60"
+    },
+    {
+      "meet": "Canton (7/17)",
+      "time": "45.91"
+    }
+  ],
+  "breast50Times": [
+    {
+      "meet": "Holl / Med / Mill (7/8)",
+      "time": "50.90"
+    },
+    {
+      "meet": "Westwood (7/10)",
+      "time": "48.51"
+    },
+    {
+      "meet": "Natick (7/15)",
+      "time": "50.78"
+    },
+    {
+      "meet": "Canton (7/17)",
+      "time": "58.92"
+    }
+  ],
+  "back50Times": [
+    {
+      "meet": "Natick (7/15)",
+      "time": "51.81"
+    }
+  ],
+  "seasonPrs": {
+    "50 Butterfly": "51.35",
+    "50 Freestyle": "40.60",
+    "50 Breaststroke": "48.51",
+    "50 Backstroke": "51.81"
+  }
+}

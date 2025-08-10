@@ -1,0 +1,111 @@
+{
+  "name": "Ella Chen",
+  "paperPlate": "9-10 Most Improved",
+  "swimmerOfTheWeek": true,
+  "fly25Times": [
+    {
+      "meet": "Blue vs. Gold (7/1)",
+      "time": "37.05"
+    },
+    {
+      "meet": "Medfield (7/31)",
+      "time": "30.85"
+    }
+  ],
+  "free25Times": [
+    {
+      "meet": "Blue vs. Gold (7/1)",
+      "time": "35.93"
+    },
+    {
+      "meet": "Holl / Med / Mill (7/8)",
+      "time": "24.10"
+    },
+    {
+      "meet": "Natick (7/15)",
+      "time": "24.12"
+    },
+    {
+      "meet": "Newton (7/22)",
+      "time": "19.07"
+    },
+    {
+      "meet": "Norwood (7/24)",
+      "time": "19.64"
+    },
+    {
+      "meet": "Walpole (7/29)",
+      "time": "20.53"
+    },
+    {
+      "meet": "Dedham (8/5)",
+      "time": "19.06"
+    },
+    {
+      "meet": "Sherborn (8/7)",
+      "time": "19.58"
+    },
+    {
+      "meet": "Championships (8/9)",
+      "time": "18.63"
+    }
+  ],
+  "breast25Times": [
+    {
+      "meet": "Blue vs. Gold (7/1)",
+      "time": "27.48"
+    },
+    {
+      "meet": "Westwood (7/10)",
+      "time": "33.25"
+    },
+    {
+      "meet": "Natick (7/15)",
+      "time": "34.94"
+    },
+    {
+      "meet": "Norwood (7/24)",
+      "time": "28.66"
+    }
+  ],
+  "back25Times": [
+    {
+      "meet": "Blue vs. Gold (7/1)",
+      "time": "35.08"
+    },
+    {
+      "meet": "Holl / Med / Mill (7/8)",
+      "time": "28.35"
+    },
+    {
+      "meet": "Westwood (7/10)",
+      "time": "29.40"
+    },
+    {
+      "meet": "Newton (7/22)",
+      "time": "27.56"
+    },
+    {
+      "meet": "Walpole (7/29)",
+      "time": "23.71"
+    },
+    {
+      "meet": "Dedham (8/5)",
+      "time": "24.50"
+    },
+    {
+      "meet": "Sherborn (8/7)",
+      "time": "24.23"
+    },
+    {
+      "meet": "Championships (8/9)",
+      "time": "23.36"
+    }
+  ],
+  "seasonPrs": {
+    "25 Butterfly": "30.85",
+    "25 Freestyle": "18.63",
+    "25 Breaststroke": "27.48",
+    "25 Backstroke": "23.36"
+  }
+}

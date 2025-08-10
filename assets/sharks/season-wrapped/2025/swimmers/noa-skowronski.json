@@ -1,0 +1,50 @@
+{
+  "name": "Noa Skowronski",
+  "paperPlate": "The Positivity Princess Award",
+  "fly25Times": [
+    {
+      "meet": "Norwood (7/24)",
+      "time": "36.67"
+    }
+  ],
+  "free25Times": [
+    {
+      "meet": "Norwood (7/24)",
+      "time": "24.00"
+    },
+    {
+      "meet": "Walpole (7/29)",
+      "time": "24.34"
+    },
+    {
+      "meet": "Dedham (8/5)",
+      "time": "21.66"
+    }
+  ],
+  "breast25Times": [
+    {
+      "meet": "Newton (7/22)",
+      "time": "31.17"
+    },
+    {
+      "meet": "Walpole (7/29)",
+      "time": "31.98"
+    }
+  ],
+  "back25Times": [
+    {
+      "meet": "Newton (7/22)",
+      "time": "25.13"
+    },
+    {
+      "meet": "Dedham (8/5)",
+      "time": "27.35"
+    }
+  ],
+  "seasonPrs": {
+    "25 Butterfly": "36.67",
+    "25 Freestyle": "21.66",
+    "25 Breaststroke": "31.17",
+    "25 Backstroke": "25.13"
+  }
+}

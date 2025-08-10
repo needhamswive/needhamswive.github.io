@@ -1,0 +1,91 @@
+{
+  "name": "Chloe Afzali",
+  "paperPlate": "The Backstroke Boss Award",
+  "2024Wrapped": true,
+  "fly50Times": [
+    {
+      "meet": "Blue vs. Gold (7/1)",
+      "time": "34.14"
+    },
+    {
+      "meet": "Westwood (7/10)",
+      "time": "34.06"
+    },
+    {
+      "meet": "Walpole (7/29)",
+      "time": "34.00"
+    }
+  ],
+  "free50Times": [
+    {
+      "meet": "Blue vs. Gold (7/1)",
+      "time": "30.10"
+    },
+    {
+      "meet": "Medfield (7/31)",
+      "time": "30.68"
+    },
+    {
+      "meet": "Dedham (8/5)",
+      "time": "30.78"
+    }
+  ],
+  "breast50Times": [
+    {
+      "meet": "Blue vs. Gold (7/1)",
+      "time": "39.15"
+    },
+    {
+      "meet": "Canton (7/17)",
+      "time": "43.00"
+    },
+    {
+      "meet": "Newton (7/22)",
+      "time": "37.03"
+    },
+    {
+      "meet": "Walpole (7/29)",
+      "time": "38.12"
+    },
+    {
+      "meet": "Dedham (8/5)",
+      "time": "39.16"
+    },
+    {
+      "meet": "Sherborn (8/7)",
+      "time": "36.70"
+    },
+    {
+      "meet": "Championships (8/9)",
+      "time": "37.02"
+    }
+  ],
+  "back50Times": [
+    {
+      "meet": "Canton (7/17)",
+      "time": "34.44"
+    },
+    {
+      "meet": "Newton (7/22)",
+      "time": "30.61"
+    },
+    {
+      "meet": "Medfield (7/31)",
+      "time": "31.50"
+    },
+    {
+      "meet": "Sherborn (8/7)",
+      "time": "30.78"
+    },
+    {
+      "meet": "Championships (8/9)",
+      "time": "30.35"
+    }
+  ],
+  "seasonPrs": {
+    "50 Butterfly": "34.00",
+    "50 Freestyle": "30.10",
+    "50 Breaststroke": "36.70",
+    "50 Backstroke": "30.35"
+  }
+}

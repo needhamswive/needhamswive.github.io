@@ -1,0 +1,79 @@
+{
+  "name": "Isabel Sarah McQuilliams",
+  "paperPlate": "Little Miss Pink Award",
+  "2024Wrapped": true,
+  "fly50Times": [
+    {
+      "meet": "Blue vs. Gold (7/1)",
+      "time": "73.74"
+    },
+    {
+      "meet": "Medfield (7/31)",
+      "time": "76.00"
+    }
+  ],
+  "free50Times": [
+    {
+      "meet": "Blue vs. Gold (7/1)",
+      "time": "50.44"
+    },
+    {
+      "meet": "Holl / Med / Mill (7/8)",
+      "time": "51.98"
+    },
+    {
+      "meet": "Natick (7/15)",
+      "time": "52.25"
+    },
+    {
+      "meet": "Newton (7/22)",
+      "time": "50.39"
+    },
+    {
+      "meet": "Medfield (7/31)",
+      "time": "52.79"
+    }
+  ],
+  "breast50Times": [
+    {
+      "meet": "Blue vs. Gold (7/1)",
+      "time": "61.32"
+    },
+    {
+      "meet": "Holl / Med / Mill (7/8)",
+      "time": "59.28"
+    },
+    {
+      "meet": "Canton (7/17)",
+      "time": "67.04"
+    },
+    {
+      "meet": "Newton (7/22)",
+      "time": "59.17"
+    },
+    {
+      "meet": "Walpole (7/29)",
+      "time": "62.67"
+    }
+  ],
+  "back50Times": [
+    {
+      "meet": "Natick (7/15)",
+      "time": "60.50"
+    },
+    {
+      "meet": "Canton (7/17)",
+      "time": "65.39"
+    },
+    {
+      "meet": "Walpole (7/29)",
+      "time": "64.16"
+    }
+  ],
+  "seasonPrs": {
+    "50 Butterfly": "73.74",
+    "50 Freestyle": "50.39",
+    "50 Breaststroke": "59.17",
+    "50 Backstroke": "60.50"
+  }
+}

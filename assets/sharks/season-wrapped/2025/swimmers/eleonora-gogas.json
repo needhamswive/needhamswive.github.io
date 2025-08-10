@@ -1,0 +1,108 @@
+{
+  "name": "Eleonora Gogas",
+  "paperPlate": "Relay Rockstar",
+  "swimmerOfTheWeek": true,
+  "goldenGoggles": "Rookie of the Year",
+  "fly25Times": [
+    {
+      "meet": "Holl / Med / Mill (7/8)",
+      "time": "19.54"
+    },
+    {
+      "meet": "Westwood (7/10)",
+      "time": "20.06"
+    },
+    {
+      "meet": "Natick (7/15)",
+      "time": "19.31"
+    },
+    {
+      "meet": "Canton (7/17)",
+      "time": "22.99"
+    },
+    {
+      "meet": "Newton (7/22)",
+      "time": "20.94"
+    },
+    {
+      "meet": "Norwood (7/24)",
+      "time": "21.77"
+    },
+    {
+      "meet": "Walpole (7/29)",
+      "time": "21.59"
+    },
+    {
+      "meet": "Dedham (8/5)",
+      "time": "20.75"
+    },
+    {
+      "meet": "Sherborn (8/7)",
+      "time": "20.41"
+    },
+    {
+      "meet": "Championships (8/9)",
+      "time": "19.86"
+    }
+  ],
+  "free25Times": [
+    {
+      "meet": "Holl / Med / Mill (7/8)",
+      "time": "17.33"
+    },
+    {
+      "meet": "Norwood (7/24)",
+      "time": "17.91"
+    },
+    {
+      "meet": "Dedham (8/5)",
+      "time": "18.28"
+    }
+  ],
+  "breast25Times": [
+    {
+      "meet": "Westwood (7/10)",
+      "time": "22.75"
+    },
+    {
+      "meet": "Natick (7/15)",
+      "time": "24.47"
+    },
+    {
+      "meet": "Canton (7/17)",
+      "time": "26.17"
+    },
+    {
+      "meet": "Newton (7/22)",
+      "time": "24.16"
+    },
+    {
+      "meet": "Walpole (7/29)",
+      "time": "25.05"
+    },
+    {
+      "meet": "Sherborn (8/7)",
+      "time": "23.20"
+    },
+    {
+      "meet": "Championships (8/9)",
+      "time": "23.90"
+    }
+  ],
+  "back25Times": [
+    {
+      "meet": "Norwood (7/24)",
+      "time": "21.84"
+    },
+    {
+      "meet": "Medfield (7/31)",
+      "time": "23.23"
+    }
+  ],
+  "seasonPrs": {
+    "25 Butterfly": "19.31",
+    "25 Freestyle": "17.33",
+    "25 Breaststroke": "22.75",
+    "25 Backstroke": "21.84"
+  }
+}

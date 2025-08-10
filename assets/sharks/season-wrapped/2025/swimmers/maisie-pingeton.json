@@ -1,0 +1,87 @@
+{
+  "name": "Maisie Pingeton",
+  "paperPlate": "The Queen of Kindness",
+  "swimmerOfTheWeek": true,
+  "fly25Times": [
+    {
+      "meet": "Blue vs. Gold (7/1)",
+      "time": "28.04"
+    },
+    {
+      "meet": "Medfield (7/31)",
+      "time": "25.18"
+    }
+  ],
+  "free25Times": [
+    {
+      "meet": "Blue vs. Gold (7/1)",
+      "time": "23.19"
+    },
+    {
+      "meet": "Holl / Med / Mill (7/8)",
+      "time": "23.72"
+    },
+    {
+      "meet": "Newton (7/22)",
+      "time": "21.09"
+    },
+    {
+      "meet": "Walpole (7/29)",
+      "time": "21.15"
+    },
+    {
+      "meet": "Dedham (8/5)",
+      "time": "22.41"
+    },
+    {
+      "meet": "Sherborn (8/7)",
+      "time": "23.31"
+    },
+    {
+      "meet": "Championships (8/9)",
+      "time": "21.17"
+    }
+  ],
+  "breast25Times": [
+    {
+      "meet": "Blue vs. Gold (7/1)",
+      "time": "30.50"
+    },
+    {
+      "meet": "Holl / Med / Mill (7/8)",
+      "time": "32.18"
+    },
+    {
+      "meet": "Newton (7/22)",
+      "time": "29.04"
+    },
+    {
+      "meet": "Medfield (7/31)",
+      "time": "29.38"
+    },
+    {
+      "meet": "Dedham (8/5)",
+      "time": "28.34"
+    },
+    {
+      "meet": "Sherborn (8/7)",
+      "time": "28.09"
+    },
+    {
+      "meet": "Championships (8/9)",
+      "time": "27.44"
+    }
+  ],
+  "back25Times": [
+    {
+      "meet": "Walpole (7/29)",
+      "time": "29.12"
+    }
+  ],
+  "seasonPrs": {
+    "25 Butterfly": "25.18",
+    "25 Freestyle": "21.09",
+    "25 Breaststroke": "27.44",
+    "25 Backstroke": "29.12"
+  }
+}

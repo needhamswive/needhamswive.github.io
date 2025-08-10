@@ -1,0 +1,75 @@
+{
+  "name": "Neil Chen",
+  "paperPlate": "The Lost in the Lane Lines Award",
+  "2024Wrapped": true,
+  "fly50Times": [
+    {
+      "meet": "Blue vs. Gold (7/1)",
+      "time": "36.49"
+    },
+    {
+      "meet": "Westwood (7/10)",
+      "time": "36.50"
+    },
+    {
+      "meet": "Walpole (7/29)",
+      "time": "36.74"
+    }
+  ],
+  "free50Times": [
+    {
+      "meet": "Blue vs. Gold (7/1)",
+      "time": "29.55"
+    },
+    {
+      "meet": "Westwood (7/10)",
+      "time": "30.84"
+    },
+    {
+      "meet": "Newton (7/22)",
+      "time": "31.67"
+    },
+    {
+      "meet": "Medfield (7/31)",
+      "time": "31.22"
+    },
+    {
+      "meet": "Championships (8/9)",
+      "time": "29.21"
+    }
+  ],
+  "breast50Times": [
+    {
+      "meet": "Blue vs. Gold (7/1)",
+      "time": "46.18"
+    },
+    {
+      "meet": "Newton (7/22)",
+      "time": "42.56"
+    },
+    {
+      "meet": "Norwood (7/24)",
+      "time": "43.46"
+    }
+  ],
+  "back50Times": [
+    {
+      "meet": "Norwood (7/24)",
+      "time": "41.12"
+    },
+    {
+      "meet": "Walpole (7/29)",
+      "time": "38.16"
+    },
+    {
+      "meet": "Championships (8/9)",
+      "time": "37.46"
+    }
+  ],
+  "seasonPrs": {
+    "50 Butterfly": "36.49",
+    "50 Freestyle": "29.21",
+    "50 Breaststroke": "42.56",
+    "50 Backstroke": "37.46"
+  }
+}

@@ -1,0 +1,81 @@
+{
+  "name": "Anray Sheng",
+  "fly50Times": [
+    {
+      "meet": "Blue vs. Gold (7/1)",
+      "time": "29.90"
+    },
+    {
+      "meet": "Westwood (7/10)",
+      "time": "29.69"
+    },
+    {
+      "meet": "Natick (7/15)",
+      "time": "30.91"
+    },
+    {
+      "meet": "Dedham (8/5)",
+      "time": "33.59"
+    }
+  ],
+  "free50Times": [
+    {
+      "meet": "Blue vs. Gold (7/1)",
+      "time": "27.12"
+    },
+    {
+      "meet": "Holl / Med / Mill (7/8)",
+      "time": "26.90"
+    },
+    {
+      "meet": "Canton (7/17)",
+      "time": "30.73"
+    },
+    {
+      "meet": "Sherborn (8/7)",
+      "time": "27.21"
+    }
+  ],
+  "breast50Times": [
+    {
+      "meet": "Blue vs. Gold (7/1)",
+      "time": "36.34"
+    },
+    {
+      "meet": "Holl / Med / Mill (7/8)",
+      "time": "34.95"
+    },
+    {
+      "meet": "Championships (8/9)",
+      "time": "36.38"
+    }
+  ],
+  "back50Times": [
+    {
+      "meet": "Westwood (7/10)",
+      "time": "31.34"
+    },
+    {
+      "meet": "Natick (7/15)",
+      "time": "30.87"
+    },
+    {
+      "meet": "Canton (7/17)",
+      "time": "36.36"
+    },
+    {
+      "meet": "Dedham (8/5)",
+      "time": "35.09"
+    },
+    {
+      "meet": "Championships (8/9)",
+      "time": "34.11"
+    }
+  ],
+  "seasonPrs": {
+    "50 Butterfly": "29.69",
+    "50 Freestyle": "26.90",
+    "50 Breaststroke": "34.95",
+    "50 Backstroke": "30.87"
+  }
+}

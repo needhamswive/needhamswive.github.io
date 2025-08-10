@@ -1,0 +1,67 @@
+{
+  "name": "Rousseau Pogue",
+  "paperPlate": "Iron Tank Award",
+  "2024Wrapped": true,
+  "fly50Times": [
+    {
+      "meet": "Newton (7/22)",
+      "time": "42.03"
+    },
+    {
+      "meet": "Norwood (7/24)",
+      "time": "43.34"
+    },
+    {
+      "meet": "Dedham (8/5)",
+      "time": "43.96"
+    },
+    {
+      "meet": "Sherborn (8/7)",
+      "time": "40.16"
+    },
+    {
+      "meet": "Championships (8/9)",
+      "time": "41.49"
+    }
+  ],
+  "free50Times": [
+    {
+      "meet": "Norwood (7/24)",
+      "time": "37.19"
+    }
+  ],
+  "breast50Times": [
+    {
+      "meet": "Holl / Med / Mill (7/8)",
+      "time": "51.39"
+    },
+    {
+      "meet": "Newton (7/22)",
+      "time": "44.07"
+    },
+    {
+      "meet": "Sherborn (8/7)",
+      "time": "48.38"
+    },
+    {
+      "meet": "Championships (8/9)",
+      "time": "47.70"
+    }
+  ],
+  "back50Times": [
+    {
+      "meet": "Holl / Med / Mill (7/8)",
+      "time": "45.22"
+    },
+    {
+      "meet": "Dedham (8/5)",
+      "time": "44.88"
+    }
+  ],
+  "seasonPrs": {
+    "50 Butterfly": "40.16",
+    "50 Freestyle": "37.19",
+    "50 Breaststroke": "44.07",
+    "50 Backstroke": "44.88"
+  }
+}

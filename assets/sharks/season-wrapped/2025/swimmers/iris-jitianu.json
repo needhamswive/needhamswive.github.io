@@ -1,0 +1,75 @@
+{
+  "name": "Iris Jitianu",
+  "paperPlate": "Firecracker Award",
+  "2024Wrapped": true,
+  "fly50Times": [
+    {
+      "meet": "Blue vs. Gold (7/1)",
+      "time": "45.45"
+    },
+    {
+      "meet": "Holl / Med / Mill (7/8)",
+      "time": "43.98"
+    }
+  ],
+  "free50Times": [
+    {
+      "meet": "Blue vs. Gold (7/1)",
+      "time": "35.66"
+    },
+    {
+      "meet": "Westwood (7/10)",
+      "time": "36.50"
+    },
+    {
+      "meet": "Dedham (8/5)",
+      "time": "36.79"
+    },
+    {
+      "meet": "Championships (8/9)",
+      "time": "35.44"
+    }
+  ],
+  "breast50Times": [
+    {
+      "meet": "Blue vs. Gold (7/1)",
+      "time": "47.81"
+    },
+    {
+      "meet": "Holl / Med / Mill (7/8)",
+      "time": "48.51"
+    },
+    {
+      "meet": "Westwood (7/10)",
+      "time": "48.12"
+    },
+    {
+      "meet": "Dedham (8/5)",
+      "time": "49.53"
+    },
+    {
+      "meet": "Sherborn (8/7)",
+      "time": "47.00"
+    },
+    {
+      "meet": "Championships (8/9)",
+      "time": "47.32"
+    }
+  ],
+  "back50Times": [
+    {
+      "meet": "Newton (7/22)",
+      "time": "51.26"
+    },
+    {
+      "meet": "Sherborn (8/7)",
+      "time": "43.97"
+    }
+  ],
+  "seasonPrs": {
+    "50 Butterfly": "43.98",
+    "50 Freestyle": "35.44",
+    "50 Breaststroke": "47.00",
+    "50 Backstroke": "43.97"
+  }
+}

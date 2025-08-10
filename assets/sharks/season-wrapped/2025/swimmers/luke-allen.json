@@ -1,0 +1,79 @@
+{
+  "name": "Luke Allen",
+  "paperPlate": "The Mirror Mirror on the Wall Award",
+  "2024Wrapped": true,
+  "fly50Times": [
+    {
+      "meet": "Holl / Med / Mill (7/8)",
+      "time": "35.26"
+    },
+    {
+      "meet": "Walpole (7/29)",
+      "time": "34.06"
+    },
+    {
+      "meet": "Sherborn (8/7)",
+      "time": "34.33"
+    },
+    {
+      "meet": "Championships (8/9)",
+      "time": "34.59"
+    }
+  ],
+  "free50Times": [
+    {
+      "meet": "Holl / Med / Mill (7/8)",
+      "time": "30.46"
+    },
+    {
+      "meet": "Westwood (7/10)",
+      "time": "30.66"
+    },
+    {
+      "meet": "Walpole (7/29)",
+      "time": "29.99"
+    },
+    {
+      "meet": "Medfield (7/31)",
+      "time": "35.41"
+    }
+  ],
+  "breast50Times": [
+    {
+      "meet": "Medfield (7/31)",
+      "time": "37.69"
+    },
+    {
+      "meet": "Dedham (8/5)",
+      "time": "38.91"
+    }
+  ],
+  "back50Times": [
+    {
+      "meet": "Westwood (7/10)",
+      "time": "34.39"
+    },
+    {
+      "meet": "Medfield (7/31)",
+      "time": "34.23"
+    },
+    {
+      "meet": "Dedham (8/5)",
+      "time": "34.25"
+    },
+    {
+      "meet": "Sherborn (8/7)",
+      "time": "34.22"
+    },
+    {
+      "meet": "Championships (8/9)",
+      "time": "34.05"
+    }
+  ],
+  "seasonPrs": {
+    "50 Butterfly": "34.06",
+    "50 Freestyle": "29.99",
+    "50 Breaststroke": "37.69",
+    "50 Backstroke": "34.05"
+  }
+}

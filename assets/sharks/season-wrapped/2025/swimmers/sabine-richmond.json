@@ -1,0 +1,116 @@
+{
+  "name": "Sabine Richmond",
+  "paperPlate": "The Berry Best CIT Award",
+  "swimmerOfTheWeek": true,
+  "2024Wrapped": true,
+  "fly50Times": [
+    {
+      "meet": "Blue vs. Gold (7/1)",
+      "time": "41.64"
+    },
+    {
+      "meet": "Westwood (7/10)",
+      "time": "40.91"
+    },
+    {
+      "meet": "Canton (7/17)",
+      "time": "45.75"
+    },
+    {
+      "meet": "Newton (7/22)",
+      "time": "41.56"
+    },
+    {
+      "meet": "Norwood (7/24)",
+      "time": "41.76"
+    },
+    {
+      "meet": "Walpole (7/29)",
+      "time": "43.27"
+    },
+    {
+      "meet": "Dedham (8/5)",
+      "time": "40.65"
+    }
+  ],
+  "free50Times": [
+    {
+      "meet": "Blue vs. Gold (7/1)",
+      "time": "34.66"
+    },
+    {
+      "meet": "Westwood (7/10)",
+      "time": "35.55"
+    },
+    {
+      "meet": "Natick (7/15)",
+      "time": "34.08"
+    },
+    {
+      "meet": "Norwood (7/24)",
+      "time": "34.66"
+    },
+    {
+      "meet": "Medfield (7/31)",
+      "time": "34.26"
+    },
+    {
+      "meet": "Sherborn (8/7)",
+      "time": "32.62"
+    },
+    {
+      "meet": "Championships (8/9)",
+      "time": "31.57"
+    }
+  ],
+  "breast50Times": [
+    {
+      "meet": "Blue vs. Gold (7/1)",
+      "time": "47.30"
+    },
+    {
+      "meet": "Westwood (7/10)",
+      "time": "48.86"
+    },
+    {
+      "meet": "Canton (7/17)",
+      "time": "51.30"
+    },
+    {
+      "meet": "Newton (7/22)",
+      "time": "46.46"
+    },
+    {
+      "meet": "Walpole (7/29)",
+      "time": "47.85"
+    },
+    {
+      "meet": "Dedham (8/5)",
+      "time": "42.72"
+    },
+    {
+      "meet": "Sherborn (8/7)",
+      "time": "45.66"
+    }
+  ],
+  "back50Times": [
+    {
+      "meet": "Natick (7/15)",
+      "time": "44.32"
+    },
+    {
+      "meet": "Medfield (7/31)",
+      "time": "43.17"
+    },
+    {
+      "meet": "Championships (8/9)",
+      "time": "41.20"
+    }
+  ],
+  "seasonPrs": {
+    "50 Butterfly": "40.65",
+    "50 Freestyle": "31.57",
+    "50 Breaststroke": "42.72",
+    "50 Backstroke": "41.20"
+  }
+}

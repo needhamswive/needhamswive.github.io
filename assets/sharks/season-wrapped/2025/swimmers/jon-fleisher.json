@@ -1,0 +1,80 @@
+{
+  "name": "Jon Fleisher",
+  "paperPlate": "The 15 & Over Rookie of the Year Award",
+  "swimmerOfTheWeek": true,
+  "goldenGoggles": "Rookie of the Year",
+  "fly50Times": [
+    {
+      "meet": "Blue vs. Gold (7/1)",
+      "time": "31.50"
+    },
+    {
+      "meet": "Walpole (7/29)",
+      "time": "30.18"
+    },
+    {
+      "meet": "Dedham (8/5)",
+      "time": "32.03"
+    }
+  ],
+  "free50Times": [
+    {
+      "meet": "Blue vs. Gold (7/1)",
+      "time": "25.92"
+    },
+    {
+      "meet": "Newton (7/22)",
+      "time": "25.23"
+    },
+    {
+      "meet": "Walpole (7/29)",
+      "time": "24.93"
+    },
+    {
+      "meet": "Dedham (8/5)",
+      "time": "25.84"
+    },
+    {
+      "meet": "Sherborn (8/7)",
+      "time": "25.48"
+    },
+    {
+      "meet": "Championships (8/9)",
+      "time": "25.37"
+    }
+  ],
+  "breast50Times": [
+    {
+      "meet": "Blue vs. Gold (7/1)",
+      "time": "37.74"
+    },
+    {
+      "meet": "Norwood (7/24)",
+      "time": "37.94"
+    }
+  ],
+  "back50Times": [
+    {
+      "meet": "Newton (7/22)",
+      "time": "32.25"
+    },
+    {
+      "meet": "Norwood (7/24)",
+      "time": "32.20"
+    },
+    {
+      "meet": "Sherborn (8/7)",
+      "time": "34.53"
+    },
+    {
+      "meet": "Championships (8/9)",
+      "time": "34.05"
+    }
+  ],
+  "seasonPrs": {
+    "50 Butterfly": "30.18",
+    "50 Freestyle": "24.93",
+    "50 Breaststroke": "37.74",
+    "50 Backstroke": "32.20"
+  }
+}

@@ -1,0 +1,98 @@
+{
+  "name": "Benjamin Klucznik",
+  "paperPlate": "Undercover 8 & Under",
+  "fly25Times": [
+    {
+      "meet": "Blue vs. Gold (7/1)",
+      "time": "39.14"
+    },
+    {
+      "meet": "Norwood (7/24)",
+      "time": "44.04"
+    },
+    {
+      "meet": "Walpole (7/29)",
+      "time": "47.84"
+    }
+  ],
+  "free25Times": [
+    {
+      "meet": "Blue vs. Gold (7/1)",
+      "time": "33.09"
+    },
+    {
+      "meet": "Holl / Med / Mill (7/8)",
+      "time": "32.67"
+    },
+    {
+      "meet": "Canton (7/17)",
+      "time": "43.07"
+    },
+    {
+      "meet": "Norwood (7/24)",
+      "time": "29.82"
+    },
+    {
+      "meet": "Walpole (7/29)",
+      "time": "30.09"
+    }
+  ],
+  "breast25Times": [
+    {
+      "meet": "Blue vs. Gold (7/1)",
+      "time": "35.06"
+    },
+    {
+      "meet": "Westwood (7/10)",
+      "time": "37.55"
+    },
+    {
+      "meet": "Natick (7/15)",
+      "time": "39.18"
+    },
+    {
+      "meet": "Canton (7/17)",
+      "time": "62.14"
+    },
+    {
+      "meet": "Newton (7/22)",
+      "time": "39.53"
+    },
+    {
+      "meet": "Medfield (7/31)",
+      "time": "44.31"
+    }
+  ],
+  "back25Times": [
+    {
+      "meet": "Blue vs. Gold (7/1)",
+      "time": "40.19"
+    },
+    {
+      "meet": "Holl / Med / Mill (7/8)",
+      "time": "39.18"
+    },
+    {
+      "meet": "Westwood (7/10)",
+      "time": "33.10"
+    },
+    {
+      "meet": "Natick (7/15)",
+      "time": "40.84"
+    },
+    {
+      "meet": "Newton (7/22)",
+      "time": "33.96"
+    },
+    {
+      "meet": "Medfield (7/31)",
+      "time": "39.34"
+    }
+  ],
+  "seasonPrs": {
+    "25 Butterfly": "39.14",
+    "25 Freestyle": "29.82",
+    "25 Breaststroke": "35.06",
+    "25 Backstroke": "33.10"
+  }
+}

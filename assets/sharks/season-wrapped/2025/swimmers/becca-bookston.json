@@ -1,0 +1,116 @@
+{
+  "name": "Becca Bookston",
+  "paperPlate": "Goggles and Giggles Award",
+  "swimmerOfTheWeek": true,
+  "2024Wrapped": true,
+  "fly50Times": [
+    {
+      "meet": "Blue vs. Gold (7/1)",
+      "time": "58.55"
+    },
+    {
+      "meet": "Medfield (7/31)",
+      "time": "68.33"
+    }
+  ],
+  "free50Times": [
+    {
+      "meet": "Blue vs. Gold (7/1)",
+      "time": "36.66"
+    },
+    {
+      "meet": "Holl / Med / Mill (7/8)",
+      "time": "45.45"
+    },
+    {
+      "meet": "Newton (7/22)",
+      "time": "40.76"
+    },
+    {
+      "meet": "Medfield (7/31)",
+      "time": "52.56"
+    },
+    {
+      "meet": "Dedham (8/5)",
+      "time": "55.21"
+    },
+    {
+      "meet": "Sherborn (8/7)",
+      "time": "45.87"
+    },
+    {
+      "meet": "Championships (8/9)",
+      "time": "42.53"
+    }
+  ],
+  "breast50Times": [
+    {
+      "meet": "Blue vs. Gold (7/1)",
+      "time": "63.19"
+    },
+    {
+      "meet": "Westwood (7/10)",
+      "time": "64.12"
+    },
+    {
+      "meet": "Natick (7/15)",
+      "time": "56.13"
+    },
+    {
+      "meet": "Canton (7/17)",
+      "time": "63.00"
+    },
+    {
+      "meet": "Norwood (7/24)",
+      "time": "63.54"
+    },
+    {
+      "meet": "Medfield (7/31)",
+      "time": "69.00"
+    },
+    {
+      "meet": "Dedham (8/5)",
+      "time": "63.30"
+    },
+    {
+      "meet": "Sherborn (8/7)",
+      "time": "60.70"
+    },
+    {
+      "meet": "Championships (8/9)",
+      "time": "53.53"
+    }
+  ],
+  "back50Times": [
+    {
+      "meet": "Holl / Med / Mill (7/8)",
+      "time": "57.43"
+    },
+    {
+      "meet": "Westwood (7/10)",
+      "time": "63.12"
+    },
+    {
+      "meet": "Natick (7/15)",
+      "time": "59.03"
+    },
+    {
+      "meet": "Canton (7/17)",
+      "time": "67.23"
+    },
+    {
+      "meet": "Norwood (7/24)",
+      "time": "64.70"
+    },
+    {
+      "meet": "Medfield (7/31)",
+      "time": "67.00"
+    }
+  ],
+  "seasonPrs": {
+    "50 Butterfly": "58.55",
+    "50 Freestyle": "36.66",
+    "50 Breaststroke": "53.53",
+    "50 Backstroke": "57.43"
+  }
+}

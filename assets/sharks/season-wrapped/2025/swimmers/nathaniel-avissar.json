@@ -1,0 +1,47 @@
+{
+  "name": "Nathaniel Avissar",
+  "paperPlate": "Butterfly King Award",
+  "2024Wrapped": true,
+  "fly50Times": [
+    {
+      "meet": "Norwood (7/24)",
+      "time": "37.73"
+    }
+  ],
+  "free50Times": [
+    {
+      "meet": "Blue vs. Gold (7/1)",
+      "time": "30.30"
+    },
+    {
+      "meet": "Holl / Med / Mill (7/8)",
+      "time": "30.03"
+    },
+    {
+      "meet": "Newton (7/22)",
+      "time": "30.50"
+    }
+  ],
+  "breast50Times": [
+    {
+      "meet": "Blue vs. Gold (7/1)",
+      "time": "44.31"
+    },
+    {
+      "meet": "Holl / Med / Mill (7/8)",
+      "time": "45.35"
+    }
+  ],
+  "back50Times": [
+    {
+      "meet": "Norwood (7/24)",
+      "time": "34.98"
+    }
+  ],
+  "seasonPrs": {
+    "50 Butterfly": "37.73",
+    "50 Freestyle": "30.03",
+    "50 Breaststroke": "44.31",
+    "50 Backstroke": "34.98"
+  }
+}

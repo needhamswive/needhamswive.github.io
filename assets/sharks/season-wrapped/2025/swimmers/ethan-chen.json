@@ -1,0 +1,107 @@
+{
+  "name": "Ethan Chen",
+  "paperPlate": "The Helping Hand Award",
+  "2024Wrapped": true,
+  "fly50Times": [
+    {
+      "meet": "Blue vs. Gold (7/1)",
+      "time": "57.05"
+    },
+    {
+      "meet": "Westwood (7/10)",
+      "time": "55.39"
+    },
+    {
+      "meet": "Natick (7/15)",
+      "time": "56.22"
+    },
+    {
+      "meet": "Medfield (7/31)",
+      "time": "58.59"
+    }
+  ],
+  "free50Times": [
+    {
+      "meet": "Blue vs. Gold (7/1)",
+      "time": "43.03"
+    },
+    {
+      "meet": "Canton (7/17)",
+      "time": "52.50"
+    },
+    {
+      "meet": "Newton (7/22)",
+      "time": "49.06"
+    },
+    {
+      "meet": "Walpole (7/29)",
+      "time": "46.57"
+    },
+    {
+      "meet": "Sherborn (8/7)",
+      "time": "45.63"
+    },
+    {
+      "meet": "Championships (8/9)",
+      "time": "42.56"
+    }
+  ],
+  "breast50Times": [
+    {
+      "meet": "Blue vs. Gold (7/1)",
+      "time": "52.59"
+    },
+    {
+      "meet": "Holl / Med / Mill (7/8)",
+      "time": "52.12"
+    },
+    {
+      "meet": "Westwood (7/10)",
+      "time": "52.50"
+    },
+    {
+      "meet": "Natick (7/15)",
+      "time": "52.94"
+    },
+    {
+      "meet": "Norwood (7/24)",
+      "time": "54.95"
+    },
+    {
+      "meet": "Walpole (7/29)",
+      "time": "51.49"
+    },
+    {
+      "meet": "Sherborn (8/7)",
+      "time": "53.58"
+    },
+    {
+      "meet": "Championships (8/9)",
+      "time": "50.55"
+    }
+  ],
+  "back50Times": [
+    {
+      "meet": "Holl / Med / Mill (7/8)",
+      "time": "55.48"
+    },
+    {
+      "meet": "Canton (7/17)",
+      "time": "59.56"
+    },
+    {
+      "meet": "Newton (7/22)",
+      "time": "54.14"
+    },
+    {
+      "meet": "Norwood (7/24)",
+      "time": "55.71"
+    }
+  ],
+  "seasonPrs": {
+    "50 Butterfly": "55.39",
+    "50 Freestyle": "42.56",
+    "50 Breaststroke": "50.55",
+    "50 Backstroke": "54.14"
+  }
+}

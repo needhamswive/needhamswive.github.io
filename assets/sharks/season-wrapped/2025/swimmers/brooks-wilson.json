@@ -1,0 +1,109 @@
+{
+  "name": "Brooks Wilson",
+  "paperPlate": "The Annual 9-10 Cannonball Contest Champion",
+  "swimmerOfTheWeek": true,
+  "goldenGoggles": "Team MVP",
+  "2024Wrapped": true,
+  "fly25Times": [
+    {
+      "meet": "Holl / Med / Mill (7/8)",
+      "time": "18.12"
+    },
+    {
+      "meet": "Natick (7/15)",
+      "time": "18.33"
+    },
+    {
+      "meet": "Canton (7/17)",
+      "time": "20.10"
+    },
+    {
+      "meet": "Newton (7/22)",
+      "time": "18.81"
+    },
+    {
+      "meet": "Norwood (7/24)",
+      "time": "19.79"
+    },
+    {
+      "meet": "Walpole (7/29)",
+      "time": "18.21"
+    },
+    {
+      "meet": "Medfield (7/31)",
+      "time": "17.86"
+    },
+    {
+      "meet": "Dedham (8/5)",
+      "time": "19.87"
+    },
+    {
+      "meet": "Sherborn (8/7)",
+      "time": "17.74"
+    }
+  ],
+  "free25Times": [
+    {
+      "meet": "Westwood (7/10)",
+      "time": "17.63"
+    }
+  ],
+  "breast25Times": [
+    {
+      "meet": "Holl / Med / Mill (7/8)",
+      "time": "20.17"
+    },
+    {
+      "meet": "Natick (7/15)",
+      "time": "19.80"
+    },
+    {
+      "meet": "Newton (7/22)",
+      "time": "20.23"
+    },
+    {
+      "meet": "Medfield (7/31)",
+      "time": "19.93"
+    },
+    {
+      "meet": "Dedham (8/5)",
+      "time": "22.00"
+    },
+    {
+      "meet": "Sherborn (8/7)",
+      "time": "19.47"
+    },
+    {
+      "meet": "Championships (8/9)",
+      "time": "20.25"
+    }
+  ],
+  "back25Times": [
+    {
+      "meet": "Westwood (7/10)",
+      "time": "19.59"
+    },
+    {
+      "meet": "Canton (7/17)",
+      "time": "20.72"
+    },
+    {
+      "meet": "Norwood (7/24)",
+      "time": "19.04"
+    },
+    {
+      "meet": "Walpole (7/29)",
+      "time": "18.17"
+    },
+    {
+      "meet": "Championships (8/9)",
+      "time": "19.18"
+    }
+  ],
+  "seasonPrs": {
+    "25 Butterfly": "17.74",
+    "25 Freestyle": "17.63",
+    "25 Breaststroke": "19.47",
+    "25 Backstroke": "18.17"
+  }
+}

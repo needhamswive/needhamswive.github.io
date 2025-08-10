@@ -1,0 +1,75 @@
+{
+  "name": "Noah Moran",
+  "paperPlate": "Multisport Athlete Award",
+  "2024Wrapped": true,
+  "fly50Times": [
+    {
+      "meet": "Medfield (7/31)",
+      "time": "61.97"
+    }
+  ],
+  "free50Times": [
+    {
+      "meet": "Natick (7/15)",
+      "time": "40.50"
+    },
+    {
+      "meet": "Newton (7/22)",
+      "time": "38.11"
+    },
+    {
+      "meet": "Norwood (7/24)",
+      "time": "38.34"
+    },
+    {
+      "meet": "Sherborn (8/7)",
+      "time": "37.72"
+    },
+    {
+      "meet": "Championships (8/9)",
+      "time": "36.70"
+    }
+  ],
+  "breast50Times": [
+    {
+      "meet": "Westwood (7/10)",
+      "time": "50.37"
+    },
+    {
+      "meet": "Newton (7/22)",
+      "time": "53.39"
+    },
+    {
+      "meet": "Norwood (7/24)",
+      "time": "48.52"
+    },
+    {
+      "meet": "Medfield (7/31)",
+      "time": "59.09"
+    }
+  ],
+  "back50Times": [
+    {
+      "meet": "Natick (7/15)",
+      "time": "50.41"
+    },
+    {
+      "meet": "Medfield (7/31)",
+      "time": "55.16"
+    },
+    {
+      "meet": "Sherborn (8/7)",
+      "time": "45.94"
+    },
+    {
+      "meet": "Championships (8/9)",
+      "time": "45.99"
+    }
+  ],
+  "seasonPrs": {
+    "50 Butterfly": "61.97",
+    "50 Freestyle": "36.70",
+    "50 Breaststroke": "48.52",
+    "50 Backstroke": "45.94"
+  }
+}

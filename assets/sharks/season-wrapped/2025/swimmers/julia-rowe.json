@@ -1,0 +1,76 @@
+{
+  "name": "Julia Rowe",
+  "paperPlate": "The Forever A Shark Award",
+  "university": "St. Lawrence University",
+  "2024Wrapped": true,
+  "fly50Times": [
+    {
+      "meet": "Blue vs. Gold (7/1)",
+      "time": "31.07"
+    },
+    {
+      "meet": "Holl / Med / Mill (7/8)",
+      "time": "31.81"
+    },
+    {
+      "meet": "Natick (7/15)",
+      "time": "32.22"
+    },
+    {
+      "meet": "Newton (7/22)",
+      "time": "32.85"
+    },
+    {
+      "meet": "Sherborn (8/7)",
+      "time": "31.76"
+    },
+    {
+      "meet": "Championships (8/9)",
+      "time": "32.34"
+    }
+  ],
+  "free50Times": [
+    {
+      "meet": "Blue vs. Gold (7/1)",
+      "time": "30.03"
+    },
+    {
+      "meet": "Natick (7/15)",
+      "time": "29.94"
+    },
+    {
+      "meet": "Dedham (8/5)",
+      "time": "30.34"
+    },
+    {
+      "meet": "Sherborn (8/7)",
+      "time": "29.91"
+    },
+    {
+      "meet": "Championships (8/9)",
+      "time": "30.40"
+    }
+  ],
+  "breast50Times": [
+    {
+      "meet": "Blue vs. Gold (7/1)",
+      "time": "40.83"
+    },
+    {
+      "meet": "Newton (7/22)",
+      "time": "40.38"
+    }
+  ],
+  "back50Times": [
+    {
+      "meet": "Dedham (8/5)",
+      "time": "36.71"
+    }
+  ],
+  "seasonPrs": {
+    "50 Butterfly": "31.07",
+    "50 Freestyle": "29.91",
+    "50 Breaststroke": "40.38",
+    "50 Backstroke": "36.71"
+  }
+}

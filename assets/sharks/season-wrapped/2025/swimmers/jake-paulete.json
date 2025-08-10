@@ -1,0 +1,60 @@
+{
+  "name": "Jake Paulete",
+  "paperPlate": "Nonchalant King Award",
+  "2024Wrapped": true,
+  "fly50Times": [
+    {
+      "meet": "Blue vs. Gold (7/1)",
+      "time": "41.71"
+    },
+    {
+      "meet": "Holl / Med / Mill (7/8)",
+      "time": "42.89"
+    },
+    {
+      "meet": "Westwood (7/10)",
+      "time": "43.12"
+    },
+    {
+      "meet": "Walpole (7/29)",
+      "time": "40.31"
+    }
+  ],
+  "free50Times": [
+    {
+      "meet": "Blue vs. Gold (7/1)",
+      "time": "35.15"
+    },
+    {
+      "meet": "Westwood (7/10)",
+      "time": "34.59"
+    },
+    {
+      "meet": "Natick (7/15)",
+      "time": "35.66"
+    }
+  ],
+  "breast50Times": [
+    {
+      "meet": "Blue vs. Gold (7/1)",
+      "time": "58.48"
+    },
+    {
+      "meet": "Natick (7/15)",
+      "time": "57.72"
+    },
+    {
+      "meet": "Walpole (7/29)",
+      "time": "62.30"
+    },
+    {
+      "meet": "Medfield (7/31)",
+      "time": "59.28"
+    }
+  ],
+  "seasonPrs": {
+    "50 Butterfly": "40.31",
+    "50 Freestyle": "34.59",
+    "50 Breaststroke": "57.72"
+  }
+}

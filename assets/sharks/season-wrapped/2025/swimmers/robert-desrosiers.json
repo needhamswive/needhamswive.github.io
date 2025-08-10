@@ -1,0 +1,91 @@
+{
+  "name": "Robert Desrosiers",
+  "paperPlate": "The Hype Machine Award",
+  "2024Wrapped": true,
+  "fly50Times": [
+    {
+      "meet": "Holl / Med / Mill (7/8)",
+      "time": "45.81"
+    },
+    {
+      "meet": "Westwood (7/10)",
+      "time": "43.61"
+    },
+    {
+      "meet": "Norwood (7/24)",
+      "time": "46.92"
+    },
+    {
+      "meet": "Medfield (7/31)",
+      "time": "48.09"
+    },
+    {
+      "meet": "Dedham (8/5)",
+      "time": "44.74"
+    },
+    {
+      "meet": "Sherborn (8/7)",
+      "time": "44.58"
+    },
+    {
+      "meet": "Championships (8/9)",
+      "time": "42.45"
+    }
+  ],
+  "free50Times": [
+    {
+      "meet": "Newton (7/22)",
+      "time": "43.29"
+    },
+    {
+      "meet": "Norwood (7/24)",
+      "time": "35.83"
+    }
+  ],
+  "breast50Times": [
+    {
+      "meet": "Holl / Med / Mill (7/8)",
+      "time": "51.07"
+    },
+    {
+      "meet": "Natick (7/15)",
+      "time": "49.97"
+    },
+    {
+      "meet": "Walpole (7/29)",
+      "time": "49.83"
+    },
+    {
+      "meet": "Dedham (8/5)",
+      "time": "49.61"
+    },
+    {
+      "meet": "Sherborn (8/7)",
+      "time": "51.13"
+    },
+    {
+      "meet": "Championships (8/9)",
+      "time": "48.25"
+    }
+  ],
+  "back50Times": [
+    {
+      "meet": "Westwood (7/10)",
+      "time": "45.75"
+    },
+    {
+      "meet": "Natick (7/15)",
+      "time": "47.10"
+    },
+    {
+      "meet": "Walpole (7/29)",
+      "time": "45.25"
+    }
+  ],
+  "seasonPrs": {
+    "50 Butterfly": "42.45",
+    "50 Freestyle": "35.83",
+    "50 Breaststroke": "48.25",
+    "50 Backstroke": "45.25"
+  }
+}

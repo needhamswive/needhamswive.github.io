@@ -1,0 +1,108 @@
+{
+  "name": "Victoria Bandarchuk",
+  "paperPlate": "Maddie's Mini-Me",
+  "swimmerOfTheWeek": true,
+  "goldenGoggles": "Coaches Award",
+  "fly25Times": [
+    {
+      "meet": "Blue vs. Gold (7/1)",
+      "time": "27.45"
+    },
+    {
+      "meet": "Natick (7/15)",
+      "time": "25.57"
+    },
+    {
+      "meet": "Walpole (7/29)",
+      "time": "26.61"
+    }
+  ],
+  "free25Times": [
+    {
+      "meet": "Blue vs. Gold (7/1)",
+      "time": "25.79"
+    },
+    {
+      "meet": "Holl / Med / Mill (7/8)",
+      "time": "23.26"
+    },
+    {
+      "meet": "Norwood (7/24)",
+      "time": "29.58"
+    },
+    {
+      "meet": "Medfield (7/31)",
+      "time": "28.22"
+    }
+  ],
+  "breast25Times": [
+    {
+      "meet": "Blue vs. Gold (7/1)",
+      "time": "25.39"
+    },
+    {
+      "meet": "Westwood (7/10)",
+      "time": "28.70"
+    },
+    {
+      "meet": "Canton (7/17)",
+      "time": "30.95"
+    },
+    {
+      "meet": "Newton (7/22)",
+      "time": "27.75"
+    },
+    {
+      "meet": "Norwood (7/24)",
+      "time": "29.29"
+    },
+    {
+      "meet": "Medfield (7/31)",
+      "time": "26.84"
+    },
+    {
+      "meet": "Championships (8/9)",
+      "time": "27.92"
+    }
+  ],
+  "back25Times": [
+    {
+      "meet": "Blue vs. Gold (7/1)",
+      "time": "22.99"
+    },
+    {
+      "meet": "Holl / Med / Mill (7/8)",
+      "time": "24.79"
+    },
+    {
+      "meet": "Westwood (7/10)",
+      "time": "27.30"
+    },
+    {
+      "meet": "Natick (7/15)",
+      "time": "28.44"
+    },
+    {
+      "meet": "Canton (7/17)",
+      "time": "28.79"
+    },
+    {
+      "meet": "Newton (7/22)",
+      "time": "27.59"
+    },
+    {
+      "meet": "Walpole (7/29)",
+      "time": "25.26"
+    },
+    {
+      "meet": "Dedham (8/5)",
+      "time": "42.65"
+    }
+  ],
+  "seasonPrs": {
+    "25 Butterfly": "25.57",
+    "25 Freestyle": "23.26",
+    "25 Breaststroke": "25.39",
+    "25 Backstroke": "22.99"
+  }
+}

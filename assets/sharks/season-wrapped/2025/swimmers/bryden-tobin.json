@@ -1,0 +1,40 @@
+{
+  "name": "Bryden Tobin",
+  "paperPlate": "The Fishy Fishy Finatic Award",
+  "free50Times": [
+    {
+      "meet": "Holl / Med / Mill (7/8)",
+      "time": "31.76"
+    },
+    {
+      "meet": "Natick (7/15)",
+      "time": "32.85"
+    },
+    {
+      "meet": "Medfield (7/31)",
+      "time": "32.00"
+    }
+  ],
+  "breast50Times": [
+    {
+      "meet": "Blue vs. Gold (7/1)",
+      "time": "41.94"
+    },
+    {
+      "meet": "Holl / Med / Mill (7/8)",
+      "time": "42.15"
+    },
+    {
+      "meet": "Natick (7/15)",
+      "time": "42.75"
+    },
+    {
+      "meet": "Medfield (7/31)",
+      "time": "42.47"
+    }
+  ],
+  "seasonPrs": {
+    "50 Freestyle": "31.76",
+    "50 Breaststroke": "41.94"
+  }
+}

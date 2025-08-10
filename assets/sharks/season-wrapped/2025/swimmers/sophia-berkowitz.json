@@ -1,0 +1,92 @@
+{
+  "name": "Sophia Berkowitz",
+  "paperPlate": "Little Miss Improved Award",
+  "swimmerOfTheWeek": true,
+  "2024Wrapped": true,
+  "fly50Times": [
+    {
+      "meet": "Blue vs. Gold (7/1)",
+      "time": "57.47"
+    },
+    {
+      "meet": "Holl / Med / Mill (7/8)",
+      "time": "52.76"
+    },
+    {
+      "meet": "Westwood (7/10)",
+      "time": "55.29"
+    },
+    {
+      "meet": "Natick (7/15)",
+      "time": "57.87"
+    },
+    {
+      "meet": "Canton (7/17)",
+      "time": "64.12"
+    },
+    {
+      "meet": "Walpole (7/29)",
+      "time": "55.54"
+    },
+    {
+      "meet": "Dedham (8/5)",
+      "time": "55.66"
+    },
+    {
+      "meet": "Sherborn (8/7)",
+      "time": "54.02"
+    },
+    {
+      "meet": "Championships (8/9)",
+      "time": "51.56"
+    }
+  ],
+  "free50Times": [
+    {
+      "meet": "Natick (7/15)",
+      "time": "45.31"
+    },
+    {
+      "meet": "Dedham (8/5)",
+      "time": "46.70"
+    },
+    {
+      "meet": "Sherborn (8/7)",
+      "time": "44.25"
+    },
+    {
+      "meet": "Championships (8/9)",
+      "time": "43.79"
+    }
+  ],
+  "breast50Times": [
+    {
+      "meet": "Blue vs. Gold (7/1)",
+      "time": "58.59"
+    },
+    {
+      "meet": "Westwood (7/10)",
+      "time": "58.62"
+    }
+  ],
+  "back50Times": [
+    {
+      "meet": "Holl / Med / Mill (7/8)",
+      "time": "50.42"
+    },
+    {
+      "meet": "Canton (7/17)",
+      "time": "64.74"
+    },
+    {
+      "meet": "Walpole (7/29)",
+      "time": "55.19"
+    }
+  ],
+  "seasonPrs": {
+    "50 Butterfly": "51.56",
+    "50 Freestyle": "43.79",
+    "50 Breaststroke": "58.59",
+    "50 Backstroke": "50.42"
+  }
+}

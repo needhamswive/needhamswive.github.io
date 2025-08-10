@@ -1,0 +1,94 @@
+{
+  "name": "Margaret Bachyrycz",
+  "paperPlate": "The Second-Half Superstar",
+  "fly25Times": [
+    {
+      "meet": "Blue vs. Gold (7/1)",
+      "time": "25.24"
+    },
+    {
+      "meet": "Medfield (7/31)",
+      "time": "23.22"
+    }
+  ],
+  "free25Times": [
+    {
+      "meet": "Blue vs. Gold (7/1)",
+      "time": "18.69"
+    },
+    {
+      "meet": "Newton (7/22)",
+      "time": "18.73"
+    },
+    {
+      "meet": "Norwood (7/24)",
+      "time": "18.79"
+    },
+    {
+      "meet": "Walpole (7/29)",
+      "time": "18.89"
+    }
+  ],
+  "breast25Times": [
+    {
+      "meet": "Blue vs. Gold (7/1)",
+      "time": "29.37"
+    },
+    {
+      "meet": "Westwood (7/10)",
+      "time": "25.56"
+    },
+    {
+      "meet": "Medfield (7/31)",
+      "time": "28.88"
+    },
+    {
+      "meet": "Dedham (8/5)",
+      "time": "28.81"
+    },
+    {
+      "meet": "Sherborn (8/7)",
+      "time": "28.70"
+    },
+    {
+      "meet": "Championships (8/9)",
+      "time": "27.71"
+    }
+  ],
+  "back25Times": [
+    {
+      "meet": "Blue vs. Gold (7/1)",
+      "time": "19.90"
+    },
+    {
+      "meet": "Newton (7/22)",
+      "time": "21.67"
+    },
+    {
+      "meet": "Norwood (7/24)",
+      "time": "23.21"
+    },
+    {
+      "meet": "Walpole (7/29)",
+      "time": "22.21"
+    },
+    {
+      "meet": "Dedham (8/5)",
+      "time": "23.91"
+    },
+    {
+      "meet": "Sherborn (8/7)",
+      "time": "23.09"
+    },
+    {
+      "meet": "Championships (8/9)",
+      "time": "23.13"
+    }
+  ],
+  "seasonPrs": {
+    "25 Butterfly": "23.22",
+    "25 Freestyle": "18.69",
+    "25 Breaststroke": "25.56",
+    "25 Backstroke": "19.90"
+  }
+}

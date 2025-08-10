@@ -1,0 +1,103 @@
+{
+  "name": "Samantha Biller",
+  "paperPlate": "Comeback Queen Award",
+  "2024Wrapped": true,
+  "fly50Times": [
+    {
+      "meet": "Blue vs. Gold (7/1)",
+      "time": "71.97"
+    },
+    {
+      "meet": "Holl / Med / Mill (7/8)",
+      "time": "75.48"
+    },
+    {
+      "meet": "Walpole (7/29)",
+      "time": "73.63"
+    }
+  ],
+  "free50Times": [
+    {
+      "meet": "Blue vs. Gold (7/1)",
+      "time": "50.87"
+    },
+    {
+      "meet": "Walpole (7/29)",
+      "time": "52.93"
+    },
+    {
+      "meet": "Dedham (8/5)",
+      "time": "46.92"
+    },
+    {
+      "meet": "Sherborn (8/7)",
+      "time": "44.72"
+    },
+    {
+      "meet": "Championships (8/9)",
+      "time": "44.58"
+    }
+  ],
+  "breast50Times": [
+    {
+      "meet": "Blue vs. Gold (7/1)",
+      "time": "62.44"
+    },
+    {
+      "meet": "Westwood (7/10)",
+      "time": "62.04"
+    },
+    {
+      "meet": "Natick (7/15)",
+      "time": "66.22"
+    },
+    {
+      "meet": "Canton (7/17)",
+      "time": "71.99"
+    },
+    {
+      "meet": "Walpole (7/29)",
+      "time": "73.51"
+    }
+  ],
+  "back50Times": [
+    {
+      "meet": "Holl / Med / Mill (7/8)",
+      "time": "56.58"
+    },
+    {
+      "meet": "Westwood (7/10)",
+      "time": "69.64"
+    },
+    {
+      "meet": "Natick (7/15)",
+      "time": "63.46"
+    },
+    {
+      "meet": "Canton (7/17)",
+      "time": "74.25"
+    },
+    {
+      "meet": "Walpole (7/29)",
+      "time": "73.62"
+    },
+    {
+      "meet": "Dedham (8/5)",
+      "time": "56.72"
+    },
+    {
+      "meet": "Sherborn (8/7)",
+      "time": "56.20"
+    },
+    {
+      "meet": "Championships (8/9)",
+      "time": "56.96"
+    }
+  ],
+  "seasonPrs": {
+    "50 Butterfly": "71.97",
+    "50 Freestyle": "44.58",
+    "50 Breaststroke": "62.04",
+    "50 Backstroke": "56.20"
+  }
+}

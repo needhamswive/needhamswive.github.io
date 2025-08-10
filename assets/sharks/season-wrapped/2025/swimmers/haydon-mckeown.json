@@ -1,0 +1,71 @@
+{
+  "name": "Haydon McKeown",
+  "paperPlate": "The Sunshine Award",
+  "swimmerOfTheWeek": true,
+  "fly25Times": [
+    {
+      "meet": "Blue vs. Gold (7/1)",
+      "time": "23.69"
+    },
+    {
+      "meet": "Dedham (8/5)",
+      "time": "24.12"
+    },
+    {
+      "meet": "Sherborn (8/7)",
+      "time": "23.44"
+    }
+  ],
+  "free25Times": [
+    {
+      "meet": "Blue vs. Gold (7/1)",
+      "time": "17.02"
+    },
+    {
+      "meet": "Holl / Med / Mill (7/8)",
+      "time": "17.53"
+    },
+    {
+      "meet": "Natick (7/15)",
+      "time": "18.59"
+    },
+    {
+      "meet": "Canton (7/17)",
+      "time": "20.39"
+    },
+    {
+      "meet": "Dedham (8/5)",
+      "time": "18.55"
+    },
+    {
+      "meet": "Sherborn (8/7)",
+      "time": "18.79"
+    }
+  ],
+  "breast25Times": [
+    {
+      "meet": "Blue vs. Gold (7/1)",
+      "time": "24.72"
+    }
+  ],
+  "back25Times": [
+    {
+      "meet": "Holl / Med / Mill (7/8)",
+      "time": "27.37"
+    },
+    {
+      "meet": "Natick (7/15)",
+      "time": "23.65"
+    },
+    {
+      "meet": "Canton (7/17)",
+      "time": "26.44"
+    }
+  ],
+  "seasonPrs": {
+    "25 Butterfly": "23.44",
+    "25 Freestyle": "17.02",
+    "25 Breaststroke": "24.72",
+    "25 Backstroke": "23.65"
+  }
+}

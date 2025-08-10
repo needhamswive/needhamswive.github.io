@@ -1,0 +1,87 @@
+{
+  "name": "Eason He",
+  "paperPlate": "8 & Under Most Improved",
+  "swimmerOfTheWeek": true,
+  "fly25Times": [
+    {
+      "meet": "Natick (7/15)",
+      "time": "40.32"
+    },
+    {
+      "meet": "Sherborn (8/7)",
+      "time": "39.91"
+    }
+  ],
+  "free25Times": [
+    {
+      "meet": "Holl / Med / Mill (7/8)",
+      "time": "29.44"
+    },
+    {
+      "meet": "Newton (7/22)",
+      "time": "32.07"
+    },
+    {
+      "meet": "Norwood (7/24)",
+      "time": "26.90"
+    },
+    {
+      "meet": "Walpole (7/29)",
+      "time": "32.26"
+    },
+    {
+      "meet": "Championships (8/9)",
+      "time": "26.56"
+    }
+  ],
+  "breast25Times": [
+    {
+      "meet": "Natick (7/15)",
+      "time": "36.34"
+    },
+    {
+      "meet": "Canton (7/17)",
+      "time": "42.00"
+    },
+    {
+      "meet": "Sherborn (8/7)",
+      "time": "35.78"
+    }
+  ],
+  "back25Times": [
+    {
+      "meet": "Holl / Med / Mill (7/8)",
+      "time": "33.07"
+    },
+    {
+      "meet": "Canton (7/17)",
+      "time": "46.16"
+    },
+    {
+      "meet": "Newton (7/22)",
+      "time": "36.52"
+    },
+    {
+      "meet": "Norwood (7/24)",
+      "time": "39.17"
+    },
+    {
+      "meet": "Walpole (7/29)",
+      "time": "32.24"
+    },
+    {
+      "meet": "Dedham (8/5)",
+      "time": "32.88"
+    },
+    {
+      "meet": "Championships (8/9)",
+      "time": "32.28"
+    }
+  ],
+  "seasonPrs": {
+    "25 Butterfly": "39.91",
+    "25 Freestyle": "26.56",
+    "25 Breaststroke": "35.78",
+    "25 Backstroke": "32.24"
+  }
+}

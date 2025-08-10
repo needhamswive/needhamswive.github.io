@@ -1,0 +1,103 @@
+{
+  "name": "Landon Vacanti",
+  "paperPlate": "Dragon Award",
+  "2024Wrapped": true,
+  "fly50Times": [
+    {
+      "meet": "Blue vs. Gold (7/1)",
+      "time": "40.38"
+    },
+    {
+      "meet": "Natick (7/15)",
+      "time": "39.00"
+    },
+    {
+      "meet": "Canton (7/17)",
+      "time": "43.49"
+    },
+    {
+      "meet": "Newton (7/22)",
+      "time": "42.02"
+    },
+    {
+      "meet": "Walpole (7/29)",
+      "time": "39.63"
+    },
+    {
+      "meet": "Dedham (8/5)",
+      "time": "39.66"
+    },
+    {
+      "meet": "Sherborn (8/7)",
+      "time": "37.62"
+    },
+    {
+      "meet": "Championships (8/9)",
+      "time": "39.15"
+    }
+  ],
+  "free50Times": [
+    {
+      "meet": "Blue vs. Gold (7/1)",
+      "time": "35.03"
+    },
+    {
+      "meet": "Holl / Med / Mill (7/8)",
+      "time": "35.53"
+    },
+    {
+      "meet": "Natick (7/15)",
+      "time": "34.75"
+    },
+    {
+      "meet": "Walpole (7/29)",
+      "time": "33.77"
+    },
+    {
+      "meet": "Medfield (7/31)",
+      "time": "37.78"
+    }
+  ],
+  "breast50Times": [
+    {
+      "meet": "Blue vs. Gold (7/1)",
+      "time": "46.32"
+    },
+    {
+      "meet": "Canton (7/17)",
+      "time": "49.53"
+    },
+    {
+      "meet": "Dedham (8/5)",
+      "time": "47.45"
+    },
+    {
+      "meet": "Championships (8/9)",
+      "time": "44.27"
+    }
+  ],
+  "back50Times": [
+    {
+      "meet": "Holl / Med / Mill (7/8)",
+      "time": "43.19"
+    },
+    {
+      "meet": "Newton (7/22)",
+      "time": "42.72"
+    },
+    {
+      "meet": "Medfield (7/31)",
+      "time": "42.84"
+    },
+    {
+      "meet": "Sherborn (8/7)",
+      "time": "41.94"
+    }
+  ],
+  "seasonPrs": {
+    "50 Butterfly": "37.62",
+    "50 Freestyle": "33.77",
+    "50 Breaststroke": "44.27",
+    "50 Backstroke": "41.94"
+  }
+}

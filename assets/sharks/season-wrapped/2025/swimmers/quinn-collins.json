@@ -1,0 +1,71 @@
+{
+  "name": "Quinn Collins",
+  "paperPlate": "The Butterfly Fixer-Upper (Someday?) Award",
+  "2024Wrapped": true,
+  "fly50Times": [
+    {
+      "meet": "Holl / Med / Mill (7/8)",
+      "time": "33.78"
+    },
+    {
+      "meet": "Canton (7/17)",
+      "time": "33.50"
+    },
+    {
+      "meet": "Walpole (7/29)",
+      "time": "32.43"
+    }
+  ],
+  "free50Times": [
+    {
+      "meet": "Norwood (7/24)",
+      "time": "28.47"
+    },
+    {
+      "meet": "Medfield (7/31)",
+      "time": "28.12"
+    }
+  ],
+  "breast50Times": [
+    {
+      "meet": "Westwood (7/10)",
+      "time": "32.70"
+    },
+    {
+      "meet": "Newton (7/22)",
+      "time": "34.30"
+    },
+    {
+      "meet": "Norwood (7/24)",
+      "time": "38.19"
+    },
+    {
+      "meet": "Medfield (7/31)",
+      "time": "34.41"
+    }
+  ],
+  "back50Times": [
+    {
+      "meet": "Holl / Med / Mill (7/8)",
+      "time": "32.56"
+    },
+    {
+      "meet": "Westwood (7/10)",
+      "time": "32.59"
+    },
+    {
+      "meet": "Newton (7/22)",
+      "time": "35.71"
+    },
+    {
+      "meet": "Walpole (7/29)",
+      "time": "33.53"
+    }
+  ],
+  "seasonPrs": {
+    "50 Butterfly": "32.43",
+    "50 Freestyle": "28.12",
+    "50 Breaststroke": "32.70",
+    "50 Backstroke": "32.56"
+  }
+}

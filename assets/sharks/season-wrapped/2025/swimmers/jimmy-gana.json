@@ -1,0 +1,70 @@
+{
+  "name": "Jimmy Gana",
+  "paperPlate": "The Goofy Guppy Award",
+  "fly50Times": [
+    {
+      "meet": "Blue vs. Gold (7/1)",
+      "time": "55.40"
+    },
+    {
+      "meet": "Newton (7/22)",
+      "time": "46.10"
+    },
+    {
+      "meet": "Norwood (7/24)",
+      "time": "54.53"
+    }
+  ],
+  "free50Times": [
+    {
+      "meet": "Blue vs. Gold (7/1)",
+      "time": "39.56"
+    },
+    {
+      "meet": "Holl / Med / Mill (7/8)",
+      "time": "56.56"
+    },
+    {
+      "meet": "Westwood (7/10)",
+      "time": "35.96"
+    },
+    {
+      "meet": "Natick (7/15)",
+      "time": "39.13"
+    },
+    {
+      "meet": "Canton (7/17)",
+      "time": "40.42"
+    }
+  ],
+  "breast50Times": [
+    {
+      "meet": "Blue vs. Gold (7/1)",
+      "time": "61.76"
+    },
+    {
+      "meet": "Holl / Med / Mill (7/8)",
+      "time": "46.44"
+    },
+    {
+      "meet": "Natick (7/15)",
+      "time": "49.16"
+    },
+    {
+      "meet": "Canton (7/17)",
+      "time": "51.01"
+    }
+  ],
+  "back50Times": [
+    {
+      "meet": "Westwood (7/10)",
+      "time": "53.33"
+    }
+  ],
+  "seasonPrs": {
+    "50 Butterfly": "46.10",
+    "50 Freestyle": "35.96",
+    "50 Breaststroke": "46.44",
+    "50 Backstroke": "53.33"
+  }
+}

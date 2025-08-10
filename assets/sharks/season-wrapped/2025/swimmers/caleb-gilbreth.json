@@ -1,0 +1,79 @@
+{
+  "name": "Caleb Gilbreth",
+  "paperPlate": "The Snazzy Swimsuit Award",
+  "2024Wrapped": true,
+  "fly50Times": [
+    {
+      "meet": "Medfield (7/31)",
+      "time": "37.21"
+    }
+  ],
+  "free50Times": [
+    {
+      "meet": "Canton (7/17)",
+      "time": "31.37"
+    },
+    {
+      "meet": "Medfield (7/31)",
+      "time": "27.69"
+    },
+    {
+      "meet": "Dedham (8/5)",
+      "time": "28.22"
+    }
+  ],
+  "breast50Times": [
+    {
+      "meet": "Blue vs. Gold (7/1)",
+      "time": "35.84"
+    },
+    {
+      "meet": "Natick (7/15)",
+      "time": "35.38"
+    },
+    {
+      "meet": "Canton (7/17)",
+      "time": "41.48"
+    },
+    {
+      "meet": "Walpole (7/29)",
+      "time": "32.38"
+    },
+    {
+      "meet": "Dedham (8/5)",
+      "time": "37.47"
+    },
+    {
+      "meet": "Sherborn (8/7)",
+      "time": "36.08"
+    },
+    {
+      "meet": "Championships (8/9)",
+      "time": "36.05"
+    }
+  ],
+  "back50Times": [
+    {
+      "meet": "Natick (7/15)",
+      "time": "34.06"
+    },
+    {
+      "meet": "Dedham (8/5)",
+      "time": "33.59"
+    },
+    {
+      "meet": "Sherborn (8/7)",
+      "time": "33.86"
+    },
+    {
+      "meet": "Championships (8/9)",
+      "time": "32.36"
+    }
+  ],
+  "seasonPrs": {
+    "50 Butterfly": "37.21",
+    "50 Freestyle": "27.69",
+    "50 Breaststroke": "32.38",
+    "50 Backstroke": "32.36"
+  }
+}

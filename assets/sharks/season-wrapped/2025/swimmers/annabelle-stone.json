@@ -1,0 +1,107 @@
+{
+  "name": "Annabelle Stone",
+  "paperPlate": "Little Miss Sunshine",
+  "swimmerOfTheWeek": true,
+  "fly25Times": [
+    {
+      "meet": "Blue vs. Gold (7/1)",
+      "time": "38.02"
+    },
+    {
+      "meet": "Natick (7/15)",
+      "time": "30.35"
+    },
+    {
+      "meet": "Canton (7/17)",
+      "time": "34.15"
+    },
+    {
+      "meet": "Walpole (7/29)",
+      "time": "32.60"
+    },
+    {
+      "meet": "Dedham (8/5)",
+      "time": "34.19"
+    },
+    {
+      "meet": "Championships (8/9)",
+      "time": "30.72"
+    }
+  ],
+  "free25Times": [
+    {
+      "meet": "Blue vs. Gold (7/1)",
+      "time": "28.62"
+    },
+    {
+      "meet": "Holl / Med / Mill (7/8)",
+      "time": "26.81"
+    },
+    {
+      "meet": "Westwood (7/10)",
+      "time": "24.87"
+    },
+    {
+      "meet": "Canton (7/17)",
+      "time": "34.84"
+    },
+    {
+      "meet": "Medfield (7/31)",
+      "time": "28.16"
+    },
+    {
+      "meet": "Sherborn (8/7)",
+      "time": "27.15"
+    }
+  ],
+  "breast25Times": [
+    {
+      "meet": "Blue vs. Gold (7/1)",
+      "time": "40.78"
+    },
+    {
+      "meet": "Westwood (7/10)",
+      "time": "34.56"
+    },
+    {
+      "meet": "Walpole (7/29)",
+      "time": "34.27"
+    },
+    {
+      "meet": "Medfield (7/31)",
+      "time": "28.62"
+    },
+    {
+      "meet": "Dedham (8/5)",
+      "time": "38.15"
+    }
+  ],
+  "back25Times": [
+    {
+      "meet": "Blue vs. Gold (7/1)",
+      "time": "70.97"
+    },
+    {
+      "meet": "Holl / Med / Mill (7/8)",
+      "time": "29.91"
+    },
+    {
+      "meet": "Natick (7/15)",
+      "time": "30.44"
+    },
+    {
+      "meet": "Sherborn (8/7)",
+      "time": "27.33"
+    },
+    {
+      "meet": "Championships (8/9)",
+      "time": "28.75"
+    }
+  ],
+  "seasonPrs": {
+    "25 Butterfly": "30.35",
+    "25 Freestyle": "24.87",
+    "25 Breaststroke": "28.62",
+    "25 Backstroke": "27.33"
+  }
+}

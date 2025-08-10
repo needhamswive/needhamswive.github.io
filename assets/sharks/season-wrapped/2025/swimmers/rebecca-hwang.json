@@ -1,0 +1,71 @@
+{
+  "name": "Rebecca Hwang",
+  "paperPlate": "The Relay Rockstar Award",
+  "university": "Babson College",
+  "2024Wrapped": true,
+  "fly50Times": [
+    {
+      "meet": "Blue vs. Gold (7/1)",
+      "time": "30.71"
+    }
+  ],
+  "free50Times": [
+    {
+      "meet": "Blue vs. Gold (7/1)",
+      "time": "27.00"
+    },
+    {
+      "meet": "Canton (7/17)",
+      "time": "30.22"
+    },
+    {
+      "meet": "Medfield (7/31)",
+      "time": "27.82"
+    }
+  ],
+  "breast50Times": [
+    {
+      "meet": "Blue vs. Gold (7/1)",
+      "time": "42.09"
+    },
+    {
+      "meet": "Canton (7/17)",
+      "time": "38.95"
+    },
+    {
+      "meet": "Medfield (7/31)",
+      "time": "36.72"
+    },
+    {
+      "meet": "Sherborn (8/7)",
+      "time": "34.56"
+    },
+    {
+      "meet": "Championships (8/9)",
+      "time": "34.38"
+    }
+  ],
+  "back50Times": [
+    {
+      "meet": "Newton (7/22)",
+      "time": "29.68"
+    },
+    {
+      "meet": "Sherborn (8/7)",
+      "time": "29.05"
+    },
+    {
+      "meet": "Championships (8/9)",
+      "time": "29.18"
+    }
+  ],
+  "seasonPrs": {
+    "50 Butterfly": "30.71",
+    "50 Freestyle": "27.00",
+    "50 Breaststroke": "34.38",
+    "50 Backstroke": "29.05"
+  },
+  "championEvents": [
+    "15 & Over 50 Yd Backstroke"
+  ]
+}

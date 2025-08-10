@@ -1,0 +1,112 @@
+{
+  "name": "Nathaniel Rubin",
+  "paperPlate": "Mario and Luigi Award",
+  "goldenGoggles": "Most Improved",
+  "2024Wrapped": true,
+  "fly50Times": [
+    {
+      "meet": "Blue vs. Gold (7/1)",
+      "time": "39.31"
+    },
+    {
+      "meet": "Natick (7/15)",
+      "time": "37.57"
+    },
+    {
+      "meet": "Walpole (7/29)",
+      "time": "39.36"
+    },
+    {
+      "meet": "Medfield (7/31)",
+      "time": "39.02"
+    }
+  ],
+  "free50Times": [
+    {
+      "meet": "Blue vs. Gold (7/1)",
+      "time": "37.91"
+    },
+    {
+      "meet": "Holl / Med / Mill (7/8)",
+      "time": "30.36"
+    },
+    {
+      "meet": "Westwood (7/10)",
+      "time": "32.02"
+    },
+    {
+      "meet": "Canton (7/17)",
+      "time": "35.60"
+    },
+    {
+      "meet": "Walpole (7/29)",
+      "time": "31.75"
+    },
+    {
+      "meet": "Dedham (8/5)",
+      "time": "31.47"
+    },
+    {
+      "meet": "Sherborn (8/7)",
+      "time": "30.42"
+    },
+    {
+      "meet": "Championships (8/9)",
+      "time": "30.06"
+    }
+  ],
+  "breast50Times": [
+    {
+      "meet": "Blue vs. Gold (7/1)",
+      "time": "45.60"
+    },
+    {
+      "meet": "Holl / Med / Mill (7/8)",
+      "time": "43.25"
+    },
+    {
+      "meet": "Westwood (7/10)",
+      "time": "47.15"
+    },
+    {
+      "meet": "Natick (7/15)",
+      "time": "45.96"
+    },
+    {
+      "meet": "Canton (7/17)",
+      "time": "49.73"
+    },
+    {
+      "meet": "Newton (7/22)",
+      "time": "43.92"
+    },
+    {
+      "meet": "Walpole (7/29)",
+      "time": "45.04"
+    },
+    {
+      "meet": "Dedham (8/5)",
+      "time": "45.66"
+    },
+    {
+      "meet": "Sherborn (8/7)",
+      "time": "43.34"
+    },
+    {
+      "meet": "Championships (8/9)",
+      "time": "42.31"
+    }
+  ],
+  "back50Times": [
+    {
+      "meet": "Medfield (7/31)",
+      "time": "42.66"
+    }
+  ],
+  "seasonPrs": {
+    "50 Butterfly": "37.57",
+    "50 Freestyle": "30.06",
+    "50 Breaststroke": "42.31",
+    "50 Backstroke": "42.66"
+  }
+}

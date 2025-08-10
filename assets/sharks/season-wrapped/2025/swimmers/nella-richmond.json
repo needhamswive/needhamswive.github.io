@@ -1,0 +1,104 @@
+{
+  "name": "Nella Richmond",
+  "paperPlate": "Seahourse Spirit Award",
+  "swimmerOfTheWeek": true,
+  "2024Wrapped": true,
+  "fly50Times": [
+    {
+      "meet": "Blue vs. Gold (7/1)",
+      "time": "51.31"
+    },
+    {
+      "meet": "Westwood (7/10)",
+      "time": "49.10"
+    },
+    {
+      "meet": "Newton (7/22)",
+      "time": "46.54"
+    },
+    {
+      "meet": "Norwood (7/24)",
+      "time": "50.02"
+    },
+    {
+      "meet": "Medfield (7/31)",
+      "time": "54.72"
+    }
+  ],
+  "free50Times": [
+    {
+      "meet": "Blue vs. Gold (7/1)",
+      "time": "38.83"
+    },
+    {
+      "meet": "Canton (7/17)",
+      "time": "41.48"
+    },
+    {
+      "meet": "Walpole (7/29)",
+      "time": "36.03"
+    },
+    {
+      "meet": "Dedham (8/5)",
+      "time": "38.09"
+    },
+    {
+      "meet": "Sherborn (8/7)",
+      "time": "37.75"
+    },
+    {
+      "meet": "Championships (8/9)",
+      "time": "37.40"
+    }
+  ],
+  "breast50Times": [
+    {
+      "meet": "Blue vs. Gold (7/1)",
+      "time": "46.34"
+    },
+    {
+      "meet": "Canton (7/17)",
+      "time": "50.20"
+    },
+    {
+      "meet": "Newton (7/22)",
+      "time": "42.62"
+    },
+    {
+      "meet": "Norwood (7/24)",
+      "time": "45.69"
+    },
+    {
+      "meet": "Walpole (7/29)",
+      "time": "44.15"
+    },
+    {
+      "meet": "Dedham (8/5)",
+      "time": "46.50"
+    },
+    {
+      "meet": "Sherborn (8/7)",
+      "time": "43.61"
+    },
+    {
+      "meet": "Championships (8/9)",
+      "time": "42.51"
+    }
+  ],
+  "back50Times": [
+    {
+      "meet": "Westwood (7/10)",
+      "time": "45.63"
+    },
+    {
+      "meet": "Medfield (7/31)",
+      "time": "50.72"
+    }
+  ],
+  "seasonPrs": {
+    "50 Butterfly": "46.54",
+    "50 Freestyle": "36.03",
+    "50 Breaststroke": "42.51",
+    "50 Backstroke": "45.63"
+  }
+}

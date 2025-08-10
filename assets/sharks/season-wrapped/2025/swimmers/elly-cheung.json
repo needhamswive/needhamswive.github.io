@@ -1,0 +1,104 @@
+{
+  "name": "Elly Cheung",
+  "paperPlate": "The Backstroke Diva Award",
+  "goldenGoggles": "Most Versatile",
+  "2024Wrapped": true,
+  "fly50Times": [
+    {
+      "meet": "Westwood (7/10)",
+      "time": "34.41"
+    },
+    {
+      "meet": "Natick (7/15)",
+      "time": "35.31"
+    },
+    {
+      "meet": "Newton (7/22)",
+      "time": "33.47"
+    },
+    {
+      "meet": "Medfield (7/31)",
+      "time": "34.46"
+    },
+    {
+      "meet": "Dedham (8/5)",
+      "time": "34.12"
+    },
+    {
+      "meet": "Sherborn (8/7)",
+      "time": "33.91"
+    },
+    {
+      "meet": "Championships (8/9)",
+      "time": "33.93"
+    }
+  ],
+  "free50Times": [
+    {
+      "meet": "Holl / Med / Mill (7/8)",
+      "time": "31.53"
+    },
+    {
+      "meet": "Canton (7/17)",
+      "time": "34.31"
+    },
+    {
+      "meet": "Norwood (7/24)",
+      "time": "31.67"
+    }
+  ],
+  "breast50Times": [
+    {
+      "meet": "Holl / Med / Mill (7/8)",
+      "time": "41.95"
+    },
+    {
+      "meet": "Westwood (7/10)",
+      "time": "42.22"
+    },
+    {
+      "meet": "Newton (7/22)",
+      "time": "41.52"
+    },
+    {
+      "meet": "Norwood (7/24)",
+      "time": "42.34"
+    },
+    {
+      "meet": "Walpole (7/29)",
+      "time": "41.02"
+    },
+    {
+      "meet": "Championships (8/9)",
+      "time": "39.39"
+    }
+  ],
+  "back50Times": [
+    {
+      "meet": "Natick (7/15)",
+      "time": "38.69"
+    },
+    {
+      "meet": "Canton (7/17)",
+      "time": "41.14"
+    },
+    {
+      "meet": "Norwood (7/24)",
+      "time": "41.41"
+    },
+    {
+      "meet": "Walpole (7/29)",
+      "time": "36.96"
+    },
+    {
+      "meet": "Sherborn (8/7)",
+      "time": "36.78"
+    }
+  ],
+  "seasonPrs": {
+    "50 Butterfly": "33.47",
+    "50 Freestyle": "31.53",
+    "50 Breaststroke": "39.39",
+    "50 Backstroke": "36.78"
+  }
+}

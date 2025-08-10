@@ -1,0 +1,79 @@
+{
+  "name": "Anna Aaron",
+  "paperPlate": "Scuba Diver Award",
+  "2024Wrapped": true,
+  "fly25Times": [
+    {
+      "meet": "Blue vs. Gold (7/1)",
+      "time": "44.05"
+    },
+    {
+      "meet": "Canton (7/17)",
+      "time": "47.06"
+    },
+    {
+      "meet": "Walpole (7/29)",
+      "time": "33.43"
+    }
+  ],
+  "free25Times": [
+    {
+      "meet": "Blue vs. Gold (7/1)",
+      "time": "29.33"
+    },
+    {
+      "meet": "Holl / Med / Mill (7/8)",
+      "time": "28.28"
+    },
+    {
+      "meet": "Natick (7/15)",
+      "time": "26.50"
+    },
+    {
+      "meet": "Newton (7/22)",
+      "time": "28.12"
+    }
+  ],
+  "breast25Times": [
+    {
+      "meet": "Holl / Med / Mill (7/8)",
+      "time": "50.59"
+    },
+    {
+      "meet": "Newton (7/22)",
+      "time": "27.67"
+    },
+    {
+      "meet": "Norwood (7/24)",
+      "time": "50.39"
+    }
+  ],
+  "back25Times": [
+    {
+      "meet": "Blue vs. Gold (7/1)",
+      "time": "28.06"
+    },
+    {
+      "meet": "Natick (7/15)",
+      "time": "30.72"
+    },
+    {
+      "meet": "Canton (7/17)",
+      "time": "34.28"
+    },
+    {
+      "meet": "Norwood (7/24)",
+      "time": "28.89"
+    },
+    {
+      "meet": "Walpole (7/29)",
+      "time": "28.02"
+    }
+  ],
+  "seasonPrs": {
+    "25 Butterfly": "33.43",
+    "25 Freestyle": "26.50",
+    "25 Breaststroke": "27.67",
+    "25 Backstroke": "28.02"
+  }
+}

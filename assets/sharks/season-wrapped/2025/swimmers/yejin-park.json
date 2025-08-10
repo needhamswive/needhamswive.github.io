@@ -1,0 +1,91 @@
+{
+  "name": "Yejin Park",
+  "paperPlate": "The All-stroke All Star Award",
+  "2024Wrapped": true,
+  "fly25Times": [
+    {
+      "meet": "Blue vs. Gold (7/1)",
+      "time": "17.30"
+    },
+    {
+      "meet": "Walpole (7/29)",
+      "time": "17.91"
+    },
+    {
+      "meet": "Dedham (8/5)",
+      "time": "20.47"
+    },
+    {
+      "meet": "Championships (8/9)",
+      "time": "19.51"
+    }
+  ],
+  "free25Times": [
+    {
+      "meet": "Westwood (7/10)",
+      "time": "16.27"
+    },
+    {
+      "meet": "Natick (7/15)",
+      "time": "15.98"
+    },
+    {
+      "meet": "Canton (7/17)",
+      "time": "18.78"
+    },
+    {
+      "meet": "Medfield (7/31)",
+      "time": "17.07"
+    },
+    {
+      "meet": "Sherborn (8/7)",
+      "time": "16.00"
+    }
+  ],
+  "breast25Times": [
+    {
+      "meet": "Blue vs. Gold (7/1)",
+      "time": "20.89"
+    },
+    {
+      "meet": "Natick (7/15)",
+      "time": "19.53"
+    },
+    {
+      "meet": "Canton (7/17)",
+      "time": "23.07"
+    },
+    {
+      "meet": "Medfield (7/31)",
+      "time": "19.15"
+    },
+    {
+      "meet": "Sherborn (8/7)",
+      "time": "19.49"
+    }
+  ],
+  "back25Times": [
+    {
+      "meet": "Westwood (7/10)",
+      "time": "17.81"
+    },
+    {
+      "meet": "Walpole (7/29)",
+      "time": "17.81"
+    },
+    {
+      "meet": "Dedham (8/5)",
+      "time": "19.10"
+    },
+    {
+      "meet": "Championships (8/9)",
+      "time": "18.50"
+    }
+  ],
+  "seasonPrs": {
+    "25 Butterfly": "17.30",
+    "25 Freestyle": "15.98",
+    "25 Breaststroke": "19.15",
+    "25 Backstroke": "17.81"
+  }
+}

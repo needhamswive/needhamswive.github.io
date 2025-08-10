@@ -1,0 +1,67 @@
+{
+  "name": "Noah Nikaido",
+  "paperPlate": "Water Bug Award",
+  "2024Wrapped": true,
+  "fly50Times": [
+    {
+      "meet": "Holl / Med / Mill (7/8)",
+      "time": "42.95"
+    },
+    {
+      "meet": "Canton (7/17)",
+      "time": "53.10"
+    },
+    {
+      "meet": "Medfield (7/31)",
+      "time": "48.51"
+    }
+  ],
+  "free50Times": [
+    {
+      "meet": "Westwood (7/10)",
+      "time": "38.26"
+    },
+    {
+      "meet": "Natick (7/15)",
+      "time": "37.85"
+    },
+    {
+      "meet": "Walpole (7/29)",
+      "time": "38.75"
+    }
+  ],
+  "breast50Times": [
+    {
+      "meet": "Holl / Med / Mill (7/8)",
+      "time": "50.27"
+    },
+    {
+      "meet": "Newton (7/22)",
+      "time": "44.84"
+    },
+    {
+      "meet": "Walpole (7/29)",
+      "time": "47.50"
+    }
+  ],
+  "back50Times": [
+    {
+      "meet": "Natick (7/15)",
+      "time": "40.72"
+    },
+    {
+      "meet": "Canton (7/17)",
+      "time": "46.68"
+    },
+    {
+      "meet": "Newton (7/22)",
+      "time": "41.69"
+    }
+  ],
+  "seasonPrs": {
+    "50 Butterfly": "42.95",
+    "50 Freestyle": "37.85",
+    "50 Breaststroke": "44.84",
+    "50 Backstroke": "40.72"
+  }
+}

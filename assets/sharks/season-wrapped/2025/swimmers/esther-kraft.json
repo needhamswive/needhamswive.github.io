@@ -1,0 +1,96 @@
+{
+  "name": "Esther Kraft",
+  "paperPlate": "The Silly Goose Award",
+  "swimmerOfTheWeek": true,
+  "free50Times": [
+    {
+      "meet": "Blue vs. Gold (7/1)",
+      "time": "42.38"
+    },
+    {
+      "meet": "Westwood (7/10)",
+      "time": "41.43"
+    },
+    {
+      "meet": "Natick (7/15)",
+      "time": "39.22"
+    },
+    {
+      "meet": "Canton (7/17)",
+      "time": "42.32"
+    },
+    {
+      "meet": "Newton (7/22)",
+      "time": "40.23"
+    },
+    {
+      "meet": "Norwood (7/24)",
+      "time": "39.42"
+    },
+    {
+      "meet": "Walpole (7/29)",
+      "time": "40.71"
+    },
+    {
+      "meet": "Medfield (7/31)",
+      "time": "39.00"
+    },
+    {
+      "meet": "Dedham (8/5)",
+      "time": "39.12"
+    },
+    {
+      "meet": "Sherborn (8/7)",
+      "time": "37.88"
+    },
+    {
+      "meet": "Championships (8/9)",
+      "time": "38.33"
+    }
+  ],
+  "breast50Times": [
+    {
+      "meet": "Blue vs. Gold (7/1)",
+      "time": "60.44"
+    },
+    {
+      "meet": "Medfield (7/31)",
+      "time": "57.96"
+    },
+    {
+      "meet": "Dedham (8/5)",
+      "time": "55.33"
+    }
+  ],
+  "back50Times": [
+    {
+      "meet": "Westwood (7/10)",
+      "time": "58.87"
+    },
+    {
+      "meet": "Natick (7/15)",
+      "time": "56.63"
+    },
+    {
+      "meet": "Canton (7/17)",
+      "time": "63.43"
+    },
+    {
+      "meet": "Newton (7/22)",
+      "time": "58.92"
+    },
+    {
+      "meet": "Walpole (7/29)",
+      "time": "61.72"
+    },
+    {
+      "meet": "Championships (8/9)",
+      "time": "50.31"
+    }
+  ],
+  "seasonPrs": {
+    "50 Freestyle": "37.88",
+    "50 Breaststroke": "55.33",
+    "50 Backstroke": "50.31"
+  }
+}
