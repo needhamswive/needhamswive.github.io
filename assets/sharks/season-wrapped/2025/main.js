@@ -480,7 +480,7 @@ function preprocessSwimmer(swimmer) {
     });
   }
 
-  if (stats.graduating) {
+  if (stats.university) {
     slides.push({
       name: "goodbye-senior",
       basicReplacements: {
