@@ -491,6 +491,14 @@ function preprocessSwimmer(swimmer) {
     slides.push({ name: "goodbye" });
   }
 
+  if (stats["2024Wrapped"]) {
+    slides.push({
+      name: "previous-wrapped",
+    });
+
+    document.getElementById("previous-season-wrapped-link").href += `?swimmer=${swimmerName}`;
+  }
+
   swimmer.slides = slides;
 }
 
