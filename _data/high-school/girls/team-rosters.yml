@@ -1,3 +1,101 @@
+- school-year: 2025-2026
+  coaches:
+    - title: Head Coach
+      name: Kate Curtin
+    - title: Assistant Swim Coach
+      name: Zibing Zhang
+    - title: Assistant Dive Coach
+      name: Elisabeth McQuaid
+    - title: Assistant Dive Coach
+      name: Elinor Wilson
+  students:
+    - name: Natalie Guarrera
+      grade: 12
+      captain: true
+      swimmer: true
+    - name: Paige Ingrando
+      grade: 12
+      captain: true
+      swimmer: true
+    - name: Emma Manning
+      grade: 12
+      diver: true
+      swimmer: true
+    - name: Genevieve Smith
+      grade: 12
+      captain: true
+      swimmer: true
+    - name: Sophia Belenkiy
+      grade: 11
+      swimmer: true
+    - name: Lara Bobocea
+      grade: 11
+      swimmer: true
+    - name: Emmeline Fritz
+      grade: 11
+      swimmer: true
+    - name: Tessa Jones
+      grade: 11
+      swimmer: true
+    - name: Eliana Skolinck
+      grade: 11
+      swimmer: true
+    - name: Madeline Weirup
+      grade: 11
+      swimmer: true
+    - name: Chloe Afzali
+      grade: 10
+      swimmer: true
+    - name: Grace Flanagan
+      grade: 10
+      diver: true
+      swimmer: true
+    - name: Andrea Qie
+      grade: 10
+      swimmer: true
+    - name: Madeleine Rowe
+      grade: 10
+      swimmer: true
+    - name: Bryden Tobin
+      grade: 10
+      diver: true
+      swimmer: true
+    - name: Carrie Zhang
+      grade: 10
+      swimmer: true
+    - name: Aarna Bhatt
+      grade: 9
+      swimmer: true
+    - name: Emma Cheung
+      grade: 9
+      swimmer: true
+    - name: Aida Huffenus
+      grade: 9
+      swimmer: true
+    - name: Elizabeth Ivanova
+      grade: 9
+      swimmer: true
+    - name: Esther Kraft
+      grade: 9
+      swimmer: true
+    - name: Audrey O'Brien
+      grade: 9
+      swimmer: true
+    - name: Maya Porter
+      grade: 9
+      swimmer: true
+    - name: Sabine Richmond
+      grade: 9
+      swimmer: true
+    - name: MadhuSri Saranatha
+      grade: 9
+      swimmer: true
+    - name: Audrey Shi
+      grade: 9
+      swimmer: true
+    - name: Samanatha Zeylikman
+      grade: 9
+      swimmer: true
 - school-year: 2024-2025
   coaches:
     - title: Head Coach
