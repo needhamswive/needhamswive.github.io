@@ -3,6 +3,7 @@ title: NFHS Rule Changes
 toc: true
 ---
 
+[^20252026]: <https://www.nfhs.org/sports-resource-content/swimming-and-diving-rules-changes-2025-26/>
 [^20242025]: <https://www.nfhs.org/sports-resource-content/swimming-and-diving-rules-changes-2024-25/>
 [^20232024]: <https://www.nfhs.org/sports-resource-content/swimming-and-diving-rules-changes-2023-24/>
 [^20222023]: <https://www.nfhs.org/sports-resource-content/swimming-and-diving-rules-changes-2022-23/>
@@ -15,6 +16,17 @@ toc: true
 [^20142015]: <https://www.nfhs.org/sports-resource-content/swimming-and-diving-rules-changes-2014-15/>
 
 The list of rule changes to swimming and diving from the National Federation of State High School Associations (NFHS) are as follows:
+
+## 2025 &ndash; 2026
+
+[^20252026] \
+__2-1, 2-7-2b, 2-7-3, 8-1-2__: Permits the use of backstroke starting ledges if approved with state association adoption, in pools with a minimum of 6 feet (1.84 meters) water depth measured from the starting end through 16 feet 5 inches (5 meters) from the end wall.
+<br>
+__Rationale__: The permissive nature of the proposal allows for the use of the backstroke ledge in situations where it is both safe and practical. The proposed rule ensures that pools with the required depth can benefit from this technology without creating barriers for those that may not be able to accommodate the equipment.
+
+__8-3-4a__: Clarifies the foot placement for relay participants starting from the deck. One foot must be positioned at the edge of the deck, and ancillary movement of the back foot is permitted, prior to the start.
+<br>
+__Rationale__: The rule provision prohibits swimmers using deck starts from performing a running start.
 
 ## 2024 &ndash; 2025
 
