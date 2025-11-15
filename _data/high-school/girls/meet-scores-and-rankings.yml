@@ -15,6 +15,56 @@ general-citations:
     display: Assistant Swim Coach Zibing Zhang
 
 by-school-year:
+  - school-year: 2025-2026
+    dual-meets:
+      - school: Acton-Boxborough
+        score: 94 - 92
+        result: W
+        citations: ArbiterSports
+      - school: Braintree
+        score: 85 - 54
+        result: W
+        citations: ArbiterSports
+      - school: Brookline
+        score: 79 - 100
+        result: L
+        citations: ArbiterSports
+      - school: Framingham
+        score: 88 - 98
+        result: L
+        citations: ZibingZhang
+      - school: Milton
+        score: 87 - 94
+        result: L
+        citations: ArbiterSports
+      - school: Natick
+        score: 100 - 86
+        result: W
+        citations: ArbiterSports
+      - school: Newton North
+        score: 81 - 95
+        result: L
+        citations: ArbiterSports
+      - school: Walpole
+        score: 82 - 52
+        result: W
+        citations: ZibingZhang
+      - school: Wellesley
+        score: 90 - 96
+        result: L
+        citations: ArbiterSports
+      - school: Weymouth
+        score: 99 - 73
+        result: W
+        citations: ZibingZhang
+    championships:
+      - name: Bay State Conference
+        place: 5
+        citations: BSCSchoolRankings
+      - name: South Sectional
+        place: 6
+      - name: D1 State
+        place: 7
   - school-year: 2024-2025
     dual-meets:
       - school: Acton-Boxborough
@@ -61,6 +111,10 @@ by-school-year:
       - name: Bay State Conference
         place: 3
         citations: BSCSchoolRankings
+      - name: South Sectional
+        place: 2
+      - name: D1 State
+        place: 3
   - school-year: 2023-2024
     dual-meets:
       - school: Acton-Boxborough
