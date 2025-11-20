@@ -1,0 +1,317 @@
+<!DOCTYPE html>
+<head>
+  <!-- Required meta tags -->
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, height=device-height, initial-scale=1, shrink-to-fit=no">
+
+	<!-- Favicon-->
+	<link rel="shortcut icon" href="/favicon.ico">
+
+	<!-- Author Meta -->
+	<meta name="author" content="Zibing Zhang">
+	<!-- Meta Description -->
+	<meta name="description" content=>
+	<!-- Meta Keyword -->
+	<meta name="keywords" content=>
+	<!-- Meta Character Set -->
+	<meta charset="UTF-8">
+
+  <!-- Stop Robots -->
+  <meta name="robots" content="noindex, nofollow">
+
+	<!-- Site Title -->
+	<title>2025 Season Wrapped</title>
+
+	<!-- Fonts -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Figtree:ital,wght@0,300..900;1,300..900&display=swap" rel="stylesheet">
+
+	<!-- CSS -->
+  <link rel="stylesheet" href="/assets/high-school/girls/season-wrapped/2025/main.css">
+
+  <!-- JS -->
+  <script src="/assets/high-school/girls/season-wrapped/2025/main.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.6/dist/chart.umd.min.js"></script>
+</head>
+
+<body class="noselect">
+  <div class="container-outer">
+    <div class="container-middle">
+      <div class="container-inner">
+        <canvas id="background"></canvas>
+
+        <div id="backward"></div>
+        <div id="forward"></div>
+        <div class="meters-container"></div>
+
+        <div class="slide" data-name="welcome">
+          <div class="slide-content">
+            <span class="orange">Needham High School</span>
+            <br>
+            <span class="lilac">Girls Swim &amp; Dive</span>
+            <br>
+            <span class="red">2025 Wrapped</span>
+            <br><br>
+            <b id="name" class="font-sm"></b>
+            <br>
+            <span class="font-sm">Class of <span id="class"></span></span>
+          </div>
+        </div>
+
+        <div class="slide" data-name="team-summary">
+          <div class="slide-content">
+            <b class="blue-2">Congratulations on an amazing season!</b>
+            <hr>
+            <span class="blue-3">We ended the season with a</span>
+            <br>
+            <div class="font-sm">
+              <span class="blue-2">7 &ndash; 3</span> dual meet record
+              <br>
+              <span class="blue-2">5th place</span> at Bay State Conference
+              <br>
+              <span class="blue-2">6th place</span> at South Sectionals
+              <br>
+              <span class="blue-2">7th place</span> at Division I States
+            </div>
+          </div>
+        </div>
+
+        <div class="slide" data-name="dual-meet-scores">
+          <div class="slide-content">
+            <b class="blue-2">Dual Meet Scores</b>
+            <hr>
+            <table id="dual-meet-scores" class="font-sm">
+              <tr>
+                <td class="blue-2">9/12</td>
+                <td>Milton</td>
+                <td>87</td>
+                <td>&ndash;</td>
+                <td class="blue-3"><b>94</b></td>
+              </tr>
+              <tr>
+                <td class="blue-2">9/19</td>
+                <td>Braintree</td>
+                <td class="blue-3"><b>85</b></td>
+                <td>&ndash;</td>
+                <td>54</td>
+              </tr>
+              <tr>
+                <td class="blue-2">9/25</td>
+                <td>Acton-Boxboro</td>
+                <td class="blue-3"><b>94</b></td>
+                <td>&ndash;</td>
+                <td>92</td>
+              </tr>
+              <tr>
+                <td class="blue-2">9/30</td>
+                <td>Newton&nbsp;North</td>
+                <td>81</td>
+                <td>&ndash;</td>
+                <td class="blue-3"><b>95</b></td>
+              </tr>
+              <tr>
+                <td class="blue-2">10/3</td>
+                <td>Framingham</td>
+                <td class="blue-3"><b>98</b></td>
+                <td>&ndash;</td>
+                <td>88</td>
+              </tr>
+              <tr>
+                <td class="blue-2">10/7</td>
+                <td>Brookline</td>
+                <td>79</td>
+                <td>&ndash;</td>
+                <td class="blue-3"><b>100</b></td>
+              </tr>
+              <tr>
+                <td class="blue-2">10/10</td>
+                <td>Walpole</td>
+                <td class="blue-3"><b>82</b></td>
+                <td>&ndash;</td>
+                <td>52</td>
+              </tr>
+              <tr>
+                <td class="blue-2">10/14</td>
+                <td>Natick</td>
+                <td class="blue-3"><b>100</b></td>
+                <td>&ndash;</td>
+                <td>86</td>
+              </tr>
+              <tr>
+                <td class="blue-2">10/17</td>
+                <td>Weymouth</td>
+                <td class="blue-3"><b>99</b></td>
+                <td>&ndash;</td>
+                <td>73</td>
+              </tr>
+              <tr>
+                <td class="blue-2">10/20</td>
+                <td>Wellesley</td>
+                <td>92</td>
+                <td>&ndash;</td>
+                <td class="blue-3"><b>94</b></td>
+              </tr>
+            </table>
+          </div>
+        </div>
+
+        <div id="slide" class="slide" data-name="transition">
+          <div class="slide-content">
+            <span class="red">We couldn't have done it without you!</span>
+            <br>
+            <br>
+            <span class="lilac">Let's look at some of your stats from this season</span>
+          </div>
+        </div>
+
+        <div class="slide" data-name="practice-summary">
+          <div class="slide-content">
+            You attended <b class="red"><span id="practices-attended"></span> practices</b>
+            <br>
+            <br>
+            That's a <b id="practice-percentage" class="lilac"></b> practice attendance!
+          </div>
+        </div>
+
+        <div class="slide" data-name="beads-earned">
+          <div class="slide-content">
+            You've earned
+            <table class="two-columned split-33-66">
+              <tr id="blue-beads-row">
+                <td>
+                  <b id="blue-beads" class="red"></b>
+                </td>
+                <td>
+                  blue beads
+                </td>
+              </tr>
+              <tr id="gold-beads-row">
+                <td>
+                  <b id="gold-beads" class="lilac"></b>
+                </td>
+                <td>
+                  gold beads
+                </td>
+              </tr>
+              <tr id="white-beads-row">
+                <td>
+                  <b id="white-beads" class="orange"></b>
+                </td>
+                <td>
+                  white beads
+                </td>
+              </tr>
+            </table>
+          </div>
+        </div>
+
+        <div class="slide" data-name="swims-summary">
+          <div class="slide-content">
+            You swam
+            <br>
+            <b id="individual-swims" class="red"></b> individual events
+            <br>
+            and <b id="relay-swims" class="lilac"></b> relay events
+            <br>
+            at <b id="meets-swimmer" class="orange"></b> meets
+            <div id="points-swimmer">
+              scoring <b id="points-swimmer-number" class="red"></b>
+            </div>
+          </div>
+        </div>
+
+        <div class="slide" data-name="dives-summary">
+          <div class="slide-content">
+            You dove <b id="individual-dives" class="red"></b> dives
+            <br>
+            at <b id="meets-diver" class="lilac"></b> meets
+            <div id="points-diver">
+              scoring <b id="points-diver-number" class="orange"></b>
+            </div>
+          </div>
+        </div>
+
+        <div class="slide" data-name="sectionals-qualified">
+          <div class="slide-content">
+            <span class="font-sm">You qualified for <b class="red">sectionals</b> in</span>
+            <hr>
+            <b>
+              <div id="sectionals-qualified-events" class="rotate-colors"></div>
+            </b>
+          </div>
+        </div>
+
+        <div class="slide" data-name="states-qualified">
+          <div class="slide-content">
+            <span class="font-sm">You qualified for <b class="red">states</b> in</span>
+            <hr>
+            <b>
+              <div id="states-qualified-events" class="rotate-colors"></div>
+            </b>
+          </div>
+        </div>
+
+        <div class="slide" data-name="swim-radar-chart">
+          <div class="slide-content">
+            <b class="red">Stroke Specialty</b>
+            <canvas id="swim-radar-chart"></canvas>
+          </div>
+        </div>
+
+        <div class="slide" data-name="dive-radar-chart">
+          <div class="slide-content">
+            <b class="red">Dive Group Specialty</b>
+            <canvas id="dive-radar-chart"></canvas>
+          </div>
+        </div>
+
+        <div class="slide" data-name="superlative">
+          <div class="slide-content">
+            <span class="red">Your superlative is</span>
+            <br><br>
+            <b id="superlative" class="lilac"></b>
+          </div>
+        </div>
+
+        <div class="slide" data-name="goodbye">
+          <div class="slide-content">
+            <span class="red">We can't wait to see you next season!</span>
+          </div>
+        </div>
+
+        <div class="slide" data-name="goodbye-clara">
+          <div class="slide-content">
+            <span class="red">We'll miss you next year <span style="white-space: nowrap;">:(</span></span>
+            <br><br>
+            <span class="lilac">We hope you enjoy the rest of your stay in the US!</span>
+            <br>
+          </div>
+        </div>
+
+        <div class="slide" data-name="goodbye-senior">
+          <div class="slide-content">
+            <span class="red">We'll miss you next year <span style="white-space: nowrap;">:(</span></span>
+            <br><br>
+            <span class="lilac">Wishing you all the best for the rest of your senior year!</span>
+            <br>
+          </div>
+        </div>
+
+        <div class="slide disabled" data-name="previous-wrapped">
+          <div class="slide-content">
+            <a id="previous-season-wrapped-link" class="orange" href="/high-school/girls/season-wrapped/2023/">Click here</a>
+            <br>
+            <span class="red">for last season's wrapped</span>
+            <div id="senior-summary">
+              <br><br>
+              <a id="senior-summary-link" class="orange" href="/high-school/girls/graduates/2025/">Click here</a>
+              <br>
+              <span class="lilac">for all your past results</span>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</body>

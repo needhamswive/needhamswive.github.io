@@ -2,6 +2,7 @@
 title: NHS Girls Swive Wrapped Directory
 
 school-years:
+- 2025-2026
 - 2024-2025
 - 2023-2024
 ---
