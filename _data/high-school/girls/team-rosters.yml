@@ -50,9 +50,6 @@
       grade: 10
       diver: true
       swimmer: true
-    - name: Andrea Qie
-      grade: 10
-      swimmer: true
     - name: Madeleine Rowe
       grade: 10
       swimmer: true
