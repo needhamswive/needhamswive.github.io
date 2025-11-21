@@ -1,0 +1,19 @@
+years:
+  - 2025
+  - 2024
+  - 2023
+  - 2022
+
+dual-meets:
+  - year: 2025
+    wins: 7
+    losses: 3
+  - year: 2024
+    wins: 7
+    losses: 3
+  - year: 2023
+    wins: 9
+    losses: 1
+  - year: 2022
+    wins: 9
+    losses: 1

@@ -294,6 +294,10 @@ defaults:
     values:
       last-season-year: 2025
   - scope:
+      path: high-school/girls/graduates/2026
+    values:
+      last-season-year: 2026
+  - scope:
       path: high-school/boys
     values:
       sidebar:
