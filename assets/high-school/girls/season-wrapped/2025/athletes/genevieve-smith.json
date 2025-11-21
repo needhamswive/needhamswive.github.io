@@ -1,3 +1,6 @@
 {
-  "name": "Genevieve Smith"
+  "name": "Genevieve Smith",
+  "grade": 12,
+  "swimmer": true,
+  "has_2024_wrapped": true
 }

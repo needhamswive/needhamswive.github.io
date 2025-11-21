@@ -1,3 +1,6 @@
 {
-  "name": "Madeline Weirup"
+  "name": "Madeline Weirup",
+  "grade": 10,
+  "swimmer": true,
+  "has_2024_wrapped": true
 }

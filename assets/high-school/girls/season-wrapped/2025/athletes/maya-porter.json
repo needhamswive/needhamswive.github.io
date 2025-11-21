@@ -1,3 +1,6 @@
 {
-  "name": "Maya Porter"
+  "name": "Maya Porter",
+  "grade": 9,
+  "swimmer": true,
+  "has_2024_wrapped": false
 }

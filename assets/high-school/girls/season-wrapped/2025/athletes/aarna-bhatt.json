@@ -1,3 +1,6 @@
 {
-  "name": "Aarna Bhatt"
+  "name": "Aarna Bhatt",
+  "grade": 9,
+  "swimmer": true,
+  "has_2024_wrapped": false
 }

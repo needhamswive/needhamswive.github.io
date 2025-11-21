@@ -1,3 +1,6 @@
 {
-  "name": "Carrie Zhang"
+  "name": "Carrie Zhang",
+  "grade": 10,
+  "swimmer": true,
+  "has_2024_wrapped": true
 }

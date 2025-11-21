@@ -1,3 +1,6 @@
 {
-  "name": "Sabine Richmond"
+  "name": "Sabine Richmond",
+  "grade": 9,
+  "swimmer": true,
+  "has_2024_wrapped": false
 }

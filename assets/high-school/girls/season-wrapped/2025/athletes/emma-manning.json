@@ -1,3 +1,7 @@
 {
-  "name": "Emma Manning"
+  "name": "Emma Manning",
+  "grade": 12,
+  "swimmer": true,
+  "diver": true,
+  "has_2024_wrapped": true
 }

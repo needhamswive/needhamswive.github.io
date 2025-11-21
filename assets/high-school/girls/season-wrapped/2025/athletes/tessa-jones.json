@@ -1,3 +1,6 @@
 {
-  "name": "Tessa Jones"
+  "name": "Tessa Jones",
+  "grade": 11,
+  "swimmer": true,
+  "has_2024_wrapped": true
 }

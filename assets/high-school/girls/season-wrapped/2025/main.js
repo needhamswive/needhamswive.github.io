@@ -207,8 +207,8 @@ function processAthlete(athlete) {
     removeSlide("goodbye-senior");
   }
 
-  if (athlete.has_2023_wrapped) {
-    document.getElementById("previous-season-wrapped-link").href += `?student=${athlete.name.toLowerCase().replace(" ", "-")}`;
+  if (athlete.has_2024_wrapped) {
+    document.getElementById("previous-season-wrapped-link").href += `?athlete=${athlete.name.toLowerCase().replace(" ", "-")}`;
   } else {
     removeSlide("previous-wrapped");
   }

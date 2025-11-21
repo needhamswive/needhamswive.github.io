@@ -1,3 +1,6 @@
 {
-  "name": "Paige Ingrando"
+  "name": "Paige Ingrando",
+  "grade": 12,
+  "swimmer": true,
+  "has_2024_wrapped": true
 }

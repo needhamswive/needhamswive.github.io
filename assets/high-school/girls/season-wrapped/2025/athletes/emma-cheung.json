@@ -1,3 +1,6 @@
 {
-  "name": "Emma Cheung"
+  "name": "Emma Cheung",
+  "grade": 9,
+  "swimmer": true,
+  "has_2024_wrapped": false
 }
