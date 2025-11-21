@@ -21,7 +21,7 @@ layout: single
 {% assign file-name = page.athlete | downcase | replace: " ", "-" | replace: "'", "" %}
 {% assign athlete-information = site.data.high-school.girls.graduates[last-season-year].information[file-name] %}
 
-{% assign years = athlete-information.years-participated %}
+{% assign years = athlete-information.years-participated | default: general-information.years %}
 
 {% assign dual-meet-wins = 0 %}
 {% assign dual-meet-losses = 0 %}
