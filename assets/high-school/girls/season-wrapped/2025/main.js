@@ -286,23 +286,11 @@ function nextSlide() {
 
 function offsetSlide(offset) {
   const nextIndex = activeSlideIndex + offset;
-  slides.forEach((slide, index) => {
-    if (index == nextIndex) {
-      slide.element.classList.add("active");
-      activeSlideIndex += offset;
-      activeSlide = slide;
-    } else {
-      slide.element.classList.remove("active");
-    }
-  });
+  activeSlide.element.classList.remove("active");
+  slides[nextIndex].element.classList.add("active");
+  activeSlideIndex += offset;
+  activeSlide = slides[nextIndex];
   progressBarStartTime = Date.now();
-
-  const lastSlide = nextIndex === slides.length - 1;
-  if (lastSlide) {
-    forwardElement.style.display = "none";
-  } else {
-    forwardElement.style.display = "block";
-  }
 }
 
 function resetTimer() {
@@ -311,13 +299,14 @@ function resetTimer() {
 
   const meters = document.getElementsByClassName("meter");
   for (let i = 0; i < slides.length; i++) {
-    const progressBar = meters[i].querySelector("span")
-    if (i < activeSlideIndex) {
+    const progressBar = meters[i].querySelector("span");
+
+    if (i === activeSlideIndex) {
+      progressBar.classList.remove("progress-done");
+      progressBar.classList.add("progress-active");
+    } else if (i < activeSlideIndex) {
       progressBar.classList.remove("progress-active");
       progressBar.classList.add("progress-done");
-    } else if (i == activeSlideIndex) {
-      progressBar.classList.add("progress-active");
-      activeProgressBar = progressBar;
     } else {
       progressBar.classList.remove("progress-active");
       progressBar.classList.remove("progress-done");
@@ -328,11 +317,7 @@ function resetTimer() {
 }
 
 class Projectile {
-  x;
-  y;
-  dx;
-  dy;
-  speed;
+  x; y; dx; dy; speed;
 
   constructor(x, y, dx, dy, speed) {
     this.x = x;
@@ -346,11 +331,13 @@ class Projectile {
 function setupBackground() {
   const COUNT = 100;
   const SIZE = 2;
-  const SPEED = 0.25;
+  const BASE_SPEED = 0.25;
   const DISTANCE = 100;
-  const r = 76;
-  const g = 144;
-  const b = 186;
+  const R = 76;
+  const G = 144;
+  const B = 186;
+  const PROJECTILE_COLOR = `rgba(${R}, ${G}, ${B}, ${0.5})`;
+  const lineColor = (a) => `rgba(${R}, ${G}, ${B}, ${a})`;
 
   const background = document.getElementById("background");
   background.height = background.clientHeight;
@@ -362,7 +349,7 @@ function setupBackground() {
   for (let i = 0; i < COUNT; i++) {
     const x = Math.floor(random() * background.width);
     const y = Math.floor(random() * background.height);
-    const speed = SPEED + (SPEED / 2 - (random() * SPEED));
+    const speed = BASE_SPEED + (BASE_SPEED / 2 - (random() * BASE_SPEED));
 
     let dx = random() - 0.5;
     let dy = random() - 0.5;
@@ -405,7 +392,7 @@ function setupBackground() {
   }
 
   function drawCircle(position, radius) {
-    context.fillStyle = `rgba(${r}, ${g}, ${b}, ${0.5})`;
+    context.fillStyle = PROJECTILE_COLOR;
     context.beginPath();
     context.arc(position.x, position.y, radius, 0, 2 * Math.PI, false);
     context.fill();
@@ -413,7 +400,7 @@ function setupBackground() {
 
   function drawLine(position1, position2) {
     const a = ((DISTANCE - distance(position1, position2)) / DISTANCE) / 4;
-    context.strokeStyle = `rgba(${r}, ${g}, ${b}, ${a})`;
+    context.strokeStyle = lineColor(a);
     context.beginPath();
     context.moveTo(position1.x, position1.y);
     context.lineTo(position2.x, position2.y);

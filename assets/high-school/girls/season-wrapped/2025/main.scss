@@ -8,18 +8,20 @@
   --blue-4: rgb(16,59,82);
   --blue-5: rgb(8, 19, 26);
 
-  --lilac: rgb(76, 144, 186);
-  --red: rgb(165, 215, 239);
-  --dark-red: rgb(76, 144, 186);
-  --orange: rgb(232, 248, 255);
-  --dark-orange: rgb(232, 248, 255);
-  --cream: rgb(8, 19, 26);
-  --dark-cream: rgb(232, 248, 255);
+  --base: var(--blue-1);
+  --base-background: var(--blue-5);
+  --shadow: var(--blue-3);
+  --hr: var(--blue-1);
+  --meter-before: var(blue-1);
+  --meter-after: var(blue-3);
+  --rotate-1: var(--blue-1);
+  --rotate-2: var(--blue-2);
+  --rotate-3: var(--blue-3);
 }
 
 html, body {
-  color: var(--dark-orange);
-  background-color: var(--cream);
+  color: var(--base);
+  background-color: var(--base-background);
   font-family: "Figtree", "Roboto Flex", sans-serif;
   font-size: 30px;
   font-weight: 300;
@@ -30,7 +32,7 @@ html, body {
 }
 
 hr {
-  border: 1px solid var(--dark-orange);
+  border: 1px solid var(--hr);
 }
 
 b {
@@ -70,18 +72,6 @@ br.extended {
   color: var(--blue-5);
 }
 
-.lilac {
-  color: var(--lilac);
-}
-
-.red {
-  color: var(--red);
-}
-
-.orange {
-  color: var(--orange);
-}
-
 .font-sm {
   font-size: 24px;
 }
@@ -102,9 +92,9 @@ br.extended {
     vertical-align: middle;
 
     .container-inner {
-      background-color: var(--cream);
+      background-color: var(--base-background);
       background-attachment: fixed;
-      box-shadow: 0px 0px 10px 10px var(--dark-cream);
+      box-shadow: 0px 0px 10px 10px var(--shadow);
       height: 100dvh;
       overflow: hidden;
       margin-left: auto;
@@ -163,7 +153,7 @@ br.extended {
 }
 
 .meter {
-  background: var(--orange);
+  background: var(--meter-before);
   border-radius: 3px;
   flex-grow: 1;
   margin-left: 3px;
@@ -176,14 +166,14 @@ br.extended {
 
 .progress-done {
   border-radius: 3px;
-  background-color: var(--dark-red);
+  background-color: var(--meter-after);
 }
 
 .progress-active {
   animation: progressBar 10s linear;
   animation-fill-mode: both;
   border-radius: 3px;
-  background-color: var(--dark-red);
+  background-color: var(--meter-after);
 }
 
 @keyframes progressBar {
@@ -229,11 +219,6 @@ br.extended {
         td:nth-child(1) { width: 40% }
         td:nth-child(2) { width: 60% }
       }
-
-      &.season-best {
-        td:nth-child(1) { text-align: center; width: 60% }
-        td:nth-child(2) { text-align: center; width: 40% }
-      }
     }
 
     &#dual-meet-scores {
@@ -244,13 +229,11 @@ br.extended {
 }
 
 .slide-content {
-  left: calc(50% - 5px);
-  margin-left: 5px;
-  margin-right: 5px;
+  left: calc(50%);
   position: absolute;
   top: 50%;
   transform: translateX(-50%) translateY(-50%);
-  width: calc(100% - 10px);
+  width: calc(100% - 20px);
 
   &.wide {
     left: 50%;
@@ -261,14 +244,14 @@ br.extended {
 
 .rotate-colors {
   .color:nth-child(3n) {
-    color: var(--red);
+    color: var(--rotate-1);
   }
 
   .color:nth-child(3n + 1) {
-    color: var(--lilac);
+    color: var(--rotate-2);
   }
 
   .color:nth-child(3n + 2) {
-    color: var(--orange);
+    color: var(--rotate-3);
   }
 }
