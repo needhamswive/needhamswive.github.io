@@ -2,5 +2,21 @@
   "name": "Sabine Richmond",
   "grade": 9,
   "swimmer": true,
+  "practices_attended": "35",
+  "practice_percentage": "83.33%",
+  "individual_swims": 15,
+  "relay_swims": 14,
+  "swim_meets": 10,
+  "swim_points": 0,
+  "swim_categories": [
+    "1.43",
+    "1.84",
+    "1.02",
+    "10.00",
+    "0.82"
+  ],
+  "white_beads": 6,
+  "blue_beads": 0,
+  "gold_beads": 11,
   "has_2024_wrapped": false
 }

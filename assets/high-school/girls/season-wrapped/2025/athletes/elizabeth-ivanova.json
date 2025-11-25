@@ -2,5 +2,21 @@
   "name": "Elizabeth Ivanova",
   "grade": 9,
   "swimmer": true,
+  "practices_attended": "38",
+  "practice_percentage": "90.48%",
+  "individual_swims": 19,
+  "relay_swims": 19,
+  "swim_meets": 11,
+  "swim_points": 15,
+  "swim_categories": [
+    "9.06",
+    "10.00",
+    "2.81",
+    "6.56",
+    "1.25"
+  ],
+  "white_beads": 6,
+  "blue_beads": 6,
+  "gold_beads": 19,
   "has_2024_wrapped": false
 }

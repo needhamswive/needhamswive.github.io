@@ -1,22 +1,22 @@
 {
-  "name": "Esther Kraft",
+  "name": "MadhuSri Saranathan",
   "grade": 9,
   "swimmer": true,
   "practices_attended": "40",
   "practice_percentage": "95.24%",
-  "individual_swims": 17,
-  "relay_swims": 14,
-  "swim_meets": 11,
-  "swim_points": 0,
+  "individual_swims": 16,
+  "relay_swims": 11,
+  "swim_meets": 10,
+  "swim_points": 3,
   "swim_categories": [
     "0.00",
-    "0.57",
-    "1.14",
+    "2.60",
+    "2.40",
     "10.00",
     "0.00"
   ],
   "white_beads": 6,
   "blue_beads": 0,
-  "gold_beads": 11,
+  "gold_beads": 14,
   "has_2024_wrapped": false
 }

@@ -1,0 +1,26 @@
+{
+  "name": "Samantha Zeylikman",
+  "grade": 9,
+  "swimmer": true,
+  "practices_attended": "51",
+  "practice_percentage": "98.08%",
+  "individual_swims": 23,
+  "relay_swims": 19,
+  "swim_meets": 13,
+  "swim_points": 78,
+  "swim_categories": [
+    "1.36",
+    "0.00",
+    "10.00",
+    "6.78",
+    "0.68"
+  ],
+  "white_beads": 6,
+  "blue_beads": 21,
+  "gold_beads": 18,
+  "sectionals_qualified": [
+    "100 Breaststroke"
+  ],
+  "swimmer_of_the_week": true,
+  "has_2024_wrapped": false
+}

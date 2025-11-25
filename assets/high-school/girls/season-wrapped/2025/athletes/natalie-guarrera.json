@@ -2,5 +2,31 @@
   "name": "Natalie Guarrera",
   "grade": 12,
   "swimmer": true,
+  "practices_attended": "50",
+  "practice_percentage": "96.15%",
+  "individual_swims": 24,
+  "relay_swims": 24,
+  "swim_meets": 12,
+  "swim_points": 218,
+  "swim_categories": [
+    "10.00",
+    "6.40",
+    "0.00",
+    "6.00",
+    "1.60"
+  ],
+  "white_beads": 6,
+  "blue_beads": 39,
+  "gold_beads": 5,
+  "sectionals_qualified": [
+    "100 Freestyle"
+  ],
+  "states_qualified": [
+    "200 IM",
+    "100 Butterfly",
+    "100 Backstroke"
+  ],
+  "swimmer_of_the_week": true,
+  "award": "Team M.V.P.",
   "has_2024_wrapped": true
 }

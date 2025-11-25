@@ -2,5 +2,29 @@
   "name": "Paige Ingrando",
   "grade": 12,
   "swimmer": true,
+  "practices_attended": "51",
+  "practice_percentage": "98.08%",
+  "individual_swims": 24,
+  "relay_swims": 23,
+  "swim_meets": 12,
+  "swim_points": 152,
+  "swim_categories": [
+    "0.00",
+    "0.00",
+    "8.51",
+    "10.00",
+    "6.81"
+  ],
+  "white_beads": 6,
+  "blue_beads": 33,
+  "gold_beads": 8,
+  "sectionals_qualified": [
+    "200 IM"
+  ],
+  "states_qualified": [
+    "100 Breaststroke"
+  ],
+  "swimmer_of_the_week": true,
+  "award": "Unsung Hero",
   "has_2024_wrapped": true
 }

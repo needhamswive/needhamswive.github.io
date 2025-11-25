@@ -3,5 +3,36 @@
   "grade": 10,
   "swimmer": true,
   "diver": true,
+  "practices_attended": "49",
+  "practice_percentage": "96.08%",
+  "individual_swims": 12,
+  "relay_swims": 24,
+  "swim_meets": 13,
+  "swim_points": 45,
+  "swim_categories": [
+    "0.00",
+    "0.00",
+    "0.00",
+    "10.00",
+    "0.00"
+  ],
+  "individual_dives": 77,
+  "dive_meets": 11,
+  "dive_points": 51,
+  "dive_categories": [
+    "10.00",
+    "7.50",
+    "6.88",
+    "9.38",
+    "7.50"
+  ],
+  "white_beads": 6,
+  "blue_beads": 17,
+  "gold_beads": 38,
+  "sectionals_qualified": [
+    "50 Freestyle"
+  ],
+  "swimmer_of_the_week": true,
+  "award": "Most Versatile",
   "has_2024_wrapped": true
 }

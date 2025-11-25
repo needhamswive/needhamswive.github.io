@@ -2,5 +2,23 @@
   "name": "Emmeline Fritz",
   "grade": 11,
   "swimmer": true,
+  "practices_attended": "38",
+  "practice_percentage": "90.48%",
+  "individual_swims": 18,
+  "relay_swims": 19,
+  "swim_meets": 10,
+  "swim_points": 21,
+  "swim_categories": [
+    "0.00",
+    "3.58",
+    "0.00",
+    "10.00",
+    "0.00"
+  ],
+  "white_beads": 6,
+  "blue_beads": 12,
+  "gold_beads": 16,
+  "swimmer_of_the_week": true,
+  "award": "Most Improved",
   "has_2024_wrapped": true
 }

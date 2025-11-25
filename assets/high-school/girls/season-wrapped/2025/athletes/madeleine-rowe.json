@@ -2,5 +2,30 @@
   "name": "Madeleine Rowe",
   "grade": 10,
   "swimmer": true,
+  "practices_attended": "49",
+  "practice_percentage": "94.23%",
+  "individual_swims": 26,
+  "relay_swims": 22,
+  "swim_meets": 13,
+  "swim_points": 142,
+  "swim_categories": [
+    "3.29",
+    "0.00",
+    "0.13",
+    "10.00",
+    "2.53"
+  ],
+  "white_beads": 6,
+  "blue_beads": 37,
+  "gold_beads": 7,
+  "sectionals_qualified": [
+    "200 Freestyle"
+  ],
+  "states_qualified": [
+    "200 IM",
+    "100 Butterfly",
+    "500 Freestyle"
+  ],
+  "swimmer_of_the_week": true,
   "has_2024_wrapped": true
 }

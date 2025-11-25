@@ -2,5 +2,21 @@
   "name": "Lara Bobocea",
   "grade": 11,
   "swimmer": true,
+  "practices_attended": "31",
+  "practice_percentage": "73.81%",
+  "individual_swims": 18,
+  "relay_swims": 19,
+  "swim_meets": 10,
+  "swim_points": 5,
+  "swim_categories": [
+    "8.08",
+    "7.69",
+    "1.54",
+    "10.00",
+    "7.69"
+  ],
+  "white_beads": 6,
+  "blue_beads": 1,
+  "gold_beads": 4,
   "has_2024_wrapped": true
 }

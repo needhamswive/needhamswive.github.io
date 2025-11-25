@@ -3,5 +3,31 @@
   "grade": 10,
   "swimmer": true,
   "diver": true,
+  "practices_attended": "38",
+  "practice_percentage": "90.48%",
+  "individual_swims": 10,
+  "relay_swims": 14,
+  "swim_meets": 10,
+  "swim_points": 1,
+  "swim_categories": [
+    "0.00",
+    "0.00",
+    "2.56",
+    "10.00",
+    "0.00"
+  ],
+  "individual_dives": 50,
+  "dive_meets": 9,
+  "dive_points": 7,
+  "dive_categories": [
+    "10.00",
+    "10.00",
+    "0.00",
+    "0.00",
+    "5.00"
+  ],
+  "white_beads": 6,
+  "blue_beads": 0,
+  "gold_beads": 26,
   "has_2024_wrapped": true
 }

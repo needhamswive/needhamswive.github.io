@@ -1,26 +1,28 @@
 {
-  "name": "Carrie Zhang",
-  "grade": 10,
+  "name": "Eliana Skolnick",
+  "grade": 11,
   "swimmer": true,
   "practices_attended": "46",
   "practice_percentage": "97.87%",
-  "individual_swims": 22,
-  "relay_swims": 21,
+  "individual_swims": 23,
+  "relay_swims": 18,
   "swim_meets": 12,
-  "swim_points": 43,
+  "swim_points": 51,
   "swim_categories": [
-    "0.73",
     "0.00",
+    "0.00",
+    "2.47",
     "10.00",
-    "7.64",
-    "1.45"
+    "0.47"
   ],
   "white_beads": 6,
-  "blue_beads": 19,
-  "gold_beads": 13,
+  "blue_beads": 12,
+  "gold_beads": 17,
   "sectionals_qualified": [
+    "200 Freestyle",
+    "500 Freestyle",
     "100 Breaststroke"
   ],
   "swimmer_of_the_week": true,
-  "has_2024_wrapped": true
+  "has_2024_wrapped": false
 }

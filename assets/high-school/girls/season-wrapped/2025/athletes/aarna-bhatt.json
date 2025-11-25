@@ -2,5 +2,21 @@
   "name": "Aarna Bhatt",
   "grade": 9,
   "swimmer": true,
+  "practices_attended": "40",
+  "practice_percentage": "95.24%",
+  "individual_swims": 16,
+  "relay_swims": 18,
+  "swim_meets": 10,
+  "swim_points": 7,
+  "swim_categories": [
+    "0.77",
+    "2.69",
+    "0.77",
+    "10.00",
+    "1.54"
+  ],
+  "white_beads": 6,
+  "blue_beads": 7,
+  "gold_beads": 17,
   "has_2024_wrapped": false
 }

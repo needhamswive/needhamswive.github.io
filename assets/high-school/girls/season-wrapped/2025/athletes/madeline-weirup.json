@@ -2,5 +2,22 @@
   "name": "Madeline Weirup",
   "grade": 10,
   "swimmer": true,
+  "practices_attended": "36",
+  "practice_percentage": "85.71%",
+  "individual_swims": 19,
+  "relay_swims": 16,
+  "swim_meets": 11,
+  "swim_points": 13,
+  "swim_categories": [
+    "0.35",
+    "1.23",
+    "2.46",
+    "10.00",
+    "2.11"
+  ],
+  "white_beads": 6,
+  "blue_beads": 0,
+  "gold_beads": 2,
+  "swimmer_of_the_week": true,
   "has_2024_wrapped": true
 }

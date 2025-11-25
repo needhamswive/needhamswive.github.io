@@ -2,5 +2,29 @@
   "name": "Chloe Afzali",
   "grade": 10,
   "swimmer": true,
+  "practices_attended": "52",
+  "practice_percentage": "100.00%",
+  "individual_swims": 25,
+  "relay_swims": 21,
+  "swim_meets": 13,
+  "swim_points": 131,
+  "swim_categories": [
+    "0.00",
+    "10.00",
+    "2.31",
+    "4.04",
+    "6.92"
+  ],
+  "white_beads": 6,
+  "blue_beads": 29,
+  "gold_beads": 7,
+  "sectionals_qualified": [
+    "200 IM",
+    "100 Breaststroke"
+  ],
+  "states_qualified": [
+    "100 Backstroke"
+  ],
+  "swimmer_of_the_week": true,
   "has_2024_wrapped": true
 }

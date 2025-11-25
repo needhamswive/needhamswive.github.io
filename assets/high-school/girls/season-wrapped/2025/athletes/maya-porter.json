@@ -2,5 +2,27 @@
   "name": "Maya Porter",
   "grade": 9,
   "swimmer": true,
+  "practices_attended": "50",
+  "practice_percentage": "96.15%",
+  "individual_swims": 24,
+  "relay_swims": 20,
+  "swim_meets": 13,
+  "swim_points": 87,
+  "swim_categories": [
+    "0.00",
+    "1.62",
+    "4.85",
+    "10.00",
+    "0.59"
+  ],
+  "white_beads": 6,
+  "blue_beads": 23,
+  "gold_beads": 18,
+  "sectionals_qualified": [
+    "50 Freestyle"
+  ],
+  "states_qualified": [
+    "100 Breaststroke"
+  ],
   "has_2024_wrapped": false
 }

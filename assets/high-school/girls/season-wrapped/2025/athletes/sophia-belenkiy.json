@@ -2,5 +2,26 @@
   "name": "Sophia Belenkiy",
   "grade": 11,
   "swimmer": true,
+  "practices_attended": "43",
+  "practice_percentage": "91.49%",
+  "individual_swims": 19,
+  "relay_swims": 24,
+  "swim_meets": 12,
+  "swim_points": 48,
+  "swim_categories": [
+    "1.18",
+    "0.00",
+    "2.35",
+    "10.00",
+    "1.18"
+  ],
+  "white_beads": 6,
+  "blue_beads": 24,
+  "gold_beads": 3,
+  "sectionals_qualified": [
+    "50 Freestyle",
+    "100 Breaststroke"
+  ],
+  "swimmer_of_the_week": true,
   "has_2024_wrapped": true
 }

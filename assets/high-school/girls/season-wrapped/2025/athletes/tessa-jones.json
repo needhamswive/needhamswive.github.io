@@ -2,5 +2,25 @@
   "name": "Tessa Jones",
   "grade": 11,
   "swimmer": true,
+  "practices_attended": "46",
+  "practice_percentage": "88.46%",
+  "individual_swims": 19,
+  "relay_swims": 22,
+  "swim_meets": 11,
+  "swim_points": 83,
+  "swim_categories": [
+    "0.00",
+    "0.43",
+    "0.00",
+    "10.00",
+    "0.00"
+  ],
+  "white_beads": 6,
+  "blue_beads": 21,
+  "gold_beads": 4,
+  "sectionals_qualified": [
+    "50 Freestyle",
+    "100 Freestyle"
+  ],
   "has_2024_wrapped": true
 }
