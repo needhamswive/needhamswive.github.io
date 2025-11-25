@@ -105,26 +105,28 @@ function processAthlete(athlete) {
   if (athlete.swimmer) {
     document.getElementById("individual-swims").innerHTML = athlete.individual_swims;
     document.getElementById("relay-swims").innerHTML = athlete.relay_swims;
-    document.getElementById("meets-swimmer").innerHTML = athlete.meets;
+    document.getElementById("meets-swimmer").innerHTML = athlete.swim_meets;
 
-    if (athlete.points) {
-      document.getElementById("points-swimmer-number").innerHTML = athlete.points;
+    if (athlete.swim_points) {
+      document.getElementById("points-swimmer-number").innerHTML = athlete.swim_points + (athlete.swim_points === 1 ? " points" : " points");
     } else {
       removeElement("points-swimmer");
     }
-
-    removeSlide("dives-summary");
   } else {
-    document.getElementById("individual-dives").innerHTML = athlete.individual_dives;
-    document.getElementById("meets-diver").innerHTML = athlete.meets;
+    removeSlide("swims-summary");
+  }
 
-    if (athlete.points) {
-      document.getElementById("points-diver-number").innerHTML = athlete.points;
+  if (athlete.diver) {
+    document.getElementById("individual-dives").innerHTML = athlete.individual_dives;
+    document.getElementById("meets-diver").innerHTML = athlete.dive_meets;
+
+    if (athlete.dive_points) {
+      document.getElementById("points-diver-number").innerHTML = athlete.dive_points + (athlete.dive_points === 1 ? " points" : " points");
     } else {
       removeElement("points-diver");
     }
-
-    removeSlide("swims-summary");
+  } else {
+    removeSlide("dives-summary");
   }
 
   if (athlete.sectionals_qualified) {
@@ -171,8 +173,11 @@ function processAthlete(athlete) {
       },
       options: CHART_OPTIONS,
     });
-    removeSlide("dive-radar-chart");
   } else {
+    removeSlide("swim-radar-chart");
+  }
+
+  if (athlete.swimmer) {
     for (const i in athlete.dive_categories) {
       if (athlete.dive_categories[i] == "0.00") {
         athlete.dive_categories[i] = 1;
@@ -192,13 +197,24 @@ function processAthlete(athlete) {
       },
       options: CHART_OPTIONS,
     });
-    removeSlide("swim-radar-chart");
+  } else {
+    removeSlide("dive-radar-chart");
   }
 
   if (athlete.superlative) {
     document.getElementById("superlative").innerHTML = athlete.superlative;
   } else {
     removeSlide("superlative");
+  }
+
+  if (!athlete.swimmer_of_the_week) {
+    removeSlide("swimmer-of-the-week");
+  }
+
+  if (athlete.award) {
+    document.getElementById("award").innerHTML = athlete.award;
+  } else {
+    removeSlide("award");
   }
 
   if (athlete.grade === 12) {
@@ -209,14 +225,15 @@ function processAthlete(athlete) {
 
   if (athlete.has_2024_wrapped) {
     document.getElementById("previous-season-wrapped-link").href += `?athlete=${athlete.name.toLowerCase().replace(" ", "-")}`;
+
+    // All seniors have a previous season wrapped link
+    if (athlete.grade === 12) {
+      document.getElementById("senior-summary-link").href += `${athlete.name.toLowerCase().replace(" ", "-")}/`;
+    } else {
+      removeElement("senior-summary");
+    }
   } else {
     removeSlide("previous-wrapped");
-  }
-
-  if (athlete.grade === 12) {
-    document.getElementById("senior-summary-link").href += `${athlete.name.toLowerCase().replace(" ", "-")}/`;
-  } else {
-    removeElement("senior-summary");
   }
 }
 
@@ -291,6 +308,13 @@ function offsetSlide(offset) {
   activeSlideIndex += offset;
   activeSlide = slides[nextIndex];
   progressBarStartTime = Date.now();
+
+  const lastSlide = nextIndex === slides.length - 1;
+  if (lastSlide) {
+    forwardElement.style.display = "none";
+  } else {
+    forwardElement.style.display = "block";
+  }
 }
 
 function resetTimer() {
