@@ -2,12 +2,6 @@
 layout: single
 ---
 
-<style>
-  table td:nth-child(2) {
-    text-align: center;
-  }
-</style>
-
 <h1>{{ page.athlete }}</h1>
 
 {% assign last-season-year = page.last-season-year | append: "" %}
@@ -234,6 +228,47 @@ layout: single
   <h2>Diving</h2>
 
   <h3>Summary</h3>
+
+  <table>
+    <thead>
+      <tr>
+        <th>Statistic</th>
+        <th>Value</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>Highest Overall Score</td>
+        <td>{{ dives-overall | map: "score" | first }}</td>
+      </tr>
+      <tr>
+        <td>Total Meets Dived</td>
+        <td>{{ dives-overall | size }}</td>
+      </tr>
+      <tr>
+        <td>Individual Dive Count</td>
+        <td>{{ dives-individual | size }}</td>
+      </tr>
+    </tbody>
+  </table>
+
+  <table>
+    <thead>
+      <tr>
+        <th>Dive</th>
+        <th>Highest Score</th>
+      </tr>
+    </thead>
+    <tbody>
+      {% assign unique-dive-numbers = dives-individual | map: "number" | uniq %}
+      {% for dive-number in unique-dive-numbers %}
+        <tr>
+          <td>{{ dive-number }}</td>
+          <td>{{ dives-individual | where: "number", dive-number | first | map: "total-score" }}</td>
+        </tr>
+      {% endfor %}
+    </tbody>
+  </table>
 
   <h3>All Results</h3>
 

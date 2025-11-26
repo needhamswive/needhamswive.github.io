@@ -1,7 +1,18 @@
+# https://stackoverflow.com/a/1034499
+class String
+  def valid_float?
+    # The double negation turns this into an actual boolean true - if you're
+    # okay with "truthy" values (like 0.0), you can remove it.
+    !!Float(self) rescue false
+  end
+end
+
 module Jekyll
   module FormatTimeFilter
     def format_time(input)
       if input.nil?
+        return input
+      elsif !input.valid_float?
         return input
       elsif input.is_a? String
         time = input.to_f
