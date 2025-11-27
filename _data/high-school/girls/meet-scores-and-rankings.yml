@@ -63,8 +63,10 @@ by-school-year:
         citations: BSCSchoolRankings
       - name: South Sectional
         place: 6
+        citations: ZibingZhang
       - name: D1 State
         place: 7
+        citations: ZibingZhang
   - school-year: 2024-2025
     dual-meets:
       - school: Acton-Boxborough

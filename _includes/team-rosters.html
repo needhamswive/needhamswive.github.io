@@ -4,9 +4,6 @@
 
 {% assign school-years = include.team-rosters | map: "school-year" %}
 
-{% include filter-year.html
-  years = school-years %}
-
 {% for team-roster in include.team-rosters %}
 
 <div class="filter-section" data-option="year" data-section="{{ team-roster.year }}" markdown="1">
