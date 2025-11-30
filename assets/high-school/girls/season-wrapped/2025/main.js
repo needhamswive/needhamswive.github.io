@@ -177,7 +177,7 @@ function processAthlete(athlete) {
     removeSlide("swim-radar-chart");
   }
 
-  if (athlete.swimmer) {
+  if (athlete.diver) {
     for (const i in athlete.dive_categories) {
       if (athlete.dive_categories[i] == "0.00") {
         athlete.dive_categories[i] = 1;
