@@ -54,18 +54,18 @@ high-school:
   - title: Current Season
     tags: girls,boys
     children:
-      - title: Schedule
-        url: high-school/girls/current-season/schedule
-        tags: girls
-      - title: Schedule
-        url: high-school/boys/current-season/schedule
-        tags: boys
-      - title: Qualifying Standards
-        url: high-school/girls/current-season/qualifying-standards
-        tags: girls
-      - title: Qualifying Standards
-        url: high-school/boys/current-season/qualifying-standards
-        tags: boys
+      # - title: Schedule
+      #   url: high-school/girls/current-season/schedule
+      #   tags: girls
+      # - title: Schedule
+      #   url: high-school/boys/current-season/schedule
+      #   tags: boys
+      # - title: Qualifying Standards
+      #   url: high-school/girls/current-season/qualifying-standards
+      #   tags: girls
+      # - title: Qualifying Standards
+      #   url: high-school/boys/current-season/qualifying-standards
+      #   tags: boys
       - title: Team Roster
         url: high-school/girls/current-season/team-roster
         tags: girls
@@ -135,10 +135,10 @@ high-school-girls:
         url: high-school/general-information/rule-changes?nav=girls
   - title: Current Season
     children:
-      - title: Schedule
-        url: high-school/girls/current-season/schedule
-      - title: Qualifying Standards
-        url: high-school/girls/current-season/qualifying-standards
+      # - title: Schedule
+      #   url: high-school/girls/current-season/schedule
+      # - title: Qualifying Standards
+      #   url: high-school/girls/current-season/qualifying-standards
       - title: Team Roster
         url: high-school/girls/current-season/team-roster
       - title: Meet Scores & Rankings
@@ -176,10 +176,10 @@ high-school-boys:
         url: high-school/general-information/rule-changes?nav=boys
   - title: Current Season
     children:
-      - title: Schedule
-        url: high-school/boys/current-season/schedule
-      - title: Qualifying Standards
-        url: high-school/boys/current-season/qualifying-standards
+      # - title: Schedule
+      #   url: high-school/boys/current-season/schedule
+      # - title: Qualifying Standards
+      #   url: high-school/boys/current-season/qualifying-standards
       - title: Team Roster
         url: high-school/boys/current-season/team-roster
       - title: Meet Scores & Rankings
