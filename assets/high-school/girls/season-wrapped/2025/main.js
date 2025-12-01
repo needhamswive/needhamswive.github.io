@@ -211,6 +211,14 @@ function processAthlete(athlete) {
     removeSlide("swimmer-of-the-week");
   }
 
+  if (!athlete.bsc_honorable_mention) {
+    removeSlide("bsc-honorable-mention");
+  }
+
+  if (!athlete.bsc_all_star) {
+    removeSlide("bsc-all-star");
+  }
+
   if (athlete.award) {
     document.getElementById("award").innerHTML = athlete.award;
   } else {
