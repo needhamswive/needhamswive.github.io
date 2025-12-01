@@ -1,6 +1,6 @@
 year,school-1,school-2,score-1,score-2,school-1-result
 2025,Braintree,Brookline,46,102,L
-2025,Braintree,Framingham,,,
+2025,Braintree,Framingham,53,85,L
 2025,Braintree,Milton,46,87,L
 2025,Braintree,Natick,21,48,L
 2025,Braintree,Needham,54,85,L
@@ -22,7 +22,7 @@ year,school-1,school-2,score-1,score-2,school-1-result
 2025,Framingham,Newton North,85,92,L
 2025,Framingham,Walpole,83,69,W
 2025,Framingham,Wellesley,81,103,L
-2025,Framingham,Weymouth,,,
+2025,Framingham,Weymouth,91,79,W
 2025,Milton,Natick,92,88,W
 2025,Milton,Needham,94,87,W
 2025,Milton,Newton North,88,95,L
