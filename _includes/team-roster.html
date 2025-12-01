@@ -8,7 +8,7 @@
 {% assign juniors = include.team-roster.students | where: "grade", 11 %}
 {% assign sophomores = include.team-roster.students | where: "grade", 10 %}
 {% assign freshman = include.team-roster.students | where: "grade", 9 %}
-{% assign rest = include.team-roster.students | not_where: "grade" %}
+{% assign rest = include.team-roster.students | not_where: "grade", nil %}
 
 {% if seniors.size > juniors.size %}
   {% assign len-1 = seniors.size %}
