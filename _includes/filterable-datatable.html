@@ -1,0 +1,62 @@
+<script src="https://code.jquery.com/jquery-3.7.1.js"></script>
+<script src="https://cdn.datatables.net/2.3.5/js/dataTables.js"></script>
+
+<link rel="stylesheet" href="https://cdn.datatables.net/2.3.5/css/dataTables.dataTables.css">
+
+{% assign enum-filters = include.enum-filters | split: " " %}
+{% for enum-filter in enum-filters %}
+  <div>
+    {{ enum-filter }}:
+    {% assign options = include.data | map: enum-filter | uniq | sort %}
+    <select id="enum-filter-{{ enum-filter | replace: ' ', '-' | downcase }}" class="enum-filter" data-header="{{ enum-filter }}">
+      <option selected value>All</option>
+      {% for option in options %}
+        <option value="{{ option }}">{{ option }}</option>
+      {% endfor %}
+    </select>
+  </div>
+{% endfor %}
+
+{% assign first-row = include.data | first %}
+
+<table id="table">
+  <thead>
+    <tr>
+      {% for column in first-row %}
+        <td>{{ column[0] | replace: " ", "&nbsp;"}}</td>
+      {% endfor %}
+    </tr>
+  </thead>
+  <tbody>
+    {% for row in include.data %}
+      <tr>
+      {% for column in row %}
+        <td>{{ column[1] | replace: " ", "&nbsp;"}}</td>
+      {% endfor %}
+    </tr>
+    {% endfor %}
+  </tbody>
+</table>
+
+<script>
+  const tableElement = document.getElementById("table");
+  const headers = [...tableElement.querySelectorAll("thead > tr > td")].map(e => e.innerHTML);
+
+  const table = new DataTable("#table", {
+    columns: headers.map(header => {return {
+      data: header,
+      render: (data, type, row, meta) => {
+        console.log(header)
+        return data;
+      },
+    };}),
+  });
+
+  console.log(document.getElementsByClassName("enum-filter"));
+  for (const enumFilter of document.getElementsByClassName("enum-filter")) {
+    const header = enumFilter.dataset.header;
+    enumFilter.addEventListener("change", e => {
+      table.column(headers.indexOf(header)).search(e.target.value).draw();
+    });
+  }
+</script>
