@@ -2,7 +2,7 @@
   "name": "Eason He",
   "ageGroup": "8 & Under",
   "2025Wrapped": true,
-  "fly50Times": [
+  "fly25Times": [
     {
       "meet": "Blue vs. Gold (6/30)",
       "time": "29.91"
@@ -16,7 +16,7 @@
       "time": "33.31"
     }
   ],
-  "free50Times": [
+  "free25Times": [
     {
       "meet": "Blue vs. Gold (6/30)",
       "time": "23.37"
@@ -38,7 +38,7 @@
       "time": "21.65"
     }
   ],
-  "breast50Times": [
+  "breast25Times": [
     {
       "meet": "Blue vs. Gold (6/30)",
       "time": "29.68"
@@ -52,7 +52,7 @@
       "time": "32.69"
     }
   ],
-  "back50Times": [
+  "back25Times": [
     {
       "meet": "Blue vs. Gold (6/30)",
       "time": "25.07"
@@ -75,9 +75,9 @@
     }
   ],
   "seasonPrs": {
-    "50 Butterfly": "29.91",
-    "50 Freestyle": "21.65",
-    "50 Breaststroke": "27.82",
-    "50 Backstroke": "25.07"
+    "25 Butterfly": "29.91",
+    "25 Freestyle": "21.65",
+    "25 Breaststroke": "27.82",
+    "25 Backstroke": "25.07"
   }
 }

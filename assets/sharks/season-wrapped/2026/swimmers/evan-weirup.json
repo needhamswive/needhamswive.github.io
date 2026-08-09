@@ -2,7 +2,7 @@
   "name": "Evan Weirup",
   "ageGroup": "8 & Under",
   "2025Wrapped": true,
-  "fly50Times": [
+  "fly25Times": [
     {
       "meet": "Blue vs. Gold (6/30)",
       "time": "38.31"
@@ -20,7 +20,7 @@
       "time": "29.65"
     }
   ],
-  "free50Times": [
+  "free25Times": [
     {
       "meet": "Blue vs. Gold (6/30)",
       "time": "24.03"
@@ -42,7 +42,7 @@
       "time": "24.52"
     }
   ],
-  "breast50Times": [
+  "breast25Times": [
     {
       "meet": "Blue vs. Gold (6/30)",
       "time": "29.81"
@@ -56,7 +56,7 @@
       "time": "28.00"
     }
   ],
-  "back50Times": [
+  "back25Times": [
     {
       "meet": "Blue vs. Gold (6/30)",
       "time": "26.02"
@@ -83,9 +83,9 @@
     }
   ],
   "seasonPrs": {
-    "50 Butterfly": "29.65",
-    "50 Freestyle": "23.78",
-    "50 Breaststroke": "28.00",
-    "50 Backstroke": "26.02"
+    "25 Butterfly": "29.65",
+    "25 Freestyle": "23.78",
+    "25 Breaststroke": "28.00",
+    "25 Backstroke": "26.02"
   }
 }

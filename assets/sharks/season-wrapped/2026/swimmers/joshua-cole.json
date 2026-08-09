@@ -1,7 +1,7 @@
 {
   "name": "Joshua Cole",
   "ageGroup": "8 & Under",
-  "free50Times": [
+  "free25Times": [
     {
       "meet": "Canton (7/29)",
       "time": "29.22"
@@ -15,7 +15,7 @@
       "time": "28.78"
     }
   ],
-  "breast50Times": [
+  "breast25Times": [
     {
       "meet": "Canton (7/29)",
       "time": "31.53"
@@ -30,7 +30,7 @@
     }
   ],
   "seasonPrs": {
-    "50 Freestyle": "28.78",
-    "50 Breaststroke": "31.53"
+    "25 Freestyle": "28.78",
+    "25 Breaststroke": "31.53"
   }
 }

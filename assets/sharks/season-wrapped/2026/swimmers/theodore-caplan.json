@@ -2,7 +2,7 @@
   "name": "Theodore Caplan",
   "ageGroup": "8 & Under",
   "swimmerOfTheWeek": true,
-  "fly50Times": [
+  "fly25Times": [
     {
       "meet": "Blue vs. Gold (6/30)",
       "time": "43.47"
@@ -24,13 +24,13 @@
       "time": "29.13"
     }
   ],
-  "free50Times": [
+  "free25Times": [
     {
       "meet": "Blue vs. Gold (6/30)",
       "time": "27.50"
     }
   ],
-  "breast50Times": [
+  "breast25Times": [
     {
       "meet": "Blue vs. Gold (6/30)",
       "time": "38.50"
@@ -56,7 +56,7 @@
       "time": "29.69"
     }
   ],
-  "back50Times": [
+  "back25Times": [
     {
       "meet": "Blue vs. Gold (6/30)",
       "time": "36.50"
@@ -87,9 +87,9 @@
     }
   ],
   "seasonPrs": {
-    "50 Butterfly": "29.13",
-    "50 Freestyle": "27.50",
-    "50 Breaststroke": "24.69",
-    "50 Backstroke": "26.31"
+    "25 Butterfly": "29.13",
+    "25 Freestyle": "27.50",
+    "25 Breaststroke": "24.69",
+    "25 Backstroke": "26.31"
   }
 }

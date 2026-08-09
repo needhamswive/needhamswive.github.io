@@ -1,7 +1,7 @@
 {
   "name": "Laya Gunnam",
   "ageGroup": "8 & Under",
-  "fly50Times": [
+  "fly25Times": [
     {
       "meet": "Blue vs. Gold (6/30)",
       "time": "44.78"
@@ -19,7 +19,7 @@
       "time": "51.00"
     }
   ],
-  "free50Times": [
+  "free25Times": [
     {
       "meet": "Blue vs. Gold (6/30)",
       "time": "40.73"
@@ -29,7 +29,7 @@
       "time": "47.25"
     }
   ],
-  "breast50Times": [
+  "breast25Times": [
     {
       "meet": "Blue vs. Gold (6/30)",
       "time": "43.30"
@@ -39,16 +39,16 @@
       "time": "49.22"
     }
   ],
-  "back50Times": [
+  "back25Times": [
     {
       "meet": "Norwood (7/16)",
       "time": "44.31"
     }
   ],
   "seasonPrs": {
-    "50 Butterfly": "44.78",
-    "50 Freestyle": "40.73",
-    "50 Breaststroke": "43.30",
-    "50 Backstroke": "44.31"
+    "25 Butterfly": "44.78",
+    "25 Freestyle": "40.73",
+    "25 Breaststroke": "43.30",
+    "25 Backstroke": "44.31"
   }
 }

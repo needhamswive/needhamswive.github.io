@@ -2,7 +2,7 @@
   "name": "Elliot Ho",
   "ageGroup": "8 & Under",
   "2025Wrapped": true,
-  "fly50Times": [
+  "fly25Times": [
     {
       "meet": "Blue vs. Gold (6/30)",
       "time": "34.06"
@@ -24,7 +24,7 @@
       "time": "29.59"
     }
   ],
-  "free50Times": [
+  "free25Times": [
     {
       "meet": "Blue vs. Gold (6/30)",
       "time": "23.21"
@@ -62,7 +62,7 @@
       "time": "21.40"
     }
   ],
-  "breast50Times": [
+  "breast25Times": [
     {
       "meet": "Blue vs. Gold (6/30)",
       "time": "30.13"
@@ -84,7 +84,7 @@
       "time": "31.94"
     }
   ],
-  "back50Times": [
+  "back25Times": [
     {
       "meet": "Blue vs. Gold (6/30)",
       "time": "34.28"
@@ -107,9 +107,9 @@
     }
   ],
   "seasonPrs": {
-    "50 Butterfly": "28.34",
-    "50 Freestyle": "21.40",
-    "50 Breaststroke": "30.13",
-    "50 Backstroke": "27.65"
+    "25 Butterfly": "28.34",
+    "25 Freestyle": "21.40",
+    "25 Breaststroke": "30.13",
+    "25 Backstroke": "27.65"
   }
 }

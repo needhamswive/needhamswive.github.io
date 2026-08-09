@@ -1,7 +1,7 @@
 {
   "name": "Rowan Bruzewicz",
   "ageGroup": "8 & Under",
-  "fly50Times": [
+  "fly25Times": [
     {
       "meet": "Blue vs. Gold (6/30)",
       "time": "35.28"
@@ -23,7 +23,7 @@
       "time": "36.25"
     }
   ],
-  "free50Times": [
+  "free25Times": [
     {
       "meet": "Blue vs. Gold (6/30)",
       "time": "29.44"
@@ -41,7 +41,7 @@
       "time": "28.93"
     }
   ],
-  "breast50Times": [
+  "breast25Times": [
     {
       "meet": "Blue vs. Gold (6/30)",
       "time": "40.85"
@@ -51,7 +51,7 @@
       "time": "43.40"
     }
   ],
-  "back50Times": [
+  "back25Times": [
     {
       "meet": "Blue vs. Gold (6/30)",
       "time": "32.37"
@@ -66,9 +66,9 @@
     }
   ],
   "seasonPrs": {
-    "50 Butterfly": "35.28",
-    "50 Freestyle": "28.93",
-    "50 Breaststroke": "40.85",
-    "50 Backstroke": "31.90"
+    "25 Butterfly": "35.28",
+    "25 Freestyle": "28.93",
+    "25 Breaststroke": "40.85",
+    "25 Backstroke": "31.90"
   }
 }

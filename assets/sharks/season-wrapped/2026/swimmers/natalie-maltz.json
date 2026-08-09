@@ -1,7 +1,7 @@
 {
   "name": "Natalie Maltz",
   "ageGroup": "8 & Under",
-  "fly50Times": [
+  "fly25Times": [
     {
       "meet": "Blue vs. Gold (6/30)",
       "time": "50.10"
@@ -11,7 +11,7 @@
       "time": "40.62"
     }
   ],
-  "free50Times": [
+  "free25Times": [
     {
       "meet": "Blue vs. Gold (6/30)",
       "time": "39.53"
@@ -45,7 +45,7 @@
       "time": "25.92"
     }
   ],
-  "breast50Times": [
+  "breast25Times": [
     {
       "meet": "Blue vs. Gold (6/30)",
       "time": "53.07"
@@ -67,7 +67,7 @@
       "time": "35.60"
     }
   ],
-  "back50Times": [
+  "back25Times": [
     {
       "meet": "Blue vs. Gold (6/30)",
       "time": "41.07"
@@ -98,9 +98,9 @@
     }
   ],
   "seasonPrs": {
-    "50 Butterfly": "40.62",
-    "50 Freestyle": "25.92",
-    "50 Breaststroke": "35.60",
-    "50 Backstroke": "28.35"
+    "25 Butterfly": "40.62",
+    "25 Freestyle": "25.92",
+    "25 Breaststroke": "35.60",
+    "25 Backstroke": "28.35"
   }
 }

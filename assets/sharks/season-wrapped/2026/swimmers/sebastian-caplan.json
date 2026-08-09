@@ -1,7 +1,7 @@
 {
   "name": "Sebastian Caplan",
   "ageGroup": "8 & Under",
-  "fly50Times": [
+  "fly25Times": [
     {
       "meet": "Blue vs. Gold (6/30)",
       "time": "27.16"
@@ -27,7 +27,7 @@
       "time": "30.31"
     }
   ],
-  "free50Times": [
+  "free25Times": [
     {
       "meet": "Blue vs. Gold (6/30)",
       "time": "23.84"
@@ -49,7 +49,7 @@
       "time": "21.06"
     }
   ],
-  "breast50Times": [
+  "breast25Times": [
     {
       "meet": "Blue vs. Gold (6/30)",
       "time": "25.85"
@@ -80,8 +80,8 @@
     }
   ],
   "seasonPrs": {
-    "50 Butterfly": "26.90",
-    "50 Freestyle": "21.06",
-    "50 Breaststroke": "24.09"
+    "25 Butterfly": "26.90",
+    "25 Freestyle": "21.06",
+    "25 Breaststroke": "24.09"
   }
 }

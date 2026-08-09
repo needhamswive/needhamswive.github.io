@@ -2,7 +2,7 @@
   "name": "Amaya Agnani",
   "ageGroup": "8 & Under",
   "2025Wrapped": true,
-  "fly50Times": [
+  "fly25Times": [
     {
       "meet": "Blue vs. Gold (6/30)",
       "time": "37.68"
@@ -16,7 +16,7 @@
       "time": "37.19"
     }
   ],
-  "free50Times": [
+  "free25Times": [
     {
       "meet": "Blue vs. Gold (6/30)",
       "time": "28.16"
@@ -38,7 +38,7 @@
       "time": "24.31"
     }
   ],
-  "breast50Times": [
+  "breast25Times": [
     {
       "meet": "Blue vs. Gold (6/30)",
       "time": "35.09"
@@ -60,7 +60,7 @@
       "time": "31.30"
     }
   ],
-  "back50Times": [
+  "back25Times": [
     {
       "meet": "Blue vs. Gold (6/30)",
       "time": "33.90"
@@ -79,9 +79,9 @@
     }
   ],
   "seasonPrs": {
-    "50 Butterfly": "34.88",
-    "50 Freestyle": "24.31",
-    "50 Breaststroke": "30.65",
-    "50 Backstroke": "28.40"
+    "25 Butterfly": "34.88",
+    "25 Freestyle": "24.31",
+    "25 Breaststroke": "30.65",
+    "25 Backstroke": "28.40"
   }
 }

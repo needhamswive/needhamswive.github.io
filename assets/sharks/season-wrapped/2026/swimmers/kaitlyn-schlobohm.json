@@ -2,7 +2,7 @@
   "name": "Kaitlyn Schlobohm",
   "ageGroup": "8 & Under",
   "2025Wrapped": true,
-  "fly50Times": [
+  "fly25Times": [
     {
       "meet": "Blue vs. Gold (6/30)",
       "time": "29.22"
@@ -32,7 +32,7 @@
       "time": "26.10"
     }
   ],
-  "free50Times": [
+  "free25Times": [
     {
       "meet": "Blue vs. Gold (6/30)",
       "time": "24.60"
@@ -50,7 +50,7 @@
       "time": "24.85"
     }
   ],
-  "breast50Times": [
+  "breast25Times": [
     {
       "meet": "Blue vs. Gold (6/30)",
       "time": "34.97"
@@ -68,7 +68,7 @@
       "time": "34.09"
     }
   ],
-  "back50Times": [
+  "back25Times": [
     {
       "meet": "Blue vs. Gold (6/30)",
       "time": "30.00"
@@ -79,9 +79,9 @@
     }
   ],
   "seasonPrs": {
-    "50 Butterfly": "26.10",
-    "50 Freestyle": "24.15",
-    "50 Breaststroke": "32.09",
-    "50 Backstroke": "30.00"
+    "25 Butterfly": "26.10",
+    "25 Freestyle": "24.15",
+    "25 Breaststroke": "32.09",
+    "25 Backstroke": "30.00"
   }
 }

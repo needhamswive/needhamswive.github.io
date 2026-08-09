@@ -2,7 +2,7 @@
   "name": "Annabelle Stone",
   "ageGroup": "8 & Under",
   "2025Wrapped": true,
-  "fly50Times": [
+  "fly25Times": [
     {
       "meet": "Blue vs. Gold (6/30)",
       "time": "30.72"
@@ -32,7 +32,7 @@
       "time": "28.15"
     }
   ],
-  "free50Times": [
+  "free25Times": [
     {
       "meet": "Blue vs. Gold (6/30)",
       "time": "23.63"
@@ -50,7 +50,7 @@
       "time": "20.90"
     }
   ],
-  "breast50Times": [
+  "breast25Times": [
     {
       "meet": "Blue vs. Gold (6/30)",
       "time": "41.40"
@@ -80,7 +80,7 @@
       "time": "29.93"
     }
   ],
-  "back50Times": [
+  "back25Times": [
     {
       "meet": "Blue vs. Gold (6/30)",
       "time": "28.78"
@@ -91,9 +91,9 @@
     }
   ],
   "seasonPrs": {
-    "50 Butterfly": "23.97",
-    "50 Freestyle": "20.90",
-    "50 Breaststroke": "29.93",
-    "50 Backstroke": "28.78"
+    "25 Butterfly": "23.97",
+    "25 Freestyle": "20.90",
+    "25 Breaststroke": "29.93",
+    "25 Backstroke": "28.78"
   }
 }

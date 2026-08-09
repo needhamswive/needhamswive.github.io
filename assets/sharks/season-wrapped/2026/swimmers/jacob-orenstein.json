@@ -1,7 +1,7 @@
 {
   "name": "Jacob Orenstein",
   "ageGroup": "8 & Under",
-  "fly50Times": [
+  "fly25Times": [
     {
       "meet": "Dedham (7/9)",
       "time": "24.75"
@@ -27,7 +27,7 @@
       "time": "26.97"
     }
   ],
-  "free50Times": [
+  "free25Times": [
     {
       "meet": "Norwood (7/16)",
       "time": "24.35"
@@ -37,7 +37,7 @@
       "time": "22.05"
     }
   ],
-  "breast50Times": [
+  "breast25Times": [
     {
       "meet": "Natick (7/28)",
       "time": "28.87"
@@ -51,7 +51,7 @@
       "time": "26.12"
     }
   ],
-  "back50Times": [
+  "back25Times": [
     {
       "meet": "Dedham (7/9)",
       "time": "26.09"
@@ -74,9 +74,9 @@
     }
   ],
   "seasonPrs": {
-    "50 Butterfly": "24.62",
-    "50 Freestyle": "22.05",
-    "50 Breaststroke": "26.12",
-    "50 Backstroke": "23.69"
+    "25 Butterfly": "24.62",
+    "25 Freestyle": "22.05",
+    "25 Breaststroke": "26.12",
+    "25 Backstroke": "23.69"
   }
 }

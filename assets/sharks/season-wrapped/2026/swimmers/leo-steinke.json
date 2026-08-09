@@ -1,13 +1,13 @@
 {
   "name": "Leo Steinke",
   "ageGroup": "8 & Under",
-  "fly50Times": [
+  "fly25Times": [
     {
       "meet": "Canton (7/29)",
       "time": "41.77"
     }
   ],
-  "free50Times": [
+  "free25Times": [
     {
       "meet": "Newton (7/23)",
       "time": "27.94"
@@ -18,7 +18,7 @@
     }
   ],
   "seasonPrs": {
-    "50 Butterfly": "41.77",
-    "50 Freestyle": "27.94"
+    "25 Butterfly": "41.77",
+    "25 Freestyle": "27.94"
   }
 }

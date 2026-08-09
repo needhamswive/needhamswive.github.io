@@ -1,7 +1,7 @@
 {
   "name": "Cameron Botelho",
   "ageGroup": "8 & Under",
-  "fly50Times": [
+  "fly25Times": [
     {
       "meet": "Norwood (7/16)",
       "time": "34.87"
@@ -19,7 +19,7 @@
       "time": "41.87"
     }
   ],
-  "free50Times": [
+  "free25Times": [
     {
       "meet": "Blue vs. Gold (6/30)",
       "time": "27.53"
@@ -37,7 +37,7 @@
       "time": "28.66"
     }
   ],
-  "breast50Times": [
+  "breast25Times": [
     {
       "meet": "Blue vs. Gold (6/30)",
       "time": "35.84"
@@ -75,7 +75,7 @@
       "time": "29.29"
     }
   ],
-  "back50Times": [
+  "back25Times": [
     {
       "meet": "Blue vs. Gold (6/30)",
       "time": "39.59"
@@ -106,9 +106,9 @@
     }
   ],
   "seasonPrs": {
-    "50 Butterfly": "34.87",
-    "50 Freestyle": "27.16",
-    "50 Breaststroke": "29.29",
-    "50 Backstroke": "24.94"
+    "25 Butterfly": "34.87",
+    "25 Freestyle": "27.16",
+    "25 Breaststroke": "29.29",
+    "25 Backstroke": "24.94"
   }
 }

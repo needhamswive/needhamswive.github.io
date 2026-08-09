@@ -3,7 +3,7 @@
   "ageGroup": "8 & Under",
   "swimmerOfTheWeek": true,
   "2025Wrapped": true,
-  "fly50Times": [
+  "fly25Times": [
     {
       "meet": "Blue vs. Gold (6/30)",
       "time": "25.50"
@@ -25,7 +25,7 @@
       "time": "21.49"
     }
   ],
-  "free50Times": [
+  "free25Times": [
     {
       "meet": "Blue vs. Gold (6/30)",
       "time": "19.47"
@@ -47,7 +47,7 @@
       "time": "18.41"
     }
   ],
-  "breast50Times": [
+  "breast25Times": [
     {
       "meet": "Blue vs. Gold (6/30)",
       "time": "36.28"
@@ -65,7 +65,7 @@
       "time": "27.38"
     }
   ],
-  "back50Times": [
+  "back25Times": [
     {
       "meet": "Blue vs. Gold (6/30)",
       "time": "24.72"
@@ -100,9 +100,9 @@
     }
   ],
   "seasonPrs": {
-    "50 Butterfly": "21.49",
-    "50 Freestyle": "18.41",
-    "50 Breaststroke": "27.38",
-    "50 Backstroke": "23.52"
+    "25 Butterfly": "21.49",
+    "25 Freestyle": "18.41",
+    "25 Breaststroke": "27.38",
+    "25 Backstroke": "23.52"
   }
 }

@@ -2,13 +2,13 @@
   "name": "Avery Bresnahan",
   "ageGroup": "8 & Under",
   "2025Wrapped": true,
-  "fly50Times": [
+  "fly25Times": [
     {
       "meet": "Blue vs. Gold (6/30)",
       "time": "46.47"
     }
   ],
-  "free50Times": [
+  "free25Times": [
     {
       "meet": "Blue vs. Gold (6/30)",
       "time": "40.65"
@@ -54,7 +54,7 @@
       "time": "38.45"
     }
   ],
-  "breast50Times": [
+  "breast25Times": [
     {
       "meet": "Blue vs. Gold (6/30)",
       "time": "54.22"
@@ -64,7 +64,7 @@
       "time": "49.57"
     }
   ],
-  "back50Times": [
+  "back25Times": [
     {
       "meet": "Blue vs. Gold (6/30)",
       "time": "45.47"
@@ -99,9 +99,9 @@
     }
   ],
   "seasonPrs": {
-    "50 Butterfly": "46.47",
-    "50 Freestyle": "37.27",
-    "50 Breaststroke": "49.57",
-    "50 Backstroke": "38.41"
+    "25 Butterfly": "46.47",
+    "25 Freestyle": "37.27",
+    "25 Breaststroke": "49.57",
+    "25 Backstroke": "38.41"
   }
 }

@@ -1,19 +1,19 @@
 {
   "name": "Larry Deng",
   "ageGroup": "8 & Under",
-  "fly50Times": [
+  "fly25Times": [
     {
       "meet": "Natick (7/28)",
       "time": "37.06"
     }
   ],
-  "free50Times": [
+  "free25Times": [
     {
       "meet": "Newton (7/23)",
       "time": "30.85"
     }
   ],
-  "breast50Times": [
+  "breast25Times": [
     {
       "meet": "Newton (7/23)",
       "time": "36.90"
@@ -24,8 +24,8 @@
     }
   ],
   "seasonPrs": {
-    "50 Butterfly": "37.06",
-    "50 Freestyle": "30.85",
-    "50 Breaststroke": "33.72"
+    "25 Butterfly": "37.06",
+    "25 Freestyle": "30.85",
+    "25 Breaststroke": "33.72"
   }
 }

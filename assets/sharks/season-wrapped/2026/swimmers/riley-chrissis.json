@@ -2,7 +2,7 @@
   "name": "Riley Chrissis",
   "ageGroup": "8 & Under",
   "swimmerOfTheWeek": true,
-  "fly50Times": [
+  "fly25Times": [
     {
       "meet": "Blue vs. Gold (6/30)",
       "time": "29.22"
@@ -24,7 +24,7 @@
       "time": "31.31"
     }
   ],
-  "free50Times": [
+  "free25Times": [
     {
       "meet": "Blue vs. Gold (6/30)",
       "time": "22.19"
@@ -58,7 +58,7 @@
       "time": "20.11"
     }
   ],
-  "breast50Times": [
+  "breast25Times": [
     {
       "meet": "Blue vs. Gold (6/30)",
       "time": "33.66"
@@ -72,7 +72,7 @@
       "time": "30.25"
     }
   ],
-  "back50Times": [
+  "back25Times": [
     {
       "meet": "Blue vs. Gold (6/30)",
       "time": "24.00"
@@ -107,9 +107,9 @@
     }
   ],
   "seasonPrs": {
-    "50 Butterfly": "26.37",
-    "50 Freestyle": "20.11",
-    "50 Breaststroke": "29.75",
-    "50 Backstroke": "24.00"
+    "25 Butterfly": "26.37",
+    "25 Freestyle": "20.11",
+    "25 Breaststroke": "29.75",
+    "25 Backstroke": "24.00"
   }
 }

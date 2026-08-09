@@ -1,7 +1,7 @@
 {
   "name": "Caitlin Forman",
   "ageGroup": "8 & Under",
-  "fly50Times": [
+  "fly25Times": [
     {
       "meet": "Blue vs. Gold (6/30)",
       "time": "47.29"
@@ -15,7 +15,7 @@
       "time": "46.82"
     }
   ],
-  "free50Times": [
+  "free25Times": [
     {
       "meet": "Blue vs. Gold (6/30)",
       "time": "34.81"
@@ -45,7 +45,7 @@
       "time": "32.28"
     }
   ],
-  "breast50Times": [
+  "breast25Times": [
     {
       "meet": "Blue vs. Gold (6/30)",
       "time": "51.82"
@@ -63,7 +63,7 @@
       "time": "36.85"
     }
   ],
-  "back50Times": [
+  "back25Times": [
     {
       "meet": "Blue vs. Gold (6/30)",
       "time": "54.69"
@@ -102,9 +102,9 @@
     }
   ],
   "seasonPrs": {
-    "50 Butterfly": "46.82",
-    "50 Freestyle": "32.28",
-    "50 Breaststroke": "36.85",
-    "50 Backstroke": "30.56"
+    "25 Butterfly": "46.82",
+    "25 Freestyle": "32.28",
+    "25 Breaststroke": "36.85",
+    "25 Backstroke": "30.56"
   }
 }

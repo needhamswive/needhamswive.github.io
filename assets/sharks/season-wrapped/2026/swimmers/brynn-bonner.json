@@ -2,7 +2,7 @@
   "name": "Brynn Bonner",
   "ageGroup": "8 & Under",
   "swimmerOfTheWeek": true,
-  "fly50Times": [
+  "fly25Times": [
     {
       "meet": "Medfield (7/14)",
       "time": "44.75"
@@ -12,7 +12,7 @@
       "time": "44.78"
     }
   ],
-  "free50Times": [
+  "free25Times": [
     {
       "meet": "Medfield (7/14)",
       "time": "42.72"
@@ -42,7 +42,7 @@
       "time": "39.76"
     }
   ],
-  "breast50Times": [
+  "breast25Times": [
     {
       "meet": "Dedham (7/9)",
       "time": "48.69"
@@ -52,7 +52,7 @@
       "time": "43.57"
     }
   ],
-  "back50Times": [
+  "back25Times": [
     {
       "meet": "Dedham (7/9)",
       "time": "41.87"
@@ -75,9 +75,9 @@
     }
   ],
   "seasonPrs": {
-    "50 Butterfly": "44.75",
-    "50 Freestyle": "32.36",
-    "50 Breaststroke": "43.57",
-    "50 Backstroke": "32.62"
+    "25 Butterfly": "44.75",
+    "25 Freestyle": "32.36",
+    "25 Breaststroke": "43.57",
+    "25 Backstroke": "32.62"
   }
 }

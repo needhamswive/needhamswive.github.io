@@ -2,7 +2,7 @@
   "name": "Zachary Dildine",
   "ageGroup": "8 & Under",
   "swimmerOfTheWeek": true,
-  "fly50Times": [
+  "fly25Times": [
     {
       "meet": "Blue vs. Gold (6/30)",
       "time": "36.91"
@@ -20,7 +20,7 @@
       "time": "32.69"
     }
   ],
-  "free50Times": [
+  "free25Times": [
     {
       "meet": "Blue vs. Gold (6/30)",
       "time": "23.59"
@@ -58,7 +58,7 @@
       "time": "21.83"
     }
   ],
-  "breast50Times": [
+  "breast25Times": [
     {
       "meet": "Blue vs. Gold (6/30)",
       "time": "38.63"
@@ -76,7 +76,7 @@
       "time": "31.41"
     }
   ],
-  "back50Times": [
+  "back25Times": [
     {
       "meet": "Blue vs. Gold (6/30)",
       "time": "32.02"
@@ -103,9 +103,9 @@
     }
   ],
   "seasonPrs": {
-    "50 Butterfly": "32.69",
-    "50 Freestyle": "21.13",
-    "50 Breaststroke": "31.41",
-    "50 Backstroke": "24.99"
+    "25 Butterfly": "32.69",
+    "25 Freestyle": "21.13",
+    "25 Breaststroke": "31.41",
+    "25 Backstroke": "24.99"
   }
 }

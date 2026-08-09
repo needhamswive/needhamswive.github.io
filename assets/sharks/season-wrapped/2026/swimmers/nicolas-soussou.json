@@ -1,7 +1,7 @@
 {
   "name": "Nicolas Soussou",
   "ageGroup": "8 & Under",
-  "fly50Times": [
+  "fly25Times": [
     {
       "meet": "Blue vs. Gold (6/30)",
       "time": "38.83"
@@ -15,7 +15,7 @@
       "time": "35.97"
     }
   ],
-  "free50Times": [
+  "free25Times": [
     {
       "meet": "Blue vs. Gold (6/30)",
       "time": "31.68"
@@ -49,7 +49,7 @@
       "time": "27.97"
     }
   ],
-  "breast50Times": [
+  "breast25Times": [
     {
       "meet": "Blue vs. Gold (6/30)",
       "time": "48.06"
@@ -67,7 +67,7 @@
       "time": "42.72"
     }
   ],
-  "back50Times": [
+  "back25Times": [
     {
       "meet": "Blue vs. Gold (6/30)",
       "time": "45.84"
@@ -90,9 +90,9 @@
     }
   ],
   "seasonPrs": {
-    "50 Butterfly": "35.97",
-    "50 Freestyle": "27.97",
-    "50 Breaststroke": "40.59",
-    "50 Backstroke": "34.94"
+    "25 Butterfly": "35.97",
+    "25 Freestyle": "27.97",
+    "25 Breaststroke": "40.59",
+    "25 Backstroke": "34.94"
   }
 }

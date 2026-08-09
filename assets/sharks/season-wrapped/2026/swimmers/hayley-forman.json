@@ -2,7 +2,7 @@
   "name": "Hayley Forman",
   "ageGroup": "8 & Under",
   "2025Wrapped": true,
-  "fly50Times": [
+  "fly25Times": [
     {
       "meet": "Blue vs. Gold (6/30)",
       "time": "37.19"
@@ -20,7 +20,7 @@
       "time": "37.00"
     }
   ],
-  "free50Times": [
+  "free25Times": [
     {
       "meet": "Blue vs. Gold (6/30)",
       "time": "27.89"
@@ -34,7 +34,7 @@
       "time": "24.03"
     }
   ],
-  "breast50Times": [
+  "breast25Times": [
     {
       "meet": "Blue vs. Gold (6/30)",
       "time": "33.14"
@@ -68,7 +68,7 @@
       "time": "34.08"
     }
   ],
-  "back50Times": [
+  "back25Times": [
     {
       "meet": "Blue vs. Gold (6/30)",
       "time": "44.89"
@@ -103,9 +103,9 @@
     }
   ],
   "seasonPrs": {
-    "50 Butterfly": "37.00",
-    "50 Freestyle": "24.03",
-    "50 Breaststroke": "31.60",
-    "50 Backstroke": "26.53"
+    "25 Butterfly": "37.00",
+    "25 Freestyle": "24.03",
+    "25 Breaststroke": "31.60",
+    "25 Backstroke": "26.53"
   }
 }

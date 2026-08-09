@@ -2,7 +2,7 @@
   "name": "Ronan Afzali",
   "ageGroup": "8 & Under",
   "2025Wrapped": true,
-  "fly50Times": [
+  "fly25Times": [
     {
       "meet": "Blue vs. Gold (6/30)",
       "time": "19.50"
@@ -28,7 +28,7 @@
       "time": "18.07"
     }
   ],
-  "free50Times": [
+  "free25Times": [
     {
       "meet": "Blue vs. Gold (6/30)",
       "time": "17.91"
@@ -50,7 +50,7 @@
       "time": "16.94"
     }
   ],
-  "breast50Times": [
+  "breast25Times": [
     {
       "meet": "Blue vs. Gold (6/30)",
       "time": "24.74"
@@ -72,7 +72,7 @@
       "time": "22.44"
     }
   ],
-  "back50Times": [
+  "back25Times": [
     {
       "meet": "Blue vs. Gold (6/30)",
       "time": "20.10"
@@ -91,9 +91,9 @@
     }
   ],
   "seasonPrs": {
-    "50 Butterfly": "18.07",
-    "50 Freestyle": "16.60",
-    "50 Breaststroke": "22.44",
-    "50 Backstroke": "18.84"
+    "25 Butterfly": "18.07",
+    "25 Freestyle": "16.60",
+    "25 Breaststroke": "22.44",
+    "25 Backstroke": "18.84"
   }
 }

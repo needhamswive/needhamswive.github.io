@@ -1,13 +1,13 @@
 {
   "name": "Shay Doar",
   "ageGroup": "8 & Under",
-  "fly50Times": [
+  "fly25Times": [
     {
       "meet": "Medfield (7/14)",
       "time": "35.94"
     }
   ],
-  "free50Times": [
+  "free25Times": [
     {
       "meet": "Dedham (7/9)",
       "time": "24.81"
@@ -21,7 +21,7 @@
       "time": "23.16"
     }
   ],
-  "breast50Times": [
+  "breast25Times": [
     {
       "meet": "Medfield (7/14)",
       "time": "26.28"
@@ -31,16 +31,16 @@
       "time": "24.59"
     }
   ],
-  "back50Times": [
+  "back25Times": [
     {
       "meet": "Dedham (7/9)",
       "time": "25.40"
     }
   ],
   "seasonPrs": {
-    "50 Butterfly": "35.94",
-    "50 Freestyle": "22.00",
-    "50 Breaststroke": "24.59",
-    "50 Backstroke": "25.40"
+    "25 Butterfly": "35.94",
+    "25 Freestyle": "22.00",
+    "25 Breaststroke": "24.59",
+    "25 Backstroke": "25.40"
   }
 }

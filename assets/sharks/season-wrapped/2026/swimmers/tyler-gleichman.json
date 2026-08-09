@@ -2,7 +2,7 @@
   "name": "Tyler Gleichman",
   "ageGroup": "8 & Under",
   "swimmerOfTheWeek": true,
-  "fly50Times": [
+  "fly25Times": [
     {
       "meet": "Blue vs. Gold (6/30)",
       "time": "32.85"
@@ -24,7 +24,7 @@
       "time": "28.63"
     }
   ],
-  "free50Times": [
+  "free25Times": [
     {
       "meet": "Blue vs. Gold (6/30)",
       "time": "26.60"
@@ -46,7 +46,7 @@
       "time": "26.66"
     }
   ],
-  "breast50Times": [
+  "breast25Times": [
     {
       "meet": "Blue vs. Gold (6/30)",
       "time": "31.00"
@@ -72,7 +72,7 @@
       "time": "27.42"
     }
   ],
-  "back50Times": [
+  "back25Times": [
     {
       "meet": "Blue vs. Gold (6/30)",
       "time": "31.72"
@@ -103,9 +103,9 @@
     }
   ],
   "seasonPrs": {
-    "50 Butterfly": "28.63",
-    "50 Freestyle": "25.15",
-    "50 Breaststroke": "27.42",
-    "50 Backstroke": "28.74"
+    "25 Butterfly": "28.63",
+    "25 Freestyle": "25.15",
+    "25 Breaststroke": "27.42",
+    "25 Backstroke": "28.74"
   }
 }

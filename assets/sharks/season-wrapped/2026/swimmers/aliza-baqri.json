@@ -1,7 +1,7 @@
 {
   "name": "Aliza Baqri",
   "ageGroup": "8 & Under",
-  "fly50Times": [
+  "fly25Times": [
     {
       "meet": "Blue vs. Gold (6/30)",
       "time": "42.64"
@@ -11,7 +11,7 @@
       "time": "41.25"
     }
   ],
-  "free50Times": [
+  "free25Times": [
     {
       "meet": "Blue vs. Gold (6/30)",
       "time": "33.78"
@@ -41,7 +41,7 @@
       "time": "25.79"
     }
   ],
-  "breast50Times": [
+  "breast25Times": [
     {
       "meet": "Blue vs. Gold (6/30)",
       "time": "45.04"
@@ -59,7 +59,7 @@
       "time": "42.44"
     }
   ],
-  "back50Times": [
+  "back25Times": [
     {
       "meet": "Blue vs. Gold (6/30)",
       "time": "47.49"
@@ -82,9 +82,9 @@
     }
   ],
   "seasonPrs": {
-    "50 Butterfly": "41.25",
-    "50 Freestyle": "25.79",
-    "50 Breaststroke": "42.44",
-    "50 Backstroke": "39.11"
+    "25 Butterfly": "41.25",
+    "25 Freestyle": "25.79",
+    "25 Breaststroke": "42.44",
+    "25 Backstroke": "39.11"
   }
 }

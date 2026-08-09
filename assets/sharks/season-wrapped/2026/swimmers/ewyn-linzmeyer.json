@@ -1,7 +1,7 @@
 {
   "name": "Ewyn Linzmeyer",
   "ageGroup": "8 & Under",
-  "fly50Times": [
+  "fly25Times": [
     {
       "meet": "Blue vs. Gold (6/30)",
       "time": "43.28"
@@ -19,7 +19,7 @@
       "time": "45.06"
     }
   ],
-  "free50Times": [
+  "free25Times": [
     {
       "meet": "Blue vs. Gold (6/30)",
       "time": "36.14"
@@ -41,7 +41,7 @@
       "time": "36.85"
     }
   ],
-  "breast50Times": [
+  "breast25Times": [
     {
       "meet": "Blue vs. Gold (6/30)",
       "time": "40.42"
@@ -51,7 +51,7 @@
       "time": "36.88"
     }
   ],
-  "back50Times": [
+  "back25Times": [
     {
       "meet": "Blue vs. Gold (6/30)",
       "time": "46.19"
@@ -74,9 +74,9 @@
     }
   ],
   "seasonPrs": {
-    "50 Butterfly": "43.16",
-    "50 Freestyle": "36.14",
-    "50 Breaststroke": "36.88",
-    "50 Backstroke": "37.01"
+    "25 Butterfly": "43.16",
+    "25 Freestyle": "36.14",
+    "25 Breaststroke": "36.88",
+    "25 Backstroke": "37.01"
   }
 }
