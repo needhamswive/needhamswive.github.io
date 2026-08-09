@@ -199,7 +199,7 @@ function processAthlete(athlete) {
   if (athlete.championEvents) {
     processTemplateReplacements("champion-events", athlete.championEvents);
   } else {
-    removeSlide("championEvents");
+    removeSlide("champion-events");
   }
 
   if (athlete.university) {
