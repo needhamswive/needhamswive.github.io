@@ -108,5 +108,9 @@
       "event": "25 Backstroke",
       "time": "18.84"
     }
+  ],
+  "championEvents": [
+    "8 & Under Butterfly",
+    "8 & Under Backstroke"
   ]
 }
