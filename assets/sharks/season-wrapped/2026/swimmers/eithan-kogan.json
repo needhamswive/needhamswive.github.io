@@ -86,10 +86,22 @@
       "time": "29.00"
     }
   ],
-  "seasonPrs": {
-    "50 Butterfly": "27.84",
-    "50 Freestyle": "24.25",
-    "50 Breaststroke": "33.84",
-    "50 Backstroke": "28.62"
-  }
+  "seasonPrs": [
+    {
+      "event": "50 Butterfly",
+      "time": "27.84"
+    },
+    {
+      "event": "50 Freestyle",
+      "time": "24.25"
+    },
+    {
+      "event": "50 Breaststroke",
+      "time": "33.84"
+    },
+    {
+      "event": "50 Backstroke",
+      "time": "28.62"
+    }
+  ]
 }

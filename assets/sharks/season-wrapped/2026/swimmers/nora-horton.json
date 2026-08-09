@@ -7,7 +7,10 @@
       "time": "42.13"
     }
   ],
-  "seasonPrs": {
-    "50 Breaststroke": "42.13"
-  }
+  "seasonPrs": [
+    {
+      "event": "50 Breaststroke",
+      "time": "42.13"
+    }
+  ]
 }

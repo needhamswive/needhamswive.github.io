@@ -41,9 +41,18 @@
       "time": "24.45"
     }
   ],
-  "seasonPrs": {
-    "50 Butterfly": "25.37",
-    "50 Breaststroke": "29.58",
-    "50 Backstroke": "24.45"
-  }
+  "seasonPrs": [
+    {
+      "event": "50 Butterfly",
+      "time": "25.37"
+    },
+    {
+      "event": "50 Breaststroke",
+      "time": "29.58"
+    },
+    {
+      "event": "50 Backstroke",
+      "time": "24.45"
+    }
+  ]
 }

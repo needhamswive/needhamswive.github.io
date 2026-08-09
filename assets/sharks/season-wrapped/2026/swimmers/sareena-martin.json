@@ -24,9 +24,18 @@
       "time": "28.41"
     }
   ],
-  "seasonPrs": {
-    "25 Freestyle": "19.40",
-    "25 Breaststroke": "25.97",
-    "25 Backstroke": "28.41"
-  }
+  "seasonPrs": [
+    {
+      "event": "25 Freestyle",
+      "time": "19.40"
+    },
+    {
+      "event": "25 Breaststroke",
+      "time": "25.97"
+    },
+    {
+      "event": "25 Backstroke",
+      "time": "28.41"
+    }
+  ]
 }

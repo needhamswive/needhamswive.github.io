@@ -22,8 +22,14 @@
       "time": "23.60"
     }
   ],
-  "seasonPrs": {
-    "25 Butterfly": "23.59",
-    "25 Breaststroke": "23.00"
-  }
+  "seasonPrs": [
+    {
+      "event": "25 Butterfly",
+      "time": "23.59"
+    },
+    {
+      "event": "25 Breaststroke",
+      "time": "23.00"
+    }
+  ]
 }

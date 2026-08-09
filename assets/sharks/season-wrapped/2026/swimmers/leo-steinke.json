@@ -17,8 +17,14 @@
       "time": "36.73"
     }
   ],
-  "seasonPrs": {
-    "25 Butterfly": "41.77",
-    "25 Freestyle": "27.94"
-  }
+  "seasonPrs": [
+    {
+      "event": "25 Butterfly",
+      "time": "41.77"
+    },
+    {
+      "event": "25 Freestyle",
+      "time": "27.94"
+    }
+  ]
 }
