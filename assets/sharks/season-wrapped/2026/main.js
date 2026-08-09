@@ -190,8 +190,8 @@ function processAthlete(athlete) {
     removeSlide("swimmer-of-the-week");
   }
 
-  if (athlete.goldenGoggle) {
-    updateInnerHTML("golden-goggle-award", athlete.goldenGoggle);
+  if (athlete.goldenGoggles) {
+    updateInnerHTML("golden-goggle-award", athlete.goldenGoggles);
   } else {
     removeSlide("golden-goggle");
   }
