@@ -1,3 +1,75 @@
 {
-  "name": "Rousseau Pogue"
+  "name": "Rousseau Pogue",
+  "ageGroup": "13 &ndash; 14",
+  "2025Wrapped": true,
+  "fly50Times": [
+    {
+      "meet": "Norwood (7/16)",
+      "time": "36.97"
+    },
+    {
+      "meet": "Canton (7/29)",
+      "time": "36.93"
+    },
+    {
+      "meet": "Westwood (8/3)",
+      "time": "36.53"
+    },
+    {
+      "meet": "Walpole (8/6)",
+      "time": "36.87"
+    },
+    {
+      "meet": "Championships (8/8)",
+      "time": "37.37"
+    }
+  ],
+  "free50Times": [
+    {
+      "meet": "Norwood (7/16)",
+      "time": "32.63"
+    },
+    {
+      "meet": "Natick (7/28)",
+      "time": "31.94"
+    },
+    {
+      "meet": "Canton (7/29)",
+      "time": "31.68"
+    }
+  ],
+  "breast50Times": [
+    {
+      "meet": "Dedham (7/9)",
+      "time": "41.94"
+    },
+    {
+      "meet": "Westwood (8/3)",
+      "time": "42.53"
+    },
+    {
+      "meet": "Walpole (8/6)",
+      "time": "43.44"
+    },
+    {
+      "meet": "Championships (8/8)",
+      "time": "42.14"
+    }
+  ],
+  "back50Times": [
+    {
+      "meet": "Dedham (7/9)",
+      "time": "37.44"
+    },
+    {
+      "meet": "Natick (7/28)",
+      "time": "38.40"
+    }
+  ],
+  "seasonPrs": {
+    "50 Butterfly": "36.53",
+    "50 Freestyle": "31.68",
+    "50 Breaststroke": "41.94",
+    "50 Backstroke": "37.44"
+  }
 }

@@ -1,3 +1,91 @@
 {
-  "name": "Chloe Afzali"
+  "name": "Chloe Afzali",
+  "ageGroup": "15 & Over",
+  "2025Wrapped": true,
+  "fly50Times": [
+    {
+      "meet": "Blue vs. Gold (6/30)",
+      "time": "33.97"
+    },
+    {
+      "meet": "Norwood (7/16)",
+      "time": "34.19"
+    },
+    {
+      "meet": "Canton (7/29)",
+      "time": "34.31"
+    }
+  ],
+  "free50Times": [
+    {
+      "meet": "Blue vs. Gold (6/30)",
+      "time": "31.00"
+    },
+    {
+      "meet": "Norwood (7/16)",
+      "time": "29.54"
+    },
+    {
+      "meet": "Natick (7/28)",
+      "time": "31.75"
+    }
+  ],
+  "breast50Times": [
+    {
+      "meet": "Blue vs. Gold (6/30)",
+      "time": "40.88"
+    },
+    {
+      "meet": "Sherborn (7/2)",
+      "time": "39.30"
+    },
+    {
+      "meet": "Dedham (7/9)",
+      "time": "37.72"
+    },
+    {
+      "meet": "Natick (7/28)",
+      "time": "38.06"
+    },
+    {
+      "meet": "Westwood (8/3)",
+      "time": "39.38"
+    },
+    {
+      "meet": "Championships (8/8)",
+      "time": "37.04"
+    }
+  ],
+  "back50Times": [
+    {
+      "meet": "Blue vs. Gold (6/30)",
+      "time": "33.15"
+    },
+    {
+      "meet": "Sherborn (7/2)",
+      "time": "32.59"
+    },
+    {
+      "meet": "Dedham (7/9)",
+      "time": "30.75"
+    },
+    {
+      "meet": "Canton (7/29)",
+      "time": "30.44"
+    },
+    {
+      "meet": "Westwood (8/3)",
+      "time": "30.94"
+    },
+    {
+      "meet": "Championships (8/8)",
+      "time": "29.43"
+    }
+  ],
+  "seasonPrs": {
+    "50 Butterfly": "33.97",
+    "50 Freestyle": "29.54",
+    "50 Breaststroke": "37.04",
+    "50 Backstroke": "29.43"
+  }
 }

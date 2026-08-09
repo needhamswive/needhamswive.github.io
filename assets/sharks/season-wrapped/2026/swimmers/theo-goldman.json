@@ -1,3 +1,72 @@
 {
-  "name": "Theo Goldman"
+  "name": "Theo Goldman",
+  "ageGroup": "9 &ndash; 10",
+  "swimmerOfTheWeek": true,
+  "free25Times": [
+    {
+      "meet": "Dedham (7/9)",
+      "time": "22.29"
+    },
+    {
+      "meet": "Medfield (7/14)",
+      "time": "22.78"
+    },
+    {
+      "meet": "Norwood (7/16)",
+      "time": "20.85"
+    },
+    {
+      "meet": "Walpole (8/6)",
+      "time": "22.40"
+    },
+    {
+      "meet": "Championships (8/8)",
+      "time": "21.50"
+    }
+  ],
+  "breast25Times": [
+    {
+      "meet": "Medfield (7/14)",
+      "time": "27.31"
+    },
+    {
+      "meet": "Norwood (7/16)",
+      "time": "26.69"
+    },
+    {
+      "meet": "Canton (7/29)",
+      "time": "25.47"
+    },
+    {
+      "meet": "Westwood (8/3)",
+      "time": "25.93"
+    }
+  ],
+  "back25Times": [
+    {
+      "meet": "Dedham (7/9)",
+      "time": "25.66"
+    },
+    {
+      "meet": "Canton (7/29)",
+      "time": "26.60"
+    },
+    {
+      "meet": "Westwood (8/3)",
+      "time": "30.81"
+    },
+    {
+      "meet": "Walpole (8/6)",
+      "time": "26.16"
+    },
+    {
+      "meet": "Championships (8/8)",
+      "time": "25.38"
+    }
+  ],
+  "seasonPrs": {
+    "25 Freestyle": "20.85",
+    "25 Breaststroke": "25.47",
+    "25 Backstroke": "25.38"
+  }
 }

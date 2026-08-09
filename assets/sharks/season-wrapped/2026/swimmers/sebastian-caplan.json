@@ -1,3 +1,87 @@
 {
-  "name": "Sebastian Caplan"
+  "name": "Sebastian Caplan",
+  "ageGroup": "8 & Under",
+  "fly50Times": [
+    {
+      "meet": "Blue vs. Gold (6/30)",
+      "time": "27.16"
+    },
+    {
+      "meet": "Sherborn (7/2)",
+      "time": "29.31"
+    },
+    {
+      "meet": "Medfield (7/14)",
+      "time": "29.72"
+    },
+    {
+      "meet": "Newton (7/23)",
+      "time": "28.97"
+    },
+    {
+      "meet": "Canton (7/29)",
+      "time": "26.90"
+    },
+    {
+      "meet": "Walpole (8/6)",
+      "time": "30.31"
+    }
+  ],
+  "free50Times": [
+    {
+      "meet": "Blue vs. Gold (6/30)",
+      "time": "23.84"
+    },
+    {
+      "meet": "Dedham (7/9)",
+      "time": "23.50"
+    },
+    {
+      "meet": "Medfield (7/14)",
+      "time": "25.72"
+    },
+    {
+      "meet": "Norwood (7/16)",
+      "time": "23.59"
+    },
+    {
+      "meet": "Championships (8/8)",
+      "time": "21.06"
+    }
+  ],
+  "breast50Times": [
+    {
+      "meet": "Blue vs. Gold (6/30)",
+      "time": "25.85"
+    },
+    {
+      "meet": "Sherborn (7/2)",
+      "time": "24.90"
+    },
+    {
+      "meet": "Dedham (7/9)",
+      "time": "24.09"
+    },
+    {
+      "meet": "Norwood (7/16)",
+      "time": "25.03"
+    },
+    {
+      "meet": "Newton (7/23)",
+      "time": "24.43"
+    },
+    {
+      "meet": "Canton (7/29)",
+      "time": "24.19"
+    },
+    {
+      "meet": "Championships (8/8)",
+      "time": "24.10"
+    }
+  ],
+  "seasonPrs": {
+    "50 Butterfly": "26.90",
+    "50 Freestyle": "21.06",
+    "50 Breaststroke": "24.09"
+  }
 }

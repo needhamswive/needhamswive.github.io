@@ -1,3 +1,67 @@
 {
-  "name": "Hannah Lee"
+  "name": "Hannah Lee",
+  "ageGroup": "11 &ndash; 12",
+  "2025Wrapped": true,
+  "fly50Times": [
+    {
+      "meet": "Blue vs. Gold (6/30)",
+      "time": "41.37"
+    },
+    {
+      "meet": "Natick (7/28)",
+      "time": "41.44"
+    }
+  ],
+  "free50Times": [
+    {
+      "meet": "Blue vs. Gold (6/30)",
+      "time": "31.62"
+    },
+    {
+      "meet": "Canton (7/29)",
+      "time": "30.82"
+    },
+    {
+      "meet": "Championships (8/8)",
+      "time": "30.81"
+    }
+  ],
+  "breast50Times": [
+    {
+      "meet": "Blue vs. Gold (6/30)",
+      "time": "39.31"
+    },
+    {
+      "meet": "Dedham (7/9)",
+      "time": "38.87"
+    },
+    {
+      "meet": "Canton (7/29)",
+      "time": "38.56"
+    },
+    {
+      "meet": "Championships (8/8)",
+      "time": "38.11"
+    }
+  ],
+  "back50Times": [
+    {
+      "meet": "Blue vs. Gold (6/30)",
+      "time": "39.00"
+    },
+    {
+      "meet": "Dedham (7/9)",
+      "time": "38.88"
+    },
+    {
+      "meet": "Natick (7/28)",
+      "time": "39.86"
+    }
+  ],
+  "seasonPrs": {
+    "50 Butterfly": "41.37",
+    "50 Freestyle": "30.81",
+    "50 Breaststroke": "38.11",
+    "50 Backstroke": "38.88"
+  }
 }

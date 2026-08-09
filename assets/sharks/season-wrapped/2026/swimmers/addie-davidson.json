@@ -1,3 +1,67 @@
 {
-  "name": "Addie Davidson"
+  "name": "Addie Davidson",
+  "ageGroup": "9 &ndash; 10",
+  "2025Wrapped": true,
+  "fly25Times": [
+    {
+      "meet": "Blue vs. Gold (6/30)",
+      "time": "21.81"
+    },
+    {
+      "meet": "Sherborn (7/2)",
+      "time": "23.60"
+    },
+    {
+      "meet": "Medfield (7/14)",
+      "time": "26.34"
+    },
+    {
+      "meet": "Norwood (7/16)",
+      "time": "24.19"
+    }
+  ],
+  "free25Times": [
+    {
+      "meet": "Blue vs. Gold (6/30)",
+      "time": "19.54"
+    },
+    {
+      "meet": "Dedham (7/9)",
+      "time": "19.68"
+    }
+  ],
+  "breast25Times": [
+    {
+      "meet": "Blue vs. Gold (6/30)",
+      "time": "32.72"
+    },
+    {
+      "meet": "Medfield (7/14)",
+      "time": "31.43"
+    }
+  ],
+  "back25Times": [
+    {
+      "meet": "Blue vs. Gold (6/30)",
+      "time": "23.44"
+    },
+    {
+      "meet": "Sherborn (7/2)",
+      "time": "23.07"
+    },
+    {
+      "meet": "Dedham (7/9)",
+      "time": "22.75"
+    },
+    {
+      "meet": "Norwood (7/16)",
+      "time": "23.72"
+    }
+  ],
+  "seasonPrs": {
+    "25 Butterfly": "21.81",
+    "25 Freestyle": "19.54",
+    "25 Breaststroke": "31.43",
+    "25 Backstroke": "22.75"
+  }
 }

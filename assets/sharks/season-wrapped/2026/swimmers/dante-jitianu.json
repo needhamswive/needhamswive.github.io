@@ -1,3 +1,29 @@
 {
-  "name": "Dante Jitianu"
+  "name": "Dante Jitianu",
+  "ageGroup": "9 &ndash; 10",
+  "2025Wrapped": true,
+  "fly25Times": [
+    {
+      "meet": "Sherborn (7/2)",
+      "time": "24.95"
+    },
+    {
+      "meet": "Dedham (7/9)",
+      "time": "23.59"
+    }
+  ],
+  "breast25Times": [
+    {
+      "meet": "Sherborn (7/2)",
+      "time": "23.00"
+    },
+    {
+      "meet": "Dedham (7/9)",
+      "time": "23.60"
+    }
+  ],
+  "seasonPrs": {
+    "25 Butterfly": "23.59",
+    "25 Breaststroke": "23.00"
+  }
 }

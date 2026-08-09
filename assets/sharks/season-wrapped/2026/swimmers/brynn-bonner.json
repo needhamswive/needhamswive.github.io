@@ -1,3 +1,83 @@
 {
-  "name": "Brynn Bonner"
+  "name": "Brynn Bonner",
+  "ageGroup": "8 & Under",
+  "swimmerOfTheWeek": true,
+  "fly50Times": [
+    {
+      "meet": "Medfield (7/14)",
+      "time": "44.75"
+    },
+    {
+      "meet": "Canton (7/29)",
+      "time": "44.78"
+    }
+  ],
+  "free50Times": [
+    {
+      "meet": "Medfield (7/14)",
+      "time": "42.72"
+    },
+    {
+      "meet": "Norwood (7/16)",
+      "time": "33.22"
+    },
+    {
+      "meet": "Natick (7/28)",
+      "time": "33.57"
+    },
+    {
+      "meet": "Canton (7/29)",
+      "time": "32.36"
+    },
+    {
+      "meet": "Westwood (8/3)",
+      "time": "36.37"
+    },
+    {
+      "meet": "Walpole (8/6)",
+      "time": "35.06"
+    },
+    {
+      "meet": "Championships (8/8)",
+      "time": "39.76"
+    }
+  ],
+  "breast50Times": [
+    {
+      "meet": "Dedham (7/9)",
+      "time": "48.69"
+    },
+    {
+      "meet": "Natick (7/28)",
+      "time": "43.57"
+    }
+  ],
+  "back50Times": [
+    {
+      "meet": "Dedham (7/9)",
+      "time": "41.87"
+    },
+    {
+      "meet": "Norwood (7/16)",
+      "time": "40.63"
+    },
+    {
+      "meet": "Westwood (8/3)",
+      "time": "39.22"
+    },
+    {
+      "meet": "Walpole (8/6)",
+      "time": "32.62"
+    },
+    {
+      "meet": "Championships (8/8)",
+      "time": "39.72"
+    }
+  ],
+  "seasonPrs": {
+    "50 Butterfly": "44.75",
+    "50 Freestyle": "32.36",
+    "50 Breaststroke": "43.57",
+    "50 Backstroke": "32.62"
+  }
 }

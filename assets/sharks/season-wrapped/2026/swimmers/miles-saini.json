@@ -1,3 +1,95 @@
 {
-  "name": "Miles Saini"
+  "name": "Miles Saini",
+  "ageGroup": "8 & Under",
+  "swimmerOfTheWeek": true,
+  "fly50Times": [
+    {
+      "meet": "Blue vs. Gold (6/30)",
+      "time": "32.96"
+    },
+    {
+      "meet": "Dedham (7/9)",
+      "time": "34.00"
+    }
+  ],
+  "free50Times": [
+    {
+      "meet": "Medfield (7/14)",
+      "time": "25.00"
+    },
+    {
+      "meet": "Norwood (7/16)",
+      "time": "23.94"
+    },
+    {
+      "meet": "Newton (7/23)",
+      "time": "24.63"
+    },
+    {
+      "meet": "Natick (7/28)",
+      "time": "25.09"
+    },
+    {
+      "meet": "Walpole (8/6)",
+      "time": "26.19"
+    },
+    {
+      "meet": "Championships (8/8)",
+      "time": "24.44"
+    }
+  ],
+  "breast50Times": [
+    {
+      "meet": "Medfield (7/14)",
+      "time": "34.50"
+    },
+    {
+      "meet": "Norwood (7/16)",
+      "time": "34.03"
+    },
+    {
+      "meet": "Newton (7/23)",
+      "time": "34.68"
+    },
+    {
+      "meet": "Canton (7/29)",
+      "time": "31.50"
+    },
+    {
+      "meet": "Westwood (8/3)",
+      "time": "33.78"
+    },
+    {
+      "meet": "Walpole (8/6)",
+      "time": "31.84"
+    }
+  ],
+  "back50Times": [
+    {
+      "meet": "Dedham (7/9)",
+      "time": "37.25"
+    },
+    {
+      "meet": "Natick (7/28)",
+      "time": "32.16"
+    },
+    {
+      "meet": "Canton (7/29)",
+      "time": "30.66"
+    },
+    {
+      "meet": "Westwood (8/3)",
+      "time": "29.38"
+    },
+    {
+      "meet": "Championships (8/8)",
+      "time": "27.47"
+    }
+  ],
+  "seasonPrs": {
+    "50 Butterfly": "32.96",
+    "50 Freestyle": "23.94",
+    "50 Breaststroke": "31.50",
+    "50 Backstroke": "27.47"
+  }
 }

@@ -1,3 +1,111 @@
 {
-  "name": "Tyler Gleichman"
+  "name": "Tyler Gleichman",
+  "ageGroup": "8 & Under",
+  "swimmerOfTheWeek": true,
+  "fly50Times": [
+    {
+      "meet": "Blue vs. Gold (6/30)",
+      "time": "32.85"
+    },
+    {
+      "meet": "Sherborn (7/2)",
+      "time": "36.85"
+    },
+    {
+      "meet": "Norwood (7/16)",
+      "time": "30.22"
+    },
+    {
+      "meet": "Newton (7/23)",
+      "time": "30.75"
+    },
+    {
+      "meet": "Canton (7/29)",
+      "time": "28.63"
+    }
+  ],
+  "free50Times": [
+    {
+      "meet": "Blue vs. Gold (6/30)",
+      "time": "26.60"
+    },
+    {
+      "meet": "Medfield (7/14)",
+      "time": "29.28"
+    },
+    {
+      "meet": "Natick (7/28)",
+      "time": "25.15"
+    },
+    {
+      "meet": "Westwood (8/3)",
+      "time": "27.12"
+    },
+    {
+      "meet": "Walpole (8/6)",
+      "time": "26.66"
+    }
+  ],
+  "breast50Times": [
+    {
+      "meet": "Blue vs. Gold (6/30)",
+      "time": "31.00"
+    },
+    {
+      "meet": "Dedham (7/9)",
+      "time": "31.56"
+    },
+    {
+      "meet": "Medfield (7/14)",
+      "time": "31.37"
+    },
+    {
+      "meet": "Norwood (7/16)",
+      "time": "28.16"
+    },
+    {
+      "meet": "Newton (7/23)",
+      "time": "28.06"
+    },
+    {
+      "meet": "Championships (8/8)",
+      "time": "27.42"
+    }
+  ],
+  "back50Times": [
+    {
+      "meet": "Blue vs. Gold (6/30)",
+      "time": "31.72"
+    },
+    {
+      "meet": "Sherborn (7/2)",
+      "time": "30.96"
+    },
+    {
+      "meet": "Dedham (7/9)",
+      "time": "31.84"
+    },
+    {
+      "meet": "Canton (7/29)",
+      "time": "30.71"
+    },
+    {
+      "meet": "Westwood (8/3)",
+      "time": "32.90"
+    },
+    {
+      "meet": "Walpole (8/6)",
+      "time": "29.40"
+    },
+    {
+      "meet": "Championships (8/8)",
+      "time": "28.74"
+    }
+  ],
+  "seasonPrs": {
+    "50 Butterfly": "28.63",
+    "50 Freestyle": "25.15",
+    "50 Breaststroke": "27.42",
+    "50 Backstroke": "28.74"
+  }
 }

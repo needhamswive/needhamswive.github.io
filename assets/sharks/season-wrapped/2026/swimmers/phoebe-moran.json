@@ -1,3 +1,91 @@
 {
-  "name": "Phoebe Moran"
+  "name": "Phoebe Moran",
+  "ageGroup": "15 & Over",
+  "2025Wrapped": true,
+  "fly50Times": [
+    {
+      "meet": "Blue vs. Gold (6/30)",
+      "time": "58.91"
+    },
+    {
+      "meet": "Dedham (7/9)",
+      "time": "59.09"
+    }
+  ],
+  "free50Times": [
+    {
+      "meet": "Blue vs. Gold (6/30)",
+      "time": "46.37"
+    },
+    {
+      "meet": "Medfield (7/14)",
+      "time": "45.54"
+    },
+    {
+      "meet": "Natick (7/28)",
+      "time": "47.69"
+    },
+    {
+      "meet": "Westwood (8/3)",
+      "time": "45.37"
+    },
+    {
+      "meet": "Walpole (8/6)",
+      "time": "46.34"
+    },
+    {
+      "meet": "Championships (8/8)",
+      "time": "44.26"
+    }
+  ],
+  "breast50Times": [
+    {
+      "meet": "Blue vs. Gold (6/30)",
+      "time": "64.62"
+    },
+    {
+      "meet": "Canton (7/29)",
+      "time": "61.66"
+    }
+  ],
+  "back50Times": [
+    {
+      "meet": "Blue vs. Gold (6/30)",
+      "time": "50.78"
+    },
+    {
+      "meet": "Dedham (7/9)",
+      "time": "50.84"
+    },
+    {
+      "meet": "Medfield (7/14)",
+      "time": "57.90"
+    },
+    {
+      "meet": "Natick (7/28)",
+      "time": "49.68"
+    },
+    {
+      "meet": "Canton (7/29)",
+      "time": "50.19"
+    },
+    {
+      "meet": "Westwood (8/3)",
+      "time": "50.13"
+    },
+    {
+      "meet": "Walpole (8/6)",
+      "time": "48.21"
+    },
+    {
+      "meet": "Championships (8/8)",
+      "time": "47.73"
+    }
+  ],
+  "seasonPrs": {
+    "50 Butterfly": "58.91",
+    "50 Freestyle": "44.26",
+    "50 Breaststroke": "61.66",
+    "50 Backstroke": "47.73"
+  }
 }

@@ -1,3 +1,91 @@
 {
-  "name": "Madeleine Stone"
+  "name": "Madeleine Stone",
+  "ageGroup": "11 &ndash; 12",
+  "2025Wrapped": true,
+  "fly50Times": [
+    {
+      "meet": "Norwood (7/16)",
+      "time": "46.41"
+    },
+    {
+      "meet": "Natick (7/28)",
+      "time": "48.50"
+    }
+  ],
+  "free50Times": [
+    {
+      "meet": "Sherborn (7/2)",
+      "time": "39.10"
+    },
+    {
+      "meet": "Dedham (7/9)",
+      "time": "36.47"
+    },
+    {
+      "meet": "Medfield (7/14)",
+      "time": "42.78"
+    },
+    {
+      "meet": "Norwood (7/16)",
+      "time": "36.47"
+    },
+    {
+      "meet": "Natick (7/28)",
+      "time": "39.03"
+    },
+    {
+      "meet": "Canton (7/29)",
+      "time": "37.81"
+    },
+    {
+      "meet": "Westwood (8/3)",
+      "time": "36.69"
+    },
+    {
+      "meet": "Walpole (8/6)",
+      "time": "37.25"
+    },
+    {
+      "meet": "Championships (8/8)",
+      "time": "36.46"
+    }
+  ],
+  "breast50Times": [
+    {
+      "meet": "Sherborn (7/2)",
+      "time": "60.40"
+    },
+    {
+      "meet": "Natick (7/28)",
+      "time": "53.78"
+    },
+    {
+      "meet": "Canton (7/29)",
+      "time": "56.88"
+    }
+  ],
+  "back50Times": [
+    {
+      "meet": "Dedham (7/9)",
+      "time": "44.94"
+    },
+    {
+      "meet": "Westwood (8/3)",
+      "time": "43.37"
+    },
+    {
+      "meet": "Walpole (8/6)",
+      "time": "42.44"
+    },
+    {
+      "meet": "Championships (8/8)",
+      "time": "41.04"
+    }
+  ],
+  "seasonPrs": {
+    "50 Butterfly": "46.41",
+    "50 Freestyle": "36.46",
+    "50 Breaststroke": "53.78",
+    "50 Backstroke": "41.04"
+  }
 }

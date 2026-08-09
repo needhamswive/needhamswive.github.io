@@ -1,3 +1,107 @@
 {
-  "name": "Elly Cheung"
+  "name": "Elly Cheung",
+  "ageGroup": "11 &ndash; 12",
+  "2025Wrapped": true,
+  "fly50Times": [
+    {
+      "meet": "Blue vs. Gold (6/30)",
+      "time": "31.62"
+    },
+    {
+      "meet": "Sherborn (7/2)",
+      "time": "31.41"
+    },
+    {
+      "meet": "Dedham (7/9)",
+      "time": "31.72"
+    },
+    {
+      "meet": "Norwood (7/16)",
+      "time": "32.13"
+    },
+    {
+      "meet": "Newton (7/23)",
+      "time": "31.10"
+    },
+    {
+      "meet": "Natick (7/28)",
+      "time": "32.38"
+    },
+    {
+      "meet": "Canton (7/29)",
+      "time": "32.62"
+    },
+    {
+      "meet": "Westwood (8/3)",
+      "time": "32.28"
+    },
+    {
+      "meet": "Walpole (8/6)",
+      "time": "31.78"
+    },
+    {
+      "meet": "Championships (8/8)",
+      "time": "31.43"
+    }
+  ],
+  "free50Times": [
+    {
+      "meet": "Blue vs. Gold (6/30)",
+      "time": "29.47"
+    },
+    {
+      "meet": "Dedham (7/9)",
+      "time": "29.15"
+    }
+  ],
+  "breast50Times": [
+    {
+      "meet": "Blue vs. Gold (6/30)",
+      "time": "37.97"
+    },
+    {
+      "meet": "Sherborn (7/2)",
+      "time": "36.09"
+    },
+    {
+      "meet": "Norwood (7/16)",
+      "time": "37.26"
+    },
+    {
+      "meet": "Newton (7/23)",
+      "time": "35.75"
+    },
+    {
+      "meet": "Natick (7/28)",
+      "time": "35.50"
+    },
+    {
+      "meet": "Westwood (8/3)",
+      "time": "36.38"
+    },
+    {
+      "meet": "Walpole (8/6)",
+      "time": "36.25"
+    },
+    {
+      "meet": "Championships (8/8)",
+      "time": "35.53"
+    }
+  ],
+  "back50Times": [
+    {
+      "meet": "Blue vs. Gold (6/30)",
+      "time": "36.06"
+    },
+    {
+      "meet": "Canton (7/29)",
+      "time": "35.07"
+    }
+  ],
+  "seasonPrs": {
+    "50 Butterfly": "31.10",
+    "50 Freestyle": "29.15",
+    "50 Breaststroke": "35.50",
+    "50 Backstroke": "35.07"
+  }
 }

@@ -1,3 +1,36 @@
 {
-  "name": "Joshua Cole"
+  "name": "Joshua Cole",
+  "ageGroup": "8 & Under",
+  "free50Times": [
+    {
+      "meet": "Canton (7/29)",
+      "time": "29.22"
+    },
+    {
+      "meet": "Westwood (8/3)",
+      "time": "30.72"
+    },
+    {
+      "meet": "Walpole (8/6)",
+      "time": "28.78"
+    }
+  ],
+  "breast50Times": [
+    {
+      "meet": "Canton (7/29)",
+      "time": "31.53"
+    },
+    {
+      "meet": "Westwood (8/3)",
+      "time": "36.15"
+    },
+    {
+      "meet": "Walpole (8/6)",
+      "time": "33.07"
+    }
+  ],
+  "seasonPrs": {
+    "50 Freestyle": "28.78",
+    "50 Breaststroke": "31.53"
+  }
 }

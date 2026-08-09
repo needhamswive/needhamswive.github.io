@@ -1,3 +1,107 @@
 {
-  "name": "Theodore Dildine"
+  "name": "Theodore Dildine",
+  "ageGroup": "13 &ndash; 14",
+  "2025Wrapped": true,
+  "fly50Times": [
+    {
+      "meet": "Blue vs. Gold (6/30)",
+      "time": "35.66"
+    },
+    {
+      "meet": "Medfield (7/14)",
+      "time": "39.00"
+    },
+    {
+      "meet": "Norwood (7/16)",
+      "time": "35.41"
+    },
+    {
+      "meet": "Natick (7/28)",
+      "time": "35.21"
+    }
+  ],
+  "free50Times": [
+    {
+      "meet": "Blue vs. Gold (6/30)",
+      "time": "27.75"
+    },
+    {
+      "meet": "Sherborn (7/2)",
+      "time": "28.28"
+    },
+    {
+      "meet": "Medfield (7/14)",
+      "time": "30.38"
+    },
+    {
+      "meet": "Newton (7/23)",
+      "time": "28.10"
+    },
+    {
+      "meet": "Westwood (8/3)",
+      "time": "28.06"
+    },
+    {
+      "meet": "Walpole (8/6)",
+      "time": "27.91"
+    },
+    {
+      "meet": "Championships (8/8)",
+      "time": "27.38"
+    }
+  ],
+  "breast50Times": [
+    {
+      "meet": "Blue vs. Gold (6/30)",
+      "time": "39.00"
+    },
+    {
+      "meet": "Dedham (7/9)",
+      "time": "39.21"
+    },
+    {
+      "meet": "Norwood (7/16)",
+      "time": "38.70"
+    },
+    {
+      "meet": "Newton (7/23)",
+      "time": "37.97"
+    }
+  ],
+  "back50Times": [
+    {
+      "meet": "Blue vs. Gold (6/30)",
+      "time": "32.65"
+    },
+    {
+      "meet": "Sherborn (7/2)",
+      "time": "32.47"
+    },
+    {
+      "meet": "Dedham (7/9)",
+      "time": "32.84"
+    },
+    {
+      "meet": "Natick (7/28)",
+      "time": "33.56"
+    },
+    {
+      "meet": "Westwood (8/3)",
+      "time": "39.57"
+    },
+    {
+      "meet": "Walpole (8/6)",
+      "time": "33.84"
+    },
+    {
+      "meet": "Championships (8/8)",
+      "time": "31.74"
+    }
+  ],
+  "seasonPrs": {
+    "50 Butterfly": "35.21",
+    "50 Freestyle": "27.38",
+    "50 Breaststroke": "37.97",
+    "50 Backstroke": "31.74"
+  }
 }

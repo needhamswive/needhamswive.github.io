@@ -1,3 +1,100 @@
 {
-  "name": "Brooks Wilson"
+  "name": "Brooks Wilson",
+  "ageGroup": "11 &ndash; 12",
+  "swimmerOfTheWeek": true,
+  "2025Wrapped": true,
+  "fly50Times": [
+    {
+      "meet": "Blue vs. Gold (6/30)",
+      "time": "42.00"
+    },
+    {
+      "meet": "Sherborn (7/2)",
+      "time": "42.47"
+    },
+    {
+      "meet": "Dedham (7/9)",
+      "time": "40.59"
+    },
+    {
+      "meet": "Norwood (7/16)",
+      "time": "41.19"
+    },
+    {
+      "meet": "Newton (7/23)",
+      "time": "41.10"
+    },
+    {
+      "meet": "Natick (7/28)",
+      "time": "36.50"
+    },
+    {
+      "meet": "Canton (7/29)",
+      "time": "40.31"
+    },
+    {
+      "meet": "Walpole (8/6)",
+      "time": "40.71"
+    },
+    {
+      "meet": "Championships (8/8)",
+      "time": "41.43"
+    }
+  ],
+  "free50Times": [
+    {
+      "meet": "Blue vs. Gold (6/30)",
+      "time": "36.44"
+    },
+    {
+      "meet": "Canton (7/29)",
+      "time": "36.28"
+    }
+  ],
+  "breast50Times": [
+    {
+      "meet": "Blue vs. Gold (6/30)",
+      "time": "45.22"
+    },
+    {
+      "meet": "Dedham (7/9)",
+      "time": "43.07"
+    },
+    {
+      "meet": "Norwood (7/16)",
+      "time": "44.60"
+    },
+    {
+      "meet": "Walpole (8/6)",
+      "time": "43.25"
+    },
+    {
+      "meet": "Championships (8/8)",
+      "time": "42.34"
+    }
+  ],
+  "back50Times": [
+    {
+      "meet": "Blue vs. Gold (6/30)",
+      "time": "41.75"
+    },
+    {
+      "meet": "Sherborn (7/2)",
+      "time": "41.10"
+    },
+    {
+      "meet": "Newton (7/23)",
+      "time": "39.63"
+    },
+    {
+      "meet": "Natick (7/28)",
+      "time": "41.85"
+    }
+  ],
+  "seasonPrs": {
+    "50 Butterfly": "36.50",
+    "50 Freestyle": "36.28",
+    "50 Breaststroke": "42.34",
+    "50 Backstroke": "39.63"
+  }
 }

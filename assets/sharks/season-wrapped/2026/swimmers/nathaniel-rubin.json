@@ -1,3 +1,103 @@
 {
-  "name": "Nathaniel Rubin"
+  "name": "Nathaniel Rubin",
+  "ageGroup": "13 &ndash; 14",
+  "2025Wrapped": true,
+  "fly50Times": [
+    {
+      "meet": "Blue vs. Gold (6/30)",
+      "time": "35.03"
+    },
+    {
+      "meet": "Norwood (7/16)",
+      "time": "32.37"
+    },
+    {
+      "meet": "Newton (7/23)",
+      "time": "33.18"
+    },
+    {
+      "meet": "Natick (7/28)",
+      "time": "34.10"
+    },
+    {
+      "meet": "Canton (7/29)",
+      "time": "34.64"
+    },
+    {
+      "meet": "Westwood (8/3)",
+      "time": "33.00"
+    },
+    {
+      "meet": "Championships (8/8)",
+      "time": "32.67"
+    }
+  ],
+  "free50Times": [
+    {
+      "meet": "Blue vs. Gold (6/30)",
+      "time": "28.65"
+    },
+    {
+      "meet": "Medfield (7/14)",
+      "time": "31.34"
+    }
+  ],
+  "breast50Times": [
+    {
+      "meet": "Blue vs. Gold (6/30)",
+      "time": "42.66"
+    },
+    {
+      "meet": "Dedham (7/9)",
+      "time": "41.72"
+    },
+    {
+      "meet": "Medfield (7/14)",
+      "time": "41.66"
+    },
+    {
+      "meet": "Westwood (8/3)",
+      "time": "38.50"
+    },
+    {
+      "meet": "Walpole (8/6)",
+      "time": "38.85"
+    },
+    {
+      "meet": "Championships (8/8)",
+      "time": "38.71"
+    }
+  ],
+  "back50Times": [
+    {
+      "meet": "Blue vs. Gold (6/30)",
+      "time": "37.72"
+    },
+    {
+      "meet": "Norwood (7/16)",
+      "time": "39.00"
+    },
+    {
+      "meet": "Newton (7/23)",
+      "time": "37.39"
+    },
+    {
+      "meet": "Natick (7/28)",
+      "time": "38.56"
+    },
+    {
+      "meet": "Canton (7/29)",
+      "time": "35.68"
+    },
+    {
+      "meet": "Walpole (8/6)",
+      "time": "38.66"
+    }
+  ],
+  "seasonPrs": {
+    "50 Butterfly": "32.37",
+    "50 Freestyle": "28.65",
+    "50 Breaststroke": "38.50",
+    "50 Backstroke": "35.68"
+  }
 }

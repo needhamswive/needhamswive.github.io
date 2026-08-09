@@ -1,3 +1,75 @@
 {
-  "name": "Emma Cheung"
+  "name": "Emma Cheung",
+  "ageGroup": "13 &ndash; 14",
+  "2025Wrapped": true,
+  "fly50Times": [
+    {
+      "meet": "Blue vs. Gold (6/30)",
+      "time": "29.53"
+    },
+    {
+      "meet": "Sherborn (7/2)",
+      "time": "29.85"
+    },
+    {
+      "meet": "Dedham (7/9)",
+      "time": "30.53"
+    }
+  ],
+  "free50Times": [
+    {
+      "meet": "Blue vs. Gold (6/30)",
+      "time": "27.25"
+    },
+    {
+      "meet": "Medfield (7/14)",
+      "time": "28.87"
+    },
+    {
+      "meet": "Norwood (7/16)",
+      "time": "27.31"
+    },
+    {
+      "meet": "Newton (7/23)",
+      "time": "27.12"
+    }
+  ],
+  "breast50Times": [
+    {
+      "meet": "Blue vs. Gold (6/30)",
+      "time": "34.84"
+    },
+    {
+      "meet": "Sherborn (7/2)",
+      "time": "35.53"
+    },
+    {
+      "meet": "Norwood (7/16)",
+      "time": "35.09"
+    }
+  ],
+  "back50Times": [
+    {
+      "meet": "Blue vs. Gold (6/30)",
+      "time": "30.72"
+    },
+    {
+      "meet": "Dedham (7/9)",
+      "time": "31.66"
+    },
+    {
+      "meet": "Medfield (7/14)",
+      "time": "32.15"
+    },
+    {
+      "meet": "Newton (7/23)",
+      "time": "31.44"
+    }
+  ],
+  "seasonPrs": {
+    "50 Butterfly": "29.53",
+    "50 Freestyle": "27.12",
+    "50 Breaststroke": "34.84",
+    "50 Backstroke": "30.72"
+  }
 }

@@ -1,3 +1,99 @@
 {
-  "name": "Olivia Afzali"
+  "name": "Olivia Afzali",
+  "ageGroup": "11 &ndash; 12",
+  "2025Wrapped": true,
+  "fly50Times": [
+    {
+      "meet": "Blue vs. Gold (6/30)",
+      "time": "39.90"
+    },
+    {
+      "meet": "Sherborn (7/2)",
+      "time": "39.20"
+    }
+  ],
+  "free50Times": [
+    {
+      "meet": "Blue vs. Gold (6/30)",
+      "time": "35.09"
+    },
+    {
+      "meet": "Dedham (7/9)",
+      "time": "33.47"
+    },
+    {
+      "meet": "Natick (7/28)",
+      "time": "36.10"
+    },
+    {
+      "meet": "Canton (7/29)",
+      "time": "33.36"
+    },
+    {
+      "meet": "Westwood (8/3)",
+      "time": "32.44"
+    }
+  ],
+  "breast50Times": [
+    {
+      "meet": "Blue vs. Gold (6/30)",
+      "time": "44.59"
+    },
+    {
+      "meet": "Norwood (7/16)",
+      "time": "41.72"
+    },
+    {
+      "meet": "Natick (7/28)",
+      "time": "45.43"
+    },
+    {
+      "meet": "Walpole (8/6)",
+      "time": "40.37"
+    },
+    {
+      "meet": "Championships (8/8)",
+      "time": "38.94"
+    }
+  ],
+  "back50Times": [
+    {
+      "meet": "Blue vs. Gold (6/30)",
+      "time": "41.50"
+    },
+    {
+      "meet": "Sherborn (7/2)",
+      "time": "40.41"
+    },
+    {
+      "meet": "Dedham (7/9)",
+      "time": "40.53"
+    },
+    {
+      "meet": "Norwood (7/16)",
+      "time": "39.94"
+    },
+    {
+      "meet": "Canton (7/29)",
+      "time": "38.69"
+    },
+    {
+      "meet": "Westwood (8/3)",
+      "time": "37.72"
+    },
+    {
+      "meet": "Walpole (8/6)",
+      "time": "38.29"
+    },
+    {
+      "meet": "Championships (8/8)",
+      "time": "37.38"
+    }
+  ],
+  "seasonPrs": {
+    "50 Butterfly": "39.20",
+    "50 Freestyle": "32.44",
+    "50 Breaststroke": "38.94",
+    "50 Backstroke": "37.38"
+  }
 }

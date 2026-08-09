@@ -1,3 +1,62 @@
 {
-  "name": "Vivian May Gunther"
+  "name": "Vivian May Gunther",
+  "ageGroup": "11 &ndash; 12",
+  "fly50Times": [
+    {
+      "meet": "Blue vs. Gold (6/30)",
+      "time": "53.50"
+    }
+  ],
+  "free50Times": [
+    {
+      "meet": "Blue vs. Gold (6/30)",
+      "time": "42.61"
+    },
+    {
+      "meet": "Sherborn (7/2)",
+      "time": "40.32"
+    },
+    {
+      "meet": "Dedham (7/9)",
+      "time": "38.97"
+    },
+    {
+      "meet": "Newton (7/23)",
+      "time": "38.57"
+    }
+  ],
+  "breast50Times": [
+    {
+      "meet": "Blue vs. Gold (6/30)",
+      "time": "63.25"
+    },
+    {
+      "meet": "Sherborn (7/2)",
+      "time": "75.92"
+    }
+  ],
+  "back50Times": [
+    {
+      "meet": "Blue vs. Gold (6/30)",
+      "time": "50.28"
+    },
+    {
+      "meet": "Sherborn (7/2)",
+      "time": "46.10"
+    },
+    {
+      "meet": "Dedham (7/9)",
+      "time": "45.52"
+    },
+    {
+      "meet": "Newton (7/23)",
+      "time": "45.87"
+    }
+  ],
+  "seasonPrs": {
+    "50 Butterfly": "53.50",
+    "50 Freestyle": "38.57",
+    "50 Breaststroke": "63.25",
+    "50 Backstroke": "45.52"
+  }
 }

@@ -1,3 +1,82 @@
 {
-  "name": "Ewyn Linzmeyer"
+  "name": "Ewyn Linzmeyer",
+  "ageGroup": "8 & Under",
+  "fly50Times": [
+    {
+      "meet": "Blue vs. Gold (6/30)",
+      "time": "43.28"
+    },
+    {
+      "meet": "Norwood (7/16)",
+      "time": "50.34"
+    },
+    {
+      "meet": "Natick (7/28)",
+      "time": "43.16"
+    },
+    {
+      "meet": "Canton (7/29)",
+      "time": "45.06"
+    }
+  ],
+  "free50Times": [
+    {
+      "meet": "Blue vs. Gold (6/30)",
+      "time": "36.14"
+    },
+    {
+      "meet": "Norwood (7/16)",
+      "time": "36.22"
+    },
+    {
+      "meet": "Canton (7/29)",
+      "time": "45.31"
+    },
+    {
+      "meet": "Westwood (8/3)",
+      "time": "39.47"
+    },
+    {
+      "meet": "Championships (8/8)",
+      "time": "36.85"
+    }
+  ],
+  "breast50Times": [
+    {
+      "meet": "Blue vs. Gold (6/30)",
+      "time": "40.42"
+    },
+    {
+      "meet": "Walpole (8/6)",
+      "time": "36.88"
+    }
+  ],
+  "back50Times": [
+    {
+      "meet": "Blue vs. Gold (6/30)",
+      "time": "46.19"
+    },
+    {
+      "meet": "Medfield (7/14)",
+      "time": "41.20"
+    },
+    {
+      "meet": "Natick (7/28)",
+      "time": "48.62"
+    },
+    {
+      "meet": "Westwood (8/3)",
+      "time": "46.56"
+    },
+    {
+      "meet": "Championships (8/8)",
+      "time": "37.01"
+    }
+  ],
+  "seasonPrs": {
+    "50 Butterfly": "43.16",
+    "50 Freestyle": "36.14",
+    "50 Breaststroke": "36.88",
+    "50 Backstroke": "37.01"
+  }
 }

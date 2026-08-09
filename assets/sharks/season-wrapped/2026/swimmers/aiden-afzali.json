@@ -1,3 +1,91 @@
 {
-  "name": "Aiden Afzali"
+  "name": "Aiden Afzali",
+  "ageGroup": "13 &ndash; 14",
+  "2025Wrapped": true,
+  "fly50Times": [
+    {
+      "meet": "Blue vs. Gold (6/30)",
+      "time": "29.56"
+    },
+    {
+      "meet": "Dedham (7/9)",
+      "time": "30.28"
+    },
+    {
+      "meet": "Westwood (8/3)",
+      "time": "29.50"
+    }
+  ],
+  "free50Times": [
+    {
+      "meet": "Blue vs. Gold (6/30)",
+      "time": "27.39"
+    },
+    {
+      "meet": "Sherborn (7/2)",
+      "time": "27.88"
+    },
+    {
+      "meet": "Dedham (7/9)",
+      "time": "28.50"
+    },
+    {
+      "meet": "Natick (7/28)",
+      "time": "28.16"
+    }
+  ],
+  "breast50Times": [
+    {
+      "meet": "Blue vs. Gold (6/30)",
+      "time": "34.84"
+    },
+    {
+      "meet": "Norwood (7/16)",
+      "time": "34.91"
+    },
+    {
+      "meet": "Canton (7/29)",
+      "time": "35.19"
+    },
+    {
+      "meet": "Championships (8/8)",
+      "time": "33.82"
+    }
+  ],
+  "back50Times": [
+    {
+      "meet": "Blue vs. Gold (6/30)",
+      "time": "30.09"
+    },
+    {
+      "meet": "Sherborn (7/2)",
+      "time": "30.09"
+    },
+    {
+      "meet": "Norwood (7/16)",
+      "time": "30.12"
+    },
+    {
+      "meet": "Natick (7/28)",
+      "time": "33.72"
+    },
+    {
+      "meet": "Canton (7/29)",
+      "time": "31.84"
+    },
+    {
+      "meet": "Westwood (8/3)",
+      "time": "29.97"
+    },
+    {
+      "meet": "Championships (8/8)",
+      "time": "29.53"
+    }
+  ],
+  "seasonPrs": {
+    "50 Butterfly": "29.50",
+    "50 Freestyle": "27.39",
+    "50 Breaststroke": "33.82",
+    "50 Backstroke": "29.53"
+  }
 }

@@ -1,3 +1,115 @@
 {
-  "name": "Elliot Ho"
+  "name": "Elliot Ho",
+  "ageGroup": "8 & Under",
+  "2025Wrapped": true,
+  "fly50Times": [
+    {
+      "meet": "Blue vs. Gold (6/30)",
+      "time": "34.06"
+    },
+    {
+      "meet": "Norwood (7/16)",
+      "time": "33.10"
+    },
+    {
+      "meet": "Newton (7/23)",
+      "time": "28.34"
+    },
+    {
+      "meet": "Westwood (8/3)",
+      "time": "32.50"
+    },
+    {
+      "meet": "Walpole (8/6)",
+      "time": "29.59"
+    }
+  ],
+  "free50Times": [
+    {
+      "meet": "Blue vs. Gold (6/30)",
+      "time": "23.21"
+    },
+    {
+      "meet": "Sherborn (7/2)",
+      "time": "26.10"
+    },
+    {
+      "meet": "Dedham (7/9)",
+      "time": "25.25"
+    },
+    {
+      "meet": "Medfield (7/14)",
+      "time": "24.81"
+    },
+    {
+      "meet": "Newton (7/23)",
+      "time": "23.60"
+    },
+    {
+      "meet": "Natick (7/28)",
+      "time": "24.06"
+    },
+    {
+      "meet": "Canton (7/29)",
+      "time": "24.38"
+    },
+    {
+      "meet": "Westwood (8/3)",
+      "time": "22.53"
+    },
+    {
+      "meet": "Championships (8/8)",
+      "time": "21.40"
+    }
+  ],
+  "breast50Times": [
+    {
+      "meet": "Blue vs. Gold (6/30)",
+      "time": "30.13"
+    },
+    {
+      "meet": "Sherborn (7/2)",
+      "time": "33.00"
+    },
+    {
+      "meet": "Dedham (7/9)",
+      "time": "35.41"
+    },
+    {
+      "meet": "Medfield (7/14)",
+      "time": "37.12"
+    },
+    {
+      "meet": "Canton (7/29)",
+      "time": "31.94"
+    }
+  ],
+  "back50Times": [
+    {
+      "meet": "Blue vs. Gold (6/30)",
+      "time": "34.28"
+    },
+    {
+      "meet": "Norwood (7/16)",
+      "time": "27.79"
+    },
+    {
+      "meet": "Natick (7/28)",
+      "time": "33.21"
+    },
+    {
+      "meet": "Walpole (8/6)",
+      "time": "30.00"
+    },
+    {
+      "meet": "Championships (8/8)",
+      "time": "27.65"
+    }
+  ],
+  "seasonPrs": {
+    "50 Butterfly": "28.34",
+    "50 Freestyle": "21.40",
+    "50 Breaststroke": "30.13",
+    "50 Backstroke": "27.65"
+  }
 }

@@ -1,3 +1,35 @@
 {
-  "name": "Aiden Gouldson"
+  "name": "Aiden Gouldson",
+  "ageGroup": "15 & Over",
+  "fly50Times": [
+    {
+      "meet": "Blue vs. Gold (6/30)",
+      "time": "26.40"
+    }
+  ],
+  "free50Times": [
+    {
+      "meet": "Blue vs. Gold (6/30)",
+      "time": "22.60"
+    },
+    {
+      "meet": "Sherborn (7/2)",
+      "time": "22.69"
+    }
+  ],
+  "breast50Times": [
+    {
+      "meet": "Sherborn (7/2)",
+      "time": "28.66"
+    },
+    {
+      "meet": "Canton (7/29)",
+      "time": "34.56"
+    }
+  ],
+  "seasonPrs": {
+    "50 Butterfly": "26.40",
+    "50 Freestyle": "22.60",
+    "50 Breaststroke": "28.66"
+  }
 }

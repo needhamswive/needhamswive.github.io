@@ -1,3 +1,52 @@
 {
-  "name": "Bridget Gunther"
+  "name": "Bridget Gunther",
+  "ageGroup": "13 &ndash; 14",
+  "swimmerOfTheWeek": true,
+  "free50Times": [
+    {
+      "meet": "Blue vs. Gold (6/30)",
+      "time": "35.37"
+    },
+    {
+      "meet": "Sherborn (7/2)",
+      "time": "37.85"
+    },
+    {
+      "meet": "Dedham (7/9)",
+      "time": "39.53"
+    },
+    {
+      "meet": "Newton (7/23)",
+      "time": "36.62"
+    }
+  ],
+  "breast50Times": [
+    {
+      "meet": "Blue vs. Gold (6/30)",
+      "time": "51.22"
+    }
+  ],
+  "back50Times": [
+    {
+      "meet": "Blue vs. Gold (6/30)",
+      "time": "48.53"
+    },
+    {
+      "meet": "Sherborn (7/2)",
+      "time": "46.18"
+    },
+    {
+      "meet": "Dedham (7/9)",
+      "time": "47.00"
+    },
+    {
+      "meet": "Newton (7/23)",
+      "time": "45.81"
+    }
+  ],
+  "seasonPrs": {
+    "50 Freestyle": "35.37",
+    "50 Breaststroke": "51.22",
+    "50 Backstroke": "45.81"
+  }
 }

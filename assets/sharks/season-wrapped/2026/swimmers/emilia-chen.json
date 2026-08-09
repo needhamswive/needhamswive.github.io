@@ -1,3 +1,91 @@
 {
-  "name": "Emilia Chen"
+  "name": "Emilia Chen",
+  "ageGroup": "9 &ndash; 10",
+  "2025Wrapped": true,
+  "fly25Times": [
+    {
+      "meet": "Dedham (7/9)",
+      "time": "21.09"
+    },
+    {
+      "meet": "Newton (7/23)",
+      "time": "21.34"
+    },
+    {
+      "meet": "Natick (7/28)",
+      "time": "33.00"
+    }
+  ],
+  "free25Times": [
+    {
+      "meet": "Medfield (7/14)",
+      "time": "19.56"
+    },
+    {
+      "meet": "Norwood (7/16)",
+      "time": "20.31"
+    },
+    {
+      "meet": "Canton (7/29)",
+      "time": "17.45"
+    }
+  ],
+  "breast25Times": [
+    {
+      "meet": "Medfield (7/14)",
+      "time": "22.97"
+    },
+    {
+      "meet": "Natick (7/28)",
+      "time": "23.09"
+    },
+    {
+      "meet": "Westwood (8/3)",
+      "time": "23.44"
+    },
+    {
+      "meet": "Walpole (8/6)",
+      "time": "23.50"
+    },
+    {
+      "meet": "Championships (8/8)",
+      "time": "22.30"
+    }
+  ],
+  "back25Times": [
+    {
+      "meet": "Dedham (7/9)",
+      "time": "21.82"
+    },
+    {
+      "meet": "Norwood (7/16)",
+      "time": "22.15"
+    },
+    {
+      "meet": "Newton (7/23)",
+      "time": "21.97"
+    },
+    {
+      "meet": "Canton (7/29)",
+      "time": "21.75"
+    },
+    {
+      "meet": "Westwood (8/3)",
+      "time": "23.04"
+    },
+    {
+      "meet": "Walpole (8/6)",
+      "time": "21.40"
+    },
+    {
+      "meet": "Championships (8/8)",
+      "time": "22.05"
+    }
+  ],
+  "seasonPrs": {
+    "25 Butterfly": "21.09",
+    "25 Freestyle": "17.45",
+    "25 Breaststroke": "22.30",
+    "25 Backstroke": "21.40"
+  }
 }

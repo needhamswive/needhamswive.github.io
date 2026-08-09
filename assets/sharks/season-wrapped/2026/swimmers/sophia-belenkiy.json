@@ -1,3 +1,28 @@
 {
-  "name": "Sophia Belenkiy"
+  "name": "Sophia Belenkiy",
+  "ageGroup": "15 & Over",
+  "fly50Times": [
+    {
+      "meet": "Newton (7/23)",
+      "time": "30.37"
+    },
+    {
+      "meet": "Championships (8/8)",
+      "time": "31.59"
+    }
+  ],
+  "free50Times": [
+    {
+      "meet": "Norwood (7/16)",
+      "time": "30.29"
+    },
+    {
+      "meet": "Championships (8/8)",
+      "time": "29.66"
+    }
+  ],
+  "seasonPrs": {
+    "50 Butterfly": "30.37",
+    "50 Freestyle": "29.66"
+  }
 }

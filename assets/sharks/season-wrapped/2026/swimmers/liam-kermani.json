@@ -1,3 +1,91 @@
 {
-  "name": "Liam Kermani"
+  "name": "Liam Kermani",
+  "ageGroup": "9 &ndash; 10",
+  "2025Wrapped": true,
+  "fly25Times": [
+    {
+      "meet": "Medfield (7/14)",
+      "time": "32.75"
+    },
+    {
+      "meet": "Norwood (7/16)",
+      "time": "31.31"
+    },
+    {
+      "meet": "Canton (7/29)",
+      "time": "27.47"
+    },
+    {
+      "meet": "Westwood (8/3)",
+      "time": "28.68"
+    }
+  ],
+  "free25Times": [
+    {
+      "meet": "Dedham (7/9)",
+      "time": "19.72"
+    },
+    {
+      "meet": "Norwood (7/16)",
+      "time": "22.43"
+    },
+    {
+      "meet": "Newton (7/23)",
+      "time": "20.18"
+    },
+    {
+      "meet": "Natick (7/28)",
+      "time": "20.57"
+    },
+    {
+      "meet": "Canton (7/29)",
+      "time": "20.37"
+    },
+    {
+      "meet": "Walpole (8/6)",
+      "time": "19.25"
+    },
+    {
+      "meet": "Championships (8/8)",
+      "time": "19.50"
+    }
+  ],
+  "breast25Times": [
+    {
+      "meet": "Dedham (7/9)",
+      "time": "26.88"
+    },
+    {
+      "meet": "Newton (7/23)",
+      "time": "28.81"
+    },
+    {
+      "meet": "Westwood (8/3)",
+      "time": "26.78"
+    },
+    {
+      "meet": "Walpole (8/6)",
+      "time": "27.06"
+    },
+    {
+      "meet": "Championships (8/8)",
+      "time": "24.58"
+    }
+  ],
+  "back25Times": [
+    {
+      "meet": "Medfield (7/14)",
+      "time": "27.37"
+    },
+    {
+      "meet": "Natick (7/28)",
+      "time": "26.06"
+    }
+  ],
+  "seasonPrs": {
+    "25 Butterfly": "27.47",
+    "25 Freestyle": "19.25",
+    "25 Breaststroke": "24.58",
+    "25 Backstroke": "26.06"
+  }
 }

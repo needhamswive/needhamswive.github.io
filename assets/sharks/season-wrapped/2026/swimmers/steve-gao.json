@@ -1,3 +1,102 @@
 {
-  "name": "Steve Gao"
+  "name": "Steve Gao",
+  "ageGroup": "11 &ndash; 12",
+  "fly50Times": [
+    {
+      "meet": "Blue vs. Gold (6/30)",
+      "time": "64.92"
+    },
+    {
+      "meet": "Medfield (7/14)",
+      "time": "65.10"
+    },
+    {
+      "meet": "Natick (7/28)",
+      "time": "63.44"
+    },
+    {
+      "meet": "Canton (7/29)",
+      "time": "62.60"
+    }
+  ],
+  "free50Times": [
+    {
+      "meet": "Blue vs. Gold (6/30)",
+      "time": "48.16"
+    },
+    {
+      "meet": "Sherborn (7/2)",
+      "time": "50.78"
+    },
+    {
+      "meet": "Medfield (7/14)",
+      "time": "51.79"
+    },
+    {
+      "meet": "Norwood (7/16)",
+      "time": "45.47"
+    },
+    {
+      "meet": "Newton (7/23)",
+      "time": "48.50"
+    },
+    {
+      "meet": "Natick (7/28)",
+      "time": "53.28"
+    },
+    {
+      "meet": "Canton (7/29)",
+      "time": "52.78"
+    },
+    {
+      "meet": "Walpole (8/6)",
+      "time": "46.94"
+    },
+    {
+      "meet": "Championships (8/8)",
+      "time": "44.21"
+    }
+  ],
+  "breast50Times": [
+    {
+      "meet": "Blue vs. Gold (6/30)",
+      "time": "64.97"
+    },
+    {
+      "meet": "Sherborn (7/2)",
+      "time": "65.85"
+    },
+    {
+      "meet": "Newton (7/23)",
+      "time": "63.25"
+    }
+  ],
+  "back50Times": [
+    {
+      "meet": "Blue vs. Gold (6/30)",
+      "time": "61.09"
+    },
+    {
+      "meet": "Dedham (7/9)",
+      "time": "56.34"
+    },
+    {
+      "meet": "Norwood (7/16)",
+      "time": "58.22"
+    },
+    {
+      "meet": "Walpole (8/6)",
+      "time": "57.43"
+    },
+    {
+      "meet": "Championships (8/8)",
+      "time": "55.83"
+    }
+  ],
+  "seasonPrs": {
+    "50 Butterfly": "62.60",
+    "50 Freestyle": "44.21",
+    "50 Breaststroke": "63.25",
+    "50 Backstroke": "55.83"
+  }
 }

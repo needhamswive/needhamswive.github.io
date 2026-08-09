@@ -1,3 +1,75 @@
 {
-  "name": "Caroline Nelson"
+  "name": "Caroline Nelson",
+  "ageGroup": "11 &ndash; 12",
+  "swimmerOfTheWeek": true,
+  "fly50Times": [
+    {
+      "meet": "Blue vs. Gold (6/30)",
+      "time": "45.94"
+    },
+    {
+      "meet": "Dedham (7/9)",
+      "time": "40.50"
+    },
+    {
+      "meet": "Medfield (7/14)",
+      "time": "46.40"
+    },
+    {
+      "meet": "Championships (8/8)",
+      "time": "42.84"
+    }
+  ],
+  "free50Times": [
+    {
+      "meet": "Blue vs. Gold (6/30)",
+      "time": "36.86"
+    },
+    {
+      "meet": "Sherborn (7/2)",
+      "time": "36.15"
+    },
+    {
+      "meet": "Dedham (7/9)",
+      "time": "33.28"
+    },
+    {
+      "meet": "Norwood (7/16)",
+      "time": "36.16"
+    }
+  ],
+  "breast50Times": [
+    {
+      "meet": "Blue vs. Gold (6/30)",
+      "time": "50.63"
+    }
+  ],
+  "back50Times": [
+    {
+      "meet": "Blue vs. Gold (6/30)",
+      "time": "46.42"
+    },
+    {
+      "meet": "Sherborn (7/2)",
+      "time": "46.70"
+    },
+    {
+      "meet": "Medfield (7/14)",
+      "time": "44.88"
+    },
+    {
+      "meet": "Norwood (7/16)",
+      "time": "41.72"
+    },
+    {
+      "meet": "Championships (8/8)",
+      "time": "41.94"
+    }
+  ],
+  "seasonPrs": {
+    "50 Butterfly": "40.50",
+    "50 Freestyle": "33.28",
+    "50 Breaststroke": "50.63",
+    "50 Backstroke": "41.72"
+  }
 }

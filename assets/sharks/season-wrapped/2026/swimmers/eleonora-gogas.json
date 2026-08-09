@@ -1,3 +1,95 @@
 {
-  "name": "Eleonora Gogas"
+  "name": "Eleonora Gogas",
+  "ageGroup": "9 &ndash; 10",
+  "2025Wrapped": true,
+  "fly25Times": [
+    {
+      "meet": "Blue vs. Gold (6/30)",
+      "time": "18.85"
+    },
+    {
+      "meet": "Sherborn (7/2)",
+      "time": "18.87"
+    },
+    {
+      "meet": "Medfield (7/14)",
+      "time": "19.72"
+    },
+    {
+      "meet": "Natick (7/28)",
+      "time": "19.48"
+    },
+    {
+      "meet": "Canton (7/29)",
+      "time": "16.52"
+    },
+    {
+      "meet": "Westwood (8/3)",
+      "time": "17.97"
+    },
+    {
+      "meet": "Walpole (8/6)",
+      "time": "18.15"
+    },
+    {
+      "meet": "Championships (8/8)",
+      "time": "17.24"
+    }
+  ],
+  "free25Times": [
+    {
+      "meet": "Blue vs. Gold (6/30)",
+      "time": "15.90"
+    },
+    {
+      "meet": "Dedham (7/9)",
+      "time": "15.44"
+    },
+    {
+      "meet": "Canton (7/29)",
+      "time": "15.19"
+    },
+    {
+      "meet": "Westwood (8/3)",
+      "time": "16.43"
+    },
+    {
+      "meet": "Walpole (8/6)",
+      "time": "16.19"
+    },
+    {
+      "meet": "Championships (8/8)",
+      "time": "15.45"
+    }
+  ],
+  "breast25Times": [
+    {
+      "meet": "Blue vs. Gold (6/30)",
+      "time": "23.16"
+    },
+    {
+      "meet": "Sherborn (7/2)",
+      "time": "23.70"
+    },
+    {
+      "meet": "Dedham (7/9)",
+      "time": "23.47"
+    }
+  ],
+  "back25Times": [
+    {
+      "meet": "Blue vs. Gold (6/30)",
+      "time": "19.30"
+    },
+    {
+      "meet": "Medfield (7/14)",
+      "time": "20.15"
+    }
+  ],
+  "seasonPrs": {
+    "25 Butterfly": "16.52",
+    "25 Freestyle": "15.19",
+    "25 Breaststroke": "23.16",
+    "25 Backstroke": "19.30"
+  }
 }

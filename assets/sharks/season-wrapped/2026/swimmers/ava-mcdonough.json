@@ -1,3 +1,86 @@
 {
-  "name": "Ava McDonough"
+  "name": "Ava McDonough",
+  "ageGroup": "9 &ndash; 10",
+  "fly25Times": [
+    {
+      "meet": "Dedham (7/9)",
+      "time": "15.44"
+    },
+    {
+      "meet": "Newton (7/23)",
+      "time": "16.06"
+    },
+    {
+      "meet": "Natick (7/28)",
+      "time": "17.56"
+    },
+    {
+      "meet": "Canton (7/29)",
+      "time": "16.19"
+    },
+    {
+      "meet": "Westwood (8/3)",
+      "time": "16.91"
+    },
+    {
+      "meet": "Walpole (8/6)",
+      "time": "17.19"
+    },
+    {
+      "meet": "Championships (8/8)",
+      "time": "16.47"
+    }
+  ],
+  "free25Times": [
+    {
+      "meet": "Sherborn (7/2)",
+      "time": "22.66"
+    },
+    {
+      "meet": "Norwood (7/16)",
+      "time": "15.12"
+    }
+  ],
+  "breast25Times": [
+    {
+      "meet": "Medfield (7/14)",
+      "time": "21.37"
+    },
+    {
+      "meet": "Norwood (7/16)",
+      "time": "19.93"
+    },
+    {
+      "meet": "Newton (7/23)",
+      "time": "20.78"
+    },
+    {
+      "meet": "Canton (7/29)",
+      "time": "20.94"
+    },
+    {
+      "meet": "Westwood (8/3)",
+      "time": "21.47"
+    },
+    {
+      "meet": "Walpole (8/6)",
+      "time": "20.50"
+    },
+    {
+      "meet": "Championships (8/8)",
+      "time": "20.54"
+    }
+  ],
+  "back25Times": [
+    {
+      "meet": "Medfield (7/14)",
+      "time": "17.94"
+    }
+  ],
+  "seasonPrs": {
+    "25 Butterfly": "15.44",
+    "25 Freestyle": "15.12",
+    "25 Breaststroke": "19.93",
+    "25 Backstroke": "17.94"
+  }
 }

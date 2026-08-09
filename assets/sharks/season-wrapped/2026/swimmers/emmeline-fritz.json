@@ -1,3 +1,67 @@
 {
-  "name": "Emmeline Fritz"
+  "name": "Emmeline Fritz",
+  "ageGroup": "15 & Over",
+  "2025Wrapped": true,
+  "fly50Times": [
+    {
+      "meet": "Blue vs. Gold (6/30)",
+      "time": "34.31"
+    },
+    {
+      "meet": "Natick (7/28)",
+      "time": "36.37"
+    }
+  ],
+  "free50Times": [
+    {
+      "meet": "Blue vs. Gold (6/30)",
+      "time": "29.66"
+    },
+    {
+      "meet": "Sherborn (7/2)",
+      "time": "31.10"
+    },
+    {
+      "meet": "Westwood (8/3)",
+      "time": "30.75"
+    },
+    {
+      "meet": "Walpole (8/6)",
+      "time": "30.53"
+    }
+  ],
+  "breast50Times": [
+    {
+      "meet": "Blue vs. Gold (6/30)",
+      "time": "42.63"
+    }
+  ],
+  "back50Times": [
+    {
+      "meet": "Blue vs. Gold (6/30)",
+      "time": "35.35"
+    },
+    {
+      "meet": "Sherborn (7/2)",
+      "time": "36.63"
+    },
+    {
+      "meet": "Natick (7/28)",
+      "time": "35.03"
+    },
+    {
+      "meet": "Westwood (8/3)",
+      "time": "34.28"
+    },
+    {
+      "meet": "Walpole (8/6)",
+      "time": "34.10"
+    }
+  ],
+  "seasonPrs": {
+    "50 Butterfly": "34.31",
+    "50 Freestyle": "29.66",
+    "50 Breaststroke": "42.63",
+    "50 Backstroke": "34.10"
+  }
 }

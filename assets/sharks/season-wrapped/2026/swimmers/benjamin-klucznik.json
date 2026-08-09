@@ -1,3 +1,92 @@
 {
-  "name": "Benjamin Klucznik"
+  "name": "Benjamin Klucznik",
+  "ageGroup": "9 &ndash; 10",
+  "2025Wrapped": true,
+  "fly25Times": [
+    {
+      "meet": "Dedham (7/9)",
+      "time": "38.50"
+    },
+    {
+      "meet": "Norwood (7/16)",
+      "time": "39.75"
+    }
+  ],
+  "free25Times": [
+    {
+      "meet": "Sherborn (7/2)",
+      "time": "25.50"
+    },
+    {
+      "meet": "Medfield (7/14)",
+      "time": "26.50"
+    },
+    {
+      "meet": "Newton (7/23)",
+      "time": "27.56"
+    },
+    {
+      "meet": "Natick (7/28)",
+      "time": "24.35"
+    },
+    {
+      "meet": "Canton (7/29)",
+      "time": "26.34"
+    },
+    {
+      "meet": "Westwood (8/3)",
+      "time": "25.28"
+    },
+    {
+      "meet": "Walpole (8/6)",
+      "time": "26.16"
+    },
+    {
+      "meet": "Championships (8/8)",
+      "time": "26.38"
+    }
+  ],
+  "back25Times": [
+    {
+      "meet": "Sherborn (7/2)",
+      "time": "29.40"
+    },
+    {
+      "meet": "Dedham (7/9)",
+      "time": "36.63"
+    },
+    {
+      "meet": "Medfield (7/14)",
+      "time": "31.85"
+    },
+    {
+      "meet": "Norwood (7/16)",
+      "time": "30.50"
+    },
+    {
+      "meet": "Natick (7/28)",
+      "time": "29.55"
+    },
+    {
+      "meet": "Canton (7/29)",
+      "time": "32.78"
+    },
+    {
+      "meet": "Westwood (8/3)",
+      "time": "30.53"
+    },
+    {
+      "meet": "Walpole (8/6)",
+      "time": "35.43"
+    },
+    {
+      "meet": "Championships (8/8)",
+      "time": "32.21"
+    }
+  ],
+  "seasonPrs": {
+    "25 Butterfly": "38.50",
+    "25 Freestyle": "24.35",
+    "25 Backstroke": "29.40"
+  }
 }

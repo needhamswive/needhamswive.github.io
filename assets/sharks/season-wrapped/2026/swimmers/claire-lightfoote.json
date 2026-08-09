@@ -1,3 +1,50 @@
 {
-  "name": "Claire Lightfoote"
+  "name": "Claire Lightfoote",
+  "ageGroup": "9 &ndash; 10",
+  "fly25Times": [
+    {
+      "meet": "Westwood (8/3)",
+      "time": "32.25"
+    }
+  ],
+  "free25Times": [
+    {
+      "meet": "Walpole (8/6)",
+      "time": "26.66"
+    }
+  ],
+  "breast25Times": [
+    {
+      "meet": "Dedham (7/9)",
+      "time": "29.27"
+    },
+    {
+      "meet": "Norwood (7/16)",
+      "time": "28.09"
+    },
+    {
+      "meet": "Walpole (8/6)",
+      "time": "24.85"
+    }
+  ],
+  "back25Times": [
+    {
+      "meet": "Dedham (7/9)",
+      "time": "32.50"
+    },
+    {
+      "meet": "Medfield (7/14)",
+      "time": "34.34"
+    },
+    {
+      "meet": "Westwood (8/3)",
+      "time": "30.78"
+    }
+  ],
+  "seasonPrs": {
+    "25 Butterfly": "32.25",
+    "25 Freestyle": "26.66",
+    "25 Breaststroke": "24.85",
+    "25 Backstroke": "30.78"
+  }
 }

@@ -1,3 +1,103 @@
 {
-  "name": "Etta Dildine"
+  "name": "Etta Dildine",
+  "ageGroup": "11 &ndash; 12",
+  "2025Wrapped": true,
+  "fly50Times": [
+    {
+      "meet": "Blue vs. Gold (6/30)",
+      "time": "46.81"
+    },
+    {
+      "meet": "Sherborn (7/2)",
+      "time": "47.45"
+    },
+    {
+      "meet": "Westwood (8/3)",
+      "time": "53.28"
+    },
+    {
+      "meet": "Walpole (8/6)",
+      "time": "53.25"
+    },
+    {
+      "meet": "Championships (8/8)",
+      "time": "52.30"
+    }
+  ],
+  "free50Times": [
+    {
+      "meet": "Blue vs. Gold (6/30)",
+      "time": "40.41"
+    },
+    {
+      "meet": "Dedham (7/9)",
+      "time": "38.19"
+    },
+    {
+      "meet": "Medfield (7/14)",
+      "time": "39.72"
+    },
+    {
+      "meet": "Norwood (7/16)",
+      "time": "37.66"
+    },
+    {
+      "meet": "Natick (7/28)",
+      "time": "38.09"
+    },
+    {
+      "meet": "Canton (7/29)",
+      "time": "37.09"
+    }
+  ],
+  "breast50Times": [
+    {
+      "meet": "Blue vs. Gold (6/30)",
+      "time": "52.39"
+    },
+    {
+      "meet": "Dedham (7/9)",
+      "time": "50.91"
+    },
+    {
+      "meet": "Norwood (7/16)",
+      "time": "50.06"
+    },
+    {
+      "meet": "Canton (7/29)",
+      "time": "48.78"
+    },
+    {
+      "meet": "Westwood (8/3)",
+      "time": "50.47"
+    },
+    {
+      "meet": "Walpole (8/6)",
+      "time": "50.38"
+    },
+    {
+      "meet": "Championships (8/8)",
+      "time": "49.27"
+    }
+  ],
+  "back50Times": [
+    {
+      "meet": "Blue vs. Gold (6/30)",
+      "time": "50.24"
+    },
+    {
+      "meet": "Medfield (7/14)",
+      "time": "51.40"
+    },
+    {
+      "meet": "Natick (7/28)",
+      "time": "50.19"
+    }
+  ],
+  "seasonPrs": {
+    "50 Butterfly": "46.81",
+    "50 Freestyle": "37.09",
+    "50 Breaststroke": "48.78",
+    "50 Backstroke": "50.19"
+  }
 }

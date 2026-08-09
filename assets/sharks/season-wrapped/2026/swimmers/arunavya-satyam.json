@@ -1,3 +1,91 @@
 {
-  "name": "Arunavya Satyam"
+  "name": "Arunavya Satyam",
+  "ageGroup": "9 &ndash; 10",
+  "2025Wrapped": true,
+  "fly25Times": [
+    {
+      "meet": "Norwood (7/16)",
+      "time": "28.75"
+    },
+    {
+      "meet": "Natick (7/28)",
+      "time": "24.08"
+    }
+  ],
+  "free25Times": [
+    {
+      "meet": "Sherborn (7/2)",
+      "time": "20.72"
+    },
+    {
+      "meet": "Medfield (7/14)",
+      "time": "21.16"
+    },
+    {
+      "meet": "Norwood (7/16)",
+      "time": "21.28"
+    },
+    {
+      "meet": "Newton (7/23)",
+      "time": "21.66"
+    },
+    {
+      "meet": "Natick (7/28)",
+      "time": "16.78"
+    },
+    {
+      "meet": "Canton (7/29)",
+      "time": "19.72"
+    },
+    {
+      "meet": "Walpole (8/6)",
+      "time": "19.12"
+    },
+    {
+      "meet": "Championships (8/8)",
+      "time": "19.20"
+    }
+  ],
+  "breast25Times": [
+    {
+      "meet": "Dedham (7/9)",
+      "time": "29.12"
+    }
+  ],
+  "back25Times": [
+    {
+      "meet": "Sherborn (7/2)",
+      "time": "25.37"
+    },
+    {
+      "meet": "Dedham (7/9)",
+      "time": "22.56"
+    },
+    {
+      "meet": "Medfield (7/14)",
+      "time": "26.53"
+    },
+    {
+      "meet": "Newton (7/23)",
+      "time": "28.82"
+    },
+    {
+      "meet": "Canton (7/29)",
+      "time": "23.92"
+    },
+    {
+      "meet": "Walpole (8/6)",
+      "time": "22.41"
+    },
+    {
+      "meet": "Championships (8/8)",
+      "time": "21.56"
+    }
+  ],
+  "seasonPrs": {
+    "25 Butterfly": "24.08",
+    "25 Freestyle": "16.78",
+    "25 Breaststroke": "29.12",
+    "25 Backstroke": "21.56"
+  }
 }

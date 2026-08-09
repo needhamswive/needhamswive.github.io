@@ -1,3 +1,99 @@
 {
-  "name": "Camden Wilson"
+  "name": "Camden Wilson",
+  "ageGroup": "13 &ndash; 14",
+  "2025Wrapped": true,
+  "fly50Times": [
+    {
+      "meet": "Blue vs. Gold (6/30)",
+      "time": "30.56"
+    },
+    {
+      "meet": "Medfield (7/14)",
+      "time": "30.59"
+    },
+    {
+      "meet": "Natick (7/28)",
+      "time": "29.75"
+    }
+  ],
+  "free50Times": [
+    {
+      "meet": "Blue vs. Gold (6/30)",
+      "time": "26.38"
+    },
+    {
+      "meet": "Norwood (7/16)",
+      "time": "25.69"
+    },
+    {
+      "meet": "Newton (7/23)",
+      "time": "24.82"
+    },
+    {
+      "meet": "Canton (7/29)",
+      "time": "26.10"
+    },
+    {
+      "meet": "Walpole (8/6)",
+      "time": "26.34"
+    },
+    {
+      "meet": "Championships (8/8)",
+      "time": "24.89"
+    }
+  ],
+  "breast50Times": [
+    {
+      "meet": "Blue vs. Gold (6/30)",
+      "time": "33.99"
+    },
+    {
+      "meet": "Dedham (7/9)",
+      "time": "33.03"
+    },
+    {
+      "meet": "Medfield (7/14)",
+      "time": "34.60"
+    },
+    {
+      "meet": "Natick (7/28)",
+      "time": "34.03"
+    },
+    {
+      "meet": "Canton (7/29)",
+      "time": "33.75"
+    }
+  ],
+  "back50Times": [
+    {
+      "meet": "Blue vs. Gold (6/30)",
+      "time": "29.55"
+    },
+    {
+      "meet": "Dedham (7/9)",
+      "time": "29.03"
+    },
+    {
+      "meet": "Norwood (7/16)",
+      "time": "28.71"
+    },
+    {
+      "meet": "Newton (7/23)",
+      "time": "29.10"
+    },
+    {
+      "meet": "Walpole (8/6)",
+      "time": "30.00"
+    },
+    {
+      "meet": "Championships (8/8)",
+      "time": "28.19"
+    }
+  ],
+  "seasonPrs": {
+    "50 Butterfly": "29.75",
+    "50 Freestyle": "24.82",
+    "50 Breaststroke": "33.03",
+    "50 Backstroke": "28.19"
+  }
 }

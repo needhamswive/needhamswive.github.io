@@ -1,3 +1,99 @@
 {
-  "name": "Zohra Baqri"
+  "name": "Zohra Baqri",
+  "ageGroup": "9 &ndash; 10",
+  "swimmerOfTheWeek": true,
+  "fly25Times": [
+    {
+      "meet": "Blue vs. Gold (6/30)",
+      "time": "33.00"
+    },
+    {
+      "meet": "Norwood (7/16)",
+      "time": "29.72"
+    }
+  ],
+  "free25Times": [
+    {
+      "meet": "Blue vs. Gold (6/30)",
+      "time": "19.53"
+    },
+    {
+      "meet": "Sherborn (7/2)",
+      "time": "26.20"
+    },
+    {
+      "meet": "Norwood (7/16)",
+      "time": "21.59"
+    },
+    {
+      "meet": "Newton (7/23)",
+      "time": "22.66"
+    },
+    {
+      "meet": "Canton (7/29)",
+      "time": "22.28"
+    },
+    {
+      "meet": "Westwood (8/3)",
+      "time": "23.00"
+    },
+    {
+      "meet": "Walpole (8/6)",
+      "time": "21.00"
+    },
+    {
+      "meet": "Championships (8/8)",
+      "time": "21.17"
+    }
+  ],
+  "breast25Times": [
+    {
+      "meet": "Blue vs. Gold (6/30)",
+      "time": "37.65"
+    },
+    {
+      "meet": "Dedham (7/9)",
+      "time": "36.38"
+    },
+    {
+      "meet": "Canton (7/29)",
+      "time": "31.75"
+    }
+  ],
+  "back25Times": [
+    {
+      "meet": "Blue vs. Gold (6/30)",
+      "time": "26.38"
+    },
+    {
+      "meet": "Sherborn (7/2)",
+      "time": "25.20"
+    },
+    {
+      "meet": "Dedham (7/9)",
+      "time": "26.72"
+    },
+    {
+      "meet": "Newton (7/23)",
+      "time": "23.50"
+    },
+    {
+      "meet": "Westwood (8/3)",
+      "time": "23.06"
+    },
+    {
+      "meet": "Walpole (8/6)",
+      "time": "25.66"
+    },
+    {
+      "meet": "Championships (8/8)",
+      "time": "25.23"
+    }
+  ],
+  "seasonPrs": {
+    "25 Butterfly": "29.72",
+    "25 Freestyle": "19.53",
+    "25 Breaststroke": "31.75",
+    "25 Backstroke": "23.06"
+  }
 }

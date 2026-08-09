@@ -1,3 +1,29 @@
 {
-  "name": "Nicholas Lee"
+  "name": "Nicholas Lee",
+  "ageGroup": "15 & Over",
+  "2025Wrapped": true,
+  "free50Times": [
+    {
+      "meet": "Norwood (7/16)",
+      "time": "26.40"
+    },
+    {
+      "meet": "Canton (7/29)",
+      "time": "26.56"
+    }
+  ],
+  "breast50Times": [
+    {
+      "meet": "Norwood (7/16)",
+      "time": "32.40"
+    },
+    {
+      "meet": "Canton (7/29)",
+      "time": "33.62"
+    }
+  ],
+  "seasonPrs": {
+    "50 Freestyle": "26.40",
+    "50 Breaststroke": "32.40"
+  }
 }

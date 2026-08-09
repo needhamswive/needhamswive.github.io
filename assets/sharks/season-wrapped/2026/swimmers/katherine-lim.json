@@ -1,3 +1,100 @@
 {
-  "name": "Katherine Lim"
+  "name": "Katherine Lim",
+  "ageGroup": "13 &ndash; 14",
+  "swimmerOfTheWeek": true,
+  "2025Wrapped": true,
+  "fly50Times": [
+    {
+      "meet": "Blue vs. Gold (6/30)",
+      "time": "33.06"
+    },
+    {
+      "meet": "Medfield (7/14)",
+      "time": "38.31"
+    },
+    {
+      "meet": "Newton (7/23)",
+      "time": "32.63"
+    },
+    {
+      "meet": "Natick (7/28)",
+      "time": "36.28"
+    },
+    {
+      "meet": "Canton (7/29)",
+      "time": "33.72"
+    },
+    {
+      "meet": "Westwood (8/3)",
+      "time": "33.03"
+    },
+    {
+      "meet": "Walpole (8/6)",
+      "time": "33.13"
+    },
+    {
+      "meet": "Championships (8/8)",
+      "time": "32.93"
+    }
+  ],
+  "free50Times": [
+    {
+      "meet": "Blue vs. Gold (6/30)",
+      "time": "32.31"
+    },
+    {
+      "meet": "Norwood (7/16)",
+      "time": "32.94"
+    }
+  ],
+  "breast50Times": [
+    {
+      "meet": "Blue vs. Gold (6/30)",
+      "time": "42.81"
+    },
+    {
+      "meet": "Medfield (7/14)",
+      "time": "48.53"
+    },
+    {
+      "meet": "Newton (7/23)",
+      "time": "43.09"
+    },
+    {
+      "meet": "Natick (7/28)",
+      "time": "44.59"
+    },
+    {
+      "meet": "Westwood (8/3)",
+      "time": "43.78"
+    },
+    {
+      "meet": "Walpole (8/6)",
+      "time": "42.87"
+    },
+    {
+      "meet": "Championships (8/8)",
+      "time": "43.02"
+    }
+  ],
+  "back50Times": [
+    {
+      "meet": "Blue vs. Gold (6/30)",
+      "time": "39.19"
+    },
+    {
+      "meet": "Norwood (7/16)",
+      "time": "40.15"
+    },
+    {
+      "meet": "Canton (7/29)",
+      "time": "39.38"
+    }
+  ],
+  "seasonPrs": {
+    "50 Butterfly": "32.63",
+    "50 Freestyle": "32.31",
+    "50 Breaststroke": "42.81",
+    "50 Backstroke": "39.19"
+  }
 }

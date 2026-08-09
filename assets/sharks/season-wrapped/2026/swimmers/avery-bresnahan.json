@@ -1,3 +1,107 @@
 {
-  "name": "Avery Bresnahan"
+  "name": "Avery Bresnahan",
+  "ageGroup": "8 & Under",
+  "2025Wrapped": true,
+  "fly50Times": [
+    {
+      "meet": "Blue vs. Gold (6/30)",
+      "time": "46.47"
+    }
+  ],
+  "free50Times": [
+    {
+      "meet": "Blue vs. Gold (6/30)",
+      "time": "40.65"
+    },
+    {
+      "meet": "Sherborn (7/2)",
+      "time": "44.97"
+    },
+    {
+      "meet": "Dedham (7/9)",
+      "time": "43.09"
+    },
+    {
+      "meet": "Medfield (7/14)",
+      "time": "37.27"
+    },
+    {
+      "meet": "Norwood (7/16)",
+      "time": "40.59"
+    },
+    {
+      "meet": "Newton (7/23)",
+      "time": "39.96"
+    },
+    {
+      "meet": "Natick (7/28)",
+      "time": "49.75"
+    },
+    {
+      "meet": "Canton (7/29)",
+      "time": "40.22"
+    },
+    {
+      "meet": "Westwood (8/3)",
+      "time": "42.75"
+    },
+    {
+      "meet": "Walpole (8/6)",
+      "time": "43.18"
+    },
+    {
+      "meet": "Championships (8/8)",
+      "time": "38.45"
+    }
+  ],
+  "breast50Times": [
+    {
+      "meet": "Blue vs. Gold (6/30)",
+      "time": "54.22"
+    },
+    {
+      "meet": "Medfield (7/14)",
+      "time": "49.57"
+    }
+  ],
+  "back50Times": [
+    {
+      "meet": "Blue vs. Gold (6/30)",
+      "time": "45.47"
+    },
+    {
+      "meet": "Sherborn (7/2)",
+      "time": "41.60"
+    },
+    {
+      "meet": "Dedham (7/9)",
+      "time": "38.41"
+    },
+    {
+      "meet": "Norwood (7/16)",
+      "time": "44.75"
+    },
+    {
+      "meet": "Newton (7/23)",
+      "time": "38.50"
+    },
+    {
+      "meet": "Natick (7/28)",
+      "time": "45.41"
+    },
+    {
+      "meet": "Canton (7/29)",
+      "time": "39.87"
+    },
+    {
+      "meet": "Championships (8/8)",
+      "time": "40.10"
+    }
+  ],
+  "seasonPrs": {
+    "50 Butterfly": "46.47",
+    "50 Freestyle": "37.27",
+    "50 Breaststroke": "49.57",
+    "50 Backstroke": "38.41"
+  }
 }

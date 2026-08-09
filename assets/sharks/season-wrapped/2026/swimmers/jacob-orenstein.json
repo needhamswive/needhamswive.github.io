@@ -1,3 +1,82 @@
 {
-  "name": "Jacob Orenstein"
+  "name": "Jacob Orenstein",
+  "ageGroup": "8 & Under",
+  "fly50Times": [
+    {
+      "meet": "Dedham (7/9)",
+      "time": "24.75"
+    },
+    {
+      "meet": "Norwood (7/16)",
+      "time": "24.62"
+    },
+    {
+      "meet": "Newton (7/23)",
+      "time": "29.12"
+    },
+    {
+      "meet": "Natick (7/28)",
+      "time": "26.08"
+    },
+    {
+      "meet": "Canton (7/29)",
+      "time": "28.53"
+    },
+    {
+      "meet": "Walpole (8/6)",
+      "time": "26.97"
+    }
+  ],
+  "free50Times": [
+    {
+      "meet": "Norwood (7/16)",
+      "time": "24.35"
+    },
+    {
+      "meet": "Championships (8/8)",
+      "time": "22.05"
+    }
+  ],
+  "breast50Times": [
+    {
+      "meet": "Natick (7/28)",
+      "time": "28.87"
+    },
+    {
+      "meet": "Canton (7/29)",
+      "time": "31.38"
+    },
+    {
+      "meet": "Westwood (8/3)",
+      "time": "26.12"
+    }
+  ],
+  "back50Times": [
+    {
+      "meet": "Dedham (7/9)",
+      "time": "26.09"
+    },
+    {
+      "meet": "Newton (7/23)",
+      "time": "26.53"
+    },
+    {
+      "meet": "Westwood (8/3)",
+      "time": "23.69"
+    },
+    {
+      "meet": "Walpole (8/6)",
+      "time": "24.00"
+    },
+    {
+      "meet": "Championships (8/8)",
+      "time": "23.88"
+    }
+  ],
+  "seasonPrs": {
+    "50 Butterfly": "24.62",
+    "50 Freestyle": "22.05",
+    "50 Breaststroke": "26.12",
+    "50 Backstroke": "23.69"
+  }
 }

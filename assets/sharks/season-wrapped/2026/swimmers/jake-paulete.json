@@ -1,3 +1,91 @@
 {
-  "name": "Jake Paulete"
+  "name": "Jake Paulete",
+  "ageGroup": "13 &ndash; 14",
+  "2025Wrapped": true,
+  "fly50Times": [
+    {
+      "meet": "Blue vs. Gold (6/30)",
+      "time": "35.36"
+    },
+    {
+      "meet": "Sherborn (7/2)",
+      "time": "35.16"
+    },
+    {
+      "meet": "Medfield (7/14)",
+      "time": "35.40"
+    },
+    {
+      "meet": "Norwood (7/16)",
+      "time": "33.59"
+    },
+    {
+      "meet": "Newton (7/23)",
+      "time": "35.50"
+    },
+    {
+      "meet": "Natick (7/28)",
+      "time": "34.25"
+    }
+  ],
+  "free50Times": [
+    {
+      "meet": "Blue vs. Gold (6/30)",
+      "time": "30.53"
+    },
+    {
+      "meet": "Sherborn (7/2)",
+      "time": "37.97"
+    },
+    {
+      "meet": "Dedham (7/9)",
+      "time": "30.32"
+    }
+  ],
+  "breast50Times": [
+    {
+      "meet": "Blue vs. Gold (6/30)",
+      "time": "42.93"
+    },
+    {
+      "meet": "Dedham (7/9)",
+      "time": "43.91"
+    },
+    {
+      "meet": "Medfield (7/14)",
+      "time": "47.72"
+    },
+    {
+      "meet": "Natick (7/28)",
+      "time": "43.08"
+    },
+    {
+      "meet": "Canton (7/29)",
+      "time": "43.94"
+    }
+  ],
+  "back50Times": [
+    {
+      "meet": "Blue vs. Gold (6/30)",
+      "time": "40.96"
+    },
+    {
+      "meet": "Norwood (7/16)",
+      "time": "40.23"
+    },
+    {
+      "meet": "Newton (7/23)",
+      "time": "40.41"
+    },
+    {
+      "meet": "Canton (7/29)",
+      "time": "38.94"
+    }
+  ],
+  "seasonPrs": {
+    "50 Butterfly": "33.59",
+    "50 Freestyle": "30.32",
+    "50 Breaststroke": "42.93",
+    "50 Backstroke": "38.94"
+  }
 }

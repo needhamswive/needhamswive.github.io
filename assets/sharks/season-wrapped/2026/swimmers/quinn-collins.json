@@ -1,3 +1,59 @@
 {
-  "name": "Quinn Collins"
+  "name": "Quinn Collins",
+  "ageGroup": "15 & Over",
+  "2025Wrapped": true,
+  "fly50Times": [
+    {
+      "meet": "Dedham (7/9)",
+      "time": "31.47"
+    },
+    {
+      "meet": "Norwood (7/16)",
+      "time": "29.56"
+    },
+    {
+      "meet": "Walpole (8/6)",
+      "time": "30.50"
+    },
+    {
+      "meet": "Championships (8/8)",
+      "time": "29.59"
+    }
+  ],
+  "free50Times": [
+    {
+      "meet": "Newton (7/23)",
+      "time": "25.53"
+    }
+  ],
+  "breast50Times": [
+    {
+      "meet": "Norwood (7/16)",
+      "time": "33.37"
+    },
+    {
+      "meet": "Newton (7/23)",
+      "time": "32.94"
+    },
+    {
+      "meet": "Walpole (8/6)",
+      "time": "32.41"
+    },
+    {
+      "meet": "Championships (8/8)",
+      "time": "32.15"
+    }
+  ],
+  "back50Times": [
+    {
+      "meet": "Dedham (7/9)",
+      "time": "34.09"
+    }
+  ],
+  "seasonPrs": {
+    "50 Butterfly": "29.56",
+    "50 Freestyle": "25.53",
+    "50 Breaststroke": "32.15",
+    "50 Backstroke": "34.09"
+  }
 }

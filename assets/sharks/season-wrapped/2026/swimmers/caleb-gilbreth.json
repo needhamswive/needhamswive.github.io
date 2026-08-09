@@ -1,3 +1,63 @@
 {
-  "name": "Caleb Gilbreth"
+  "name": "Caleb Gilbreth",
+  "ageGroup": "15 & Over",
+  "2025Wrapped": true,
+  "fly50Times": [
+    {
+      "meet": "Blue vs. Gold (6/30)",
+      "time": "36.55"
+    },
+    {
+      "meet": "Westwood (8/3)",
+      "time": "36.12"
+    }
+  ],
+  "free50Times": [
+    {
+      "meet": "Blue vs. Gold (6/30)",
+      "time": "27.64"
+    }
+  ],
+  "breast50Times": [
+    {
+      "meet": "Blue vs. Gold (6/30)",
+      "time": "36.46"
+    },
+    {
+      "meet": "Dedham (7/9)",
+      "time": "35.69"
+    },
+    {
+      "meet": "Westwood (8/3)",
+      "time": "36.31"
+    },
+    {
+      "meet": "Walpole (8/6)",
+      "time": "35.22"
+    }
+  ],
+  "back50Times": [
+    {
+      "meet": "Blue vs. Gold (6/30)",
+      "time": "33.96"
+    },
+    {
+      "meet": "Dedham (7/9)",
+      "time": "34.06"
+    },
+    {
+      "meet": "Newton (7/23)",
+      "time": "28.60"
+    },
+    {
+      "meet": "Walpole (8/6)",
+      "time": "32.93"
+    }
+  ],
+  "seasonPrs": {
+    "50 Butterfly": "36.12",
+    "50 Freestyle": "27.64",
+    "50 Breaststroke": "35.22",
+    "50 Backstroke": "28.60"
+  }
 }

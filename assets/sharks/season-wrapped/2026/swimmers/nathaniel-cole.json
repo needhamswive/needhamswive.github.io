@@ -1,3 +1,100 @@
 {
-  "name": "Nathaniel Cole"
+  "name": "Nathaniel Cole",
+  "ageGroup": "9 &ndash; 10",
+  "swimmerOfTheWeek": true,
+  "2025Wrapped": true,
+  "fly25Times": [
+    {
+      "meet": "Blue vs. Gold (6/30)",
+      "time": "28.31"
+    },
+    {
+      "meet": "Dedham (7/9)",
+      "time": "29.84"
+    },
+    {
+      "meet": "Newton (7/23)",
+      "time": "24.53"
+    },
+    {
+      "meet": "Natick (7/28)",
+      "time": "25.22"
+    },
+    {
+      "meet": "Canton (7/29)",
+      "time": "25.91"
+    }
+  ],
+  "free25Times": [
+    {
+      "meet": "Blue vs. Gold (6/30)",
+      "time": "19.63"
+    }
+  ],
+  "breast25Times": [
+    {
+      "meet": "Blue vs. Gold (6/30)",
+      "time": "26.91"
+    },
+    {
+      "meet": "Sherborn (7/2)",
+      "time": "27.42"
+    },
+    {
+      "meet": "Dedham (7/9)",
+      "time": "26.87"
+    },
+    {
+      "meet": "Natick (7/28)",
+      "time": "27.25"
+    },
+    {
+      "meet": "Canton (7/29)",
+      "time": "26.50"
+    },
+    {
+      "meet": "Westwood (8/3)",
+      "time": "29.60"
+    },
+    {
+      "meet": "Walpole (8/6)",
+      "time": "26.69"
+    },
+    {
+      "meet": "Championships (8/8)",
+      "time": "25.22"
+    }
+  ],
+  "back25Times": [
+    {
+      "meet": "Blue vs. Gold (6/30)",
+      "time": "23.25"
+    },
+    {
+      "meet": "Sherborn (7/2)",
+      "time": "23.35"
+    },
+    {
+      "meet": "Newton (7/23)",
+      "time": "21.29"
+    },
+    {
+      "meet": "Westwood (8/3)",
+      "time": "27.03"
+    },
+    {
+      "meet": "Walpole (8/6)",
+      "time": "22.18"
+    },
+    {
+      "meet": "Championships (8/8)",
+      "time": "24.49"
+    }
+  ],
+  "seasonPrs": {
+    "25 Butterfly": "24.53",
+    "25 Freestyle": "19.63",
+    "25 Breaststroke": "25.22",
+    "25 Backstroke": "21.29"
+  }
 }

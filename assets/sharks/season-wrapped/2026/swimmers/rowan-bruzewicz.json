@@ -1,3 +1,74 @@
 {
-  "name": "Rowan Bruzewicz"
+  "name": "Rowan Bruzewicz",
+  "ageGroup": "8 & Under",
+  "fly50Times": [
+    {
+      "meet": "Blue vs. Gold (6/30)",
+      "time": "35.28"
+    },
+    {
+      "meet": "Sherborn (7/2)",
+      "time": "36.00"
+    },
+    {
+      "meet": "Dedham (7/9)",
+      "time": "41.53"
+    },
+    {
+      "meet": "Norwood (7/16)",
+      "time": "44.22"
+    },
+    {
+      "meet": "Newton (7/23)",
+      "time": "36.25"
+    }
+  ],
+  "free50Times": [
+    {
+      "meet": "Blue vs. Gold (6/30)",
+      "time": "29.44"
+    },
+    {
+      "meet": "Dedham (7/9)",
+      "time": "33.40"
+    },
+    {
+      "meet": "Medfield (7/14)",
+      "time": "32.09"
+    },
+    {
+      "meet": "Newton (7/23)",
+      "time": "28.93"
+    }
+  ],
+  "breast50Times": [
+    {
+      "meet": "Blue vs. Gold (6/30)",
+      "time": "40.85"
+    },
+    {
+      "meet": "Medfield (7/14)",
+      "time": "43.40"
+    }
+  ],
+  "back50Times": [
+    {
+      "meet": "Blue vs. Gold (6/30)",
+      "time": "32.37"
+    },
+    {
+      "meet": "Sherborn (7/2)",
+      "time": "31.90"
+    },
+    {
+      "meet": "Norwood (7/16)",
+      "time": "34.39"
+    }
+  ],
+  "seasonPrs": {
+    "50 Butterfly": "35.28",
+    "50 Freestyle": "28.93",
+    "50 Breaststroke": "40.85",
+    "50 Backstroke": "31.90"
+  }
 }

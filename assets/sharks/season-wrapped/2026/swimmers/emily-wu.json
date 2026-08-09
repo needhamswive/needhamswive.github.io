@@ -1,3 +1,100 @@
 {
-  "name": "Emily Wu"
+  "name": "Emily Wu",
+  "ageGroup": "9 &ndash; 10",
+  "swimmerOfTheWeek": true,
+  "2025Wrapped": true,
+  "fly25Times": [
+    {
+      "meet": "Blue vs. Gold (6/30)",
+      "time": "14.91"
+    },
+    {
+      "meet": "Sherborn (7/2)",
+      "time": "16.19"
+    },
+    {
+      "meet": "Dedham (7/9)",
+      "time": "15.41"
+    },
+    {
+      "meet": "Norwood (7/16)",
+      "time": "14.87"
+    },
+    {
+      "meet": "Newton (7/23)",
+      "time": "15.00"
+    },
+    {
+      "meet": "Natick (7/28)",
+      "time": "15.57"
+    },
+    {
+      "meet": "Westwood (8/3)",
+      "time": "15.31"
+    },
+    {
+      "meet": "Walpole (8/6)",
+      "time": "14.63"
+    },
+    {
+      "meet": "Championships (8/8)",
+      "time": "15.40"
+    }
+  ],
+  "free25Times": [
+    {
+      "meet": "Blue vs. Gold (6/30)",
+      "time": "14.28"
+    },
+    {
+      "meet": "Newton (7/23)",
+      "time": "14.10"
+    },
+    {
+      "meet": "Westwood (8/3)",
+      "time": "14.32"
+    },
+    {
+      "meet": "Walpole (8/6)",
+      "time": "13.34"
+    },
+    {
+      "meet": "Championships (8/8)",
+      "time": "14.63"
+    }
+  ],
+  "breast25Times": [
+    {
+      "meet": "Blue vs. Gold (6/30)",
+      "time": "20.40"
+    },
+    {
+      "meet": "Sherborn (7/2)",
+      "time": "20.92"
+    },
+    {
+      "meet": "Dedham (7/9)",
+      "time": "20.06"
+    },
+    {
+      "meet": "Natick (7/28)",
+      "time": "20.87"
+    }
+  ],
+  "back25Times": [
+    {
+      "meet": "Blue vs. Gold (6/30)",
+      "time": "17.87"
+    },
+    {
+      "meet": "Norwood (7/16)",
+      "time": "16.82"
+    }
+  ],
+  "seasonPrs": {
+    "25 Butterfly": "14.63",
+    "25 Freestyle": "13.34",
+    "25 Breaststroke": "20.06",
+    "25 Backstroke": "16.82"
+  }
 }

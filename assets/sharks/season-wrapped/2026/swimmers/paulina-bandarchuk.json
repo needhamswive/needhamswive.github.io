@@ -1,3 +1,75 @@
 {
-  "name": "Paulina Bandarchuk"
+  "name": "Paulina Bandarchuk",
+  "ageGroup": "11 &ndash; 12",
+  "2025Wrapped": true,
+  "fly50Times": [
+    {
+      "meet": "Blue vs. Gold (6/30)",
+      "time": "49.05"
+    },
+    {
+      "meet": "Sherborn (7/2)",
+      "time": "52.47"
+    },
+    {
+      "meet": "Westwood (8/3)",
+      "time": "49.71"
+    }
+  ],
+  "free50Times": [
+    {
+      "meet": "Blue vs. Gold (6/30)",
+      "time": "45.41"
+    },
+    {
+      "meet": "Dedham (7/9)",
+      "time": "41.78"
+    },
+    {
+      "meet": "Natick (7/28)",
+      "time": "42.90"
+    }
+  ],
+  "breast50Times": [
+    {
+      "meet": "Blue vs. Gold (6/30)",
+      "time": "52.33"
+    },
+    {
+      "meet": "Sherborn (7/2)",
+      "time": "52.54"
+    },
+    {
+      "meet": "Natick (7/28)",
+      "time": "52.12"
+    },
+    {
+      "meet": "Westwood (8/3)",
+      "time": "54.16"
+    },
+    {
+      "meet": "Walpole (8/6)",
+      "time": "49.65"
+    }
+  ],
+  "back50Times": [
+    {
+      "meet": "Dedham (7/9)",
+      "time": "47.28"
+    },
+    {
+      "meet": "Walpole (8/6)",
+      "time": "48.19"
+    },
+    {
+      "meet": "Championships (8/8)",
+      "time": "46.08"
+    }
+  ],
+  "seasonPrs": {
+    "50 Butterfly": "49.05",
+    "50 Freestyle": "41.78",
+    "50 Breaststroke": "49.65",
+    "50 Backstroke": "46.08"
+  }
 }

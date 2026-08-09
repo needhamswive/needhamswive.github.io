@@ -1,3 +1,40 @@
 {
-  "name": "Genevieve Smith"
+  "name": "Genevieve Smith",
+  "ageGroup": "15 & Over",
+  "2025Wrapped": true,
+  "fly50Times": [
+    {
+      "meet": "Norwood (7/16)",
+      "time": "31.75"
+    },
+    {
+      "meet": "Newton (7/23)",
+      "time": "31.28"
+    },
+    {
+      "meet": "Walpole (8/6)",
+      "time": "31.54"
+    }
+  ],
+  "free50Times": [
+    {
+      "meet": "Newton (7/23)",
+      "time": "29.40"
+    },
+    {
+      "meet": "Walpole (8/6)",
+      "time": "30.12"
+    }
+  ],
+  "breast50Times": [
+    {
+      "meet": "Norwood (7/16)",
+      "time": "39.90"
+    }
+  ],
+  "seasonPrs": {
+    "50 Butterfly": "31.28",
+    "50 Freestyle": "29.40",
+    "50 Breaststroke": "39.90"
+  }
 }

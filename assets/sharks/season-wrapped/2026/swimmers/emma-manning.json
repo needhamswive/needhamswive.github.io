@@ -1,3 +1,43 @@
 {
-  "name": "Emma Manning"
+  "name": "Emma Manning",
+  "ageGroup": "15 & Over",
+  "2025Wrapped": true,
+  "fly50Times": [
+    {
+      "meet": "Canton (7/29)",
+      "time": "32.65"
+    }
+  ],
+  "free50Times": [
+    {
+      "meet": "Norwood (7/16)",
+      "time": "29.54"
+    },
+    {
+      "meet": "Newton (7/23)",
+      "time": "28.66"
+    }
+  ],
+  "breast50Times": [
+    {
+      "meet": "Canton (7/29)",
+      "time": "43.65"
+    }
+  ],
+  "back50Times": [
+    {
+      "meet": "Norwood (7/16)",
+      "time": "33.62"
+    },
+    {
+      "meet": "Newton (7/23)",
+      "time": "33.37"
+    }
+  ],
+  "seasonPrs": {
+    "50 Butterfly": "32.65",
+    "50 Freestyle": "28.66",
+    "50 Breaststroke": "43.65",
+    "50 Backstroke": "33.37"
+  }
 }

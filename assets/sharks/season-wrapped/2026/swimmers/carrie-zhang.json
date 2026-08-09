@@ -1,3 +1,98 @@
 {
-  "name": "Carrie Zhang"
+  "name": "Carrie Zhang",
+  "ageGroup": "15 & Over",
+  "fly50Times": [
+    {
+      "meet": "Blue vs. Gold (6/30)",
+      "time": "32.12"
+    },
+    {
+      "meet": "Sherborn (7/2)",
+      "time": "34.97"
+    },
+    {
+      "meet": "Medfield (7/14)",
+      "time": "33.91"
+    },
+    {
+      "meet": "Newton (7/23)",
+      "time": "31.97"
+    },
+    {
+      "meet": "Natick (7/28)",
+      "time": "34.00"
+    },
+    {
+      "meet": "Westwood (8/3)",
+      "time": "31.50"
+    }
+  ],
+  "free50Times": [
+    {
+      "meet": "Blue vs. Gold (6/30)",
+      "time": "29.58"
+    }
+  ],
+  "breast50Times": [
+    {
+      "meet": "Blue vs. Gold (6/30)",
+      "time": "38.90"
+    },
+    {
+      "meet": "Sherborn (7/2)",
+      "time": "37.70"
+    },
+    {
+      "meet": "Medfield (7/14)",
+      "time": "37.91"
+    },
+    {
+      "meet": "Norwood (7/16)",
+      "time": "37.68"
+    },
+    {
+      "meet": "Newton (7/23)",
+      "time": "36.65"
+    },
+    {
+      "meet": "Canton (7/29)",
+      "time": "37.62"
+    },
+    {
+      "meet": "Westwood (8/3)",
+      "time": "36.84"
+    },
+    {
+      "meet": "Walpole (8/6)",
+      "time": "36.19"
+    }
+  ],
+  "back50Times": [
+    {
+      "meet": "Blue vs. Gold (6/30)",
+      "time": "34.47"
+    },
+    {
+      "meet": "Norwood (7/16)",
+      "time": "34.56"
+    },
+    {
+      "meet": "Natick (7/28)",
+      "time": "37.29"
+    },
+    {
+      "meet": "Canton (7/29)",
+      "time": "34.47"
+    },
+    {
+      "meet": "Walpole (8/6)",
+      "time": "33.97"
+    }
+  ],
+  "seasonPrs": {
+    "50 Butterfly": "31.50",
+    "50 Freestyle": "29.58",
+    "50 Breaststroke": "36.19",
+    "50 Backstroke": "33.97"
+  }
 }

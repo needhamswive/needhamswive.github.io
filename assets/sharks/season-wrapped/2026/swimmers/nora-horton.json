@@ -1,3 +1,13 @@
 {
-  "name": "Nora Horton"
+  "name": "Nora Horton",
+  "ageGroup": "15 & Over",
+  "breast50Times": [
+    {
+      "meet": "Norwood (7/16)",
+      "time": "42.13"
+    }
+  ],
+  "seasonPrs": {
+    "50 Breaststroke": "42.13"
+  }
 }

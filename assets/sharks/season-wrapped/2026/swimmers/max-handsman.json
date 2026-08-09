@@ -1,3 +1,99 @@
 {
-  "name": "Max Handsman"
+  "name": "Max Handsman",
+  "ageGroup": "9 &ndash; 10",
+  "2025Wrapped": true,
+  "fly25Times": [
+    {
+      "meet": "Blue vs. Gold (6/30)",
+      "time": "33.12"
+    },
+    {
+      "meet": "Sherborn (7/2)",
+      "time": "35.19"
+    },
+    {
+      "meet": "Newton (7/23)",
+      "time": "32.28"
+    }
+  ],
+  "free25Times": [
+    {
+      "meet": "Blue vs. Gold (6/30)",
+      "time": "28.00"
+    },
+    {
+      "meet": "Dedham (7/9)",
+      "time": "28.53"
+    },
+    {
+      "meet": "Medfield (7/14)",
+      "time": "27.90"
+    },
+    {
+      "meet": "Norwood (7/16)",
+      "time": "26.97"
+    }
+  ],
+  "breast25Times": [
+    {
+      "meet": "Blue vs. Gold (6/30)",
+      "time": "27.22"
+    },
+    {
+      "meet": "Norwood (7/16)",
+      "time": "29.13"
+    },
+    {
+      "meet": "Newton (7/23)",
+      "time": "27.81"
+    },
+    {
+      "meet": "Westwood (8/3)",
+      "time": "27.72"
+    },
+    {
+      "meet": "Walpole (8/6)",
+      "time": "28.25"
+    },
+    {
+      "meet": "Championships (8/8)",
+      "time": "26.05"
+    }
+  ],
+  "back25Times": [
+    {
+      "meet": "Blue vs. Gold (6/30)",
+      "time": "27.82"
+    },
+    {
+      "meet": "Sherborn (7/2)",
+      "time": "27.17"
+    },
+    {
+      "meet": "Dedham (7/9)",
+      "time": "29.19"
+    },
+    {
+      "meet": "Medfield (7/14)",
+      "time": "27.97"
+    },
+    {
+      "meet": "Westwood (8/3)",
+      "time": "31.03"
+    },
+    {
+      "meet": "Walpole (8/6)",
+      "time": "28.88"
+    },
+    {
+      "meet": "Championships (8/8)",
+      "time": "27.12"
+    }
+  ],
+  "seasonPrs": {
+    "25 Butterfly": "32.28",
+    "25 Freestyle": "26.97",
+    "25 Breaststroke": "26.05",
+    "25 Backstroke": "27.12"
+  }
 }

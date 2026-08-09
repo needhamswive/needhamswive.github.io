@@ -1,3 +1,48 @@
 {
-  "name": "Brian Wukitch"
+  "name": "Brian Wukitch",
+  "ageGroup": "15 & Over",
+  "2025Wrapped": true,
+  "fly50Times": [
+    {
+      "meet": "Sherborn (7/2)",
+      "time": "26.19"
+    },
+    {
+      "meet": "Dedham (7/9)",
+      "time": "25.59"
+    },
+    {
+      "meet": "Walpole (8/6)",
+      "time": "25.37"
+    }
+  ],
+  "breast50Times": [
+    {
+      "meet": "Championships (8/8)",
+      "time": "29.58"
+    }
+  ],
+  "back50Times": [
+    {
+      "meet": "Sherborn (7/2)",
+      "time": "27.25"
+    },
+    {
+      "meet": "Dedham (7/9)",
+      "time": "26.22"
+    },
+    {
+      "meet": "Walpole (8/6)",
+      "time": "25.94"
+    },
+    {
+      "meet": "Championships (8/8)",
+      "time": "24.45"
+    }
+  ],
+  "seasonPrs": {
+    "50 Butterfly": "25.37",
+    "50 Breaststroke": "29.58",
+    "50 Backstroke": "24.45"
+  }
 }

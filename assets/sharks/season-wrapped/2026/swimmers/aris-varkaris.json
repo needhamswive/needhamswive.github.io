@@ -1,3 +1,55 @@
 {
-  "name": "Aris Varkaris"
+  "name": "Aris Varkaris",
+  "ageGroup": "9 &ndash; 10",
+  "2025Wrapped": true,
+  "fly25Times": [
+    {
+      "meet": "Blue vs. Gold (6/30)",
+      "time": "34.41"
+    }
+  ],
+  "free25Times": [
+    {
+      "meet": "Blue vs. Gold (6/30)",
+      "time": "23.65"
+    },
+    {
+      "meet": "Sherborn (7/2)",
+      "time": "23.50"
+    },
+    {
+      "meet": "Dedham (7/9)",
+      "time": "25.25"
+    },
+    {
+      "meet": "Norwood (7/16)",
+      "time": "22.56"
+    }
+  ],
+  "breast25Times": [
+    {
+      "meet": "Blue vs. Gold (6/30)",
+      "time": "25.38"
+    },
+    {
+      "meet": "Sherborn (7/2)",
+      "time": "25.22"
+    },
+    {
+      "meet": "Dedham (7/9)",
+      "time": "25.00"
+    }
+  ],
+  "back25Times": [
+    {
+      "meet": "Blue vs. Gold (6/30)",
+      "time": "28.55"
+    }
+  ],
+  "seasonPrs": {
+    "25 Butterfly": "34.41",
+    "25 Freestyle": "22.56",
+    "25 Breaststroke": "25.00",
+    "25 Backstroke": "28.55"
+  }
 }

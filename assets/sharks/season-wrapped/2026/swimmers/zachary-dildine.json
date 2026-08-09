@@ -1,3 +1,111 @@
 {
-  "name": "Zachary Dildine"
+  "name": "Zachary Dildine",
+  "ageGroup": "8 & Under",
+  "swimmerOfTheWeek": true,
+  "fly50Times": [
+    {
+      "meet": "Blue vs. Gold (6/30)",
+      "time": "36.91"
+    },
+    {
+      "meet": "Sherborn (7/2)",
+      "time": "39.84"
+    },
+    {
+      "meet": "Medfield (7/14)",
+      "time": "42.15"
+    },
+    {
+      "meet": "Canton (7/29)",
+      "time": "32.69"
+    }
+  ],
+  "free50Times": [
+    {
+      "meet": "Blue vs. Gold (6/30)",
+      "time": "23.59"
+    },
+    {
+      "meet": "Sherborn (7/2)",
+      "time": "24.47"
+    },
+    {
+      "meet": "Dedham (7/9)",
+      "time": "24.00"
+    },
+    {
+      "meet": "Norwood (7/16)",
+      "time": "22.00"
+    },
+    {
+      "meet": "Newton (7/23)",
+      "time": "21.56"
+    },
+    {
+      "meet": "Natick (7/28)",
+      "time": "21.22"
+    },
+    {
+      "meet": "Westwood (8/3)",
+      "time": "22.75"
+    },
+    {
+      "meet": "Walpole (8/6)",
+      "time": "21.13"
+    },
+    {
+      "meet": "Championships (8/8)",
+      "time": "21.83"
+    }
+  ],
+  "breast50Times": [
+    {
+      "meet": "Blue vs. Gold (6/30)",
+      "time": "38.63"
+    },
+    {
+      "meet": "Dedham (7/9)",
+      "time": "33.40"
+    },
+    {
+      "meet": "Norwood (7/16)",
+      "time": "34.18"
+    },
+    {
+      "meet": "Canton (7/29)",
+      "time": "31.41"
+    }
+  ],
+  "back50Times": [
+    {
+      "meet": "Blue vs. Gold (6/30)",
+      "time": "32.02"
+    },
+    {
+      "meet": "Medfield (7/14)",
+      "time": "30.53"
+    },
+    {
+      "meet": "Newton (7/23)",
+      "time": "25.10"
+    },
+    {
+      "meet": "Natick (7/28)",
+      "time": "26.23"
+    },
+    {
+      "meet": "Westwood (8/3)",
+      "time": "30.47"
+    },
+    {
+      "meet": "Championships (8/8)",
+      "time": "24.99"
+    }
+  ],
+  "seasonPrs": {
+    "50 Butterfly": "32.69",
+    "50 Freestyle": "21.13",
+    "50 Breaststroke": "31.41",
+    "50 Backstroke": "24.99"
+  }
 }

@@ -1,3 +1,47 @@
 {
-  "name": "Reid Shavor"
+  "name": "Reid Shavor",
+  "ageGroup": "13 &ndash; 14",
+  "2025Wrapped": true,
+  "fly50Times": [
+    {
+      "meet": "Sherborn (7/2)",
+      "time": "32.67"
+    },
+    {
+      "meet": "Dedham (7/9)",
+      "time": "32.68"
+    }
+  ],
+  "free50Times": [
+    {
+      "meet": "Dedham (7/9)",
+      "time": "28.63"
+    },
+    {
+      "meet": "Natick (7/28)",
+      "time": "31.84"
+    }
+  ],
+  "breast50Times": [
+    {
+      "meet": "Sherborn (7/2)",
+      "time": "37.37"
+    }
+  ],
+  "back50Times": [
+    {
+      "meet": "Medfield (7/14)",
+      "time": "36.56"
+    },
+    {
+      "meet": "Natick (7/28)",
+      "time": "35.97"
+    }
+  ],
+  "seasonPrs": {
+    "50 Butterfly": "32.67",
+    "50 Freestyle": "28.63",
+    "50 Breaststroke": "37.37",
+    "50 Backstroke": "35.97"
+  }
 }

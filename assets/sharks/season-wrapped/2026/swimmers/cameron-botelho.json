@@ -1,3 +1,114 @@
 {
-  "name": "Cameron Botelho"
+  "name": "Cameron Botelho",
+  "ageGroup": "8 & Under",
+  "fly50Times": [
+    {
+      "meet": "Norwood (7/16)",
+      "time": "34.87"
+    },
+    {
+      "meet": "Newton (7/23)",
+      "time": "38.15"
+    },
+    {
+      "meet": "Natick (7/28)",
+      "time": "37.25"
+    },
+    {
+      "meet": "Walpole (8/6)",
+      "time": "41.87"
+    }
+  ],
+  "free50Times": [
+    {
+      "meet": "Blue vs. Gold (6/30)",
+      "time": "27.53"
+    },
+    {
+      "meet": "Sherborn (7/2)",
+      "time": "27.16"
+    },
+    {
+      "meet": "Dedham (7/9)",
+      "time": "29.69"
+    },
+    {
+      "meet": "Medfield (7/14)",
+      "time": "28.66"
+    }
+  ],
+  "breast50Times": [
+    {
+      "meet": "Blue vs. Gold (6/30)",
+      "time": "35.84"
+    },
+    {
+      "meet": "Sherborn (7/2)",
+      "time": "36.73"
+    },
+    {
+      "meet": "Norwood (7/16)",
+      "time": "36.68"
+    },
+    {
+      "meet": "Newton (7/23)",
+      "time": "32.19"
+    },
+    {
+      "meet": "Natick (7/28)",
+      "time": "32.84"
+    },
+    {
+      "meet": "Canton (7/29)",
+      "time": "31.89"
+    },
+    {
+      "meet": "Westwood (8/3)",
+      "time": "33.66"
+    },
+    {
+      "meet": "Walpole (8/6)",
+      "time": "34.75"
+    },
+    {
+      "meet": "Championships (8/8)",
+      "time": "29.29"
+    }
+  ],
+  "back50Times": [
+    {
+      "meet": "Blue vs. Gold (6/30)",
+      "time": "39.59"
+    },
+    {
+      "meet": "Dedham (7/9)",
+      "time": "38.37"
+    },
+    {
+      "meet": "Medfield (7/14)",
+      "time": "45.50"
+    },
+    {
+      "meet": "Canton (7/29)",
+      "time": "35.28"
+    },
+    {
+      "meet": "Westwood (8/3)",
+      "time": "33.68"
+    },
+    {
+      "meet": "Walpole (8/6)",
+      "time": "24.94"
+    },
+    {
+      "meet": "Championships (8/8)",
+      "time": "31.79"
+    }
+  ],
+  "seasonPrs": {
+    "50 Butterfly": "34.87",
+    "50 Freestyle": "27.16",
+    "50 Breaststroke": "29.29",
+    "50 Backstroke": "24.94"
+  }
 }

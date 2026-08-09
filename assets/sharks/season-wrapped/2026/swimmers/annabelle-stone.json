@@ -1,3 +1,99 @@
 {
-  "name": "Annabelle Stone"
+  "name": "Annabelle Stone",
+  "ageGroup": "8 & Under",
+  "2025Wrapped": true,
+  "fly50Times": [
+    {
+      "meet": "Blue vs. Gold (6/30)",
+      "time": "30.72"
+    },
+    {
+      "meet": "Sherborn (7/2)",
+      "time": "31.60"
+    },
+    {
+      "meet": "Dedham (7/9)",
+      "time": "30.03"
+    },
+    {
+      "meet": "Norwood (7/16)",
+      "time": "23.97"
+    },
+    {
+      "meet": "Natick (7/28)",
+      "time": "27.50"
+    },
+    {
+      "meet": "Canton (7/29)",
+      "time": "26.91"
+    },
+    {
+      "meet": "Westwood (8/3)",
+      "time": "28.15"
+    }
+  ],
+  "free50Times": [
+    {
+      "meet": "Blue vs. Gold (6/30)",
+      "time": "23.63"
+    },
+    {
+      "meet": "Medfield (7/14)",
+      "time": "25.37"
+    },
+    {
+      "meet": "Norwood (7/16)",
+      "time": "21.75"
+    },
+    {
+      "meet": "Walpole (8/6)",
+      "time": "20.90"
+    }
+  ],
+  "breast50Times": [
+    {
+      "meet": "Blue vs. Gold (6/30)",
+      "time": "41.40"
+    },
+    {
+      "meet": "Dedham (7/9)",
+      "time": "34.16"
+    },
+    {
+      "meet": "Medfield (7/14)",
+      "time": "37.81"
+    },
+    {
+      "meet": "Natick (7/28)",
+      "time": "36.53"
+    },
+    {
+      "meet": "Canton (7/29)",
+      "time": "32.72"
+    },
+    {
+      "meet": "Westwood (8/3)",
+      "time": "31.69"
+    },
+    {
+      "meet": "Walpole (8/6)",
+      "time": "29.93"
+    }
+  ],
+  "back50Times": [
+    {
+      "meet": "Blue vs. Gold (6/30)",
+      "time": "28.78"
+    },
+    {
+      "meet": "Sherborn (7/2)",
+      "time": "31.42"
+    }
+  ],
+  "seasonPrs": {
+    "50 Butterfly": "23.97",
+    "50 Freestyle": "20.90",
+    "50 Breaststroke": "29.93",
+    "50 Backstroke": "28.78"
+  }
 }

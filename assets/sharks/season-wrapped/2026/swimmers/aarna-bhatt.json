@@ -1,3 +1,38 @@
 {
-  "name": "Aarna Bhatt"
+  "name": "Aarna Bhatt",
+  "ageGroup": "15 & Over",
+  "fly50Times": [
+    {
+      "meet": "Canton (7/29)",
+      "time": "34.53"
+    },
+    {
+      "meet": "Westwood (8/3)",
+      "time": "35.09"
+    }
+  ],
+  "free50Times": [
+    {
+      "meet": "Newton (7/23)",
+      "time": "31.14"
+    }
+  ],
+  "breast50Times": [
+    {
+      "meet": "Newton (7/23)",
+      "time": "42.94"
+    }
+  ],
+  "back50Times": [
+    {
+      "meet": "Canton (7/29)",
+      "time": "35.38"
+    }
+  ],
+  "seasonPrs": {
+    "50 Butterfly": "34.53",
+    "50 Freestyle": "31.14",
+    "50 Breaststroke": "42.94",
+    "50 Backstroke": "35.38"
+  }
 }

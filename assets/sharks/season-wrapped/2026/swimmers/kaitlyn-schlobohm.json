@@ -1,3 +1,87 @@
 {
-  "name": "Kaitlyn Schlobohm"
+  "name": "Kaitlyn Schlobohm",
+  "ageGroup": "8 & Under",
+  "2025Wrapped": true,
+  "fly50Times": [
+    {
+      "meet": "Blue vs. Gold (6/30)",
+      "time": "29.22"
+    },
+    {
+      "meet": "Sherborn (7/2)",
+      "time": "32.03"
+    },
+    {
+      "meet": "Medfield (7/14)",
+      "time": "31.84"
+    },
+    {
+      "meet": "Norwood (7/16)",
+      "time": "29.00"
+    },
+    {
+      "meet": "Westwood (8/3)",
+      "time": "29.47"
+    },
+    {
+      "meet": "Walpole (8/6)",
+      "time": "29.34"
+    },
+    {
+      "meet": "Championships (8/8)",
+      "time": "26.10"
+    }
+  ],
+  "free50Times": [
+    {
+      "meet": "Blue vs. Gold (6/30)",
+      "time": "24.60"
+    },
+    {
+      "meet": "Westwood (8/3)",
+      "time": "24.15"
+    },
+    {
+      "meet": "Walpole (8/6)",
+      "time": "25.12"
+    },
+    {
+      "meet": "Championships (8/8)",
+      "time": "24.85"
+    }
+  ],
+  "breast50Times": [
+    {
+      "meet": "Blue vs. Gold (6/30)",
+      "time": "34.97"
+    },
+    {
+      "meet": "Sherborn (7/2)",
+      "time": "32.09"
+    },
+    {
+      "meet": "Dedham (7/9)",
+      "time": "34.97"
+    },
+    {
+      "meet": "Medfield (7/14)",
+      "time": "34.09"
+    }
+  ],
+  "back50Times": [
+    {
+      "meet": "Blue vs. Gold (6/30)",
+      "time": "30.00"
+    },
+    {
+      "meet": "Dedham (7/9)",
+      "time": "31.22"
+    }
+  ],
+  "seasonPrs": {
+    "50 Butterfly": "26.10",
+    "50 Freestyle": "24.15",
+    "50 Breaststroke": "32.09",
+    "50 Backstroke": "30.00"
+  }
 }

@@ -1,3 +1,111 @@
 {
-  "name": "Hayley Forman"
+  "name": "Hayley Forman",
+  "ageGroup": "8 & Under",
+  "2025Wrapped": true,
+  "fly50Times": [
+    {
+      "meet": "Blue vs. Gold (6/30)",
+      "time": "37.19"
+    },
+    {
+      "meet": "Dedham (7/9)",
+      "time": "41.72"
+    },
+    {
+      "meet": "Medfield (7/14)",
+      "time": "45.00"
+    },
+    {
+      "meet": "Natick (7/28)",
+      "time": "37.00"
+    }
+  ],
+  "free50Times": [
+    {
+      "meet": "Blue vs. Gold (6/30)",
+      "time": "27.89"
+    },
+    {
+      "meet": "Sherborn (7/2)",
+      "time": "28.90"
+    },
+    {
+      "meet": "Canton (7/29)",
+      "time": "24.03"
+    }
+  ],
+  "breast50Times": [
+    {
+      "meet": "Blue vs. Gold (6/30)",
+      "time": "33.14"
+    },
+    {
+      "meet": "Sherborn (7/2)",
+      "time": "32.13"
+    },
+    {
+      "meet": "Medfield (7/14)",
+      "time": "33.59"
+    },
+    {
+      "meet": "Norwood (7/16)",
+      "time": "33.25"
+    },
+    {
+      "meet": "Canton (7/29)",
+      "time": "34.16"
+    },
+    {
+      "meet": "Westwood (8/3)",
+      "time": "31.60"
+    },
+    {
+      "meet": "Walpole (8/6)",
+      "time": "33.22"
+    },
+    {
+      "meet": "Championships (8/8)",
+      "time": "34.08"
+    }
+  ],
+  "back50Times": [
+    {
+      "meet": "Blue vs. Gold (6/30)",
+      "time": "44.89"
+    },
+    {
+      "meet": "Dedham (7/9)",
+      "time": "28.15"
+    },
+    {
+      "meet": "Norwood (7/16)",
+      "time": "27.71"
+    },
+    {
+      "meet": "Newton (7/23)",
+      "time": "26.53"
+    },
+    {
+      "meet": "Natick (7/28)",
+      "time": "29.15"
+    },
+    {
+      "meet": "Westwood (8/3)",
+      "time": "27.66"
+    },
+    {
+      "meet": "Walpole (8/6)",
+      "time": "28.69"
+    },
+    {
+      "meet": "Championships (8/8)",
+      "time": "28.66"
+    }
+  ],
+  "seasonPrs": {
+    "50 Butterfly": "37.00",
+    "50 Freestyle": "24.03",
+    "50 Breaststroke": "31.60",
+    "50 Backstroke": "26.53"
+  }
 }
