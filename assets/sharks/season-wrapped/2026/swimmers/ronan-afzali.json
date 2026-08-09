@@ -110,7 +110,11 @@
     }
   ],
   "championEvents": [
-    "8 & Under Butterfly",
-    "8 & Under Backstroke"
+    {
+      "event": "8 & Under Butterfly"
+    },
+    {
+      "event": "8 & Under Backstroke"
+    }
   ]
 }

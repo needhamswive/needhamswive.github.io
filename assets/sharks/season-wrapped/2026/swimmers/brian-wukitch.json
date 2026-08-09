@@ -57,6 +57,8 @@
     }
   ],
   "championEvents": [
-    "15 & Over Backstroke"
+    {
+      "event": "15 & Over Backstroke"
+    }
   ]
 }

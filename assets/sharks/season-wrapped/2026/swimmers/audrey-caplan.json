@@ -110,7 +110,11 @@
     }
   ],
   "championEvents": [
-    "9 &ndash; 10 Breaststroke",
-    "9 &ndash; 10 Freestyle Relay"
+    {
+      "event": "9 &ndash; 10 Breaststroke"
+    },
+    {
+      "event": "9 &ndash; 10 Freestyle Relay"
+    }
   ]
 }

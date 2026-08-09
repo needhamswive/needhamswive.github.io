@@ -110,7 +110,11 @@
     }
   ],
   "championEvents": [
-    "9 &ndash; 10 Freestyle",
-    "9 &ndash; 10 Freestyle Relay"
+    {
+      "event": "9 &ndash; 10 Freestyle"
+    },
+    {
+      "event": "9 &ndash; 10 Freestyle Relay"
+    }
   ]
 }
