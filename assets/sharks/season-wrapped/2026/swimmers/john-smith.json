@@ -1,0 +1,99 @@
+{
+  "name": "John Smith",
+  "ageGroup": "15 & Over",
+  "paperPlate": "The Anonymous Award",
+  "fly50Times": [
+    {
+      "meet": "Sherborn (7/2)",
+      "time": "31.41"
+    },
+    {
+      "meet": "Dedham (7/9)",
+      "time": "31.72"
+    },
+    {
+      "meet": "Norwood (7/16)",
+      "time": "32.13"
+    },
+    {
+      "meet": "Newton (7/23)",
+      "time": "31.10"
+    },
+    {
+      "meet": "Canton (7/29)",
+      "time": "32.62"
+    },
+    {
+      "meet": "Westwood (8/3)",
+      "time": "32.28"
+    },
+    {
+      "meet": "Walpole (8/6)",
+      "time": "31.78"
+    }
+  ],
+  "free50Times": [
+    {
+      "meet": "Blue vs. Gold (6/30)",
+      "time": "29.47"
+    },
+    {
+      "meet": "Dedham (7/9)",
+      "time": "29.15"
+    }
+  ],
+  "breast50Times": [
+    {
+      "meet": "Blue vs. Gold (6/30)",
+      "time": "37.97"
+    },
+    {
+      "meet": "Sherborn (7/2)",
+      "time": "36.09"
+    },
+    {
+      "meet": "Newton (7/23)",
+      "time": "35.75"
+    },
+    {
+      "meet": "Natick (7/28)",
+      "time": "35.50"
+    },
+    {
+      "meet": "Westwood (8/3)",
+      "time": "36.38"
+    },
+    {
+      "meet": "Walpole (8/6)",
+      "time": "36.25"
+    }
+  ],
+  "back50Times": [
+    {
+      "meet": "Blue vs. Gold (6/30)",
+      "time": "36.06"
+    },
+    {
+      "meet": "Canton (7/29)",
+      "time": "35.07"
+    }
+  ],
+  "seasonPrs": [
+    {
+      "event": "50 Butterfly",
+      "time": "31.10"
+    },
+    {
+      "event": "50 Freestyle",
+      "time": "29.15"
+    },
+    {
+      "event": "50 Breaststroke",
+      "time": "35.50"
+    },
+    {
+      "event": "50 Backstroke",
+      "time": "35.07"
+    }
+  ]
+}
