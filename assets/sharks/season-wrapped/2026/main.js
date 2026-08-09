@@ -17,10 +17,10 @@ let activeSlide;
 let activeSlideIndex;
 let forwardElement;
 
-const ATHLETE_NAME = new URLSearchParams(window.location.search).get("athlete");
+const ATHLETE_NAME = new URLSearchParams(window.location.search).get("swimmer");
 const ATHLETE_PATH =
   window.location.origin +
-  `/assets/high-school/girls/season-wrapped/2025/athletes/${ATHLETE_NAME}.json`;
+  `/assets/sharks/season-wrapped/2026/swimmers/${ATHLETE_NAME}.json`;
 const ATHLETE_REQUEST = fetch(ATHLETE_PATH);
 
 const random = mulberry32(cyrb128(ATHLETE_NAME)[0]);
@@ -46,9 +46,10 @@ window.addEventListener(
 
     const athlete = await athleteResponse.json();
 
+    processAthlete(athlete);
+
     activeSlideIndex = slides.indexOf(activeSlide);
 
-    processAthlete(athlete);
     setupProgressBar();
     setupNavigation();
     setupBackground();
@@ -56,7 +57,6 @@ window.addEventListener(
   false
 );
 
-const BEAD_COLORS = ["blue", "gold", "white"];
 const CHART_OPTIONS = {
   color: "rgb(232, 248, 255)",
   backgroundColor: "rgb(232, 248, 255, 0.5)",
@@ -87,162 +87,137 @@ const CHART_OPTIONS = {
   },
 };
 
+const YOUNGER_AGE_GROUPS = ["8 & Under", "9 &ndash; 10"];
+
 function processAthlete(athlete) {
-  document.getElementById("name").innerHTML = athlete.name;
-  document.getElementById("class").innerHTML = 2038 - athlete.grade;
-  document.getElementById("practices-attended").innerHTML = athlete.practices_attended;
-  document.getElementById("practice-percentage").innerHTML = athlete.practice_percentage;
+  updateInnerHTML("name", athlete.name);
+  updateInnerHTML("age-group", athlete.ageGroup);
 
-  for (const color of BEAD_COLORS) {
-    const beadCount = athlete[`${color}_beads`];
-    if (beadCount > 0) {
-      document.getElementById(`${color}-beads`).innerHTML = beadCount;
-    } else {
-      removeElement(`${color}-beads-row`);
-    }
-  }
+  if (athlete.seasonPrs) {
+    processTemplateReplacements("season-best", athlete.seasonPrs);
 
-  if (athlete.swimmer) {
-    document.getElementById("individual-swims").innerHTML = athlete.individual_swims;
-    document.getElementById("relay-swims").innerHTML = athlete.relay_swims;
-    document.getElementById("meets-swimmer").innerHTML = athlete.swim_meets;
-
-    if (athlete.swim_points) {
-      document.getElementById("points-swimmer-number").innerHTML = athlete.swim_points + (athlete.swim_points === 1 ? " points" : " points");
-    } else {
-      removeElement("points-swimmer");
-    }
-  } else {
-    removeSlide("swims-summary");
-  }
-
-  if (athlete.diver) {
-    document.getElementById("individual-dives").innerHTML = athlete.individual_dives;
-    document.getElementById("meets-diver").innerHTML = athlete.dive_meets;
-
-    if (athlete.dive_points) {
-      document.getElementById("points-diver-number").innerHTML = athlete.dive_points + (athlete.dive_points === 1 ? " points" : " points");
-    } else {
-      removeElement("points-diver");
-    }
-  } else {
-    removeSlide("dives-summary");
-  }
-
-  if (athlete.sectionals_qualified) {
-    const element = document.getElementById("sectionals-qualified-events");
-    for (const event of athlete.sectionals_qualified) {
-      const eventElement = document.createElement("div");
-      eventElement.classList.add("color");
-      eventElement.innerHTML = event;
-      element.appendChild(eventElement);
-    }
-  } else {
-    removeSlide("sectionals-qualified");
-  }
-
-  if (athlete.states_qualified) {
-    const element = document.getElementById("states-qualified-events");
-    for (const event of athlete.states_qualified) {
-      const eventElement = document.createElement("div");
-      eventElement.classList.add("color");
-      eventElement.innerHTML = event;
-      element.appendChild(eventElement);
-    }
-  } else {
-    removeSlide("states-qualified");
-  }
-
-  if (athlete.swimmer) {
-    for (const i in athlete.swim_categories) {
-      if (athlete.swim_categories[i] == "0.00") {
-        athlete.swim_categories[i] = 1;
+    const flyCount = athlete.fly25Times?.length || 0 + athlete.fly50Times?.length || 0;
+    const freeCount = athlete.free25Times?.length || 0 + athlete.free50Times?.length || 0;
+    const breastCount = athlete.breast25Times?.length || 0 + athlete.breast50Times?.length || 0;
+    const backCount = athlete.back25Times?.length || 0 + athlete.back50Times?.length || 0;
+    const maxCount = Math.max(flyCount, freeCount, breastCount, backCount);
+    const data = [flyCount / maxCount, freeCount / maxCount, breastCount / maxCount, backCount / maxCount];
+    for (const i in data) {
+      if (data[i] === 0) {
+        data[i] = 1;
       } else {
-        athlete.swim_categories[i] = 0.9 * athlete.swim_categories[i] + 1;
+        data[i] = 9 * data[i] + 1;
       }
     }
-
     new Chart(document.getElementById("swim-radar-chart"), {
       type: "radar",
       data: {
-        labels: ["Fly", "Back", "Breast", "Free", "IM"],
+        labels: ["Fly", "Free", "Breast", "Back"],
         datasets: [{
-          data: athlete.swim_categories,
+          data: data,
           borderWidth: 1
         }],
       },
       options: CHART_OPTIONS,
     });
   } else {
+    removeSlide("stats-transition");
+    removeSlide("season-best");
     removeSlide("swim-radar-chart");
   }
 
-  if (athlete.diver) {
-    for (const i in athlete.dive_categories) {
-      if (athlete.dive_categories[i] == "0.00") {
-        athlete.dive_categories[i] = 1;
-      } else {
-        athlete.dive_categories[i] = 0.9 * athlete.dive_categories[i] + 1;
-      }
+  if (YOUNGER_AGE_GROUPS.includes(athlete.ageGroup)) {
+    removeSlide("50-butterfly-times");
+    removeSlide("50-freestyle-times");
+    removeSlide("50-breaststroke-times");
+    removeSlide("50-backstroke-times");
+
+    if (athlete.fly25Times) {
+      processTemplateReplacements("25-butterfly-times", athlete.fly25Times);
+    } else {
+      removeSlide("25-butterfly-times");
     }
-
-    new Chart(document.getElementById("dive-radar-chart"), {
-      type: "radar",
-      data: {
-        labels: ["Forward", "Backward", "Reverse", "Inward", "Twisting"],
-        datasets: [{
-          data: athlete.dive_categories,
-          borderWidth: 1
-        }],
-      },
-      options: CHART_OPTIONS,
-    });
+    if (athlete.free25Times) {
+      processTemplateReplacements("25-freestyle-times", athlete.free25Times);
+    } else {
+      removeSlide("25-freestyle-times");
+    }
+    if (athlete.breast25Times) {
+      processTemplateReplacements("25-breaststroke-times", athlete.breast25Times);
+    } else {
+      removeSlide("25-breaststroke-times");
+    }
+    if (athlete.back25Times) {
+      processTemplateReplacements("25-backstroke-times", athlete.back25Times);
+    } else {
+      removeSlide("25-backstroke-times");
+    }
   } else {
-    removeSlide("dive-radar-chart");
+    removeSlide("25-butterfly-times");
+    removeSlide("25-freestyle-times");
+    removeSlide("25-breaststroke-times");
+    removeSlide("25-backstroke-times");
+
+    if (athlete.fly50Times) {
+      processTemplateReplacements("50-butterfly-times", athlete.fly50Times);
+    } else {
+      removeSlide("50-butterfly-times");
+    }
+    if (athlete.free50Times) {
+      processTemplateReplacements("50-freestyle-times", athlete.free50Times);
+    } else {
+      removeSlide("50-freestyle-times");
+    }
+    if (athlete.breast50Times) {
+      processTemplateReplacements("50-breaststroke-times", athlete.breast50Times);
+    } else {
+      removeSlide("50-breaststroke-times");
+    }
+    if (athlete.back50Times) {
+      processTemplateReplacements("50-backstroke-times", athlete.back50Times);
+    } else {
+      removeSlide("50-backstroke-times");
+    }
   }
 
-  if (athlete.superlative) {
-    document.getElementById("superlative").innerHTML = athlete.superlative;
+  if (athlete.paperPlate) {
+    updateInnerHTML("paper-plate-award", athlete.paperPlate);
   } else {
-    removeSlide("superlative");
+    removeSlide("paper-plate");
   }
 
-  if (!athlete.swimmer_of_the_week) {
+  if (!athlete.swimmerOfTheWeek) {
     removeSlide("swimmer-of-the-week");
   }
 
-  if (!athlete.bsc_honorable_mention) {
-    removeSlide("bsc-honorable-mention");
-  }
-
-  if (!athlete.bsc_all_star) {
-    removeSlide("bsc-all-star");
-  }
-
-  if (athlete.award) {
-    document.getElementById("award").innerHTML = athlete.award;
+  if (athlete.goldenGoggle) {
+    updateInnerHTML("golden-goggle-award", athlete.goldenGoggle);
   } else {
-    removeSlide("award");
+    removeSlide("golden-goggle");
   }
 
-  if (athlete.grade === 12) {
+  if (athlete.championEvents) {
+    processTemplateReplacements("champion-events", athlete.championEvents);
+  } else {
+    removeSlide("championEvents");
+  }
+
+  if (athlete.university) {
+    updateInnerHTML("university", athlete.university);
     removeSlide("goodbye");
   } else {
     removeSlide("goodbye-senior");
   }
 
-  if (athlete.has_2024_wrapped) {
-    document.getElementById("previous-season-wrapped-link").href += `?athlete=${athlete.name.toLowerCase().replace(" ", "-")}`;
-
-    // All seniors have a previous season wrapped link
-    if (athlete.grade === 12) {
-      document.getElementById("senior-summary-link").href += `${athlete.name.toLowerCase().replace(" ", "-")}/`;
-    } else {
-      removeElement("senior-summary");
-    }
-  } else {
+  if (!athlete["2025Wrapped"]) {
     removeSlide("previous-wrapped");
+  } else {
+    document.getElementById("previous-season-wrapped-link").href += `?swimmer=${athlete.name.toLowerCase().replace(" ", "-")}`;
   }
+}
+
+function updateInnerHTML(id, string) {
+  document.getElementById(id).innerHTML = string;
 }
 
 function removeSlide(slideName) {
@@ -252,6 +227,30 @@ function removeSlide(slideName) {
 function removeElement(id) {
   const element = document.getElementById(id);
   element.parentElement.removeChild(element);
+}
+
+function processTemplateReplacements(slideName, replacements) {
+  const template = slides.filter(slide => slide.name === slideName)[0].element.querySelector(".template");
+  for (const replacement of replacements) {
+    const copy = template.content.cloneNode(true);
+    for (const [replacementKey, replacementValue] of Object.entries(replacement)) {
+      updatePlaceholders(copy, replacementKey, replacementValue);
+    }
+    template.parentElement.appendChild(copy);
+  }
+}
+
+function updatePlaceholders(element, replacementKey, replacementValue) {
+  const placeholderElements = element.querySelectorAll(
+    ".replacement-" + replacementKey
+  );
+  if (placeholderElements.length === 0) {
+    console.error("Unable to find placeholder with key " + replacementKey);
+    return;
+  }
+  placeholderElements.forEach((placeholderElement) => {
+    placeholderElement.innerHTML = replacementValue;
+  });
 }
 
 function setupProgressBar() {
@@ -266,7 +265,7 @@ function setupProgressBar() {
     meter.appendChild(progressBar);
     if (i < activeSlideIndex) {
       progressBar.classList.add("progress-done");
-    } else if (i == activeSlideIndex) {
+    } else if (i === activeSlideIndex) {
       progressBar.classList.add("progress-active");
     }
 
