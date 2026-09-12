@@ -11,7 +11,7 @@ home:
       - title: High School Boys
         url: high-school/boys?nav=boys
       - title: Needham Sharks
-        url: needham-sharks
+        url: sharks
   - title: Archives
     children:
       - title: High School Archives
@@ -50,7 +50,7 @@ high-school:
         url: high-school/boys/general-information/student-handbook
         tags: boys
       - title: Rule Changes
-        url: high-school/general-information/rule-changes
+        url: https://baystateconference.com/sports/swimming-diving/resources/nfhs-rule-changes/
   - title: Current Season
     tags: girls,boys
     children:
@@ -94,7 +94,7 @@ high-school:
         url: high-school/boys/current-season/meet-scores-and-rankings
         tags: boys
       - title: Conference All-Stars
-        url: high-school/girls/past-seasons/conference-all-stars
+        url: https://baystateconference.com/sports/swimming-diving/awards/bsc/all-stars/
         tags: girls
       - title: Conference All-Stars
         url: high-school/boys/past-seasons/conference-all-stars
@@ -132,7 +132,7 @@ high-school-girls:
       - title: Student Handbook
         url: high-school/general-information/student-handbook?nav=girls
       - title: Rule Changes
-        url: high-school/general-information/rule-changes?nav=girls
+        url: https://baystateconference.com/sports/swimming-diving/resources/nfhs-rule-changes/
   - title: Current Season
     children:
       # - title: Schedule
@@ -150,7 +150,7 @@ high-school-girls:
       - title: Meet Scores & Rankings
         url: high-school/girls/past-seasons/meet-scores-and-rankings
       - title: Conference All-Stars
-        url: high-school/girls/past-seasons/conference-all-stars
+        url: https://baystateconference.com/sports/swimming-diving/awards/bsc/all-stars/
       - title: Boston Globe Honorees
         url: high-school/girls/past-seasons/boston-globe-honorees
   - title: Archives
@@ -173,7 +173,7 @@ high-school-boys:
       - title: Student Handbook
         url: high-school/boys/general-information/student-handbook?nav=boys
       - title: Rule Changes
-        url: high-school/general-information/rule-changes?nav=boys
+        url: https://baystateconference.com/sports/swimming-diving/resources/nfhs-rule-changes/
   - title: Current Season
     children:
       # - title: Schedule

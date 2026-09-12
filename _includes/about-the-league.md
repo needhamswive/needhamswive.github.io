@@ -93,7 +93,7 @@ In 2018, Carey division member Norwood High School left the Bay State Conference
 
 In 2019, after the departure of Dedham and Norwood, the divisions were realigned with Newton North High School moving from the Herget division to the Carey division.[^1]
 
-[^1]: <https://en.wikipedia.org/wiki/Bay_State_Conference>
+[^1]: <https://baystateconference.com/about/history/>
 [^2]: [Formerly the Rebels](https://en.wikipedia.org/wiki/Walpole_High_School)
 [^3]: [Bay State Conference By-Laws](https://cdnsm5-ss11.sharpschool.com/UserFiles/Servers/Server_119386/File/Departments/Athletics/General%20Information/BSC/BSC%20Bylaws%20and%20Con%2011_10_11%20final-1.pdf)
 [^4]: <https://en.wikipedia.org/wiki/Framingham_High_School>

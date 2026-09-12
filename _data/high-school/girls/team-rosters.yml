@@ -1,3 +1,101 @@
+- school-year: 2026-2027
+  coaches:
+    - title: Head Coach
+      name: Kate Curtin
+    - title: Assistant Swim Coach
+      name: Zibing Zhang
+    - title: Assistant Dive Coach
+      name: Tim Walsh
+  students:
+    - name: Tessa Jones
+      grade: 12
+      captain: true
+      swimmer: true
+    - name: Sophia Belenkiy
+      grade: 12
+      captain: true
+      diver: true
+      swimmer: true
+    - name: Emmeline Fritz
+      grade: 12
+      captain: true
+      swimmer: true
+    - name: Madeline Weirup
+      grade: 12
+      captain: true
+      swimmer: true
+    - name: Lara Bobocea
+      grade: 12
+      swimmer: true
+    - name: Eliana Skolnick
+      grade: 12
+      swimmer: true
+    - name: Chloe Afzali
+      grade: 11
+      swimmer: true
+    - name: Grace Flanagan
+      grade: 11
+      diver: true
+      swimmer: true
+    - name: Madeleine Rowe
+      grade: 11
+      swimmer: true
+    - name: Bryden Tobin
+      grade: 11
+      diver: true
+      swimmer: true
+    - name: Madeline Vacanti
+      grade: 11
+      swimmer: true
+    - name: Carrie Zhang
+      grade: 11
+      swimmer: true
+    - name: Aarna Bhatt
+      grade: 10
+      swimmer: true
+    - name: Emma Cheung
+      grade: 10
+      swimmer: true
+    - name: Aida Huffenus
+      grade: 10
+      diver: true
+      swimmer: true
+    - name: Elizabeth Ivanova
+      grade: 10
+      swimmer: true
+    - name: Esther Kraft
+      grade: 10
+      swimmer: true
+    - name: Audrey O'Brien
+      grade: 10
+      swimmer: true
+    - name: Maya Porter
+      grade: 10
+      swimmer: true
+    - name: Sabine Richmond
+      grade: 10
+      swimmer: true
+    - name: MadhuSri Saranathan
+      grade: 10
+      swimmer: true
+    - name: Audrey Shi
+      grade: 10
+      swimmer: true
+    - name: Samantha Zeylikman
+      grade: 10
+      swimmer: true
+    - name: Meryam Alrehawi
+      grade: 9
+      swimmer: true
+    - name: Soha Romano
+      grade: 9
+      swimmer: true
+    - name: Phoebe Seidel
+      grade: 9
+      swimmer: true
+    - name: Ginny Zhang
+      grade: 9
+      swimmer: true
 - school-year: 2025-2026
   coaches:
     - title: Head Coach
